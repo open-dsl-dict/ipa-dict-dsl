@@ -12,6 +12,10 @@ DSL files *must* be saved as UTF-16 to be usable by dictionary programs. The raw
 
 You can also use the `rezip_dsl.rb` and `unzip_dsl.rb` [scripts](https://github.com/dohliam/dsl-tools/tree/master/zip_unzip) provided by the [dsl-tools](https://github.com/dohliam/dsl-tools) repo to encode/compress and decode/uncompress the dictionaries yourself either individually or as a group.
 
+## Download
+
+You can download pre-compiled dictionary files [**here**](https://github.com/open-dsl-dict/ipa-dict-dsl/releases) for immediate use. These can be added directly to any dictionary program that supports DSL files.
+
 ## Data
 
 The data directory contains the dictionaries listed according to [ISO language code](http://en.wikipedia.org/wiki/ISO_639-1).
