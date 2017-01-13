@@ -26,11 +26,13 @@ The basic filename pattern is `[ISO]_ipa.dsl`, with `[ISO]` being the source lan
 
 Filename | Language
 -------- | --------
+`ar_ipa.dsl` | Arabic (Modern Standard)
 `de_ipa.dsl` | German
 `en_US_ipa.dsl` | English (General American)
 `eo_ipa.dsl` | Esperanto
 `es_ES_ipa.dsl` | Spanish (Spain)
 `es_MX_ipa.dsl` | Spanish (Mexico)
+`fa_ipa.dsl` | Persian
 `fi_ipa.dsl` | Finnish
 `fr_ipa.dsl` | French
 `ja_ipa.dsl` | Japanese
@@ -49,13 +51,14 @@ Filename | Language
 
 Language | # of entries
 -------- | ------------
+`ar` | 857161
 `es_ES` | 595899
 `es_MX` | 595888
 `de` | 278915
 `fr` | 245150
 `ja` | 221421
 `en_US` | 125927
-`fi` | 94385
+`fi` | 92837
 `yue` | 57149
 `sw` | 48308
 `zh_hant` | 48241
@@ -64,6 +67,7 @@ Language | # of entries
 `eo` | 23517
 `sv` | 21106
 `nb` | 10139
+`fa` | 8090
 `jam` | 1701
 
 ## License
