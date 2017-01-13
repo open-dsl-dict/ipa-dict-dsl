@@ -2,6 +2,15 @@
 #INDEX_LANGUAGE "Finnish"
 #CONTENTS_LANGUAGE "Finnish"
 
+a priori
+	[m1]/ɑ ˈpriori/[/m]
+
+A-oikeudet
+	[m1]/ˈɑoiˌkeudet/[/m]
+
+A-pylväs
+	[m1]/ˈɑpylvæs/[/m]
+
 aakkonen
 	[m1]/ˈɑɑkkonen/[/m]
 
@@ -92,9 +101,6 @@ aaltoilla
 aaltoilu
 	[m1]/ˈɑɑltoilu/[/m]
 
--aaltoinen
-	[m1]/ˈɑɑltoinen/[/m]
-
 aaltolevy
 	[m1]/ˈɑɑltoˌlevy/[/m]
 
@@ -142,6 +148,15 @@ aamiaistunti
 
 aamu
 	[m1]/ˈɑɑmu/[/m]
+
+aamu-uninen
+	[m1]/ˈɑɑmuuˌninen/[/m]
+
+aamu-unisuus
+	[m1]/ˈɑɑmuuˌnisuus/[/m]
+
+aamu-uutiset
+	[m1]/ˈɑɑmuuˌutiset/[/m]
 
 aamuaskare
 	[m1]/ˈɑɑmuˌɑskɑre/[/m]
@@ -266,15 +281,6 @@ aamutuimaan
 aamutähti
 	[m1]/ˈɑɑmuˌtæhti/[/m]
 
-aamu-uninen
-	[m1]/ˈɑɑmuuˌninen/[/m]
-
-aamu-unisuus
-	[m1]/ˈɑɑmuuˌnisuus/[/m]
-
-aamu-uutiset
-	[m1]/ˈɑɑmuuˌutiset/[/m]
-
 aamuvarhain
 	[m1]/ˈɑɑmuˌvɑrhɑin/[/m]
 
@@ -331,9 +337,6 @@ aarnihonka
 
 aarnikotka
 	[m1]/ˈɑɑrniˌkotkɑ/[/m]
-
-aarnio
-	[m1]/ˈɑɑrnio/[/m]
 
 aarnio
 	[m1]/ˈɑɑrnio/[/m]
@@ -517,9 +520,6 @@ aatteellisesti
 
 aatteellisuus
 	[m1]/ˈɑɑtteelˌlisuus/[/m]
-
--aatteinen
-	[m1]/ˈɑɑtteinen/[/m]
 
 aatto
 	[m1]/ˈɑɑtto/[/m]
@@ -716,9 +716,6 @@ absurdisti
 absurdius
 	[m1]/ˈɑbsurˌdius/[/m]
 
-acajoupähkinä
-	[m1]/ˈɑcɑˌjoupæhˌkinæ/[/m]
-
 adagio
 	[m1]/ˈɑdɑˌgio/[/m]
 
@@ -877,9 +874,6 @@ adversatiivisesti
 
 adversatiivisuus
 	[m1]/ˈɑdversɑˌtiivisuus/[/m]
-
-aerobic
-	[m1]/ˈɑeˌrobic/[/m]
 
 aerobikata
 	[m1]/ˈɑeˌrobiˌkɑtɑ/[/m]
@@ -1340,17 +1334,11 @@ ahtauma
 ahtaus
 	[m1]/ˈɑhtɑus/[/m]
 
-ahtaus
-	[m1]/ˈɑhtɑus/[/m]
-
 ahtausliike
 	[m1]/ˈɑhtɑusˌliike/[/m]
 
 ahtaustyö
 	[m1]/ˈɑhtɑˌustyø/[/m]
-
-ahtauttaa
-	[m1]/ˈɑhtɑˌuttɑɑ/[/m]
 
 ahtauttaa
 	[m1]/ˈɑhtɑˌuttɑɑ/[/m]
@@ -1364,10 +1352,10 @@ ahtautuma
 ahteri
 	[m1]/ˈɑhteri/[/m]
 
-Ahti
+ahti
 	[m1]/ˈɑhti/[/m]
 
-ahti
+Ahti
 	[m1]/ˈɑhti/[/m]
 
 ahtisaarna
@@ -1487,9 +1475,6 @@ aiheettomasti
 aiheettomuus
 	[m1]/ˈɑiheetˌtomuus/[/m]
 
--aiheinen
-	[m1]/ˈɑiheinen/[/m]
-
 aihelma
 	[m1]/ˈɑihelmɑ/[/m]
 
@@ -1520,11 +1505,11 @@ aijai
 aika
 	[m1]/ˈɑikɑ/[/m]
 
-aika
-	[m1]/ˈɑikɑ/[/m]
-
 aika-ajo
 	[m1]/ˈɑikɑɑjo/[/m]
+
+aika-arvo
+	[m1]/ˈɑikɑɑrvo/[/m]
 
 aikaansaada
 	[m1]/ˈɑikɑɑnˌsɑɑdɑ/[/m]
@@ -1546,9 +1531,6 @@ aikaansaapa
 
 aikaansaava
 	[m1]/ˈɑikɑɑnˌsɑɑvɑ/[/m]
-
-aika-arvo
-	[m1]/ˈɑikɑɑrvo/[/m]
 
 aikaero
 	[m1]/ˈɑikɑˌero/[/m]
@@ -1814,9 +1796,6 @@ aimo
 aina
 	[m1]/ˈɑinɑ/[/m]
 
-aina
-	[m1]/ˈɑinɑ/[/m]
-
 ainainen
 	[m1]/ˈɑinɑinen/[/m]
 
@@ -1880,9 +1859,6 @@ aineettomuus
 ainehiukkanen
 	[m1]/ˈɑinehiˌukkɑnen/[/m]
 
--aineinen
-	[m1]/ˈɑineinen/[/m]
-
 aineistaa
 	[m1]/ˈɑineistɑɑ/[/m]
 
@@ -1912,9 +1888,6 @@ ainekoostumus
 
 aineksenkeruu
 	[m1]/ˈɑinekˌsenkeruu/[/m]
-
--aineksinen
-	[m1]/ˈɑinekˌsinen/[/m]
 
 aineluokka
 	[m1]/ˈɑineˌluokkɑ/[/m]
@@ -2087,9 +2060,6 @@ aistin
 aistinelin
 	[m1]/ˈɑistiˌnelin/[/m]
 
--aistinen
-	[m1]/ˈɑistinen/[/m]
-
 aistinsolu
 	[m1]/ˈɑistinˌsolu/[/m]
 
@@ -2179,6 +2149,9 @@ aivipisto
 
 aivo
 	[m1]/ˈɑivo/[/m]
+
+aivo-selkäydinneste
+	[m1]/ˈɑivoselˌkæydinˌneste/[/m]
 
 aivoaine
 	[m1]/ˈɑivoˌɑine/[/m]
@@ -2270,9 +2243,6 @@ aivorunko
 aivosairaus
 	[m1]/ˈɑivoˌsɑirɑus/[/m]
 
-aivo-selkäydinneste
-	[m1]/ˈɑivoselˌkæydinˌneste/[/m]
-
 aivosolu
 	[m1]/ˈɑivoˌsolu/[/m]
 
@@ -2354,6 +2324,9 @@ ajallisesti
 ajallisuus
 	[m1]/ˈɑjɑlˌlisuus/[/m]
 
+ajan mittaan
+	[m1]/ˈɑjɑnˈmittɑɑn/[/m]
+
 ajanhaaskaus
 	[m1]/ˈɑjɑnˌhɑɑskɑus/[/m]
 
@@ -2398,9 +2371,6 @@ ajankuvaus
 
 ajanlasku
 	[m1]/ˈɑjɑnˌlɑsku/[/m]
-
-ajan mittaan
-	[m1]/ˈɑjɑn[/m]
 
 ajanmittaus
 	[m1]/ˈɑjɑnˌmittɑus/[/m]
@@ -2588,9 +2558,6 @@ ajatuksettomasti
 ajatuksettomuus
 	[m1]/ˈɑjɑˌtuksetˌtomuus/[/m]
 
--ajatuksinen
-	[m1]/ˈɑjɑˌtuksinen/[/m]
-
 ajatus
 	[m1]/ˈɑjɑtus/[/m]
 
@@ -2686,6 +2653,15 @@ ajetuksissa
 
 ajo
 	[m1]/ˈɑjo/[/m]
+
+ajo-ohje
+	[m1]/ˈɑjoohje/[/m]
+
+ajo-ominaisuus
+	[m1]/ˈɑjoomiˌnɑisuus/[/m]
+
+ajo-opetus
+	[m1]/ˈɑjooˌpetus/[/m]
 
 ajoaika
 	[m1]/ˈɑjoˌɑikɑ/[/m]
@@ -2800,15 +2776,6 @@ ajoneuvoyhdistelmä
 
 ajonopeus
 	[m1]/ˈɑjoˌnopeus/[/m]
-
-ajo-ohje
-	[m1]/ˈɑjoohje/[/m]
-
-ajo-ominaisuus
-	[m1]/ˈɑjoomiˌnɑisuus/[/m]
-
-ajo-opetus
-	[m1]/ˈɑjooˌpetus/[/m]
 
 ajopeli
 	[m1]/ˈɑjoˌpeli/[/m]
@@ -3022,9 +2989,6 @@ akseli
 
 akselikuormitus
 	[m1]/ˈɑkseliˌkuormitus/[/m]
-
--akselinen
-	[m1]/ˈɑkseˌlinen/[/m]
 
 akselintappi
 	[m1]/ˈɑkseˌlintɑppi/[/m]
@@ -3266,9 +3230,6 @@ akvatinta
 akvaviitti
 	[m1]/ˈɑkvɑˌviitti/[/m]
 
-à la
-	[m1]/à[/m]
-
 ala
 	[m1]/ˈɑlɑ/[/m]
 
@@ -3289,12 +3250,6 @@ ala-aste
 
 alabasteri
 	[m1]/ˈɑlɑˌbɑsteri/[/m]
-
-à la carte
-	[m1]/à[/m]
-
-à la carte -annos
-	[m1]/à[/m]
 
 aladobi
 	[m1]/ˈɑlɑˌdobi/[/m]
@@ -3669,7 +3624,7 @@ albanialainen
 	[m1]/ˈɑlbɑˌniɑˌlɑinen/[/m]
 
 albanian kieli
-	[m1]/ˈɑlbɑˌniɑn[/m]
+	[m1]/ˈɑlbɑˌniɑn ˈkieli/[/m]
 
 albatrossi
 	[m1]/ˈɑlbɑtˌrossi/[/m]
@@ -3682,9 +3637,6 @@ albinismi
 
 albumi
 	[m1]/ˈɑlbumi/[/m]
-
-ale
-	[m1]/ˈɑle/[/m]
 
 ale
 	[m1]/ˈɑle/[/m]
@@ -4367,9 +4319,6 @@ alkuasukas
 alkuasukasheimo
 	[m1]/ˈɑlkuˌɑsukɑsˌheimo/[/m]
 
-alkucocktail
-	[m1]/ˈɑlkuˌcocktɑil/[/m]
-
 alkudrinkki
 	[m1]/ˈɑlkuˌdrinkki/[/m]
 
@@ -4390,9 +4339,6 @@ alkuihminen
 
 alkuilta
 	[m1]/ˈɑlkuiltɑ/[/m]
-
--alkuinen
-	[m1]/ˈɑlkuinen/[/m]
 
 alkuisin
 	[m1]/ˈɑlkuisin/[/m]
@@ -4712,17 +4658,20 @@ alkydi
 alkydimaali
 	[m1]/ˈɑlkydiˌmɑɑli/[/m]
 
+all stars -joukkue
+	[m1]/ɑll stɑrs ˈjoukˌkue/[/m]
+
 alla
 	[m1]/ˈɑllɑ/[/m]
 
-allakka
-	[m1]/ˈɑllɑkkɑ/[/m]
-
 alla mainittu
-	[m1]/ˈɑllɑ[/m]
+	[m1]/ˈɑllɑ ˈmɑinittu/[/m]
 
 alla oleva
-	[m1]/ˈɑllɑ[/m]
+	[m1]/ˈɑllɑ ˈolevɑ/[/m]
+
+allakka
+	[m1]/ˈɑllɑkkɑ/[/m]
 
 allapäin
 	[m1]/ˈɑllɑpæin/[/m]
@@ -4838,9 +4787,6 @@ alleviivaus
 alli
 	[m1]/ˈɑlli/[/m]
 
-alli
-	[m1]/ˈɑlli/[/m]
-
 allianssi
 	[m1]/ˈɑlliˌɑnssi/[/m]
 
@@ -4861,9 +4807,6 @@ allokoida
 
 allokointi
 	[m1]/ˈɑlloˌkointi/[/m]
-
-all stars -joukkue
-	[m1]/ɑll[/m]
 
 almanakka
 	[m1]/ˈɑlmɑˌnɑkkɑ/[/m]
@@ -4928,9 +4871,6 @@ aloitteenteko
 aloitteikas
 	[m1]/ˈɑloitˌteikɑs/[/m]
 
--aloitteinen
-	[m1]/ˈɑloitˌteinen/[/m]
-
 aloittelija
 	[m1]/ˈɑloitˌtelijɑ/[/m]
 
@@ -4969,12 +4909,6 @@ aloke
 
 alpakka
 	[m1]/ˈɑlpɑkkɑ/[/m]
-
-alpakka
-	[m1]/ˈɑlpɑkkɑ/[/m]
-
-alpakkainen
-	[m1]/ˈɑlpɑkˌkɑinen/[/m]
 
 alpakkainen
 	[m1]/ˈɑlpɑkˌkɑinen/[/m]
@@ -5046,7 +4980,7 @@ altavastaaja
 	[m1]/ˈɑltɑvɑsˌtɑɑjɑ/[/m]
 
 alter ego
-	[m1]/ˈɑlter[/m]
+	[m1]/ˈɑlter ˈego/[/m]
 
 altis
 	[m1]/ˈɑltis/[/m]
@@ -5149,9 +5083,6 @@ aluehallinto
 
 aluehälytyskeskus
 	[m1]/ˈɑluˌehælyˌtyskeskus/[/m]
-
--alueinen
-	[m1]/ˈɑluˌeinen/[/m]
 
 alueittain
 	[m1]/ˈɑluˌeittɑin/[/m]
@@ -5309,23 +5240,23 @@ alumpana
 alun
 	[m1]/ˈɑlun/[/m]
 
+alun alkaen
+	[m1]/ˈɑlun ˈɑlkɑen/[/m]
+
+alun perin
+	[m1]/ˈɑlun ˈperin/[/m]
+
+alun pitäen
+	[m1]/ˈɑlun ˈpitæen/[/m]
+
 aluna
 	[m1]/ˈɑlunɑ/[/m]
 
 alunaliuos
 	[m1]/ˈɑlunɑˌliuos/[/m]
 
-alun alkaen
-	[m1]/ˈɑlun[/m]
-
 alunen
 	[m1]/ˈɑlunen/[/m]
-
-alun perin
-	[m1]/ˈɑlun[/m]
-
-alun pitäen
-	[m1]/ˈɑlun[/m]
 
 alus
 	[m1]/ˈɑlus/[/m]
@@ -5373,7 +5304,7 @@ alusrimoitus
 	[m1]/ˈɑlusriˌmoitus/[/m]
 
 alussa mainittu
-	[m1]/ˈɑlussɑ[/m]
+	[m1]/ˈɑlussɑ ˈmɑinittu/[/m]
 
 alusta
 	[m1]/ˈɑlustɑ/[/m]
@@ -5597,6 +5528,9 @@ ammatti
 ammatti-
 	[m1]/ˈɑmmɑtti/[/m]
 
+ammatti-ihminen
+	[m1]/ˈɑmmɑtˌtiihminen/[/m]
+
 ammattiaine
 	[m1]/ˈɑmmɑttiˌɑine/[/m]
 
@@ -5620,9 +5554,6 @@ ammattietiikka
 
 ammattihaureus
 	[m1]/ˈɑmmɑttiˌhɑureus/[/m]
-
-ammatti-ihminen
-	[m1]/ˈɑmmɑtˌtiihminen/[/m]
 
 ammattijulkaisu
 	[m1]/ˈɑmmɑttiˌjulkɑisu/[/m]
@@ -5896,9 +5827,6 @@ ammu
 
 ammua
 	[m1]/ˈɑmmuɑ/[/m]
-
-ammunta
-	[m1]/ˈɑmmuntɑ/[/m]
 
 ammunta
 	[m1]/ˈɑmmuntɑ/[/m]
@@ -6242,9 +6170,6 @@ anatominen
 anatomisesti
 	[m1]/ˈɑnɑˌtomiˌsesti/[/m]
 
-ancyluskausi
-	[m1]/ˈɑncylusˌkɑusi/[/m]
-
 andante
 	[m1]/ˈɑndɑnte/[/m]
 
@@ -6302,11 +6227,11 @@ anella
 anemia
 	[m1]/ˈɑneˌmiɑ/[/m]
 
-aneroidibarometri
-	[m1]/ˈɑneˌroidiˌbɑroˌmetri/[/m]
-
 aneroidi-ilmapuntari
 	[m1]/ˈɑneˌroidiilmɑˌpuntɑri/[/m]
+
+aneroidibarometri
+	[m1]/ˈɑneˌroidiˌbɑroˌmetri/[/m]
 
 anesteetti
 	[m1]/ˈɑnesˌteetti/[/m]
@@ -6343,9 +6268,6 @@ angiina
 
 angiinamyrkytys
 	[m1]/ˈɑngiinɑˌmyrkytys/[/m]
-
-angina pectoris
-	[m1]/ˈɑnginɑ[/m]
 
 angiografia
 	[m1]/ˈɑngiˌogrɑˌfiɑ/[/m]
@@ -6538,9 +6460,6 @@ anniskeluoikeus
 
 anniskeluravintola
 	[m1]/ˈɑnnisˌkelurɑˌvintolɑ/[/m]
-
--annoksinen
-	[m1]/ˈɑnnokˌsinen/[/m]
 
 annoksittain
 	[m1]/ˈɑnnokˌsittɑin/[/m]
@@ -6854,6 +6773,9 @@ anti
 anti-
 	[m1]/ˈɑnti/[/m]
 
+anti-inflammatorinen
+	[m1]/ˈɑntiinˌflɑmmɑˌtorinen/[/m]
+
 antiaine
 	[m1]/ˈɑntiˌɑine/[/m]
 
@@ -6901,9 +6823,6 @@ antiikkinen
 
 antiikva
 	[m1]/ˈɑntiikvɑ/[/m]
-
-anti-inflammatorinen
-	[m1]/ˈɑntiinˌflɑmmɑˌtorinen/[/m]
 
 antikommunistinen
 	[m1]/ˈɑntiˌkommuˌnistinen/[/m]
@@ -7039,9 +6958,6 @@ anturanahka
 
 anturi
 	[m1]/ˈɑnturi/[/m]
-
-A-oikeudet
-	[m1]/ˈɑoiˌkeudet/[/m]
 
 aortta
 	[m1]/ˈɑorttɑ/[/m]
@@ -7304,9 +7220,6 @@ aprillipila
 aprillipäivä
 	[m1]/ˈɑprilliˌpæivæ/[/m]
 
-a priori
-	[m1]/ɑ[/m]
-
 apriorinen
 	[m1]/ˈɑpriˌorinen/[/m]
 
@@ -7442,9 +7355,6 @@ apuvoima
 apuväline
 	[m1]/ˈɑpuˌvæline/[/m]
 
-A-pylväs
-	[m1]/ˈɑpylvæs/[/m]
-
 arabeski
 	[m1]/ˈɑrɑˌbeski/[/m]
 
@@ -7457,11 +7367,11 @@ arabia
 arabialainen
 	[m1]/ˈɑrɑˌbiɑˌlɑinen/[/m]
 
+arabian kieli
+	[m1]/ˈɑrɑˌbiɑn ˈkieli/[/m]
+
 arabianhevonen
 	[m1]/ˈɑrɑbiˌɑnheˌvonen/[/m]
-
-arabian kieli
-	[m1]/ˈɑrɑˌbiɑn[/m]
 
 arabikumi
 	[m1]/ˈɑrɑˌbikumi/[/m]
@@ -7658,6 +7568,9 @@ arkeologisesti
 arki
 	[m1]/ˈɑrki/[/m]
 
+arki-ilta
+	[m1]/ˈɑrkiiltɑ/[/m]
+
 arkiajattelu
 	[m1]/ˈɑrkiɑˌjɑttelu/[/m]
 
@@ -7672,9 +7585,6 @@ arkielämä
 
 arkihuoli
 	[m1]/ˈɑrkiˌhuoli/[/m]
-
-arki-ilta
-	[m1]/ˈɑrkiiltɑ/[/m]
 
 arkikieli
 	[m1]/ˈɑrkiˌkieli/[/m]
@@ -7796,9 +7706,6 @@ arkiviikko
 arkki
 	[m1]/ˈɑrkki/[/m]
 
-arkki
-	[m1]/ˈɑrkki/[/m]
-
 arkki-
 	[m1]/ˈɑrkki/[/m]
 
@@ -7879,9 +7786,6 @@ arkuus
 
 armada
 	[m1]/ˈɑrmɑdɑ/[/m]
-
-armagnac
-	[m1]/ˈɑrmɑgnɑc/[/m]
 
 armahainen
 	[m1]/ˈɑrmɑˌhɑinen/[/m]
@@ -8012,9 +7916,6 @@ aromikkuus
 aromilasi
 	[m1]/ˈɑroˌmilɑsi/[/m]
 
--arominen
-	[m1]/ˈɑroˌminen/[/m]
-
 aromisuola
 	[m1]/ˈɑromiˌsuolɑ/[/m]
 
@@ -8116,9 +8017,6 @@ arsenikki
 
 arsenikkimyrkytys
 	[m1]/ˈɑrseˌnikkiˌmyrkytys/[/m]
-
-art director
-	[m1]/ɑrt[/m]
 
 arteesinen
 	[m1]/ˈɑrteeˌsinen/[/m]
@@ -8297,6 +8195,15 @@ arvioverotus
 arvo
 	[m1]/ˈɑrvo/[/m]
 
+arvo-osuus
+	[m1]/ˈɑrvoosuus/[/m]
+
+arvo-osuusjärjestelmä
+	[m1]/ˈɑrvooˌsuusjærˌjestelmæ/[/m]
+
+arvo-osuusrekisteri
+	[m1]/ˈɑrvooˌsuusreˌkisteri/[/m]
+
 arvoarvostelma
 	[m1]/ˈɑrvoˌɑrvosˌtelmɑ/[/m]
 
@@ -8413,15 +8320,6 @@ arvonta
 
 arvonvähennys
 	[m1]/ˈɑrvonvæˌhennys/[/m]
-
-arvo-osuus
-	[m1]/ˈɑrvoosuus/[/m]
-
-arvo-osuusjärjestelmä
-	[m1]/ˈɑrvooˌsuusjærˌjestelmæ/[/m]
-
-arvo-osuusrekisteri
-	[m1]/ˈɑrvooˌsuusreˌkisteri/[/m]
 
 arvopaperi
 	[m1]/ˈɑrvoˌpɑperi/[/m]
@@ -8645,9 +8543,6 @@ aseidentuonti
 aseidenvienti
 	[m1]/ˈɑseidenˌvienti/[/m]
 
--aseinen
-	[m1]/ˈɑseinen/[/m]
-
 aseistaa
 	[m1]/ˈɑseistɑɑ/[/m]
 
@@ -8792,17 +8687,11 @@ asenteellisuus
 asenteenmuutos
 	[m1]/ˈɑsenˌteenmuutos/[/m]
 
--asenteinen
-	[m1]/ˈɑsenˌteinen/[/m]
-
 asento
 	[m1]/ˈɑsento/[/m]
 
 asentoaisti
 	[m1]/ˈɑsentoˌɑisti/[/m]
-
--asentoinen
-	[m1]/ˈɑsenˌtoinen/[/m]
 
 asentovirhe
 	[m1]/ˈɑsentoˌvirhe/[/m]
@@ -8987,11 +8876,11 @@ asfaltointi
 asfaltti
 	[m1]/ˈɑsfɑltti/[/m]
 
-asfalttiasema
-	[m1]/ˈɑsfɑltˌtiɑˌsemɑ/[/m]
-
 asfaltti-ihottuma
 	[m1]/ˈɑsfɑltˌtiihotˌtumɑ/[/m]
+
+asfalttiasema
+	[m1]/ˈɑsfɑltˌtiɑˌsemɑ/[/m]
 
 asfalttinen
 	[m1]/ˈɑsfɑltˌtinen/[/m]
@@ -9317,9 +9206,6 @@ askel
 askele
 	[m1]/ˈɑskele/[/m]
 
--askelinen
-	[m1]/ˈɑskeˌlinen/[/m]
-
 askelittain
 	[m1]/ˈɑskeˌlittɑin/[/m]
 
@@ -9452,8 +9338,8 @@ astatiini
 aste
 	[m1]/ˈɑste/[/m]
 
--asteelainen
-	[m1]/ˈɑsteeˌlɑinen/[/m]
+aste-ero
+	[m1]/ˈɑsteero/[/m]
 
 asteenikko
 	[m1]/ˈɑsteeˌnikko/[/m]
@@ -9461,20 +9347,11 @@ asteenikko
 asteeninen
 	[m1]/ˈɑsteeˌninen/[/m]
 
-aste-ero
-	[m1]/ˈɑsteero/[/m]
-
 asteikko
 	[m1]/ˈɑsteikko/[/m]
 
--asteikkoinen
-	[m1]/ˈɑsteikˌkoinen/[/m]
-
 asteikollinen
 	[m1]/ˈɑsteiˌkollinen/[/m]
-
--asteinen
-	[m1]/ˈɑsteinen/[/m]
 
 asteittain
 	[m1]/ˈɑsteittɑin/[/m]
@@ -9668,9 +9545,6 @@ asuin-
 asuinalue
 	[m1]/ˈɑsuiˌnɑlue/[/m]
 
--asuinen
-	[m1]/ˈɑsuinen/[/m]
-
 asuinhuone
 	[m1]/ˈɑsuinˌhuone/[/m]
 
@@ -9800,6 +9674,18 @@ asunnottomuus
 asunto
 	[m1]/ˈɑsunto/[/m]
 
+asunto-oikeus
+	[m1]/ˈɑsunˌtooiˌkeus/[/m]
+
+asunto-olot
+	[m1]/ˈɑsunˌtoolot/[/m]
+
+asunto-osake
+	[m1]/ˈɑsunˌtoosɑke/[/m]
+
+asunto-osakeyhtiö
+	[m1]/ˈɑsunˌtoosɑkeˌyhtiø/[/m]
+
 asuntoalue
 	[m1]/ˈɑsunˌtoɑˌlue/[/m]
 
@@ -9835,18 +9721,6 @@ asuntomessut
 
 asuntomurto
 	[m1]/ˈɑsuntoˌmurto/[/m]
-
-asunto-oikeus
-	[m1]/ˈɑsunˌtooiˌkeus/[/m]
-
-asunto-olot
-	[m1]/ˈɑsunˌtoolot/[/m]
-
-asunto-osake
-	[m1]/ˈɑsunˌtoosɑke/[/m]
-
-asunto-osakeyhtiö
-	[m1]/ˈɑsunˌtoosɑkeˌyhtiø/[/m]
 
 asuntoperävaunu
 	[m1]/ˈɑsunˌtoperæˌvɑunu/[/m]
@@ -10190,6 +10064,15 @@ attribuutti
 atulat
 	[m1]/ˈɑtulɑt/[/m]
 
+au pair -tyttö
+	[m1]/ˈɑu ˈpɑir ˈtyttø/[/m]
+
+au-lapsi
+	[m1]/ˈɑulɑpsi/[/m]
+
+au-äiti
+	[m1]/ˈɑuæiti/[/m]
+
 aubergiini
 	[m1]/ˈɑuberˌgiini/[/m]
 
@@ -10319,9 +10202,6 @@ auktorointi
 aula
 	[m1]/ˈɑulɑ/[/m]
 
-au-lapsi
-	[m1]/ˈɑulɑpsi/[/m]
-
 auliisti
 	[m1]/ˈɑuliisti/[/m]
 
@@ -10342,12 +10222,6 @@ aumakatto
 
 aunus
 	[m1]/ˈɑunus/[/m]
-
-au pair -tyttö
-	[m1]/ˈɑu[/m]
-
-aura
-	[m1]/ˈɑurɑ/[/m]
 
 aura
 	[m1]/ˈɑurɑ/[/m]
@@ -10625,6 +10499,9 @@ autius
 auto
 	[m1]/ˈɑuto/[/m]
 
+auto-onnettomuus
+	[m1]/ˈɑutoonˌnettomuus/[/m]
+
 autoajelu
 	[m1]/ˈɑutoˌɑjelu/[/m]
 
@@ -10850,9 +10727,6 @@ autonpyörä
 autonrengas
 	[m1]/ˈɑutonˌrengɑs/[/m]
 
-auto-onnettomuus
-	[m1]/ˈɑutoonˌnettomuus/[/m]
-
 autopaikka
 	[m1]/ˈɑutoˌpɑikkɑ/[/m]
 
@@ -11003,8 +10877,8 @@ auvoinen
 auvoisa
 	[m1]/ˈɑuvoisɑ/[/m]
 
-au-äiti
-	[m1]/ˈɑuæiti/[/m]
+av-väline
+	[m1]/ˈɑvvæˌline/[/m]
 
 avaaja
 	[m1]/ˈɑvɑɑjɑ/[/m]
@@ -11285,14 +11159,17 @@ avautuma
 avautumisvaihe
 	[m1]/ˈɑvɑutuˌmisvɑihe/[/m]
 
-avec
-	[m1]/ˈɑvec/[/m]
-
 aviisi
 	[m1]/ˈɑviisi/[/m]
 
 avio
 	[m1]/ˈɑvio/[/m]
+
+avio-oikeus
+	[m1]/ˈɑviˌooikeus/[/m]
+
+avio-onni
+	[m1]/ˈɑviˌoonni/[/m]
 
 avioehto
 	[m1]/ˈɑvioˌehto/[/m]
@@ -11320,12 +11197,6 @@ avioerotuomio
 
 avioeste
 	[m1]/ˈɑvioˌeste/[/m]
-
--avioinen
-	[m1]/ˈɑviˌoinen/[/m]
-
--avioisuus
-	[m1]/ˈɑviˌoisuus/[/m]
 
 avioitua
 	[m1]/ˈɑviˌoituɑ/[/m]
@@ -11366,12 +11237,6 @@ avioniikka
 avionrikkoja
 	[m1]/ˈɑviˌonrikˌkojɑ/[/m]
 
-avio-oikeus
-	[m1]/ˈɑviˌooikeus/[/m]
-
-avio-onni
-	[m1]/ˈɑviˌoonni/[/m]
-
 aviopari
 	[m1]/ˈɑviˌopɑri/[/m]
 
@@ -11410,6 +11275,12 @@ avitus
 
 avo
 	[m1]/ˈɑvo/[/m]
+
+avo-oja
+	[m1]/ˈɑvoojɑ/[/m]
+
+avo-osasto
+	[m1]/ˈɑvooˌsɑsto/[/m]
 
 avoauto
 	[m1]/ˈɑvoˌɑuto/[/m]
@@ -11561,12 +11432,6 @@ avonaisesti
 avonaisuus
 	[m1]/ˈɑvoˌnɑisuus/[/m]
 
-avo-oja
-	[m1]/ˈɑvoojɑ/[/m]
-
-avo-osasto
-	[m1]/ˈɑvooˌsɑsto/[/m]
-
 avopalvelu
 	[m1]/ˈɑvoˌpɑlvelu/[/m]
 
@@ -11708,9 +11573,6 @@ avustajisto
 avuste
 	[m1]/ˈɑvuste/[/m]
 
--avusteinen
-	[m1]/ˈɑvusˌteinen/[/m]
-
 avustus
 	[m1]/ˈɑvustus/[/m]
 
@@ -11741,9 +11603,6 @@ avuttomuus
 avuttomuuslisä
 	[m1]/ˈɑvuttoˌmuuslisæ/[/m]
 
-av-väline
-	[m1]/ˈɑvvæˌline/[/m]
-
 ay-liike
 	[m1]/ˈɑyˌliike/[/m]
 
@@ -11760,19 +11619,19 @@ azerbaidžanilainen
 	[m1]/ˈɑzerˌbɑidžɑniˌlɑinen/[/m]
 
 azerbaidžanin kieli
-	[m1]/ˈɑzerˌbɑidžɑnin[/m]
+	[m1]/ˈɑzerˌbɑidžɑnin ˈkieli/[/m]
 
 azeri
 	[m1]/ˈɑzeri/[/m]
 
 azerin kieli
-	[m1]/ˈɑzerin[/m]
+	[m1]/ˈɑzerin ˈkieli/[/m]
+
+B-oikeudet
+	[m1]/ˈboikeudet/[/m]
 
 baana
 	[m1]/ˈbɑɑnɑ/[/m]
-
-baari
-	[m1]/ˈbɑɑri/[/m]
 
 baari
 	[m1]/ˈbɑɑri/[/m]
@@ -11812,9 +11671,6 @@ babylonialainen
 
 babysitter
 	[m1]/ˈbɑbyˌsitter/[/m]
-
-backgammon
-	[m1]/ˈbɑckgɑmmon/[/m]
 
 bagatelli
 	[m1]/ˈbɑgɑˌtelli/[/m]
@@ -12020,9 +11876,6 @@ banjo
 banketti
 	[m1]/ˈbɑnketti/[/m]
 
-banketti
-	[m1]/ˈbɑnketti/[/m]
-
 bantu
 	[m1]/ˈbɑntu/[/m]
 
@@ -12140,9 +11993,6 @@ basenji
 basilika
 	[m1]/ˈbɑsiˌlikɑ/[/m]
 
-basilika
-	[m1]/ˈbɑsiˌlikɑ/[/m]
-
 basilli
 	[m1]/ˈbɑsilli/[/m]
 
@@ -12243,7 +12093,7 @@ beaujolaisviini
 	[m1]/ˈbeɑujoˌlɑisviini/[/m]
 
 beauty box
-	[m1]/ˈbeɑuty[/m]
+	[m1]/ˈbeɑuty boks/[/m]
 
 bébé
 	[m1]/[i]~[/i]/[/m]
@@ -12254,14 +12104,8 @@ bebee
 bebop
 	[m1]/ˈ[i]~[/i]/[/m]
 
-béchamelkastike
-	[m1]/ˈbéchɑmelˌkɑstike/[/m]
-
-becquerel
-	[m1]/ˈbecquˌerel/[/m]
-
 bed and breakfast
-	[m1]/bed[/m]
+	[m1]/bed ɑnd ˈbrekfɑst/[/m]
 
 beduiini
 	[m1]/ˈbeduˌiini/[/m]
@@ -12371,9 +12215,6 @@ bentsoehappo
 berberi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-berberi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 berliininmakkara
 	[m1]/ˈberliiˌninmɑkˌkɑrɑ/[/m]
 
@@ -12405,7 +12246,7 @@ besserwisser
 	[m1]/ˈbesserˌwisser/[/m]
 
 best man
-	[m1]/best[/m]
+	[m1]/best mɑn/[/m]
 
 bestseller
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -12473,6 +12314,12 @@ betonoida
 betonointi
 	[m1]/ˈbetoˌnointi/[/m]
 
+bi-mies
+	[m1]/ˈbimies/[/m]
+
+bi-nainen
+	[m1]/ˈbinɑinen/[/m]
+
 biblia
 	[m1]/ˈbibliɑ/[/m]
 
@@ -12503,14 +12350,14 @@ biedermeierkalusto
 biennaali
 	[m1]/ˈbiennɑɑli/[/m]
 
+big band
+	[m1]/big bɑnd/[/m]
+
 bigaaminen
 	[m1]/ˈbigɑɑˌminen/[/m]
 
 bigamia
 	[m1]/ˈbigɑˌmiɑ/[/m]
-
-big band
-	[m1]/big[/m]
 
 biisami
 	[m1]/ˈbiisɑmi/[/m]
@@ -12578,9 +12425,6 @@ bilsa
 bimetallismi
 	[m1]/ˈbimeˌtɑllismi/[/m]
 
-bi-mies
-	[m1]/ˈbimies/[/m]
-
 binaarijärjestelmä
 	[m1]/ˈbinɑɑriˌjærjesˌtelmæ/[/m]
 
@@ -12592,9 +12436,6 @@ binaarinen
 
 binaarinumero
 	[m1]/ˈbinɑɑˌrinuˌmero/[/m]
-
-bi-nainen
-	[m1]/ˈbinɑinen/[/m]
 
 bingo
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -12770,9 +12611,6 @@ biseksuaalisesti
 biseksuaalisuus
 	[m1]/ˈbiseksuˌɑɑlisuus/[/m]
 
-bismarck
-	[m1]/ˈbismɑrck/[/m]
-
 bisnes
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -12905,9 +12743,6 @@ bodi
 bodybuilding
 	[m1]/ˈbodyˌbuilding/[/m]
 
-body stocking
-	[m1]/ˈbody[/m]
-
 bofori
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -12916,9 +12751,6 @@ boheemi
 
 boheemielämä
 	[m1]/ˈboheeˌmielæmæ/[/m]
-
-B-oikeudet
-	[m1]/ˈboikeudet/[/m]
 
 boikotoida
 	[m1]/ˈboikoˌtoidɑ/[/m]
@@ -12937,9 +12769,6 @@ bokseri
 
 bokserimoottori
 	[m1]/ˈbokseriˌmoottori/[/m]
-
-boksi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 boksi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -13059,7 +12888,7 @@ bosoni
 	[m1]/ˈ[i]~[/i]/[/m]
 
 bossa nova
-	[m1]/ˈbossɑ[/m]
+	[m1]/ˈbossɑ ˈnovɑ/[/m]
 
 bostonkakku
 	[m1]/ˈbostonˌkɑkku/[/m]
@@ -13285,9 +13114,6 @@ brosyyri
 
 brovninki
 	[m1]/ˈ[i]~[/i]/[/m]
-
-brunch
-	[m1]/[i]~[/i]/[/m]
 
 brunssi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -13562,332 +13388,8 @@ bänet
 bänks
 	[m1]/bænks/[/m]
 
-caddie
-	[m1]/ˈcɑddie/[/m]
-
-cafeteria
-	[m1]/ˈcɑfeˌteriɑ/[/m]
-
-calmetterokotus
-	[m1]/ˈcɑlmetˌteroˌkotus/[/m]
-
-calvados
-	[m1]/ˈcɑlvɑdos/[/m]
-
-calypso
-	[m1]/ˈcɑlypso/[/m]
-
-camembert
-	[m1]/ˈcɑmembert/[/m]
-
-camembertinjuusto
-	[m1]/ˈcɑmemˌbertinˌjuusto/[/m]
-
-camembertjuusto
-	[m1]/ˈcɑmembertˌjuusto/[/m]
-
-cameorooli
-	[m1]/ˈcɑmeoˌrooli/[/m]
-
-camping
-	[m1]/ˈcɑmping/[/m]
-
-campus
-	[m1]/ˈcɑmpus/[/m]
-
-canasta
-	[m1]/ˈcɑnɑstɑ/[/m]
-
-cancan
-	[m1]/ˈcɑncɑn/[/m]
-
-cannelloni
-	[m1]/ˈcɑnnelˌloni/[/m]
-
-cappuccino
-	[m1]/ˈcɑppucˌcino/[/m]
-
-casanova
-	[m1]/ˈcɑsɑˌnovɑ/[/m]
-
-cashewpähkinä
-	[m1]/ˈcɑshewˌpæhkinæ/[/m]
-
-catering
-	[m1]/ˈcɑtering/[/m]
-
-cayennenpippuri
-	[m1]/ˈcɑyˌennenˌpippuri/[/m]
-
-CD
-	[m1]/cd/[/m]
-
-CD-levy
-	[m1]/ˈcdlevy/[/m]
-
-CD-levysoitin
-	[m1]/ˈcdlevyˌsoitin/[/m]
-
-CD-ROM
-	[m1]/cdrom/[/m]
-
-CD-ROM-asema
-	[m1]/ˈcdromɑˌsemɑ/[/m]
-
-CD-ROM-levy
-	[m1]/ˈcdromlevy/[/m]
-
-CD-soitin
-	[m1]/ˈcdsoitin/[/m]
-
-celsiusaste
-	[m1]/ˈcelsiuˌsɑste/[/m]
-
-cembalo
-	[m1]/ˈcembɑlo/[/m]
-
-cesium
-	[m1]/ˈ[i]~[/i]/[/m]
-
-cha-cha-cha
-	[m1]/ˈchɑchɑchɑ/[/m]
-
-chanson
-	[m1]/ˈchɑnson/[/m]
-
-charleston
-	[m1]/ˈchɑrleston/[/m]
-
-charlotte russe
-	[m1]/ˈchɑrlotte[/m]
-
-charmantti
-	[m1]/ˈchɑrmɑntti/[/m]
-
-charmi
-	[m1]/ˈchɑrmi/[/m]
-
-charmikas
-	[m1]/ˈchɑrmikɑs/[/m]
-
-charterlento
-	[m1]/ˈchɑrterˌlento/[/m]
-
-chatata
-	[m1]/ˈchɑtɑtɑ/[/m]
-
-chateaubriand
-	[m1]/ˈchɑteˌɑubriɑnd/[/m]
-
-châteauviini
-	[m1]/ˈchâteɑuˌviini/[/m]
-
-chatti
-	[m1]/ˈchɑtti/[/m]
-
-cheddar
-	[m1]/ˈcheddɑr/[/m]
-
-cheddarinjuusto
-	[m1]/ˈcheddɑrinˌjuusto/[/m]
-
-cheddarjuusto
-	[m1]/ˈcheddɑrˌjuusto/[/m]
-
-cheerleader
-	[m1]/ˈcheerleˌɑder/[/m]
-
-chenille
-	[m1]/ˈ[i]~[/i]/[/m]
-
-chic
-	[m1]/[i]~[/i]/[/m]
-
-chilensalpietari
-	[m1]/ˈchilensɑlˌpietɑri/[/m]
-
-chili
-	[m1]/ˈ[i]~[/i]/[/m]
-
-chilikastike
-	[m1]/ˈchiliˌkɑstike/[/m]
-
-chilipippuri
-	[m1]/ˈchiliˌpippuri/[/m]
-
-chinchilla
-	[m1]/ˈchinchillɑ/[/m]
-
-chippendale
-	[m1]/ˈchippenˌdɑle/[/m]
-
-chippendalekalusto
-	[m1]/ˈchippenˌdɑlekɑˌlusto/[/m]
-
-chippendaletyyli
-	[m1]/ˈchippenˌdɑleˌtyyli/[/m]
-
-chippendaletyylinen
-	[m1]/ˈchippenˌdɑleˌtyylinen/[/m]
-
-chips
-	[m1]/[i]~[/i]/[/m]
-
-cicero
-	[m1]/ˈ[i]~[/i]/[/m]
-
-cirrus
-	[m1]/ˈ[i]~[/i]/[/m]
-
-cirruspilvi
-	[m1]/ˈcirrusˌpilvi/[/m]
-
-city
-	[m1]/ˈ[i]~[/i]/[/m]
-
-citykulttuuri
-	[m1]/ˈcitykultˌtuuri/[/m]
-
-civis
-	[m1]/ˈ[i]~[/i]/[/m]
-
-clearing
-	[m1]/ˈcleɑring/[/m]
-
-clearingkurssi
-	[m1]/ˈcleɑˌringkurssi/[/m]
-
-clou
-	[m1]/ˈ[i]~[/i]/[/m]
-
-cockerspanieli
-	[m1]/ˈcockerspɑˌnieli/[/m]
-
-cocktail
-	[m1]/ˈcocktɑil/[/m]
-
-cocktailkirsikka
-	[m1]/ˈcocktɑilˌkirsikkɑ/[/m]
-
-cocktailkutsut
-	[m1]/ˈcocktɑilˌkutsut/[/m]
-
-cocktaillasi
-	[m1]/ˈcocktɑilˌlɑsi/[/m]
-
-cocktailleipä
-	[m1]/ˈcocktɑilˌleipæ/[/m]
-
-cocktailpala
-	[m1]/ˈcocktɑilˌpɑlɑ/[/m]
-
-cocktailtikku
-	[m1]/ˈcocktɑilˌtikku/[/m]
-
-cocktailtilaisuus
-	[m1]/ˈcocktɑiltiˌlɑisuus/[/m]
-
-college
-	[m1]/ˈ[i]~[/i]/[/m]
-
-collegepusero
-	[m1]/ˈcolleˌgepuˌsero/[/m]
-
-collie
-	[m1]/ˈ[i]~[/i]/[/m]
-
-come-back
-	[m1]/ˈcomebɑck/[/m]
-
-contra
-	[m1]/ˈcontrɑ/[/m]
-
-contrasissi
-	[m1]/ˈcontrɑˌsissi/[/m]
-
-copy
-	[m1]/ˈ[i]~[/i]/[/m]
-
-copyright
-	[m1]/ˈ[i]~[/i]/[/m]
-
-copywriter
-	[m1]/ˈcopywˌriter/[/m]
-
-cos-salaatti
-	[m1]/ˈcossɑˌlɑɑtti/[/m]
-
-coulombi
-	[m1]/ˈ[i]~[/i]/[/m]
-
-country
-	[m1]/ˈ[i]~[/i]/[/m]
-
-countrymusiikki
-	[m1]/ˈcountrymuˌsiikki/[/m]
-
-coupé
-	[m1]/ˈ[i]~[/i]/[/m]
-
-couscous
-	[m1]/ˈcousˌcous/[/m]
-
-cowboy
-	[m1]/ˈ[i]~[/i]/[/m]
-
-cowboyhattu
-	[m1]/ˈcowboyˌhɑttu/[/m]
-
-crack
-	[m1]/crɑck/[/m]
-
-crème fraîche
-	[m1]/crème[/m]
-
-crêpe
-	[m1]/[i]~[/i]/[/m]
-
-crescendo
-	[m1]/ˈ[i]~[/i]/[/m]
-
-croissant
-	[m1]/ˈcroissɑnt/[/m]
-
-csárdás
-	[m1]/[i]~[/i]/[/m]
-
-cum laude
-	[m1]/cum[/m]
-
-cum laude approbatur
-	[m1]/cum[/m]
-
-cum laude -arvosana
-	[m1]/cum[/m]
-
-cum laude -tentti
-	[m1]/cum[/m]
-
-cumulus
-	[m1]/ˈ[i]~[/i]/[/m]
-
-cumuluspilvi
-	[m1]/ˈcumuˌluspilvi/[/m]
-
-cup
-	[m1]/[i]~[/i]/[/m]
-
-cupvoittaja
-	[m1]/ˈcupvoitˌtɑjɑ/[/m]
-
-curry
-	[m1]/ˈ[i]~[/i]/[/m]
-
-currykana
-	[m1]/ˈcurryˌkɑnɑ/[/m]
-
-currykastike
-	[m1]/ˈcurryˌkɑstike/[/m]
+D-markka
+	[m1]/ˈdmɑrkkɑ/[/m]
 
 daalia
 	[m1]/ˈdɑɑliɑ/[/m]
@@ -14080,9 +13582,6 @@ deistinen
 
 deka-
 	[m1]/ˈdekɑ/[/m]
-
-dekaani
-	[m1]/ˈdekɑɑni/[/m]
 
 dekaani
 	[m1]/ˈdekɑɑni/[/m]
@@ -14493,7 +13992,7 @@ deskriptio
 	[m1]/ˈdeskripˌtio/[/m]
 
 desktop publishing
-	[m1]/ˈdesktop[/m]
+	[m1]/ˈdesktop ˈpublishing/[/m]
 
 desoksiribonukleiinihappo
 	[m1]/ˈdesokˌsiriˌbonukleˌiiniˌhɑppo/[/m]
@@ -14939,11 +14438,11 @@ diplomatia
 diplomi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-diplomiekonomi
-	[m1]/ˈdiploˌmiekoˌnomi/[/m]
-
 diplomi-insinööri
 	[m1]/ˈdiploˌmiinsiˌnøøri/[/m]
+
+diplomiekonomi
+	[m1]/ˈdiploˌmiekoˌnomi/[/m]
 
 diplomikauppias
 	[m1]/ˈdiploˌmikɑˌuppiɑs/[/m]
@@ -14987,12 +14486,6 @@ dippi
 dippikastike
 	[m1]/ˈdippiˌkɑstike/[/m]
 
-director cantus
-	[m1]/ˈdirector[/m]
-
-director musices
-	[m1]/ˈdirector[/m]
-
 direktiivi
 	[m1]/ˈdirekˌtiivi/[/m]
 
@@ -15001,9 +14494,6 @@ direktoraatti
 
 dirhami
 	[m1]/ˈdirhɑmi/[/m]
-
-disc jockey
-	[m1]/disc[/m]
 
 disinformaatio
 	[m1]/ˈdisinforˌmɑɑtio/[/m]
@@ -15124,9 +14614,6 @@ divisioonankomentaja
 
 dixieland
 	[m1]/ˈdixielɑnd/[/m]
-
-D-markka
-	[m1]/ˈdmɑrkkɑ/[/m]
 
 DNA
 	[m1]/dnɑ/[/m]
@@ -15302,11 +14789,8 @@ draamallisesti
 draamallisuus
 	[m1]/ˈdrɑɑmɑlˌlisuus/[/m]
 
-drag racing
-	[m1]/drɑg[/m]
-
 drag show
-	[m1]/drɑg[/m]
+	[m1]/drɑg sow/[/m]
 
 dragsteri
 	[m1]/ˈdrɑgsteri/[/m]
@@ -15425,12 +14909,6 @@ dublee
 dubletti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-duchesse
-	[m1]/ˈ[i]~[/i]/[/m]
-
-duchesseperunasose
-	[m1]/ˈduchesˌsepeˌrunɑˌsose/[/m]
-
 duetto
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -15536,17 +15014,14 @@ dödö
 dösä
 	[m1]/ˈdøsæ/[/m]
 
+e-pilleri
+	[m1]/ˈepilˌleri/[/m]
+
 EAN-koodi
 	[m1]/ˈeɑnˌkoodi/[/m]
 
-eau de Cologne
-	[m1]/ˈeɑu[/m]
-
 eboniitti
 	[m1]/ˈeboˌniitti/[/m]
-
-ecu
-	[m1]/ˈ[i]~[/i]/[/m]
 
 edam
 	[m1]/ˈedɑm/[/m]
@@ -15573,7 +15048,7 @@ edellinen
 	[m1]/ˈedelˌlinen/[/m]
 
 edellisen kaltainen
-	[m1]/ˈedelˌlisen[/m]
+	[m1]/ˈedelˌlisen ˈkɑltɑinen/[/m]
 
 edellisilta
 	[m1]/ˈedelliˌsiltɑ/[/m]
@@ -15600,7 +15075,10 @@ edellä
 	[m1]/ˈedellæ/[/m]
 
 edellä esitetty
-	[m1]/ˈedellæ[/m]
+	[m1]/ˈedellæ ˈesiˌtetty/[/m]
+
+edellä mainittu
+	[m1]/ˈedellæ ˈmɑinittu/[/m]
 
 edelläkävijä
 	[m1]/ˈedelˌlækæˌvijæ/[/m]
@@ -15610,9 +15088,6 @@ edelläkäypä
 
 edelläkäyvä
 	[m1]/ˈedellæˌkæyvæ/[/m]
-
-edellä mainittu
-	[m1]/ˈedellæ[/m]
 
 edeltä
 	[m1]/ˈedeltæ/[/m]
@@ -15948,7 +15423,7 @@ eestiläinen
 	[m1]/ˈeestiˌlæinen/[/m]
 
 eestin kieli
-	[m1]/ˈeestin[/m]
+	[m1]/ˈeestin ˈkieli/[/m]
 
 eetteri
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -16035,7 +15510,7 @@ egyptologinen
 	[m1]/ˈegypˌtoloˌginen/[/m]
 
 ehdoin tahdoin
-	[m1]/ˈehdoin[/m]
+	[m1]/ˈehdoin ˈtɑhdoin/[/m]
 
 ehdokas
 	[m1]/ˈehdokɑs/[/m]
@@ -16229,17 +15704,8 @@ ehtiä
 ehto
 	[m1]/ˈ[i]~[/i]/[/m]
 
--ehtoinen
-	[m1]/ˈehtoinen/[/m]
-
 ehtoisa
 	[m1]/ˈehtoisɑ/[/m]
-
--ehtoisesti
-	[m1]/ˈehtoiˌsesti/[/m]
-
--ehtoisuus
-	[m1]/ˈehtoisuus/[/m]
 
 ehtolainen
 	[m1]/ˈehtoˌlɑinen/[/m]
@@ -16319,14 +15785,14 @@ ei
 ei-
 	[m1]/ˈei/[/m]
 
+ei-kenenkään-maa
+	[m1]/ˈeikenenˌkæænmɑɑ/[/m]
+
 eideetikko
 	[m1]/ˈeideeˌtikko/[/m]
 
 eideettinen
 	[m1]/ˈeideetˌtinen/[/m]
-
-ei-kenenkään-maa
-	[m1]/ˈeikenenˌkæænmɑɑ/[/m]
 
 eilen
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -16774,15 +16240,6 @@ elehdintä
 
 elehtiä
 	[m1]/ˈelehˌtiæ/[/m]
-
--eleinen
-	[m1]/ˈeleinen/[/m]
-
--eleisesti
-	[m1]/ˈeleiˌsesti/[/m]
-
--eleisyys
-	[m1]/ˈeleisyys/[/m]
 
 elekieli
 	[m1]/ˈeleˌkieli/[/m]
@@ -17291,14 +16748,14 @@ elokuu
 elokuva
 	[m1]/ˈeloˌkuvɑ/[/m]
 
-elokuvaaja
-	[m1]/ˈelokuˌvɑɑjɑ/[/m]
-
 elokuva-arkisto
 	[m1]/ˈelokuˌvɑɑrkisto/[/m]
 
 elokuva-arvostelu
 	[m1]/ˈelokuˌvɑɑrvosˌtelu/[/m]
+
+elokuvaaja
+	[m1]/ˈelokuˌvɑɑjɑ/[/m]
 
 elokuvafestivaalit
 	[m1]/ˈeloˌkuvɑˌfestiˌvɑɑlit/[/m]
@@ -18278,9 +17735,6 @@ emävalhe
 emäyhtiö
 	[m1]/ˈemæˌyhtiø/[/m]
 
-enchilada
-	[m1]/ˈenchiˌlɑdɑ/[/m]
-
 endeeminen
 	[m1]/ˈendeeˌminen/[/m]
 
@@ -18334,9 +17788,6 @@ enemmistö
 
 enemmistöhallitus
 	[m1]/ˈenemˌmistøˌhɑllitus/[/m]
-
--enemmistöinen
-	[m1]/ˈenemmisˌtøinen/[/m]
 
 enemmistökansallisuus
 	[m1]/ˈenemˌmistøˌkɑnsɑlˌlisuus/[/m]
@@ -18394,9 +17845,6 @@ energiahuolto
 
 energiahäviö
 	[m1]/ˈenerˌgiɑˌhæviø/[/m]
-
--energiainen
-	[m1]/ˈenergiˌɑinen/[/m]
 
 energiakriisi
 	[m1]/ˈenerˌgiɑˌkriisi/[/m]
@@ -18489,7 +17937,7 @@ engelsmanni
 	[m1]/ˈengelsˌmɑnni/[/m]
 
 englannin kieli
-	[m1]/ˈenglɑnnin[/m]
+	[m1]/ˈenglɑnnin ˈkieli/[/m]
 
 englanninkielinen
 	[m1]/ˈenglɑnninˌkielinen/[/m]
@@ -18593,6 +18041,9 @@ ennakko
 ennakko-
 	[m1]/ˈennɑkko/[/m]
 
+ennakko-otaksuma
+	[m1]/ˈennɑkˌkootɑkˌsumɑ/[/m]
+
 ennakkoaavistus
 	[m1]/ˈennɑkkoˌɑɑvistus/[/m]
 
@@ -18667,9 +18118,6 @@ ennakkomyynti
 
 ennakkoon
 	[m1]/ˈennɑkkoon/[/m]
-
-ennakko-otaksuma
-	[m1]/ˈennɑkˌkootɑkˌsumɑ/[/m]
 
 ennakkoperintä
 	[m1]/ˈennɑkˌkopeˌrintæ/[/m]
@@ -18776,11 +18224,11 @@ ennallistus
 ennalta
 	[m1]/ˈennɑltɑ/[/m]
 
+ennalta ehkäisevä
+	[m1]/ˈennɑltɑ ˈehkæiˌsevæ/[/m]
+
 ennalta-arvattavuus
 	[m1]/ˈennɑlˌtɑɑrvɑtˌtɑvuus/[/m]
-
-ennalta ehkäisevä
-	[m1]/ˈennɑltɑ[/m]
 
 ennaltaehkäisy
 	[m1]/ˈennɑltɑˌehkæisy/[/m]
@@ -18795,7 +18243,22 @@ ennen
 	[m1]/ˈ[i]~[/i]/[/m]
 
 ennen aikaan
-	[m1]/ˈennen[/m]
+	[m1]/ˈennen ˈɑikɑɑn/[/m]
+
+ennen kaikkea
+	[m1]/ˈennen ˈkɑikkeɑ/[/m]
+
+ennen kuin
+	[m1]/ˈennen ˈkuin/[/m]
+
+ennen muinoin
+	[m1]/ˈennen ˈmuinoin/[/m]
+
+ennen pitkää
+	[m1]/ˈennen ˈpitkææ/[/m]
+
+ennen vanhaan
+	[m1]/ˈennen ˈvɑnhɑɑn/[/m]
 
 ennenaikainen
 	[m1]/ˈenneˌnɑikɑinen/[/m]
@@ -18803,32 +18266,17 @@ ennenaikainen
 ennenaikaisesti
 	[m1]/ˈenneˌnɑikɑiˌsesti/[/m]
 
-ennen kaikkea
-	[m1]/ˈennen[/m]
-
-ennen kuin
-	[m1]/ˈennen[/m]
-
 ennenkuulumaton
 	[m1]/ˈennenˌkuuluˌmɑton/[/m]
 
 ennenkuulumattomasti
 	[m1]/ˈennenˌkuuluˌmɑttoˌmɑsti/[/m]
 
-ennen muinoin
-	[m1]/ˈennen[/m]
-
 ennennäkemättömästi
 	[m1]/ˈennenˌnækeˌmættøˌmæsti/[/m]
 
 ennennäkemätön
 	[m1]/ˈennenˌnækeˌmætøn/[/m]
-
-ennen pitkää
-	[m1]/ˈennen[/m]
-
-ennen vanhaan
-	[m1]/ˈennen[/m]
 
 ennestään
 	[m1]/ˈennestææn/[/m]
@@ -18911,14 +18359,26 @@ ennätystulos
 eno
 	[m1]/ˈ[i]~[/i]/[/m]
 
-eno
-	[m1]/ˈ[i]~[/i]/[/m]
-
 ensemble
 	[m1]/ˈ[i]~[/i]/[/m]
 
 ensi
 	[m1]/ˈ[i]~[/i]/[/m]
+
+ensi kädessä
+	[m1]/ˈensi ˈkædessæ/[/m]
+
+ensi sijassa
+	[m1]/ˈensi ˈsijɑssɑ/[/m]
+
+ensi-ilta
+	[m1]/ˈensiiltɑ/[/m]
+
+ensi-iltayleisö
+	[m1]/ˈensiilˌtɑyˌleisø/[/m]
+
+ensi-isku
+	[m1]/ˈensiisku/[/m]
 
 ensiapu
 	[m1]/ˈensiˌɑpu/[/m]
@@ -18956,15 +18416,6 @@ ensihoitaja
 ensihoito
 	[m1]/ˈensiˌhoito/[/m]
 
-ensi-ilta
-	[m1]/ˈensiiltɑ/[/m]
-
-ensi-iltayleisö
-	[m1]/ˈensiilˌtɑyˌleisø/[/m]
-
-ensi-isku
-	[m1]/ˈensiisku/[/m]
-
 ensikertainen
 	[m1]/ˈensikerˌtɑinen/[/m]
 
@@ -18982,9 +18433,6 @@ ensikoti
 
 ensiksi
 	[m1]/ˈ[i]~[/i]/[/m]
-
-ensi kädessä
-	[m1]/ˈensi[/m]
 
 ensikäyttö
 	[m1]/ˈensikæˌyttø/[/m]
@@ -19016,11 +18464,11 @@ ensimmältä
 ensin
 	[m1]/ˈ[i]~[/i]/[/m]
 
+ensin mainittu
+	[m1]/ˈensin ˈmɑinittu/[/m]
+
 ensinkään
 	[m1]/ˈensinkææn/[/m]
-
-ensin mainittu
-	[m1]/ˈensin[/m]
 
 ensinnä
 	[m1]/ˈensinnæ/[/m]
@@ -19054,9 +18502,6 @@ ensisijaistaa
 
 ensisijaisuus
 	[m1]/ˈensisiˌjɑisuus/[/m]
-
-ensi sijassa
-	[m1]/ˈensi[/m]
 
 ensisunnuntainen
 	[m1]/ˈensiˌsunnunˌtɑinen/[/m]
@@ -19106,9 +18551,6 @@ enteillä
 enteily
 	[m1]/ˈ[i]~[/i]/[/m]
 
--enteinen
-	[m1]/ˈenteinen/[/m]
-
 entinen
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -19151,17 +18593,8 @@ entiteetti
 entrata
 	[m1]/ˈentrɑtɑ/[/m]
 
-entrata
-	[m1]/ˈentrɑtɑ/[/m]
-
 entraus
 	[m1]/ˈentrɑus/[/m]
-
-entraus
-	[m1]/ˈentrɑus/[/m]
-
-entrecôte
-	[m1]/ˈ[i]~[/i]/[/m]
 
 entropia
 	[m1]/ˈentroˌpiɑ/[/m]
@@ -19198,6 +18631,9 @@ entää
 
 enää
 	[m1]/ˈenææ/[/m]
+
+EP-levy
+	[m1]/ˈeplevy/[/m]
 
 epeli
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -19253,9 +18689,6 @@ epileptikko
 epileptinen
 	[m1]/ˈepiˌleptinen/[/m]
 
-e-pilleri
-	[m1]/ˈepilˌleri/[/m]
-
 epilogi
 	[m1]/ˈepiˌlogi/[/m]
 
@@ -19279,9 +18712,6 @@ epiteelikudos
 
 epiteetti
 	[m1]/ˈepiˌteetti/[/m]
-
-EP-levy
-	[m1]/ˈeplevy/[/m]
 
 epoksiliima
 	[m1]/ˈepoksiˌliimɑ/[/m]
@@ -20456,6 +19886,12 @@ eri
 eri-
 	[m1]/ˈeri/[/m]
 
+eri-ikäinen
+	[m1]/ˈeriiˌkæinen/[/m]
+
+eri-ikäisyys
+	[m1]/ˈeriiˌkæisyys/[/m]
+
 eriaikainen
 	[m1]/ˈeriˌɑikɑinen/[/m]
 
@@ -20485,12 +19921,6 @@ eriasteisesti
 
 erihintainen
 	[m1]/ˈerihinˌtɑinen/[/m]
-
-eri-ikäinen
-	[m1]/ˈeriiˌkæinen/[/m]
-
-eri-ikäisyys
-	[m1]/ˈeriiˌkæisyys/[/m]
 
 erikielinen
 	[m1]/ˈeriˌkielinen/[/m]
@@ -20948,9 +20378,6 @@ erittyä
 erittäin
 	[m1]/ˈerittæin/[/m]
 
-erittäin
-	[m1]/ˈerittæin/[/m]
-
 erittäinkin
 	[m1]/ˈeritˌtæinkin/[/m]
 
@@ -21216,7 +20643,7 @@ ersä
 	[m1]/ˈersæ/[/m]
 
 ersän kieli
-	[m1]/ˈersæn[/m]
+	[m1]/ˈersæn ˈkieli/[/m]
 
 eruptiivikivilaji
 	[m1]/ˈerupˌtiiviˌkiviˌlɑji/[/m]
@@ -21320,11 +20747,11 @@ erääntyä
 esanssi
 	[m1]/ˈesɑnssi/[/m]
 
-escariolsalaatti
-	[m1]/ˈescɑriˌolsɑˌlɑɑtti/[/m]
-
 esi-
 	[m1]/ˈesi/[/m]
+
+esi-isä
+	[m1]/ˈesiisæ/[/m]
 
 esiaste
 	[m1]/ˈesiˌɑste/[/m]
@@ -21382,9 +20809,6 @@ esiintyvyys
 
 esiintyä
 	[m1]/ˈesiinˌtyæ/[/m]
-
-esi-isä
-	[m1]/ˈesiisæ/[/m]
 
 esijännitteinen
 	[m1]/ˈesiˌjænnitˌteinen/[/m]
@@ -21792,7 +21216,7 @@ espanjalaisuus
 	[m1]/ˈespɑnjɑˌlɑisuus/[/m]
 
 espanjan kieli
-	[m1]/ˈespɑnjɑn[/m]
+	[m1]/ˈespɑnjɑn ˈkieli/[/m]
 
 espanjankielinen
 	[m1]/ˈespɑnjɑnˌkielinen/[/m]
@@ -21874,9 +21298,6 @@ esteettömyys
 
 esteetön
 	[m1]/ˈesteetøn/[/m]
-
--esteinen
-	[m1]/ˈesteinen/[/m]
 
 estejuoksija
 	[m1]/ˈesteˌjuoksijɑ/[/m]
@@ -22802,6 +22223,9 @@ etääntyä
 EU
 	[m1]/ˈeu/[/m]
 
+EU-maa
+	[m1]/ˈeumɑɑ/[/m]
+
 eufemismi
 	[m1]/ˈeufeˌmismi/[/m]
 
@@ -22841,14 +22265,14 @@ eukkonen
 euklidinen
 	[m1]/ˈeukliˌdinen/[/m]
 
-EU-maa
-	[m1]/ˈeumɑɑ/[/m]
-
 eunukki
 	[m1]/ˈ[i]~[/i]/[/m]
 
 euraasialainen
 	[m1]/ˈeurɑɑˌsiɑˌlɑinen/[/m]
+
+euro-ohjus
+	[m1]/ˈeuroohjus/[/m]
 
 euroaika
 	[m1]/ˈeuroˌɑikɑ/[/m]
@@ -22879,9 +22303,6 @@ eurokraatti
 
 euromarkkinat
 	[m1]/ˈeuroˌmɑrkkinɑt/[/m]
-
-euro-ohjus
-	[m1]/ˈeuroohjus/[/m]
 
 eurooppalainen
 	[m1]/ˈeurooppɑˌlɑinen/[/m]
@@ -23036,17 +22457,14 @@ eväsvoileipä
 evätä
 	[m1]/ˈevætæ/[/m]
 
+ex tempore
+	[m1]/eks ˈtempore/[/m]
+
 ex-
 	[m1]/ex/[/m]
 
-eximia cum laude approbatur
-	[m1]/ˈexiˌmiɑ[/m]
-
 exlibris
 	[m1]/ˈ[i]~[/i]/[/m]
-
-ex tempore
-	[m1]/ex[/m]
 
 faabeli
 	[m1]/ˈfɑɑbeli/[/m]
@@ -23062,12 +22480,6 @@ fabuloida
 
 fabulointi
 	[m1]/ˈfɑbuˌlointi/[/m]
-
-factoring
-	[m1]/ˈfɑctoring/[/m]
-
-factoringyhtiö
-	[m1]/ˈfɑctoˌringyhˌtiø/[/m]
 
 fagosyytti
 	[m1]/ˈfɑgoˌsyytti/[/m]
@@ -23200,9 +22612,6 @@ fanaattisuus
 
 fanatismi
 	[m1]/ˈfɑnɑˌtismi/[/m]
-
-fan club
-	[m1]/fɑn[/m]
 
 faneeri
 	[m1]/ˈfɑneeri/[/m]
@@ -23361,7 +22770,7 @@ fasistipuolue
 	[m1]/ˈfɑsistiˌpuolue/[/m]
 
 fast food
-	[m1]/fɑst[/m]
+	[m1]/fɑst ˈfood/[/m]
 
 fataali
 	[m1]/ˈfɑtɑɑli/[/m]
@@ -23417,9 +22826,6 @@ federalistinen
 federatiivinen
 	[m1]/ˈfederɑˌtiivinen/[/m]
 
-feedback
-	[m1]/ˈfeedbɑck/[/m]
-
 feeniks
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -23467,9 +22873,6 @@ feministisesti
 
 femto-
 	[m1]/ˈfemto/[/m]
-
-fenkoli
-	[m1]/ˈ[i]~[/i]/[/m]
 
 fenkoli
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -24045,7 +23448,7 @@ flaamilainen
 	[m1]/ˈflɑɑmiˌlɑinen/[/m]
 
 flaamin kieli
-	[m1]/ˈflɑɑmin[/m]
+	[m1]/ˈflɑɑmin ˈkieli/[/m]
 
 flaksi
 	[m1]/ˈflɑksi/[/m]
@@ -24055,9 +23458,6 @@ flambeerata
 
 flambeeraus
 	[m1]/ˈflɑmbeeˌrɑus/[/m]
-
-flamenco
-	[m1]/ˈflɑmenco/[/m]
 
 flamingo
 	[m1]/ˈflɑmingo/[/m]
@@ -24113,11 +23513,11 @@ flokki
 floksi
 	[m1]/ˈ[i]~[/i]/[/m]
 
+floor show
+	[m1]/ˈfloorsow/[/m]
+
 floora
 	[m1]/ˈfloorɑ/[/m]
-
-floor show
-	[m1]/ˈfloor[/m]
 
 flopata
 	[m1]/ˈflopɑtɑ/[/m]
@@ -24317,9 +23717,6 @@ fontanelli
 foorumi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-force majeure
-	[m1]/ˈforce[/m]
-
 forelli
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -24421,9 +23818,6 @@ fosfaatti
 
 fosfaattilannoite
 	[m1]/ˈfosfɑɑttiˌlɑnnoite/[/m]
-
--fosfaattinen
-	[m1]/ˈfosfɑɑtˌtinen/[/m]
 
 fosforesenssi
 	[m1]/ˈfosforeˌsenssi/[/m]
@@ -24530,9 +23924,6 @@ framilla
 framille
 	[m1]/ˈfrɑmille/[/m]
 
-franchising
-	[m1]/ˈfrɑnchising/[/m]
-
 frangi
 	[m1]/ˈfrɑngi/[/m]
 
@@ -24572,21 +23963,6 @@ fraseologia
 fraseologinen
 	[m1]/ˈfrɑseˌoloˌginen/[/m]
 
-freelance
-	[m1]/ˈfreelɑnce/[/m]
-
-freelancenäyttelijä
-	[m1]/ˈfreelɑnˌcenæˌytteˌlijæ/[/m]
-
-freelancer
-	[m1]/ˈfreelɑncer/[/m]
-
-freelancetoimittaja
-	[m1]/ˈfreelɑnceˌtoimitˌtɑjɑ/[/m]
-
-freelancetyö
-	[m1]/ˈfreelɑnˌcetyø/[/m]
-
 freesia
 	[m1]/ˈfreesiɑ/[/m]
 
@@ -24601,9 +23977,6 @@ frekvenssi
 
 frekvenssimodulaatio
 	[m1]/ˈfrekvensˌsimoduˌlɑɑtio/[/m]
-
--frekvenssinen
-	[m1]/ˈfrekvensˌsinen/[/m]
 
 frekventti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -24630,9 +24003,6 @@ frigidiys
 	[m1]/ˈfrigiˌdiys/[/m]
 
 friikki
-	[m1]/ˈ[i]~[/i]/[/m]
-
-friisi
 	[m1]/ˈ[i]~[/i]/[/m]
 
 friisi
@@ -24933,7 +24303,7 @@ fääri
 	[m1]/ˈfææri/[/m]
 
 fäärin kieli
-	[m1]/ˈfæærin[/m]
+	[m1]/ˈfæærin ˈkieli/[/m]
 
 förskotti
 	[m1]/ˈførskotti/[/m]
@@ -24963,7 +24333,7 @@ gaeli
 	[m1]/ˈgɑeli/[/m]
 
 gaelin kieli
-	[m1]/ˈgɑelin[/m]
+	[m1]/ˈgɑelin ˈkieli/[/m]
 
 galaksi
 	[m1]/ˈgɑlɑksi/[/m]
@@ -25078,9 +24448,6 @@ gastronomisesti
 
 gastrula
 	[m1]/ˈgɑstrulɑ/[/m]
-
-gaucho
-	[m1]/ˈgɑucho/[/m]
 
 gaullelainen
 	[m1]/ˈgɑulleˌlɑinen/[/m]
@@ -25395,7 +24762,7 @@ gimma
 	[m1]/ˈgimmɑ/[/m]
 
 ginger ale
-	[m1]/ˈginger[/m]
+	[m1]/ˈgindʒer ˈeil/[/m]
 
 gini
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -25426,9 +24793,6 @@ glasnost
 
 glaukooma
 	[m1]/ˈglɑukoomɑ/[/m]
-
-glencheck
-	[m1]/ˈ[i]~[/i]/[/m]
 
 globaali
 	[m1]/ˈglobɑɑli/[/m]
@@ -25514,14 +24878,14 @@ gnostisistisesti
 gnuu
 	[m1]/ˈ[i]~[/i]/[/m]
 
-gobeliini
-	[m1]/ˈgobeˌliini/[/m]
-
 go-go
 	[m1]/ˈgogo/[/m]
 
 go-go-tyttö
 	[m1]/ˈgogoˌtyttø/[/m]
+
+gobeliini
+	[m1]/ˈgobeˌliini/[/m]
 
 golf
 	[m1]/[i]~[/i]/[/m]
@@ -25916,6 +25280,15 @@ gyroskooppi
 gängi
 	[m1]/ˈgængi/[/m]
 
+h-hetki
+	[m1]/ˈhhetki/[/m]
+
+H-kisko
+	[m1]/ˈhkisko/[/m]
+
+H-teräs
+	[m1]/ˈhteræs/[/m]
+
 ha
 	[m1]/hɑ/[/m]
 
@@ -26048,11 +25421,11 @@ haara
 haara-
 	[m1]/ˈhɑɑrɑ/[/m]
 
-haaraantua
-	[m1]/ˈhɑɑrɑɑnˌtuɑ/[/m]
-
 haara-asento
 	[m1]/ˈhɑɑrɑɑˌsento/[/m]
+
+haaraantua
+	[m1]/ˈhɑɑrɑɑnˌtuɑ/[/m]
 
 haarahyppy
 	[m1]/ˈhɑɑrɑˌhyppy/[/m]
@@ -26278,9 +25651,6 @@ haasteottelu
 
 haastetodistus
 	[m1]/ˈhɑɑstetoˌdistus/[/m]
-
-haava
-	[m1]/ˈhɑɑvɑ/[/m]
 
 haava
 	[m1]/ˈhɑɑvɑ/[/m]
@@ -26525,9 +25895,6 @@ haikeus
 haiku
 	[m1]/ˈhɑiku/[/m]
 
-haiku
-	[m1]/ˈhɑiku/[/m]
-
 hailakka
 	[m1]/ˈhɑilɑkkɑ/[/m]
 
@@ -26687,11 +26054,14 @@ haiven
 haivene
 	[m1]/ˈhɑivene/[/m]
 
--haiveninen
-	[m1]/ˈhɑiveˌninen/[/m]
-
 haja-
 	[m1]/ˈhɑjɑ/[/m]
+
+haja-asutus
+	[m1]/ˈhɑjɑɑˌsutus/[/m]
+
+haja-asutusalue
+	[m1]/ˈhɑjɑɑˌsutuˌsɑlue/[/m]
 
 hajaannus
 	[m1]/ˈhɑjɑɑnnus/[/m]
@@ -26704,12 +26074,6 @@ hajaannuttaa
 
 hajaantua
 	[m1]/ˈhɑjɑɑnˌtuɑ/[/m]
-
-haja-asutus
-	[m1]/ˈhɑjɑɑˌsutus/[/m]
-
-haja-asutusalue
-	[m1]/ˈhɑjɑɑˌsutuˌsɑlue/[/m]
 
 hajaesiintymä
 	[m1]/ˈhɑjɑeˌsiintymæ/[/m]
@@ -26930,9 +26294,6 @@ hajuvirhe
 haka
 	[m1]/ˈhɑkɑ/[/m]
 
-haka
-	[m1]/ˈhɑkɑ/[/m]
-
 hakaliitos
 	[m1]/ˈhɑkɑˌliitos/[/m]
 
@@ -27140,15 +26501,6 @@ hakuaika
 hakuammunta
 	[m1]/ˈhɑkuˌɑmmuntɑ/[/m]
 
--hakuinen
-	[m1]/ˈhɑkuinen/[/m]
-
--hakuisesti
-	[m1]/ˈhɑkuiˌsesti/[/m]
-
--hakuisuus
-	[m1]/ˈhɑkuisuus/[/m]
-
 hakukelpoinen
 	[m1]/ˈhɑkukelˌpoinen/[/m]
 
@@ -27193,9 +26545,6 @@ halailu
 
 halaista
 	[m1]/ˈhɑlɑistɑ/[/m]
-
-halata
-	[m1]/ˈhɑlɑtɑ/[/m]
 
 halata
 	[m1]/ˈhɑlɑtɑ/[/m]
@@ -27277,9 +26626,6 @@ halkinainen
 
 halkio
 	[m1]/ˈhɑlkio/[/m]
-
--halkioinen
-	[m1]/ˈhɑlkiˌoinen/[/m]
 
 halko
 	[m1]/ˈhɑlko/[/m]
@@ -27365,9 +26711,6 @@ halleluja
 halli
 	[m1]/ˈhɑlli/[/m]
 
-halli
-	[m1]/ˈhɑlli/[/m]
-
 halliennätys
 	[m1]/ˈhɑllienˌnætys/[/m]
 
@@ -27422,6 +26765,15 @@ hallintaoikeus
 hallinto
 	[m1]/ˈhɑllinto/[/m]
 
+hallinto-oikeudellinen
+	[m1]/ˈhɑllinˌtooiˌkeudelˌlinen/[/m]
+
+hallinto-oikeus
+	[m1]/ˈhɑllinˌtooiˌkeus/[/m]
+
+hallinto-oppi
+	[m1]/ˈhɑllinˌtooppi/[/m]
+
 hallintoalamainen
 	[m1]/ˈhɑllinˌtoɑlɑˌmɑinen/[/m]
 
@@ -27457,15 +26809,6 @@ hallintoneuvos
 
 hallintoneuvosto
 	[m1]/ˈhɑllintoˌneuvosto/[/m]
-
-hallinto-oikeudellinen
-	[m1]/ˈhɑllinˌtooiˌkeudelˌlinen/[/m]
-
-hallinto-oikeus
-	[m1]/ˈhɑllinˌtooiˌkeus/[/m]
-
-hallinto-oppi
-	[m1]/ˈhɑllinˌtooppi/[/m]
 
 hallintoporras
 	[m1]/ˈhɑllintoˌporrɑs/[/m]
@@ -27896,9 +27239,6 @@ hameenhelma
 hameenlieve
 	[m1]/ˈhɑmeenˌlieve/[/m]
 
--hameinen
-	[m1]/ˈhɑmeinen/[/m]
-
 hamekangas
 	[m1]/ˈhɑmeˌkɑngɑs/[/m]
 
@@ -28058,9 +27398,6 @@ hammastarha
 hammaste
 	[m1]/ˈhɑmmɑste/[/m]
 
--hammasteinen
-	[m1]/ˈhɑmmɑsˌteinen/[/m]
-
 hammasteknikko
 	[m1]/ˈhɑmmɑsˌteknikko/[/m]
 
@@ -28072,9 +27409,6 @@ hammastikku
 
 hammastua
 	[m1]/ˈhɑmmɑsˌtuɑ/[/m]
-
--hammastuksinen
-	[m1]/ˈhɑmmɑsˌtuksinen/[/m]
 
 hammastus
 	[m1]/ˈhɑmmɑstus/[/m]
@@ -28129,9 +27463,6 @@ hampaattomasti
 
 hampaattomuus
 	[m1]/ˈhɑmpɑɑtˌtomuus/[/m]
-
--hampainen
-	[m1]/ˈhɑmpɑinen/[/m]
 
 hampaisto
 	[m1]/ˈhɑmpɑisto/[/m]
@@ -28202,9 +27533,6 @@ hanakkuus
 hanaolut
 	[m1]/ˈhɑnɑˌolut/[/m]
 
-handicap
-	[m1]/ˈhɑndicɑp/[/m]
-
 handsfree-toiminto
 	[m1]/ˈhɑndsfreeˌtoiminto/[/m]
 
@@ -28274,14 +27602,8 @@ hankaantua
 hankahaarainen
 	[m1]/ˈhɑnkɑˌhɑɑrɑinen/[/m]
 
--hankaiminen
-	[m1]/ˈhɑnkɑiˌminen/[/m]
-
 hankain
 	[m1]/ˈhɑnkɑin/[/m]
-
--hankainen
-	[m1]/ˈhɑnkɑinen/[/m]
 
 hankala
 	[m1]/ˈhɑnkɑlɑ/[/m]
@@ -28452,7 +27774,7 @@ hanti
 	[m1]/ˈhɑnti/[/m]
 
 hantin kieli
-	[m1]/ˈhɑntin[/m]
+	[m1]/ˈhɑntin ˈkieli/[/m]
 
 hantlankari
 	[m1]/ˈhɑntlɑnˌkɑri/[/m]
@@ -28716,7 +28038,7 @@ happoveikko
 	[m1]/ˈhɑppoˌveikko/[/m]
 
 happy hour
-	[m1]/ˈhɑppy[/m]
+	[m1]/ˈhɑpi ˈowr/[/m]
 
 hapro
 	[m1]/ˈhɑpro/[/m]
@@ -28735,9 +28057,6 @@ hapsottaa
 
 hapsu
 	[m1]/ˈhɑpsu/[/m]
-
--hapsuinen
-	[m1]/ˈhɑpsuinen/[/m]
 
 hapsullinen
 	[m1]/ˈhɑpsulˌlinen/[/m]
@@ -28820,6 +28139,9 @@ harha
 harha-aistimus
 	[m1]/ˈhɑrhɑɑˌistimus/[/m]
 
+harha-askel
+	[m1]/ˈhɑrhɑɑskel/[/m]
+
 harhaan
 	[m1]/ˈhɑrhɑɑn/[/m]
 
@@ -28834,9 +28156,6 @@ harhaantua
 
 harhaanvievä
 	[m1]/ˈhɑrhɑɑnˌvievæ/[/m]
-
-harha-askel
-	[m1]/ˈhɑrhɑɑskel/[/m]
 
 harhahavainto
 	[m1]/ˈhɑrhɑhɑˌvɑinto/[/m]
@@ -28973,9 +28292,6 @@ harjaantuneisuus
 harjahirsi
 	[m1]/ˈhɑrjɑˌhirsi/[/m]
 
--harjainen
-	[m1]/ˈhɑrjɑinen/[/m]
-
 harjakaiset
 	[m1]/ˈhɑrjɑˌkɑiset/[/m]
 
@@ -28993,9 +28309,6 @@ harjakiharrin
 
 harjakorkeus
 	[m1]/ˈhɑrjɑˌkorkeus/[/m]
-
--harjaksinen
-	[m1]/ˈhɑrjɑkˌsinen/[/m]
 
 harjakuusi
 	[m1]/ˈhɑrjɑˌkuusi/[/m]
@@ -29576,9 +28889,6 @@ harteet
 harteikas
 	[m1]/ˈhɑrteikɑs/[/m]
 
--harteinen
-	[m1]/ˈhɑrteinen/[/m]
-
 harteva
 	[m1]/ˈhɑrtevɑ/[/m]
 
@@ -29587,9 +28897,6 @@ hartia
 
 hartiahuivi
 	[m1]/ˈhɑrtiɑˌhuivi/[/m]
-
--hartiainen
-	[m1]/ˈhɑrtiˌɑinen/[/m]
 
 hartiakappale
 	[m1]/ˈhɑrtiɑˌkɑppɑle/[/m]
@@ -29990,9 +29297,6 @@ haukkoa
 haukku
 	[m1]/ˈhɑukku/[/m]
 
-haukku
-	[m1]/ˈhɑukku/[/m]
-
 haukkua
 	[m1]/ˈhɑukˌkuɑ/[/m]
 
@@ -30263,6 +29567,9 @@ havainnollisuus
 havainto
 	[m1]/ˈhɑvɑinto/[/m]
 
+havainto-opetus
+	[m1]/ˈhɑvɑinˌtoopetus/[/m]
+
 havaintoasema
 	[m1]/ˈhɑvɑinˌtoɑˌsemɑ/[/m]
 
@@ -30283,9 +29590,6 @@ havaintokynnys
 
 havaintomenetelmä
 	[m1]/ˈhɑvɑinˌtomeneˌtelmæ/[/m]
-
-havainto-opetus
-	[m1]/ˈhɑvɑinˌtoopetus/[/m]
 
 havaintopsykologia
 	[m1]/ˈhɑvɑinˌtopsyˌkoloˌgiɑ/[/m]
@@ -30377,14 +29681,8 @@ havuttaa
 he
 	[m1]/[i]~[/i]/[/m]
 
-he
-	[m1]/[i]~[/i]/[/m]
-
 heavy
 	[m1]/ˈheɑvy/[/m]
-
-heavyrock
-	[m1]/ˈheɑˌvyrock/[/m]
 
 hebrea
 	[m1]/ˈhebreɑ/[/m]
@@ -30780,7 +30078,7 @@ heikottaa
 	[m1]/ˈheikottɑɑ/[/m]
 
 heikun keikun
-	[m1]/ˈheikun[/m]
+	[m1]/ˈheikun ˈkeikun/[/m]
 
 heikäläinen
 	[m1]/ˈheikæˌlæinen/[/m]
@@ -30877,9 +30175,6 @@ heimo
 
 heimoaate
 	[m1]/ˈheimoˌɑɑte/[/m]
-
--heimoinen
-	[m1]/ˈheimoinen/[/m]
 
 heimojuhla
 	[m1]/ˈheimoˌjuhlɑ/[/m]
@@ -31106,9 +30401,6 @@ heittoase
 heittoasento
 	[m1]/ˈheittoɑˌsento/[/m]
 
--heittoinen
-	[m1]/ˈheittoinen/[/m]
-
 heittoistuin
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -31232,12 +30524,6 @@ hekumoida
 hela
 	[m1]/ˈhelɑ/[/m]
 
-hela
-	[m1]/ˈhelɑ/[/m]
-
--helainen
-	[m1]/ˈhelɑinen/[/m]
-
 helakanpunainen
 	[m1]/ˈhelɑˌkɑnpuˌnɑinen/[/m]
 
@@ -31274,6 +30560,9 @@ heleys
 heleä
 	[m1]/ˈheleæ/[/m]
 
+heleä-ääninen
+	[m1]/ˈheleˌæææninen/[/m]
+
 heleäihoinen
 	[m1]/ˈheleˌæihoinen/[/m]
 
@@ -31288,9 +30577,6 @@ heleäsointinen
 
 heleästi
 	[m1]/ˈheleˌæsti/[/m]
-
-heleä-ääninen
-	[m1]/ˈheleˌæææninen/[/m]
 
 helibor
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -31570,9 +30856,6 @@ hellävaroin
 
 helma
 	[m1]/ˈhelmɑ/[/m]
-
--helmainen
-	[m1]/ˈhelmɑinen/[/m]
 
 helmapelti
 	[m1]/ˈhelmɑˌpelti/[/m]
@@ -32601,7 +31884,7 @@ heprealaiskirje
 	[m1]/ˈhepreɑˌlɑiskirje/[/m]
 
 heprean kieli
-	[m1]/ˈhepreɑn[/m]
+	[m1]/ˈhepreɑn ˈkieli/[/m]
 
 hepreankielinen
 	[m1]/ˈhepreɑnˌkielinen/[/m]
@@ -32872,12 +32155,6 @@ hermoilla
 
 hermoimpulssi
 	[m1]/ˈhermoimˌpulssi/[/m]
-
--hermoinen
-	[m1]/ˈhermoinen/[/m]
-
--hermoisuus
-	[m1]/ˈhermoisuus/[/m]
 
 hermojännitys
 	[m1]/ˈhermoˌjænnitys/[/m]
@@ -33314,9 +32591,6 @@ hetale
 hete
 	[m1]/ˈ[i]~[/i]/[/m]
 
--heteinen
-	[m1]/ˈheteinen/[/m]
-
 heteka
 	[m1]/ˈhetekɑ/[/m]
 
@@ -33389,9 +32663,6 @@ hetki
 hetkinen
 	[m1]/ˈ[i]~[/i]/[/m]
 
--hetkinen
-	[m1]/ˈhetkinen/[/m]
-
 hetkipalvelus
 	[m1]/ˈhetkiˌpɑlvelus/[/m]
 
@@ -33435,9 +32706,6 @@ hevillä
 	[m1]/ˈhevillæ/[/m]
 
 hevin
-	[m1]/ˈ[i]~[/i]/[/m]
-
-hevirock
 	[m1]/ˈ[i]~[/i]/[/m]
 
 hevonen
@@ -33578,17 +32846,17 @@ hevosvetoinen
 hevosvoima
 	[m1]/ˈhevosˌvoimɑ/[/m]
 
--hevosvoimainen
-	[m1]/ˈhevosˌvoimɑinen/[/m]
-
 hevosyskä
 	[m1]/ˈhevoˌsyskæ/[/m]
 
-h-hetki
-	[m1]/ˈhhetki/[/m]
-
 hi
 	[m1]/[i]~[/i]/[/m]
+
+hi-hat
+	[m1]/ˈhihɑt/[/m]
+
+HI-virus
+	[m1]/ˈhivirus/[/m]
 
 hibiskus
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -34127,17 +33395,11 @@ hifi
 hifilaite
 	[m1]/ˈhifiˌlɑite/[/m]
 
-high tech
-	[m1]/high[/m]
-
 hiha
 	[m1]/ˈhihɑ/[/m]
 
 hiha-aukko
 	[m1]/ˈhihɑɑˌukko/[/m]
-
--hihainen
-	[m1]/ˈhihɑinen/[/m]
 
 hihalauta
 	[m1]/ˈhihɑˌlɑutɑ/[/m]
@@ -34159,9 +33421,6 @@ hihansuu
 
 hihastin
 	[m1]/ˈhihɑstin/[/m]
-
-hi-hat
-	[m1]/ˈhihɑt/[/m]
 
 hihaton
 	[m1]/ˈhihɑton/[/m]
@@ -34432,9 +33691,6 @@ hiilimurskarata
 
 hiilimusta
 	[m1]/ˈhiiliˌmustɑ/[/m]
-
--hiilinen
-	[m1]/ˈhiilinen/[/m]
 
 hiilipaperi
 	[m1]/ˈhiiliˌpɑperi/[/m]
@@ -34943,9 +34199,6 @@ himmeästi
 himo
 	[m1]/ˈ[i]~[/i]/[/m]
 
--himoinen
-	[m1]/ˈhimoinen/[/m]
-
 himoita
 	[m1]/ˈhimoitɑ/[/m]
 
@@ -35013,7 +34266,7 @@ hindi
 	[m1]/ˈ[i]~[/i]/[/m]
 
 hindin kieli
-	[m1]/ˈhindin[/m]
+	[m1]/ˈhindin ˈkieli/[/m]
 
 hindu
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -35270,9 +34523,6 @@ hiota
 hiottaa
 	[m1]/ˈhiottɑɑ/[/m]
 
-hiottaa
-	[m1]/ˈhiottɑɑ/[/m]
-
 hioutua
 	[m1]/ˈhiouˌtuɑ/[/m]
 
@@ -35305,9 +34555,6 @@ hiphoppari
 
 hipiä
 	[m1]/ˈhipiæ/[/m]
-
--hipiäinen
-	[m1]/ˈhipiˌæinen/[/m]
 
 hipoa
 	[m1]/ˈhipoɑ/[/m]
@@ -35715,7 +34962,7 @@ hissuksiin
 	[m1]/ˈ[i]~[/i]/[/m]
 
 hissun kissun
-	[m1]/ˈhissun[/m]
+	[m1]/ˈhissun ˈkissun/[/m]
 
 hissutella
 	[m1]/ˈhissuˌtellɑ/[/m]
@@ -35807,12 +35054,6 @@ hitaasti
 hitaus
 	[m1]/ˈhitɑus/[/m]
 
-hi-tec
-	[m1]/ˈhitec/[/m]
-
-hi-tech
-	[m1]/ˈhitech/[/m]
-
 hitonmoinen
 	[m1]/ˈhitonˌmoinen/[/m]
 
@@ -35866,9 +35107,6 @@ hitsaussuojain
 
 hitsautua
 	[m1]/ˈhitsɑuˌtuɑ/[/m]
-
-hitsi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 hitsi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -35941,9 +35179,6 @@ hiuksenhieno
 
 hiuksenhienosti
 	[m1]/ˈhiuksenˌhienosti/[/m]
-
--hiuksinen
-	[m1]/ˈhiukˌsinen/[/m]
 
 hius
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -36143,6 +35378,27 @@ hiutuma
 HIV
 	[m1]/hiv/[/m]
 
+HIV-infektio
+	[m1]/ˈhivinˌfektio/[/m]
+
+HIV-koe
+	[m1]/ˈhivkoe/[/m]
+
+HIV-positiivinen
+	[m1]/ˈhivposiˌtiivinen/[/m]
+
+HIV-positiivisuus
+	[m1]/ˈhivposiˌtiivisuus/[/m]
+
+HIV-tartunta
+	[m1]/ˈhivtɑrˌtuntɑ/[/m]
+
+HIV-testi
+	[m1]/ˈhivtesti/[/m]
+
+HIV-vasta-aine
+	[m1]/ˈhivvɑsˌtɑɑine/[/m]
+
 hivauttaa
 	[m1]/ˈhivɑˌuttɑɑ/[/m]
 
@@ -36164,27 +35420,6 @@ hivenlannoite
 hivenravinne
 	[m1]/ˈhivenrɑˌvinne/[/m]
 
-HIV-infektio
-	[m1]/ˈhivinˌfektio/[/m]
-
-HI-virus
-	[m1]/ˈhivirus/[/m]
-
-HIV-koe
-	[m1]/ˈhivkoe/[/m]
-
-HIV-positiivinen
-	[m1]/ˈhivposiˌtiivinen/[/m]
-
-HIV-positiivisuus
-	[m1]/ˈhivposiˌtiivisuus/[/m]
-
-HIV-tartunta
-	[m1]/ˈhivtɑrˌtuntɑ/[/m]
-
-HIV-testi
-	[m1]/ˈhivtesti/[/m]
-
 hivuttaa
 	[m1]/ˈhivuttɑɑ/[/m]
 
@@ -36193,12 +35428,6 @@ hivuttautua
 
 hivutus
 	[m1]/ˈ[i]~[/i]/[/m]
-
-HIV-vasta-aine
-	[m1]/ˈhivvɑsˌtɑɑine/[/m]
-
-H-kisko
-	[m1]/ˈhkisko/[/m]
 
 hobby
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -36368,6 +35597,9 @@ hoitelu
 hoito
 	[m1]/ˈ[i]~[/i]/[/m]
 
+hoito-ohje
+	[m1]/ˈhoitoohje/[/m]
+
 hoitoaine
 	[m1]/ˈhoitoˌɑine/[/m]
 
@@ -36376,12 +35608,6 @@ hoitohenkilökunta
 
 hoitohenkilöstö
 	[m1]/ˈhoitoˌhenkiˌløstø/[/m]
-
--hoitoinen
-	[m1]/ˈhoitoinen/[/m]
-
--hoitoisuus
-	[m1]/ˈhoitoisuus/[/m]
 
 hoitokoti
 	[m1]/ˈhoitoˌkoti/[/m]
@@ -36412,9 +35638,6 @@ hoitomenetelmä
 
 hoitomyöntyvyys
 	[m1]/ˈhoitoˌmyøntyvyys/[/m]
-
-hoito-ohje
-	[m1]/ˈhoitoohje/[/m]
 
 hoitoonohjaus
 	[m1]/ˈhoitooˌnohjɑus/[/m]
@@ -36590,11 +35813,11 @@ hollandaisekastike
 hollannikas
 	[m1]/ˈhollɑnˌnikɑs/[/m]
 
+hollannin kieli
+	[m1]/ˈhollɑnnin ˈkieli/[/m]
+
 hollanninkastike
 	[m1]/ˈhollɑnˌninkɑsˌtike/[/m]
-
-hollannin kieli
-	[m1]/ˈhollɑnnin[/m]
 
 hollanti
 	[m1]/ˈhollɑnti/[/m]
@@ -36632,12 +35855,6 @@ holtti
 holvata
 	[m1]/ˈholvɑtɑ/[/m]
 
-holvata
-	[m1]/ˈholvɑtɑ/[/m]
-
-holvaus
-	[m1]/ˈholvɑus/[/m]
-
 holvaus
 	[m1]/ˈholvɑus/[/m]
 
@@ -36661,9 +35878,6 @@ holvikäytävä
 
 holvimaalaus
 	[m1]/ˈholviˌmɑɑlɑus/[/m]
-
--holvinen
-	[m1]/ˈholvinen/[/m]
 
 holvirakenne
 	[m1]/ˈholvirɑˌkenne/[/m]
@@ -36868,9 +36082,6 @@ honkapuu
 
 honkkeli
 	[m1]/ˈ[i]~[/i]/[/m]
-
-honoris causa
-	[m1]/ˈhonoris[/m]
 
 honottaa
 	[m1]/ˈhonottɑɑ/[/m]
@@ -37259,14 +36470,14 @@ hospitsi
 hosua
 	[m1]/ˈhosuɑ/[/m]
 
+hot dog
+	[m1]/[i]~[/i]/[/m]
+
 hotaista
 	[m1]/ˈhotɑistɑ/[/m]
 
 hotaisu
 	[m1]/ˈhotɑisu/[/m]
-
-hot dog
-	[m1]/hot[/m]
 
 hoteisiin
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -37397,9 +36608,6 @@ housuasu
 housuhame
 	[m1]/ˈhousuˌhɑme/[/m]
 
--housuinen
-	[m1]/ˈhousuinen/[/m]
-
 housukangas
 	[m1]/ˈhousuˌkɑngɑs/[/m]
 
@@ -37499,9 +36707,6 @@ hovitavat
 hoviväki
 	[m1]/ˈhoviˌvæki/[/m]
 
-H-teräs
-	[m1]/ˈhteræs/[/m]
-
 hugenotti
 	[m1]/ˈhugeˌnotti/[/m]
 
@@ -37556,11 +36761,11 @@ huhuta
 hui
 	[m1]/ˈ[i]~[/i]/[/m]
 
+hui hai
+	[m1]/ˈhui ˈhɑi/[/m]
+
 huidella
 	[m1]/ˈhuidellɑ/[/m]
-
-hui hai
-	[m1]/ˈhui[/m]
 
 huijari
 	[m1]/ˈhuijɑri/[/m]
@@ -37715,6 +36920,12 @@ huippu
 huippu-
 	[m1]/ˈhuippu/[/m]
 
+huippu-urheilija
+	[m1]/ˈhuippuurˌheilijɑ/[/m]
+
+huippu-urheilu
+	[m1]/ˈhuippuurˌheilu/[/m]
+
 huippuarvo
 	[m1]/ˈhuippuˌɑrvo/[/m]
 
@@ -37726,9 +36937,6 @@ huippuhyvä
 
 huippuimuri
 	[m1]/ˈhuippuiˌmuri/[/m]
-
--huippuinen
-	[m1]/ˈhuippuinen/[/m]
 
 huippujännite
 	[m1]/ˈhuippuˌjænnite/[/m]
@@ -37829,12 +37037,6 @@ huippututkimus
 huipputylsä
 	[m1]/ˈhuippuˌtylsæ/[/m]
 
-huippu-urheilija
-	[m1]/ˈhuippuurˌheilijɑ/[/m]
-
-huippu-urheilu
-	[m1]/ˈhuippuurˌheilu/[/m]
-
 huippuälykäs
 	[m1]/ˈhuippuˌælykæs/[/m]
 
@@ -37877,11 +37079,11 @@ huiskia
 huiskilo
 	[m1]/ˈ[i]~[/i]/[/m]
 
+huiskin haiskin
+	[m1]/ˈhuiskin ˈhɑiskin/[/m]
+
 huiskina
 	[m1]/ˈhuiskinɑ/[/m]
-
-huiskin haiskin
-	[m1]/ˈhuiskin[/m]
 
 huiskinta
 	[m1]/ˈhuiskintɑ/[/m]
@@ -37938,7 +37140,7 @@ hujakoilla
 	[m1]/ˈhujɑˌkoillɑ/[/m]
 
 hujan hajan
-	[m1]/ˈhujɑn[/m]
+	[m1]/ˈhujɑn ˈhɑjɑn/[/m]
 
 hujaus
 	[m1]/ˈhujɑus/[/m]
@@ -38042,11 +37244,11 @@ hukuttautua
 hula
 	[m1]/ˈhulɑ/[/m]
 
-hulahtaa
-	[m1]/ˈhulɑhtɑɑ/[/m]
-
 hula-hula
 	[m1]/ˈhulɑˌhulɑ/[/m]
+
+hulahtaa
+	[m1]/ˈhulɑhtɑɑ/[/m]
 
 hulatanssija
 	[m1]/ˈhulɑˌtɑnssijɑ/[/m]
@@ -38832,7 +38034,7 @@ huomionosoitus
 	[m1]/ˈhuomiˌonoˌsoitus/[/m]
 
 huomioon ottaen
-	[m1]/ˈhuomioon[/m]
+	[m1]/ˈhuomioon ˈottɑen/[/m]
 
 huomioonotto
 	[m1]/ˈhuomiˌoonotto/[/m]
@@ -38884,9 +38086,6 @@ huoneenvuokra
 
 huoneilma
 	[m1]/ˈhuoneilmɑ/[/m]
-
--huoneinen
-	[m1]/ˈhuoneinen/[/m]
 
 huoneisto
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -38966,6 +38165,15 @@ huonevehka
 huono
 	[m1]/ˈ[i]~[/i]/[/m]
 
+huono-onninen
+	[m1]/ˈhuonoonˌninen/[/m]
+
+huono-oppinen
+	[m1]/ˈhuonoopˌpinen/[/m]
+
+huono-osainen
+	[m1]/ˈhuonooˌsɑinen/[/m]
+
 huonokasvuinen
 	[m1]/ˈhuonokɑsˌvuinen/[/m]
 
@@ -39013,15 +38221,6 @@ huonontua
 
 huononäköinen
 	[m1]/ˈhuononæˌkøinen/[/m]
-
-huono-onninen
-	[m1]/ˈhuonoonˌninen/[/m]
-
-huono-oppinen
-	[m1]/ˈhuonoopˌpinen/[/m]
-
-huono-osainen
-	[m1]/ˈhuonooˌsɑinen/[/m]
 
 huonopalkkainen
 	[m1]/ˈhuonopɑlkˌkɑinen/[/m]
@@ -39590,9 +38789,6 @@ huuliltalukeminen
 huuliltaluku
 	[m1]/ˈhuulilˌtɑluku/[/m]
 
--huulinen
-	[m1]/ˈhuulinen/[/m]
-
 huulio
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -40133,9 +39329,6 @@ hyllystö
 hyllyttää
 	[m1]/ˈhyllyttææ/[/m]
 
-hyllyttää
-	[m1]/ˈhyllyttææ/[/m]
-
 hyllyä
 	[m1]/ˈhyllyæ/[/m]
 
@@ -40667,14 +39860,17 @@ hyvyys
 hyvä
 	[m1]/ˈhyvæ/[/m]
 
+hyvä-huuto
+	[m1]/ˈhyvæˌhuuto/[/m]
+
+hyvä-ääninen
+	[m1]/ˈhyvææˌæninen/[/m]
+
 hyväenteinen
 	[m1]/ˈhyvæenˌteinen/[/m]
 
 hyvähermoinen
 	[m1]/ˈhyvæherˌmoinen/[/m]
-
-hyvä-huuto
-	[m1]/ˈhyvæˌhuuto/[/m]
 
 hyväillä
 	[m1]/ˈhyvæillæ/[/m]
@@ -40893,13 +40089,10 @@ hyväuskoisuus
 	[m1]/ˈhyvæusˌkoisuus/[/m]
 
 hyvää tarkoittava
-	[m1]/ˈhyvææ[/m]
+	[m1]/ˈhyvææ ˈtɑrkoitˌtɑvɑ/[/m]
 
 hyvää tekevä
-	[m1]/ˈhyvææ[/m]
-
-hyvä-ääninen
-	[m1]/ˈhyvææˌæninen/[/m]
+	[m1]/ˈhyvææ ˈtekevæ/[/m]
 
 hyyde
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -41181,7 +40374,7 @@ hä
 	[m1]/hæ/[/m]
 
 hädin tuskin
-	[m1]/ˈhædin[/m]
+	[m1]/ˈhædin ˈtuskin/[/m]
 
 hädissään
 	[m1]/ˈhædissææn/[/m]
@@ -41302,9 +40495,6 @@ häiriytyä
 
 häiriö
 	[m1]/ˈhæiriø/[/m]
-
--häiriöinen
-	[m1]/ˈhæiriˌøinen/[/m]
 
 häiriötekijä
 	[m1]/ˈhæiriˌøteˌkijæ/[/m]
@@ -41665,9 +40855,6 @@ häntä
 
 häntähihna
 	[m1]/ˈhæntæˌhihnɑ/[/m]
-
--häntäinen
-	[m1]/ˈhæntæinen/[/m]
 
 häntäjouhi
 	[m1]/ˈhæntæˌjouhi/[/m]
@@ -42974,6 +42161,12 @@ höösätä
 höösäys
 	[m1]/ˈhøøsæys/[/m]
 
+I-palkki
+	[m1]/ˈipɑlkki/[/m]
+
+I-teräs
+	[m1]/ˈiteræs/[/m]
+
 iankaiken
 	[m1]/ˈiɑnˌkɑiken/[/m]
 
@@ -42985,9 +42178,6 @@ iankaikkisesti
 
 iankaikkisuus
 	[m1]/ˈiɑnˌkɑikkisuus/[/m]
-
-icing
-	[m1]/ˈ[i]~[/i]/[/m]
 
 idea
 	[m1]/ˈideɑ/[/m]
@@ -43310,6 +42500,9 @@ ihme
 ihme-
 	[m1]/ˈihme/[/m]
 
+ihme-elävä
+	[m1]/ˈihmeeˌlævæ/[/m]
+
 ihmeaine
 	[m1]/ˈihmeˌɑine/[/m]
 
@@ -43321,9 +42514,6 @@ ihmeellisesti
 
 ihmeellisyys
 	[m1]/ˈihmeelˌlisyys/[/m]
-
-ihme-elävä
-	[m1]/ˈihmeeˌlævæ/[/m]
 
 ihmeemmin
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -43667,14 +42857,14 @@ ihmisäly
 iho
 	[m1]/ˈ[i]~[/i]/[/m]
 
+iho-oire
+	[m1]/ˈihooˌire/[/m]
+
 ihohengitys
 	[m1]/ˈihoˌhengitys/[/m]
 
 ihohuokonen
 	[m1]/ˈihoˌhuokonen/[/m]
-
--ihoinen
-	[m1]/ˈihoinen/[/m]
 
 ihokarva
 	[m1]/ˈihoˌkɑrvɑ/[/m]
@@ -43738,9 +42928,6 @@ ihonväri
 
 ihonvärinen
 	[m1]/ˈihonˌværinen/[/m]
-
-iho-oire
-	[m1]/ˈihooˌire/[/m]
 
 ihopaita
 	[m1]/ˈihoˌpɑitɑ/[/m]
@@ -43809,7 +42996,7 @@ iiriläinen
 	[m1]/ˈiiriˌlæinen/[/m]
 
 iirin kieli
-	[m1]/ˈiirin[/m]
+	[m1]/ˈiirin ˈkieli/[/m]
 
 iiris
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -43844,6 +43031,12 @@ ikenet
 iki-
 	[m1]/ˈiki/[/m]
 
+iki-ihana
+	[m1]/ˈikiiˌhɑnɑ/[/m]
+
+iki-ihastunut
+	[m1]/ˈikiiˌhɑstunut/[/m]
+
 ikiaika
 	[m1]/ˈikiˌɑikɑ/[/m]
 
@@ -43855,12 +43048,6 @@ ikihonka
 
 ikihyvä
 	[m1]/ˈikiˌhyvæ/[/m]
-
-iki-ihana
-	[m1]/ˈikiiˌhɑnɑ/[/m]
-
-iki-ihastunut
-	[m1]/ˈikiiˌhɑstunut/[/m]
 
 ikikukka
 	[m1]/ˈikiˌkukkɑ/[/m]
@@ -43933,9 +43120,6 @@ ikkuna
 
 ikkuna-aukko
 	[m1]/ˈikkuˌnɑɑukko/[/m]
-
--ikkunainen
-	[m1]/ˈikkuˌnɑinen/[/m]
 
 ikkunakirjekuori
 	[m1]/ˈikkunɑˌkirjeˌkuori/[/m]
@@ -44111,9 +43295,6 @@ ikäihminen
 ikäinen
 	[m1]/ˈikæinen/[/m]
 
--ikäisyys
-	[m1]/ˈikæisyys/[/m]
-
 ikäjakauma
 	[m1]/ˈikæjɑˌkɑumɑ/[/m]
 
@@ -44256,7 +43437,7 @@ ikään
 	[m1]/ˈikææn/[/m]
 
 ikään kuin
-	[m1]/ˈikææn[/m]
+	[m1]/ˈikææn ˈkuin/[/m]
 
 ikääntyä
 	[m1]/ˈikæænˌtyæ/[/m]
@@ -44356,9 +43537,6 @@ ilkikurisuus
 
 ilkimys
 	[m1]/ˈ[i]~[/i]/[/m]
-
--ilkinen
-	[m1]/ˈilkinen/[/m]
 
 ilkityö
 	[m1]/ˈilkityø/[/m]
@@ -44462,6 +43640,12 @@ ilma
 ilma-alus
 	[m1]/ˈilmɑɑlus/[/m]
 
+ilma-ase
+	[m1]/ˈilmɑɑse/[/m]
+
+ilma-aukko
+	[m1]/ˈilmɑɑˌukko/[/m]
+
 ilmaannousu
 	[m1]/ˈilmɑɑnˌnousu/[/m]
 
@@ -44470,12 +43654,6 @@ ilmaantua
 
 ilmaantuvuus
 	[m1]/ˈilmɑɑnˌtuvuus/[/m]
-
-ilma-ase
-	[m1]/ˈilmɑɑse/[/m]
-
-ilma-aukko
-	[m1]/ˈilmɑɑˌukko/[/m]
 
 ilmaherruus
 	[m1]/ˈilmɑˌherruus/[/m]
@@ -44870,14 +44048,14 @@ ilmastin
 ilmasto
 	[m1]/ˈilmɑsto/[/m]
 
+ilmasto-oppi
+	[m1]/ˈilmɑsˌtooppi/[/m]
+
 ilmastohoito
 	[m1]/ˈilmɑstoˌhoito/[/m]
 
 ilmastoida
 	[m1]/ˈilmɑsˌtoidɑ/[/m]
-
--ilmastoinen
-	[m1]/ˈilmɑsˌtoinen/[/m]
 
 ilmastointi
 	[m1]/ˈilmɑsˌtointi/[/m]
@@ -44902,9 +44080,6 @@ ilmastollisesti
 
 ilmastonvaihdos
 	[m1]/ˈilmɑstonˌvɑihdos/[/m]
-
-ilmasto-oppi
-	[m1]/ˈilmɑsˌtooppi/[/m]
 
 ilmastotiede
 	[m1]/ˈilmɑstoˌtiede/[/m]
@@ -45096,9 +44271,6 @@ ilmeillä
 	[m1]/ˈilmeillæ/[/m]
 
 ilmeily
-	[m1]/ˈ[i]~[/i]/[/m]
-
-ilmeinen
 	[m1]/ˈ[i]~[/i]/[/m]
 
 ilmeinen
@@ -46937,9 +46109,6 @@ intoilla
 intoilu
 	[m1]/ˈ[i]~[/i]/[/m]
 
--intoinen
-	[m1]/ˈintoinen/[/m]
-
 intomieli
 	[m1]/ˈintoˌmieli/[/m]
 
@@ -47134,9 +46303,6 @@ ionisoitua
 
 ionosfääri
 	[m1]/ˈionosˌfææri/[/m]
-
-I-palkki
-	[m1]/ˈipɑlkki/[/m]
 
 ipana
 	[m1]/ˈipɑnɑ/[/m]
@@ -47564,9 +46730,6 @@ iskuala
 iskuhaava
 	[m1]/ˈiskuˌhɑɑvɑ/[/m]
 
--iskuinen
-	[m1]/ˈiskuinen/[/m]
-
 iskujoukko
 	[m1]/ˈiskujoˌukko/[/m]
 
@@ -47681,11 +46844,11 @@ islamisti
 islamistinen
 	[m1]/ˈislɑˌmistinen/[/m]
 
+islannin kieli
+	[m1]/ˈislɑnnin ˈkieli/[/m]
+
 islanninjäkälä
 	[m1]/ˈislɑnˌninjæˌkælæ/[/m]
-
-islannin kieli
-	[m1]/ˈislɑnnin[/m]
 
 islanninkielinen
 	[m1]/ˈislɑnninˌkielinen/[/m]
@@ -47701,12 +46864,6 @@ ismi
 
 iso
 	[m1]/ˈ[i]~[/i]/[/m]
-
-iso
-	[m1]/ˈ[i]~[/i]/[/m]
-
-iso-
-	[m1]/ˈiso/[/m]
 
 iso-
 	[m1]/ˈiso/[/m]
@@ -47840,9 +46997,6 @@ isosuinen
 isota
 	[m1]/ˈisotɑ/[/m]
 
-isota
-	[m1]/ˈisotɑ/[/m]
-
 isotaivot
 	[m1]/ˈisoˌtɑivot/[/m]
 
@@ -47893,9 +47047,6 @@ isoäiti
 
 israelilainen
 	[m1]/ˈisrɑˌeliˌlɑinen/[/m]
-
-issikka
-	[m1]/ˈissikkɑ/[/m]
 
 issikka
 	[m1]/ˈissikkɑ/[/m]
@@ -48254,11 +47405,11 @@ italiaano
 italialainen
 	[m1]/ˈitɑˌliɑˌlɑinen/[/m]
 
+italian kieli
+	[m1]/ˈitɑˌliɑn ˈkieli/[/m]
+
 italianisti
 	[m1]/ˈitɑˌliɑˌnisti/[/m]
-
-italian kieli
-	[m1]/ˈitɑˌliɑn[/m]
 
 italiankielinen
 	[m1]/ˈitɑliˌɑnkieˌlinen/[/m]
@@ -48283,9 +47434,6 @@ itarasti
 
 itaruus
 	[m1]/ˈitɑruus/[/m]
-
-I-teräs
-	[m1]/ˈiteræs/[/m]
 
 itikka
 	[m1]/ˈitikkɑ/[/m]
@@ -48365,6 +47513,9 @@ itsari
 itse
 	[m1]/ˈ[i]~[/i]/[/m]
 
+itse kukin
+	[m1]/ˈitse ˈkukin/[/m]
+
 itsearvostus
 	[m1]/ˈitseˌɑrvostus/[/m]
 
@@ -48374,11 +47525,11 @@ itsehallinnollinen
 itsehallinto
 	[m1]/ˈitseˌhɑllinto/[/m]
 
-itsehallintoalue
-	[m1]/ˈitseˌhɑllinˌtoɑˌlue/[/m]
-
 itsehallinto-oikeus
 	[m1]/ˈitseˌhɑllinˌtooiˌkeus/[/m]
+
+itsehallintoalue
+	[m1]/ˈitseˌhɑllinˌtoɑˌlue/[/m]
 
 itsehalveksinta
 	[m1]/ˈitseˌhɑlvekˌsintɑ/[/m]
@@ -48475,9 +47626,6 @@ itsekritiikki
 
 itsekseen
 	[m1]/ˈ[i]~[/i]/[/m]
-
-itse kukin
-	[m1]/ˈitse[/m]
 
 itsekunnioitus
 	[m1]/ˈitseˌkunniˌoitus/[/m]
@@ -49049,14 +48197,14 @@ iäksi
 iäkäs
 	[m1]/ˈiækæs/[/m]
 
+iän kaiken
+	[m1]/ˈiæn ˈkɑiken/[/m]
+
 iänikuinen
 	[m1]/ˈiæniˌkuinen/[/m]
 
 iänikuisesti
 	[m1]/ˈiæniˌkuisesti/[/m]
-
-iän kaiken
-	[m1]/ˈiæn[/m]
 
 iänmääritys
 	[m1]/ˈiænˌmææritys/[/m]
@@ -49075,6 +48223,9 @@ ja
 
 jaa
 	[m1]/ˈjɑɑ/[/m]
+
+jaa-ääni
+	[m1]/ˈjɑɑææni/[/m]
 
 jaaha
 	[m1]/ˈjɑɑhɑ/[/m]
@@ -49102,12 +48253,6 @@ jaaritus
 
 jaarli
 	[m1]/ˈjɑɑrli/[/m]
-
-jaa-ääni
-	[m1]/ˈjɑɑææni/[/m]
-
-jacquard
-	[m1]/ˈjɑcquɑrd/[/m]
 
 jade
 	[m1]/ˈjɑde/[/m]
@@ -49144,9 +48289,6 @@ jahkata
 
 jahnata
 	[m1]/ˈjɑhnɑtɑ/[/m]
-
-jahti
-	[m1]/ˈjɑhti/[/m]
 
 jahti
 	[m1]/ˈjɑhti/[/m]
@@ -49232,9 +48374,6 @@ jakkara
 jakki
 	[m1]/ˈjɑkki/[/m]
 
-jakki
-	[m1]/ˈjɑkki/[/m]
-
 jakkihärkä
 	[m1]/ˈjɑkkiˌhærkæ/[/m]
 
@@ -49253,14 +48392,17 @@ jakkupukuinen
 jako
 	[m1]/ˈjɑko/[/m]
 
+jako-osa
+	[m1]/ˈjɑkoosɑ/[/m]
+
+jako-osuus
+	[m1]/ˈjɑkoosuus/[/m]
+
 jakoavain
 	[m1]/ˈjɑkoˌɑvɑin/[/m]
 
 jakobiini
 	[m1]/ˈjɑkoˌbiini/[/m]
-
--jakoinen
-	[m1]/ˈjɑkoinen/[/m]
 
 jakojäännös
 	[m1]/ˈjɑkoˌjæænnøs/[/m]
@@ -49288,12 +48430,6 @@ jakomielisyys
 
 jakomielitauti
 	[m1]/ˈjɑkoˌmieliˌtɑuti/[/m]
-
-jako-osa
-	[m1]/ˈjɑkoosɑ/[/m]
-
-jako-osuus
-	[m1]/ˈjɑkoosuus/[/m]
 
 jakopuitteet
 	[m1]/ˈjɑkoˌpuitteet/[/m]
@@ -49336,9 +48472,6 @@ jaksella
 
 jakso
 	[m1]/ˈjɑkso/[/m]
-
--jaksoinen
-	[m1]/ˈjɑksoinen/[/m]
 
 jaksoittain
 	[m1]/ˈjɑksoittɑin/[/m]
@@ -49463,9 +48596,6 @@ jalkahoitola
 jalkaholvi
 	[m1]/ˈjɑlkɑˌholvi/[/m]
 
--jalkainen
-	[m1]/ˈjɑlkɑinen/[/m]
-
 jalkainvalidi
 	[m1]/ˈjɑlkɑinˌvɑlidi/[/m]
 
@@ -49517,6 +48647,9 @@ jalkamylly
 jalkapallo
 	[m1]/ˈjɑlkɑˌpɑllo/[/m]
 
+jalkapallo-ottelu
+	[m1]/ˈjɑlkɑpɑlˌloottelu/[/m]
+
 jalkapalloilija
 	[m1]/ˈjɑlkɑpɑlˌloilijɑ/[/m]
 
@@ -49528,9 +48661,6 @@ jalkapallojoukkue
 
 jalkapallokenttä
 	[m1]/ˈjɑlkɑˌpɑlloˌkenttæ/[/m]
-
-jalkapallo-ottelu
-	[m1]/ˈjɑlkɑpɑlˌloottelu/[/m]
 
 jalkapallopeli
 	[m1]/ˈjɑlkɑˌpɑlloˌpeli/[/m]
@@ -49856,6 +48986,9 @@ jalustin
 jalustinhihna
 	[m1]/ˈjɑlusˌtinhihnɑ/[/m]
 
+jam session
+	[m1]/dʒɑm ˈseson/[/m]
+
 jamaan
 	[m1]/ˈjɑmɑɑn/[/m]
 
@@ -49876,9 +49009,6 @@ jammailla
 
 jammata
 	[m1]/ˈjɑmmɑtɑ/[/m]
-
-jam session
-	[m1]/jɑm[/m]
 
 jamssi
 	[m1]/ˈjɑmssi/[/m]
@@ -49977,7 +49107,7 @@ japanilainen
 	[m1]/ˈjɑpɑniˌlɑinen/[/m]
 
 japanin kieli
-	[m1]/ˈjɑpɑnin[/m]
+	[m1]/ˈjɑpɑnin ˈkieli/[/m]
 
 japaninkielinen
 	[m1]/ˈjɑpɑninˌkielinen/[/m]
@@ -50090,6 +49220,18 @@ jatke
 jatko
 	[m1]/ˈjɑtko/[/m]
 
+jatko-opinnot
+	[m1]/ˈjɑtkooˌpinnot/[/m]
+
+jatko-opiskelija
+	[m1]/ˈjɑtkooˌpiskeˌlijɑ/[/m]
+
+jatko-opiskelu
+	[m1]/ˈjɑtkooˌpiskelu/[/m]
+
+jatko-osa
+	[m1]/ˈjɑtkoosɑ/[/m]
+
 jatkoaika
 	[m1]/ˈjɑtkoˌɑikɑ/[/m]
 
@@ -50122,18 +49264,6 @@ jatkokäsittely
 
 jatkolevy
 	[m1]/ˈjɑtkoˌlevy/[/m]
-
-jatko-opinnot
-	[m1]/ˈjɑtkooˌpinnot/[/m]
-
-jatko-opiskelija
-	[m1]/ˈjɑtkooˌpiskeˌlijɑ/[/m]
-
-jatko-opiskelu
-	[m1]/ˈjɑtkooˌpiskelu/[/m]
-
-jatko-osa
-	[m1]/ˈjɑtkoosɑ/[/m]
 
 jatkopaikka
 	[m1]/ˈjɑtkoˌpɑikkɑ/[/m]
@@ -50315,11 +49445,11 @@ jazztanssi
 jeeppi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-jeesata
-	[m1]/ˈjeesɑtɑ/[/m]
-
 jees-mies
 	[m1]/ˈjeesmies/[/m]
+
+jeesata
+	[m1]/ˈjeesɑtɑ/[/m]
 
 jeesus
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -50334,7 +49464,7 @@ jeeveli
 	[m1]/ˈ[i]~[/i]/[/m]
 
 Jehovan todistaja
-	[m1]/ˈjehovɑn[/m]
+	[m1]/ˈjehovɑn ˈtodisˌtɑjɑ/[/m]
 
 jehu
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -50460,10 +49590,10 @@ jesuiittaveljestö
 	[m1]/ˈjesuˌiittɑˌveljestø/[/m]
 
 jet lag
-	[m1]/jet[/m]
+	[m1]/dʒet lɑg/[/m]
 
 jet set
-	[m1]/jet[/m]
+	[m1]/dʒet set/[/m]
 
 jetsetti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -50509,9 +49639,6 @@ jobbari
 
 jobinposti
 	[m1]/ˈjobinˌposti/[/m]
-
-jockey
-	[m1]/ˈ[i]~[/i]/[/m]
 
 jodi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -50705,6 +49832,9 @@ johteinen
 johto
 	[m1]/ˈ[i]~[/i]/[/m]
 
+johto-oppi
+	[m1]/ˈjohtooppi/[/m]
+
 johtoaihe
 	[m1]/ˈjohtoˌɑihe/[/m]
 
@@ -50722,9 +49852,6 @@ johtohahmo
 
 johtohenkilö
 	[m1]/ˈjohtoˌhenkilø/[/m]
-
--johtoinen
-	[m1]/ˈjohtoinen/[/m]
 
 johtojänne
 	[m1]/ˈjohtoˌjænne/[/m]
@@ -50752,9 +49879,6 @@ johtomies
 
 johtomotiivi
 	[m1]/ˈjohtomoˌtiivi/[/m]
-
-johto-oppi
-	[m1]/ˈjohtooppi/[/m]
 
 johtopaikka
 	[m1]/ˈjohtoˌpɑikkɑ/[/m]
@@ -50808,7 +49932,7 @@ joikua
 	[m1]/ˈjoikuɑ/[/m]
 
 joint venture -yritys
-	[m1]/ˈjoint[/m]
+	[m1]/ˈdʒoint ˈventur ˈyritys/[/m]
 
 joisto
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -50822,29 +49946,29 @@ jojo
 jojolaihduttaminen
 	[m1]/ˈjojoˌlɑihdutˌtɑminen/[/m]
 
-joka
-	[m1]/ˈjokɑ/[/m]
+jok'ainoa
+	[m1]/ˈjokɑiˌnoɑ/[/m]
+
+jok'ikinen
+	[m1]/ˈjokiˌkinen/[/m]
 
 joka
 	[m1]/ˈjokɑ/[/m]
+
+joka ainoa
+	[m1]/ˈjokɑ ˈɑinoɑ/[/m]
+
+joka ikinen
+	[m1]/ˈjokɑ ˈikinen/[/m]
 
 joka-aamuinen
 	[m1]/ˈjokɑɑɑˌmuinen/[/m]
-
-joka ainoa
-	[m1]/ˈjokɑ[/m]
-
-joka ikinen
-	[m1]/ˈjokɑ[/m]
 
 jokailtainen
 	[m1]/ˈjokɑilˌtɑinen/[/m]
 
 jokainen
 	[m1]/ˈjokɑinen/[/m]
-
-jok'ainoa
-	[m1]/ˈjokɑiˌnoɑ/[/m]
 
 jokakesäinen
 	[m1]/ˈjokɑkeˌsæinen/[/m]
@@ -50914,9 +50038,6 @@ jokikala
 
 jokikalastus
 	[m1]/ˈjokikɑˌlɑstus/[/m]
-
-jok'ikinen
-	[m1]/ˈjokiˌkinen/[/m]
 
 jokilaakso
 	[m1]/ˈjokiˌlɑɑkso/[/m]
@@ -51269,6 +50390,15 @@ joukkio
 joukko
 	[m1]/ˈ[i]~[/i]/[/m]
 
+joukko-opetus
+	[m1]/ˈjoukˌkoopetus/[/m]
+
+joukko-oppi
+	[m1]/ˈjoukˌkooppi/[/m]
+
+joukko-osasto
+	[m1]/ˈjoukˌkoosɑsto/[/m]
+
 joukkoanomus
 	[m1]/ˈjoukˌkoɑˌnomus/[/m]
 
@@ -51352,15 +50482,6 @@ joukkomurhaaja
 
 joukkomuutto
 	[m1]/ˈjoukkoˌmuutto/[/m]
-
-joukko-opetus
-	[m1]/ˈjoukˌkoopetus/[/m]
-
-joukko-oppi
-	[m1]/ˈjoukˌkooppi/[/m]
-
-joukko-osasto
-	[m1]/ˈjoukˌkoosɑsto/[/m]
 
 joukkopidätys
 	[m1]/ˈjoukˌkopiˌdætys/[/m]
@@ -51452,9 +50573,6 @@ joukkue
 joukkuehenki
 	[m1]/ˈjoukˌkueˌhenki/[/m]
 
--joukkueinen
-	[m1]/ˈjoukkuˌeinen/[/m]
-
 joukkuekilpailu
 	[m1]/ˈjoukˌkuekilˌpɑilu/[/m]
 
@@ -51490,6 +50608,9 @@ joule
 
 joulu
 	[m1]/ˈ[i]~[/i]/[/m]
+
+joulu-ukko
+	[m1]/ˈjouluukko/[/m]
 
 jouluaamu
 	[m1]/ˈjouluˌɑɑmu/[/m]
@@ -51722,9 +50843,6 @@ joulutunnelma
 joulutähti
 	[m1]/ˈjouluˌtæhti/[/m]
 
-joulu-ukko
-	[m1]/ˈjouluukko/[/m]
-
 jouluvalmistelut
 	[m1]/ˈjouluˌvɑlmisˌtelut/[/m]
 
@@ -51781,9 +50899,6 @@ jousikvintetto
 
 jousimies
 	[m1]/ˈ[i]~[/i]/[/m]
-
--jousinen
-	[m1]/ˈjousinen/[/m]
 
 jousiorkesteri
 	[m1]/ˈjousiˌorkesˌteri/[/m]
@@ -51857,6 +50972,9 @@ joustinpatja
 jousto
 	[m1]/ˈ[i]~[/i]/[/m]
 
+jousto-ommel
+	[m1]/ˈjousˌtoommel/[/m]
+
 joustoaika
 	[m1]/ˈjoustoˌɑikɑ/[/m]
 
@@ -51874,9 +50992,6 @@ joustolanka
 
 joustoliike
 	[m1]/ˈjoustoˌliike/[/m]
-
-jousto-ommel
-	[m1]/ˈjousˌtoommel/[/m]
 
 joustopiikkiäes
 	[m1]/ˈjoustoˌpiikkiˌæes/[/m]
@@ -51967,9 +51082,6 @@ joutuisasti
 
 joviaali
 	[m1]/ˈjoviˌɑɑli/[/m]
-
-joystick
-	[m1]/ˈ[i]~[/i]/[/m]
 
 judata
 	[m1]/ˈjudɑtɑ/[/m]
@@ -52743,7 +51855,7 @@ junioriurheilu
 	[m1]/ˈjuniˌoriurˌheilu/[/m]
 
 junk food
-	[m1]/junk[/m]
+	[m1]/dʒuŋk ˈfud/[/m]
 
 junkkari
 	[m1]/ˈjunkkɑri/[/m]
@@ -52756,12 +51868,6 @@ junnu
 
 juntata
 	[m1]/ˈjuntɑtɑ/[/m]
-
-juntata
-	[m1]/ˈjuntɑtɑ/[/m]
-
-juntta
-	[m1]/ˈjunttɑ/[/m]
 
 juntta
 	[m1]/ˈjunttɑ/[/m]
@@ -52843,9 +51949,6 @@ juoksuhauta
 
 juoksuhiekka
 	[m1]/ˈjuoksuˌhiekkɑ/[/m]
-
--juoksuinen
-	[m1]/ˈjuoksuinen/[/m]
 
 juoksujalka
 	[m1]/ˈjuoksuˌjɑlkɑ/[/m]
@@ -53342,9 +52445,6 @@ jury
 Jussi
 	[m1]/ˈjussi/[/m]
 
--jussi
-	[m1]/ˈjussi/[/m]
-
 jussinparta
 	[m1]/ˈjussinˌpɑrtɑ/[/m]
 
@@ -53468,9 +52568,6 @@ juurevuus
 juuri
 	[m1]/ˈ[i]~[/i]/[/m]
 
-juuri
-	[m1]/ˈ[i]~[/i]/[/m]
-
 juuria
 	[m1]/ˈjuuriɑ/[/m]
 
@@ -53537,9 +52634,6 @@ juurimerkki
 juurimukula
 	[m1]/ˈjuuriˌmukulɑ/[/m]
 
--juurinen
-	[m1]/ˈjuurinen/[/m]
-
 juurinystyrä
 	[m1]/ˈjuuriˌnystyræ/[/m]
 
@@ -53585,14 +52679,14 @@ juurruttaa
 juurrutus
 	[m1]/ˈ[i]~[/i]/[/m]
 
-juurtaa
-	[m1]/ˈjuurtɑɑ/[/m]
-
 juurta jaksaen
-	[m1]/ˈjuurtɑ[/m]
+	[m1]/ˈjuurtɑ ˈjɑksɑen/[/m]
 
 juurta jaksain
-	[m1]/ˈjuurtɑ[/m]
+	[m1]/ˈjuurtɑ ˈjɑksɑin/[/m]
+
+juurtaa
+	[m1]/ˈjuurtɑɑ/[/m]
 
 juurtua
 	[m1]/ˈjuurtuɑ/[/m]
@@ -53759,9 +52853,6 @@ juutas
 juutti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-juutti
-	[m1]/ˈ[i]~[/i]/[/m]
-
 juuttikangas
 	[m1]/ˈjuuttiˌkɑngɑs/[/m]
 
@@ -53846,6 +52937,9 @@ jymy
 jymy-
 	[m1]/ˈjymy/[/m]
 
+jymy-yllätys
+	[m1]/ˈjymyylˌlætys/[/m]
+
 jymyjuttu
 	[m1]/ˈjymyˌjuttu/[/m]
 
@@ -53857,9 +52951,6 @@ jymypaukku
 
 jymyuutinen
 	[m1]/ˈjymyˌuutinen/[/m]
-
-jymy-yllätys
-	[m1]/ˈjymyylˌlætys/[/m]
 
 jymähdellä
 	[m1]/ˈjymæhˌdellæ/[/m]
@@ -54016,12 +53107,6 @@ jyrätä
 
 jyräys
 	[m1]/ˈjyræys/[/m]
-
-jyräys
-	[m1]/ˈjyræys/[/m]
-
-jyräyttää
-	[m1]/ˈjyræˌyttææ/[/m]
 
 jyräyttää
 	[m1]/ˈjyræˌyttææ/[/m]
@@ -54329,6 +53414,18 @@ jälkeläinen
 jälki
 	[m1]/ˈjælki/[/m]
 
+jälki-ilmiö
+	[m1]/ˈjælkiilˌmiø/[/m]
+
+jälki-ilmoittautua
+	[m1]/ˈjælkiilˌmoittɑuˌtuɑ/[/m]
+
+jälki-istunta
+	[m1]/ˈjælkiisˌtuntɑ/[/m]
+
+jälki-istunto
+	[m1]/ˈjælkiisˌtunto/[/m]
+
 jälkiartikkeli
 	[m1]/ˈjælkiˌɑrtikˌkeli/[/m]
 
@@ -54358,18 +53455,6 @@ jälkihypnoosi
 
 jälkihypnoottinen
 	[m1]/ˈjælkihypˌnoottinen/[/m]
-
-jälki-ilmiö
-	[m1]/ˈjælkiilˌmiø/[/m]
-
-jälki-ilmoittautua
-	[m1]/ˈjælkiilˌmoittɑuˌtuɑ/[/m]
-
-jälki-istunta
-	[m1]/ˈjælkiisˌtuntɑ/[/m]
-
-jälki-istunto
-	[m1]/ˈjælkiisˌtunto/[/m]
 
 jälkijakso
 	[m1]/ˈjælkiˌjɑkso/[/m]
@@ -55217,11 +54302,11 @@ järkevöityä
 järki
 	[m1]/ˈjærki/[/m]
 
-järkiavioliitto
-	[m1]/ˈjærkiˌɑvioˌliitto/[/m]
-
 järki-ihminen
 	[m1]/ˈjærkiihˌminen/[/m]
+
+järkiavioliitto
+	[m1]/ˈjærkiˌɑvioˌliitto/[/m]
 
 järkiinnyttää
 	[m1]/ˈjærkiinˌnyttææ/[/m]
@@ -55234,9 +54319,6 @@ järkikulta
 
 järkimies
 	[m1]/ˈjærkimies/[/m]
-
--järkinen
-	[m1]/ˈjærkinen/[/m]
 
 järkiperuste
 	[m1]/ˈjærkipeˌruste/[/m]
@@ -55376,9 +54458,6 @@ järvimalmi
 järvimatkailu
 	[m1]/ˈjærvimɑtˌkɑilu/[/m]
 
--järvinen
-	[m1]/ˈjærvinen/[/m]
-
 järvireitti
 	[m1]/ˈjærviˌreitti/[/m]
 
@@ -55438,9 +54517,6 @@ jäsenhankinta
 
 jäsenhinta
 	[m1]/ˈjæsenˌhintɑ/[/m]
-
--jäseninen
-	[m1]/ˈjæseˌninen/[/m]
 
 jäsenistö
 	[m1]/ˈjæseˌnistø/[/m]
@@ -55817,6 +54893,9 @@ jäytää
 jää
 	[m1]/ˈjææ/[/m]
 
+jää-viileäkaappi
+	[m1]/ˈjææviiˌleæˌkɑɑppi/[/m]
+
 jääaavikko
 	[m1]/ˈjææɑɑˌvikko/[/m]
 
@@ -55861,9 +54940,6 @@ jäähdytellä
 
 jäähdytin
 	[m1]/ˈjææhdytin/[/m]
-
--jäähdytteinen
-	[m1]/ˈjææhdytˌteinen/[/m]
 
 jäähdyttely
 	[m1]/ˈjææhdytˌtely/[/m]
@@ -55946,14 +55022,14 @@ jäähyväistilaisuus
 jääkaappi
 	[m1]/ˈjæækɑɑppi/[/m]
 
+jääkaappi-pakastin
+	[m1]/ˈjæækɑɑpˌpipɑˌkɑstin/[/m]
+
 jääkaappikylmä
 	[m1]/ˈjæækɑɑppiˌkylmæ/[/m]
 
 jääkaappimargariini
 	[m1]/ˈjæækɑɑppiˌmɑrgɑˌriini/[/m]
-
-jääkaappi-pakastin
-	[m1]/ˈjæækɑɑpˌpipɑˌkɑstin/[/m]
 
 jääkahvi
 	[m1]/ˈjæækɑhvi/[/m]
@@ -55985,6 +55061,9 @@ jääkide
 jääkiekko
 	[m1]/ˈjæækiekko/[/m]
 
+jääkiekko-ottelu
+	[m1]/ˈjæækiekˌkoottelu/[/m]
+
 jääkiekkoilija
 	[m1]/ˈjæækiekˌkoilijɑ/[/m]
 
@@ -56002,9 +55081,6 @@ jääkiekkokenttä
 
 jääkiekkomaila
 	[m1]/ˈjæækiekkoˌmɑilɑ/[/m]
-
-jääkiekko-ottelu
-	[m1]/ˈjæækiekˌkoottelu/[/m]
 
 jääkiekkopeli
 	[m1]/ˈjæækiekˌkopeli/[/m]
@@ -56147,6 +55223,9 @@ jääpalapussi
 jääpallo
 	[m1]/ˈjææpɑllo/[/m]
 
+jääpallo-ottelu
+	[m1]/ˈjææpɑlˌloottelu/[/m]
+
 jääpalloilija
 	[m1]/ˈjææpɑlˌloilijɑ/[/m]
 
@@ -56161,9 +55240,6 @@ jääpallokenttä
 
 jääpallomaila
 	[m1]/ˈjææpɑlloˌmɑilɑ/[/m]
-
-jääpallo-ottelu
-	[m1]/ˈjææpɑlˌloottelu/[/m]
 
 jääpato
 	[m1]/ˈjææpɑto/[/m]
@@ -56223,7 +55299,7 @@ jääsalaatti
 	[m1]/ˈjææsɑˌlɑɑtti/[/m]
 
 jääshow
-	[m1]/ˈjææshow/[/m]
+	[m1]/ˈjææsow/[/m]
 
 jääsohjo
 	[m1]/ˈjææsohjo/[/m]
@@ -56345,9 +55421,6 @@ jäävesi
 jäävi
 	[m1]/ˈjæævi/[/m]
 
-jää-viileäkaappi
-	[m1]/ˈjææviiˌleæˌkɑɑppi/[/m]
-
 jäävirta
 	[m1]/ˈjæævirtɑ/[/m]
 
@@ -56389,6 +55462,9 @@ jötikkä
 
 jöö
 	[m1]/ˈjøø/[/m]
+
+K-takuu
+	[m1]/ˈktɑkuu/[/m]
 
 kaadanta
 	[m1]/ˈkɑɑdɑntɑ/[/m]
@@ -56732,8 +55808,8 @@ kaarevuussäde
 kaari
 	[m1]/ˈkɑɑri/[/m]
 
-kaari
-	[m1]/ˈkɑɑri/[/m]
+kaari-ikkuna
+	[m1]/ˈkɑɑriikˌkunɑ/[/m]
 
 kaariaste
 	[m1]/ˈkɑɑriˌɑste/[/m]
@@ -56743,9 +55819,6 @@ kaarihitsaus
 
 kaariholvi
 	[m1]/ˈkɑɑriˌholvi/[/m]
-
-kaari-ikkuna
-	[m1]/ˈkɑɑriikˌkunɑ/[/m]
 
 kaarikäytävä
 	[m1]/ˈkɑɑriˌkæytævæ/[/m]
@@ -56761,9 +55834,6 @@ kaarimalja
 
 kaariminuutti
 	[m1]/ˈkɑɑrimiˌnuutti/[/m]
-
--kaarinen
-	[m1]/ˈkɑɑrinen/[/m]
 
 kaaripallo
 	[m1]/ˈkɑɑriˌpɑllo/[/m]
@@ -57019,9 +56089,6 @@ kaataa
 
 kaataja
 	[m1]/ˈkɑɑtɑjɑ/[/m]
-
--kaateinen
-	[m1]/ˈkɑɑteinen/[/m]
 
 kaato
 	[m1]/ˈkɑɑto/[/m]
@@ -57383,6 +56450,9 @@ kahdeksisenkymmentä
 kahden
 	[m1]/ˈkɑhden/[/m]
 
+kahden kesken
+	[m1]/ˈkɑhden ˈkesken/[/m]
+
 kahdenarvoinen
 	[m1]/ˈkɑhdenɑrˌvoinen/[/m]
 
@@ -57391,9 +56461,6 @@ kahdenistuttava
 
 kahdenkertainen
 	[m1]/ˈkɑhdenkerˌtɑinen/[/m]
-
-kahden kesken
-	[m1]/ˈkɑhden[/m]
 
 kahdenkeskinen
 	[m1]/ˈkɑhdenˌkeskinen/[/m]
@@ -57860,11 +56927,11 @@ kaihtaa
 kaikaa
 	[m1]/ˈkɑikɑɑ/[/m]
 
+kaiken kaikkiaan
+	[m1]/ˈkɑiken ˈkɑikkiɑɑn/[/m]
+
 kaikenikäinen
 	[m1]/ˈkɑikeniˌkæinen/[/m]
-
-kaiken kaikkiaan
-	[m1]/ˈkɑiken[/m]
 
 kaikenkaltainen
 	[m1]/ˈkɑikenkɑlˌtɑinen/[/m]
@@ -57970,9 +57037,6 @@ kaiku
 
 kaikua
 	[m1]/ˈkɑikuɑ/[/m]
-
--kaikuinen
-	[m1]/ˈkɑikuinen/[/m]
 
 kaikuisa
 	[m1]/ˈkɑikuisɑ/[/m]
@@ -58103,9 +57167,6 @@ kaipuu
 kaira
 	[m1]/ˈkɑirɑ/[/m]
 
-kaira
-	[m1]/ˈkɑirɑ/[/m]
-
 kairanreikä
 	[m1]/ˈkɑirɑnˌreikæ/[/m]
 
@@ -58145,9 +57206,6 @@ kaista
 kaista-ajo
 	[m1]/ˈkɑistɑɑjo/[/m]
 
--kaistainen
-	[m1]/ˈkɑistɑinen/[/m]
-
 kaistale
 	[m1]/ˈkɑistɑle/[/m]
 
@@ -58165,9 +57223,6 @@ kaistaviiva
 
 kait
 	[m1]/ˈkɑit/[/m]
-
-kaita
-	[m1]/ˈkɑitɑ/[/m]
 
 kaita
 	[m1]/ˈkɑitɑ/[/m]
@@ -59600,14 +58655,8 @@ kalifikunta
 kaliiberi
 	[m1]/ˈkɑliiˌberi/[/m]
 
--kaliiberinen
-	[m1]/ˈkɑliiˌberinen/[/m]
-
 kaliiperi
 	[m1]/ˈkɑliiˌperi/[/m]
-
--kaliiperinen
-	[m1]/ˈkɑliiˌperinen/[/m]
 
 kalikka
 	[m1]/ˈkɑlikkɑ/[/m]
@@ -59737,9 +58786,6 @@ kalkkeutua
 
 kalkkeutuma
 	[m1]/ˈkɑlkkeuˌtumɑ/[/m]
-
-kalkki
-	[m1]/ˈkɑlkki/[/m]
 
 kalkki
 	[m1]/ˈkɑlkki/[/m]
@@ -59981,17 +59027,11 @@ kallispalkkainen
 kallistaa
 	[m1]/ˈkɑllistɑɑ/[/m]
 
-kallistaa
-	[m1]/ˈkɑllistɑɑ/[/m]
-
 kallistella
 	[m1]/ˈkɑllisˌtellɑ/[/m]
 
 kallistelu
 	[m1]/ˈkɑllisˌtelu/[/m]
-
-kallistua
-	[m1]/ˈkɑllisˌtuɑ/[/m]
 
 kallistua
 	[m1]/ˈkɑllisˌtuɑ/[/m]
@@ -60010,9 +59050,6 @@ kallistuvakorinen
 
 kallo
 	[m1]/ˈkɑllo/[/m]
-
--kalloinen
-	[m1]/ˈkɑlloinen/[/m]
 
 kallokuva
 	[m1]/ˈkɑlloˌkuvɑ/[/m]
@@ -60073,9 +59110,6 @@ kalori
 
 kalorimetri
 	[m1]/ˈkɑloriˌmetri/[/m]
-
--kalorinen
-	[m1]/ˈkɑloˌrinen/[/m]
 
 kaloriton
 	[m1]/ˈkɑloˌriton/[/m]
@@ -60386,9 +59420,6 @@ kamarimuusikko
 kamarineiti
 	[m1]/ˈkɑmɑriˌneiti/[/m]
 
--kamarinen
-	[m1]/ˈkɑmɑˌrinen/[/m]
-
 kamarineuvos
 	[m1]/ˈkɑmɑriˌneuvos/[/m]
 
@@ -60505,9 +59536,6 @@ kammeta
 
 kammio
 	[m1]/ˈkɑmmio/[/m]
-
--kammioinen
-	[m1]/ˈkɑmmiˌoinen/[/m]
 
 kammiovesi
 	[m1]/ˈkɑmmiˌovesi/[/m]
@@ -60941,9 +59969,6 @@ kanervisto
 kangas
 	[m1]/ˈkɑngɑs/[/m]
 
-kangas
-	[m1]/ˈkɑngɑs/[/m]
-
 kangashapero
 	[m1]/ˈkɑngɑsˌhɑpero/[/m]
 
@@ -61073,9 +60098,6 @@ kangistuttaa
 kani
 	[m1]/ˈkɑni/[/m]
 
-kani
-	[m1]/ˈkɑni/[/m]
-
 kaniini
 	[m1]/ˈkɑniini/[/m]
 
@@ -61108,9 +60130,6 @@ kankaanpainanta
 
 kankaanpala
 	[m1]/ˈkɑnkɑɑnˌpɑlɑ/[/m]
-
-kankainen
-	[m1]/ˈkɑnkɑinen/[/m]
 
 kankainen
 	[m1]/ˈkɑnkɑinen/[/m]
@@ -61159,9 +60178,6 @@ kankkunen
 
 kankuri
 	[m1]/ˈkɑnkuri/[/m]
-
-kanna
-	[m1]/ˈkɑnnɑ/[/m]
 
 kanna
 	[m1]/ˈkɑnnɑ/[/m]
@@ -61342,9 +60358,6 @@ kannunvalanta
 
 kannurusto
 	[m1]/ˈkɑnnuˌrusto/[/m]
-
-kannus
-	[m1]/ˈkɑnnus/[/m]
 
 kannus
 	[m1]/ˈkɑnnus/[/m]
@@ -62084,9 +61097,6 @@ kansimiehistö
 kansimies
 	[m1]/ˈkɑnsimies/[/m]
 
--kansinen
-	[m1]/ˈkɑnsinen/[/m]
-
 kansio
 	[m1]/ˈkɑnsio/[/m]
 
@@ -62180,14 +61190,8 @@ kanssasisar
 kanta
 	[m1]/ˈkɑntɑ/[/m]
 
-kantaa
-	[m1]/ˈkɑntɑɑ/[/m]
-
 kanta-aliupseeri
 	[m1]/ˈkɑntɑɑliˌupseeri/[/m]
-
-kantaan
-	[m1]/ˈkɑntɑɑn/[/m]
 
 kanta-asiakas
 	[m1]/ˈkɑntɑɑˌsiɑkɑs/[/m]
@@ -62200,6 +61204,12 @@ kanta-astuja
 
 kanta-asukas
 	[m1]/ˈkɑntɑɑˌsukɑs/[/m]
+
+kantaa
+	[m1]/ˈkɑntɑɑ/[/m]
+
+kantaan
+	[m1]/ˈkɑntɑɑn/[/m]
 
 kantaatti
 	[m1]/ˈkɑntɑɑtti/[/m]
@@ -62215,12 +61225,6 @@ kantahenkilökunta
 
 kantahenkilöstö
 	[m1]/ˈkɑntɑˌhenkiˌløstø/[/m]
-
--kantainen
-	[m1]/ˈkɑntɑinen/[/m]
-
--kantaisuus
-	[m1]/ˈkɑntɑisuus/[/m]
 
 kantaisä
 	[m1]/ˈkɑntɑisæ/[/m]
@@ -62387,14 +61391,8 @@ kantelukirjelmä
 kantelupukki
 	[m1]/ˈkɑnteluˌpukki/[/m]
 
--kantinen
-	[m1]/ˈkɑntinen/[/m]
-
 kantio
 	[m1]/ˈkɑntio/[/m]
-
-kanto
-	[m1]/ˈkɑnto/[/m]
 
 kanto
 	[m1]/ˈkɑnto/[/m]
@@ -62410,9 +61408,6 @@ kantohihna
 
 kantohinta
 	[m1]/ˈkɑntoˌhintɑ/[/m]
-
-kantoinen
-	[m1]/ˈkɑntoinen/[/m]
 
 kantoinen
 	[m1]/ˈkɑntoinen/[/m]
@@ -62786,12 +61781,6 @@ kapokkipuu
 kappa
 	[m1]/ˈkɑppɑ/[/m]
 
-kappa
-	[m1]/ˈkɑppɑ/[/m]
-
-kappa
-	[m1]/ˈkɑppɑ/[/m]
-
 kappalainen
 	[m1]/ˈkɑppɑˌlɑinen/[/m]
 
@@ -62930,9 +61919,6 @@ kara
 karaatti
 	[m1]/ˈkɑrɑɑtti/[/m]
 
--karaattinen
-	[m1]/ˈkɑrɑɑtˌtinen/[/m]
-
 karabiini
 	[m1]/ˈkɑrɑˌbiini/[/m]
 
@@ -62959,9 +61945,6 @@ karahvi
 
 karahviviini
 	[m1]/ˈkɑrɑhviˌviini/[/m]
-
-karaista
-	[m1]/ˈkɑrɑistɑ/[/m]
 
 karaista
 	[m1]/ˈkɑrɑistɑ/[/m]
@@ -63479,11 +62462,11 @@ karjalaisittain
 karjalaisuus
 	[m1]/ˈkɑrjɑˌlɑisuus/[/m]
 
+karjalan kieli
+	[m1]/ˈkɑrjɑlɑn ˈkieli/[/m]
+
 karjalankarhukoira
 	[m1]/ˈkɑrjɑˌlɑnkɑrhuˌkoirɑ/[/m]
-
-karjalan kieli
-	[m1]/ˈkɑrjɑlɑn[/m]
 
 karjalanneito
 	[m1]/ˈkɑrjɑlɑnˌneito/[/m]
@@ -63635,6 +62618,9 @@ karkaistua
 karkaisu
 	[m1]/ˈkɑrkɑisu/[/m]
 
+karkaisu-uuni
+	[m1]/ˈkɑrkɑiˌsuuuni/[/m]
+
 karkaisuallas
 	[m1]/ˈkɑrkɑisuˌɑllɑs/[/m]
 
@@ -63643,9 +62629,6 @@ karkaisukovuus
 
 karkaisukylpy
 	[m1]/ˈkɑrkɑisuˌkylpy/[/m]
-
-karkaisu-uuni
-	[m1]/ˈkɑrkɑiˌsuuuni/[/m]
 
 karkaus
 	[m1]/ˈkɑrkɑus/[/m]
@@ -64070,17 +63053,11 @@ karskius
 karsta
 	[m1]/ˈkɑrstɑ/[/m]
 
-karsta
-	[m1]/ˈkɑrstɑ/[/m]
-
 karstaaja
 	[m1]/ˈkɑrstɑɑjɑ/[/m]
 
 karstaamo
 	[m1]/ˈkɑrstɑɑmo/[/m]
-
-karstaantua
-	[m1]/ˈkɑrstɑɑnˌtuɑ/[/m]
 
 karstaantua
 	[m1]/ˈkɑrstɑɑnˌtuɑ/[/m]
@@ -64108,9 +63085,6 @@ karstaus
 
 karstauskone
 	[m1]/ˈkɑrstɑˌuskone/[/m]
-
-karstautua
-	[m1]/ˈkɑrstɑuˌtuɑ/[/m]
 
 karstautua
 	[m1]/ˈkɑrstɑuˌtuɑ/[/m]
@@ -64376,9 +63350,6 @@ karvahattu
 karvainen
 	[m1]/ˈkɑrvɑinen/[/m]
 
--karvainen
-	[m1]/ˈkɑrvɑinen/[/m]
-
 karvaisuus
 	[m1]/ˈkɑrvɑisuus/[/m]
 
@@ -64510,9 +63481,6 @@ karvatuppi
 
 karvaturri
 	[m1]/ˈkɑrvɑˌturri/[/m]
-
-karvaus
-	[m1]/ˈkɑrvɑus/[/m]
 
 karvaus
 	[m1]/ˈkɑrvɑus/[/m]
@@ -64939,9 +63907,6 @@ kastetoimitus
 
 kastevesi
 	[m1]/ˈkɑsteˌvesi/[/m]
-
-kasti
-	[m1]/ˈkɑsti/[/m]
 
 kasti
 	[m1]/ˈkɑsti/[/m]
@@ -65402,9 +64367,6 @@ kasvohieronta
 kasvohoito
 	[m1]/ˈkɑsvoˌhoito/[/m]
 
--kasvoinen
-	[m1]/ˈkɑsvoinen/[/m]
-
 kasvojenhoito
 	[m1]/ˈkɑsvojenˌhoito/[/m]
 
@@ -65494,12 +64456,6 @@ kasvuikä
 
 kasvuikäinen
 	[m1]/ˈkɑsvuiˌkæinen/[/m]
-
--kasvuinen
-	[m1]/ˈkɑsvuinen/[/m]
-
--kasvuisuus
-	[m1]/ˈkɑsvuisuus/[/m]
 
 kasvukausi
 	[m1]/ˈkɑsvuˌkɑusi/[/m]
@@ -65906,9 +64862,6 @@ katkismus
 katko
 	[m1]/ˈkɑtko/[/m]
 
-katko
-	[m1]/ˈkɑtko/[/m]
-
 katkoa
 	[m1]/ˈkɑtkoɑ/[/m]
 
@@ -66077,12 +65030,6 @@ katse
 katseenvangitsija
 	[m1]/ˈkɑtseenˌvɑngitˌsijɑ/[/m]
 
--katseinen
-	[m1]/ˈkɑtseinen/[/m]
-
--katseisuus
-	[m1]/ˈkɑtseisuus/[/m]
-
 katsekontakti
 	[m1]/ˈkɑtseˌkontɑkti/[/m]
 
@@ -66179,6 +65126,9 @@ kattilallinen
 katto
 	[m1]/ˈkɑtto/[/m]
 
+katto-organisaatio
+	[m1]/ˈkɑttoorˌgɑniˌsɑɑtio/[/m]
+
 kattohaikara
 	[m1]/ˈkɑttoˌhɑikɑrɑ/[/m]
 
@@ -66187,9 +65137,6 @@ kattohuopa
 
 kattoikkuna
 	[m1]/ˈkɑttoikˌkunɑ/[/m]
-
--kattoinen
-	[m1]/ˈkɑttoinen/[/m]
 
 kattojärjestö
 	[m1]/ˈkɑttoˌjærjestø/[/m]
@@ -66217,9 +65164,6 @@ kattomaalaus
 
 kattonopeus
 	[m1]/ˈkɑttoˌnopeus/[/m]
-
-katto-organisaatio
-	[m1]/ˈkɑttoorˌgɑniˌsɑɑtio/[/m]
 
 kattopaanu
 	[m1]/ˈkɑttoˌpɑɑnu/[/m]
@@ -66650,6 +65594,33 @@ kaukasialainen
 kauko-
 	[m1]/ˈkɑuko/[/m]
 
+kauko-objektiivi
+	[m1]/ˈkɑukoobjekˌtiivi/[/m]
+
+kauko-ohjain
+	[m1]/ˈkɑukoohjɑin/[/m]
+
+kauko-ohjattava
+	[m1]/ˈkɑukoohˌjɑttɑvɑ/[/m]
+
+kauko-ohjattu
+	[m1]/ˈkɑukoohˌjɑttu/[/m]
+
+kauko-ohjauksinen
+	[m1]/ˈkɑukoohjɑˌuksinen/[/m]
+
+kauko-ohjaus
+	[m1]/ˈkɑukoohˌjɑus/[/m]
+
+kauko-ohjauslaite
+	[m1]/ˈkɑukoohjɑˌuslɑite/[/m]
+
+kauko-ohjus
+	[m1]/ˈkɑukoohjus/[/m]
+
+kauko-opetus
+	[m1]/ˈkɑukooˌpetus/[/m]
+
 kaukoase
 	[m1]/ˈkɑukoˌɑse/[/m]
 
@@ -66764,33 +65735,6 @@ kaukonäköisesti
 kaukonäköisyys
 	[m1]/ˈkɑukonæˌkøisyys/[/m]
 
-kauko-objektiivi
-	[m1]/ˈkɑukoobjekˌtiivi/[/m]
-
-kauko-ohjain
-	[m1]/ˈkɑukoohjɑin/[/m]
-
-kauko-ohjattava
-	[m1]/ˈkɑukoohˌjɑttɑvɑ/[/m]
-
-kauko-ohjattu
-	[m1]/ˈkɑukoohˌjɑttu/[/m]
-
-kauko-ohjauksinen
-	[m1]/ˈkɑukoohjɑˌuksinen/[/m]
-
-kauko-ohjaus
-	[m1]/ˈkɑukoohˌjɑus/[/m]
-
-kauko-ohjauslaite
-	[m1]/ˈkɑukoohjɑˌuslɑite/[/m]
-
-kauko-ohjus
-	[m1]/ˈkɑukoohjus/[/m]
-
-kauko-opetus
-	[m1]/ˈkɑukooˌpetus/[/m]
-
 kaukoparannus
 	[m1]/ˈkɑukopɑˌrɑnnus/[/m]
 
@@ -66875,9 +65819,6 @@ kaulailu
 kaulain
 	[m1]/ˈkɑulɑin/[/m]
 
--kaulainen
-	[m1]/ˈkɑulɑinen/[/m]
-
 kaulakello
 	[m1]/ˈkɑulɑˌkello/[/m]
 
@@ -66943,9 +65884,6 @@ kaulita
 
 kauluksennappi
 	[m1]/ˈkɑulukˌsennɑppi/[/m]
-
--kauluksinen
-	[m1]/ˈkɑulukˌsinen/[/m]
 
 kauluri
 	[m1]/ˈkɑuluri/[/m]
@@ -67155,16 +66093,13 @@ kaunotar
 	[m1]/ˈkɑunotɑr/[/m]
 
 kaupaksi käymätön
-	[m1]/ˈkɑupɑksi[/m]
+	[m1]/ˈkɑupɑksi ˈkæymætøn/[/m]
 
 kaupaksi käyvä
-	[m1]/ˈkɑupɑksi[/m]
+	[m1]/ˈkɑupɑksi ˈkæyvæ/[/m]
 
 kaupaksi menevä
-	[m1]/ˈkɑupɑksi[/m]
-
--kaupalla
-	[m1]/ˈkɑupɑllɑ/[/m]
+	[m1]/ˈkɑupɑksi ˈmenevæ/[/m]
 
 kaupallinen
 	[m1]/ˈkɑupɑlˌlinen/[/m]
@@ -67238,9 +66173,6 @@ kauppa
 kauppa-agentti
 	[m1]/ˈkɑupˌpɑɑgentti/[/m]
 
-kauppaaja
-	[m1]/ˈkɑupˌpɑɑjɑ/[/m]
-
 kauppa-alus
 	[m1]/ˈkɑupˌpɑɑlus/[/m]
 
@@ -67252,6 +66184,9 @@ kauppa-arvo
 
 kauppa-auto
 	[m1]/ˈkɑupˌpɑɑuto/[/m]
+
+kauppaaja
+	[m1]/ˈkɑupˌpɑɑjɑ/[/m]
 
 kauppaedustaja
 	[m1]/ˈkɑupˌpɑeˌdustɑjɑ/[/m]
@@ -67751,9 +66686,6 @@ kausivaihtelu
 kaustinen
 	[m1]/ˈkɑusˌtinen/[/m]
 
--kautinen
-	[m1]/ˈkɑutinen/[/m]
-
 kautsu
 	[m1]/ˈkɑutsu/[/m]
 
@@ -67762,6 +66694,9 @@ kautsukasvi
 
 kautta
 	[m1]/ˈkɑuttɑ/[/m]
+
+kautta rantain
+	[m1]/ˈkɑuttɑ ˈrɑntɑin/[/m]
 
 kautta-ajo
 	[m1]/ˈkɑutˌtɑɑjo/[/m]
@@ -67798,9 +66733,6 @@ kauttakulkusopimus
 
 kauttakulkuviisumi
 	[m1]/ˈkɑuttɑˌkulkuˌviisumi/[/m]
-
-kautta rantain
-	[m1]/ˈkɑuttɑ[/m]
 
 kauttarantainen
 	[m1]/ˈkɑuttɑˌrɑntɑinen/[/m]
@@ -68261,9 +67193,6 @@ kehyksellinen
 kehyksetön
 	[m1]/ˈkehykˌsetøn/[/m]
 
--kehyksinen
-	[m1]/ˈkehykˌsinen/[/m]
-
 kehys
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -68293,9 +67222,6 @@ kehyssaha
 
 kehyste
 	[m1]/ˈ[i]~[/i]/[/m]
-
--kehysteinen
-	[m1]/ˈkehysˌteinen/[/m]
 
 kehystys
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -68963,9 +67889,6 @@ kekseliäästi
 keksi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-keksi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 keksijä
 	[m1]/ˈkeksijæ/[/m]
 
@@ -69322,12 +68245,6 @@ kellotaulu
 
 kellotorni
 	[m1]/ˈkelloˌtorni/[/m]
-
-kellottaa
-	[m1]/ˈkellottɑɑ/[/m]
-
-kellottaa
-	[m1]/ˈkellottɑɑ/[/m]
 
 kellottaa
 	[m1]/ˈkellottɑɑ/[/m]
@@ -69709,9 +68626,6 @@ kenkäheinä
 
 kenkäin
 	[m1]/ˈkenkæin/[/m]
-
--kenkäinen
-	[m1]/ˈkenkæinen/[/m]
 
 kenkäkauppa
 	[m1]/ˈkenkækɑˌuppɑ/[/m]
@@ -70118,17 +69032,11 @@ kerinpuut
 kerintä
 	[m1]/ˈkerintæ/[/m]
 
-kerintä
-	[m1]/ˈkerintæ/[/m]
-
 keripukki
 	[m1]/ˈkeriˌpukki/[/m]
 
 keritsimet
 	[m1]/ˈkeritˌsimet/[/m]
-
-keritä
-	[m1]/ˈkeritæ/[/m]
 
 keritä
 	[m1]/ˈkeritæ/[/m]
@@ -70310,9 +69218,6 @@ kerrata
 kerroin
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kerroin
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kerroksellinen
 	[m1]/ˈkerrokˌsellinen/[/m]
 
@@ -70454,41 +69359,29 @@ kerskuri
 kerta
 	[m1]/ˈkertɑ/[/m]
 
+kerta kaikkiaan
+	[m1]/ˈkertɑ ˈkɑikkiɑɑn/[/m]
+
+kerta-annos
+	[m1]/ˈkertɑɑnnos/[/m]
+
+kerta-astia
+	[m1]/ˈkertɑɑsˌtiɑ/[/m]
+
 kertaakaan
 	[m1]/ˈkertɑɑkɑɑn/[/m]
 
 kertaalleen
 	[m1]/ˈkertɑɑlleen/[/m]
 
-kerta-annos
-	[m1]/ˈkertɑɑnnos/[/m]
-
 kertaantua
 	[m1]/ˈkertɑɑnˌtuɑ/[/m]
-
-kerta-astia
-	[m1]/ˈkertɑɑsˌtiɑ/[/m]
 
 kertaheitolla
 	[m1]/ˈkertɑˌheitollɑ/[/m]
 
 kertahyödyke
 	[m1]/ˈkertɑˌhyødyke/[/m]
-
--kertainen
-	[m1]/ˈkertɑinen/[/m]
-
--kertaisesti
-	[m1]/ˈkertɑiˌsesti/[/m]
-
--kertaistaa
-	[m1]/ˈkertɑistɑɑ/[/m]
-
--kertaistua
-	[m1]/ˈkertɑisˌtuɑ/[/m]
-
-kerta kaikkiaan
-	[m1]/ˈkertɑ[/m]
 
 kertakaikkinen
 	[m1]/ˈkertɑˌkɑikkinen/[/m]
@@ -70874,6 +69767,15 @@ keskeytyä
 keski-
 	[m1]/ˈkeski/[/m]
 
+keski-ikä
+	[m1]/ˈkeskiikæ/[/m]
+
+keski-ikäinen
+	[m1]/ˈkeskiiˌkæinen/[/m]
+
+keski-ikäistyä
+	[m1]/ˈkeskiiˌkæistyæ/[/m]
+
 keskiaallot
 	[m1]/ˈkeskiˌɑɑllot/[/m]
 
@@ -70936,15 +69838,6 @@ keskihinta
 
 keskihintainen
 	[m1]/ˈkeskihinˌtɑinen/[/m]
-
-keski-ikä
-	[m1]/ˈkeskiikæ/[/m]
-
-keski-ikäinen
-	[m1]/ˈkeskiiˌkæinen/[/m]
-
-keski-ikäistyä
-	[m1]/ˈkeskiiˌkæistyæ/[/m]
 
 keskijana
 	[m1]/ˈkeskiˌjɑnɑ/[/m]
@@ -71474,9 +70367,6 @@ keskuuteen
 kessu
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kessu
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kessutella
 	[m1]/ˈkessuˌtellɑ/[/m]
 
@@ -71933,9 +70823,6 @@ ketale
 ketara
 	[m1]/ˈketɑrɑ/[/m]
 
-ketchup
-	[m1]/ˈ[i]~[/i]/[/m]
-
 ketju
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -72035,16 +70922,13 @@ ketlata
 keto
 	[m1]/ˈ[i]~[/i]/[/m]
 
+keto-orvokki
+	[m1]/ˈketoorˌvokki/[/m]
+
 ketoneilikka
 	[m1]/ˈketoˌneilikkɑ/[/m]
 
 ketoni
-	[m1]/ˈ[i]~[/i]/[/m]
-
-keto-orvokki
-	[m1]/ˈketoorˌvokki/[/m]
-
-ketoosi
 	[m1]/ˈ[i]~[/i]/[/m]
 
 ketoosi
@@ -72926,9 +71810,6 @@ kielimuuri
 kielimäinen
 	[m1]/ˈkieliˌmæinen/[/m]
 
--kielinen
-	[m1]/ˈkielinen/[/m]
-
 kielinero
 	[m1]/ˈkieliˌnero/[/m]
 
@@ -72982,9 +71863,6 @@ kielisukulainen
 
 kielisukulaisuus
 	[m1]/ˈkieliˌsukuˌlɑisuus/[/m]
-
--kielisyys
-	[m1]/ˈkielisyys/[/m]
 
 kielitaidoton
 	[m1]/ˈkieliˌtɑidoton/[/m]
@@ -73325,9 +72203,6 @@ kierrevatkain
 kierrin
 	[m1]/ˈ[i]~[/i]/[/m]
 
--kierroksinen
-	[m1]/ˈkierrokˌsinen/[/m]
-
 kierroksittain
 	[m1]/ˈkierrokˌsittɑin/[/m]
 
@@ -73643,9 +72518,6 @@ kihahdus
 kihahtaa
 	[m1]/ˈkihɑhtɑɑ/[/m]
 
-kihahtaa
-	[m1]/ˈkihɑhtɑɑ/[/m]
-
 kihara
 	[m1]/ˈkihɑrɑ/[/m]
 
@@ -73880,9 +72752,6 @@ kiihkoilla
 kiihkoilu
 	[m1]/ˈ[i]~[/i]/[/m]
 
--kiihkoinen
-	[m1]/ˈkiihkoinen/[/m]
-
 kiihkoisa
 	[m1]/ˈkiihkoisɑ/[/m]
 
@@ -74043,7 +72912,7 @@ kiikkutuoli
 	[m1]/ˈkiikkuˌtuoli/[/m]
 
 kiikun kaakun
-	[m1]/ˈkiikun[/m]
+	[m1]/ˈkiikun ˈkɑɑkun/[/m]
 
 kiikunta
 	[m1]/ˈkiikuntɑ/[/m]
@@ -74134,9 +73003,6 @@ kiiltely
 
 kiilto
 	[m1]/ˈ[i]~[/i]/[/m]
-
--kiiltoinen
-	[m1]/ˈkiiltoinen/[/m]
 
 kiiltokuoriainen
 	[m1]/ˈkiiltoˌkuoriˌɑinen/[/m]
@@ -74258,11 +73124,11 @@ kiinalaiskaulus
 kiinalaiskortteli
 	[m1]/ˈkiinɑˌlɑiskortˌteli/[/m]
 
+kiinan kieli
+	[m1]/ˈkiinɑn ˈkieli/[/m]
+
 kiinankaali
 	[m1]/ˈkiinɑnˌkɑɑli/[/m]
-
-kiinan kieli
-	[m1]/ˈkiinɑn[/m]
 
 kiinankielinen
 	[m1]/ˈkiinɑnˌkielinen/[/m]
@@ -74354,9 +73220,6 @@ kiinnite
 kiinnitin
 	[m1]/ˈ[i]~[/i]/[/m]
 
--kiinnitteinen
-	[m1]/ˈkiinnitˌteinen/[/m]
-
 kiinnittyä
 	[m1]/ˈkiinnitˌtyæ/[/m]
 
@@ -74368,9 +73231,6 @@ kiinnittää
 
 kiinnityksenhaltija
 	[m1]/ˈkiinniˌtyksenˌhɑltijɑ/[/m]
-
--kiinnityksinen
-	[m1]/ˈkiinniˌtyksinen/[/m]
 
 kiinnitys
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -74657,9 +73517,6 @@ kiirastuli
 kiire
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kiire
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kiireapulainen
 	[m1]/ˈkiireˌɑpuˌlɑinen/[/m]
 
@@ -74900,9 +73757,6 @@ kiittää
 kiitäjä
 	[m1]/ˈkiitæjæ/[/m]
 
--kiitäjäinen
-	[m1]/ˈkiitæˌjæinen/[/m]
-
 kiitäjäperhonen
 	[m1]/ˈkiitæjæˌperhonen/[/m]
 
@@ -74980,9 +73834,6 @@ kikkailla
 
 kikkailu
 	[m1]/ˈkikkɑilu/[/m]
-
-kikkara
-	[m1]/ˈkikkɑrɑ/[/m]
 
 kikkara
 	[m1]/ˈkikkɑrɑ/[/m]
@@ -75140,9 +73991,6 @@ killutin
 kilo
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kilo
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kilogramma
 	[m1]/ˈkiloˌgrɑmmɑ/[/m]
 
@@ -75221,9 +74069,6 @@ kilowattituntimittari
 kilpa
 	[m1]/ˈkilpɑ/[/m]
 
-kilpaa
-	[m1]/ˈkilpɑɑ/[/m]
-
 kilpa-ajaja
 	[m1]/ˈkilpɑɑˌjɑjɑ/[/m]
 
@@ -75241,6 +74086,9 @@ kilpa-autoilija
 
 kilpa-autoilu
 	[m1]/ˈkilpɑɑuˌtoilu/[/m]
+
+kilpaa
+	[m1]/ˈkilpɑɑ/[/m]
 
 kilpahakija
 	[m1]/ˈkilpɑˌhɑkijɑ/[/m]
@@ -75521,9 +74369,6 @@ kiltteys
 kiltti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kiltti
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kilttiys
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -75602,11 +74447,11 @@ kimeys
 kimeä
 	[m1]/ˈkimeæ/[/m]
 
-kimeästi
-	[m1]/ˈkimeˌæsti/[/m]
-
 kimeä-ääninen
 	[m1]/ˈkimeˌæææninen/[/m]
+
+kimeästi
+	[m1]/ˈkimeˌæsti/[/m]
 
 kimittää
 	[m1]/ˈkimittææ/[/m]
@@ -75767,9 +74612,6 @@ kimurantti
 kina
 	[m1]/ˈkinɑ/[/m]
 
-kina
-	[m1]/ˈkinɑ/[/m]
-
 kinailla
 	[m1]/ˈkinɑillɑ/[/m]
 
@@ -75902,9 +74744,6 @@ kintereiltä
 kinttu
 	[m1]/ˈ[i]~[/i]/[/m]
 
--kinttuinen
-	[m1]/ˈkinttuinen/[/m]
-
 kinttupolku
 	[m1]/ˈkinttuˌpolku/[/m]
 
@@ -76002,7 +74841,7 @@ kipeästi
 	[m1]/ˈkipeˌæsti/[/m]
 
 kipin kapin
-	[m1]/ˈkipin[/m]
+	[m1]/ˈkipin ˈkɑpin/[/m]
 
 kipinä
 	[m1]/ˈkipinæ/[/m]
@@ -76286,9 +75125,6 @@ kirikykyinen
 kirimoija
 	[m1]/ˈkiriˌmoijɑ/[/m]
 
--kiristeinen
-	[m1]/ˈkirisˌteinen/[/m]
-
 kiristellä
 	[m1]/ˈkirisˌtellæ/[/m]
 
@@ -76340,6 +75176,9 @@ kiriä
 kirja
 	[m1]/ˈkirjɑ/[/m]
 
+kirja-arvostelu
+	[m1]/ˈkirjɑɑrˌvostelu/[/m]
+
 kirjaamismaksu
 	[m1]/ˈkirjɑɑˌmismɑksu/[/m]
 
@@ -76348,9 +75187,6 @@ kirjaamo
 
 kirjaanvienti
 	[m1]/ˈkirjɑɑnˌvienti/[/m]
-
-kirja-arvostelu
-	[m1]/ˈkirjɑɑrˌvostelu/[/m]
 
 kirjaesittely
 	[m1]/ˈkirjɑeˌsittely/[/m]
@@ -76387,9 +75223,6 @@ kirjaimellinen
 
 kirjaimellisesti
 	[m1]/ˈkirjɑiˌmelliˌsesti/[/m]
-
--kirjaiminen
-	[m1]/ˈkirjɑiˌminen/[/m]
 
 kirjaimisto
 	[m1]/ˈkirjɑiˌmisto/[/m]
@@ -76889,9 +75722,6 @@ kirjograniitti
 kirjohylje
 	[m1]/ˈkirjoˌhylje/[/m]
 
--kirjoinen
-	[m1]/ˈkirjoinen/[/m]
-
 kirjoite
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -77033,9 +75863,6 @@ kirjoneule
 kirjonta
 	[m1]/ˈkirjontɑ/[/m]
 
--kirjontainen
-	[m1]/ˈkirjonˌtɑinen/[/m]
-
 kirjopeippi
 	[m1]/ˈkirjoˌpeippi/[/m]
 
@@ -77144,6 +75971,9 @@ kirkkaussäädin
 kirkko
 	[m1]/ˈ[i]~[/i]/[/m]
 
+kirkko-oikeus
+	[m1]/ˈkirkkooˌikeus/[/m]
+
 kirkkoaaria
 	[m1]/ˈkirkkoˌɑɑriɑ/[/m]
 
@@ -77236,9 +76066,6 @@ kirkkoneuvosto
 
 kirkkonäytelmä
 	[m1]/ˈkirkkoˌnæytelmæ/[/m]
-
-kirkko-oikeus
-	[m1]/ˈkirkkooˌikeus/[/m]
 
 kirkkopoliittinen
 	[m1]/ˈkirkkopoˌliittinen/[/m]
@@ -77702,12 +76529,6 @@ kiskoauto
 kiskobussi
 	[m1]/ˈkiskoˌbussi/[/m]
 
--kiskoinen
-	[m1]/ˈkiskoinen/[/m]
-
--kiskoinen
-	[m1]/ˈkiskoinen/[/m]
-
 kiskoja
 	[m1]/ˈkiskojɑ/[/m]
 
@@ -77725,9 +76546,6 @@ kiskopari
 
 kiskotella
 	[m1]/ˈkiskoˌtellɑ/[/m]
-
-kiskottaa
-	[m1]/ˈkiskottɑɑ/[/m]
 
 kiskottaa
 	[m1]/ˈkiskottɑɑ/[/m]
@@ -78028,12 +76846,6 @@ kitsastelu
 
 kitsaus
 	[m1]/ˈkitsɑus/[/m]
-
-kitsch
-	[m1]/[i]~[/i]/[/m]
-
-kitsi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 kitsi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -78360,9 +77172,6 @@ kiveytymä
 	[m1]/ˈkiveyˌtymæ/[/m]
 
 kivi
-	[m1]/ˈ[i]~[/i]/[/m]
-
-kiwi
 	[m1]/ˈ[i]~[/i]/[/m]
 
 kiviaine
@@ -78809,6 +77618,9 @@ kivääriryhmä
 kiväärituli
 	[m1]/ˈkivææˌrituli/[/m]
 
+kiwi
+	[m1]/ˈ[i]~[/i]/[/m]
+
 klaani
 	[m1]/ˈklɑɑni/[/m]
 
@@ -79064,9 +77876,6 @@ knalli
 knesset
 	[m1]/ˈ[i]~[/i]/[/m]
 
-knock-out
-	[m1]/ˈknockout/[/m]
-
 knoppi
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -79199,6 +78008,12 @@ kodittomuus
 koe
 	[m1]/ˈ[i]~[/i]/[/m]
 
+koe-eläin
+	[m1]/ˈkoeelæin/[/m]
+
+koe-erä
+	[m1]/ˈkoeeræ/[/m]
+
 koeaamiainen
 	[m1]/ˈkoeˌɑɑmiˌɑinen/[/m]
 
@@ -79222,12 +78037,6 @@ koeateria
 
 koeavioliitto
 	[m1]/ˈkoeˌɑvioˌliitto/[/m]
-
-koe-eläin
-	[m1]/ˈkoeelæin/[/m]
-
-koe-erä
-	[m1]/ˈkoeeræ/[/m]
 
 koeffisientti
 	[m1]/ˈkoeffiˌsientti/[/m]
@@ -79405,9 +78214,6 @@ kohaus
 
 kohautella
 	[m1]/ˈkohɑuˌtellɑ/[/m]
-
-kohauttaa
-	[m1]/ˈkohɑˌuttɑɑ/[/m]
 
 kohauttaa
 	[m1]/ˈkohɑˌuttɑɑ/[/m]
@@ -79679,23 +78485,11 @@ kohoventtiili
 kohta
 	[m1]/ˈkohtɑ/[/m]
 
-kohta
-	[m1]/ˈkohtɑ/[/m]
-
 kohtaamispaikka
 	[m1]/ˈkohtɑɑmisˌpɑikkɑ/[/m]
 
 kohtaan
 	[m1]/ˈkohtɑɑn/[/m]
-
--kohtainen
-	[m1]/ˈkohtɑinen/[/m]
-
--kohtaisesti
-	[m1]/ˈkohtɑiˌsesti/[/m]
-
--kohtaisuus
-	[m1]/ˈkohtɑisuus/[/m]
 
 kohtalainen
 	[m1]/ˈkohtɑˌlɑinen/[/m]
@@ -79856,9 +78650,6 @@ kohvajää
 koi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-koi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 koikkelehtia
 	[m1]/ˈkoikkeˌlehtiɑ/[/m]
 
@@ -79894,9 +78685,6 @@ koiperhonen
 
 koipi
 	[m1]/ˈ[i]~[/i]/[/m]
-
--koipinen
-	[m1]/ˈkoipinen/[/m]
 
 koipussi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -80291,9 +79079,6 @@ kokkaaja
 kokkailla
 	[m1]/ˈkokkɑillɑ/[/m]
 
--kokkainen
-	[m1]/ˈkokkɑinen/[/m]
-
 kokkapuhe
 	[m1]/ˈkokkɑˌpuhe/[/m]
 
@@ -80327,12 +79112,6 @@ kokkelipiimä
 kokki
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kokki
-	[m1]/ˈ[i]~[/i]/[/m]
-
-kokko
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kokko
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -80344,9 +79123,6 @@ kokkotuli
 
 kokkovalkea
 	[m1]/ˈkokkoˌvɑlkeɑ/[/m]
-
-koko
-	[m1]/ˈ[i]~[/i]/[/m]
 
 koko
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -80861,9 +79637,6 @@ kolikkopuhelin
 kolina
 	[m1]/ˈkolinɑ/[/m]
 
-kolina
-	[m1]/ˈkolinɑ/[/m]
-
 kolista
 	[m1]/ˈkolistɑ/[/m]
 
@@ -80885,14 +79658,8 @@ koljatti
 kolkata
 	[m1]/ˈkolkɑtɑ/[/m]
 
-kolkata
-	[m1]/ˈkolkɑtɑ/[/m]
-
 kolke
 	[m1]/ˈ[i]~[/i]/[/m]
-
-kolkka
-	[m1]/ˈkolkkɑ/[/m]
 
 kolkka
 	[m1]/ˈkolkkɑ/[/m]
@@ -80992,9 +79759,6 @@ kollektivoida
 
 kollektori
 	[m1]/ˈkollekˌtori/[/m]
-
-kolli
-	[m1]/ˈ[i]~[/i]/[/m]
 
 kolli
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -81510,7 +80274,7 @@ kolpakollinen
 	[m1]/ˈkolpɑˌkollinen/[/m]
 
 koltan kieli
-	[m1]/ˈkoltɑn[/m]
+	[m1]/ˈkoltɑn ˈkieli/[/m]
 
 koltankielinen
 	[m1]/ˈkoltɑnˌkielinen/[/m]
@@ -81705,7 +80469,7 @@ komiikka
 	[m1]/ˈkomiikkɑ/[/m]
 
 komin kieli
-	[m1]/ˈkomin[/m]
+	[m1]/ˈkomin ˈkieli/[/m]
 
 komisario
 	[m1]/ˈkomiˌsɑrio/[/m]
@@ -82073,11 +80837,11 @@ kondylooma
 kone
 	[m1]/ˈ[i]~[/i]/[/m]
 
-konealus
-	[m1]/ˈkoneˌɑlus/[/m]
-
 kone-elin
 	[m1]/ˈkoneelin/[/m]
+
+konealus
+	[m1]/ˈkoneˌɑlus/[/m]
 
 koneellinen
 	[m1]/ˈkoneelˌlinen/[/m]
@@ -82123,9 +80887,6 @@ konehuone
 
 koneikko
 	[m1]/ˈ[i]~[/i]/[/m]
-
--koneinen
-	[m1]/ˈkoneinen/[/m]
 
 koneinsinööri
 	[m1]/ˈkoneinsiˌnøøri/[/m]
@@ -82838,12 +81599,6 @@ konttaus
 kontti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kontti
-	[m1]/ˈ[i]~[/i]/[/m]
-
-kontti
-	[m1]/ˈ[i]~[/i]/[/m]
-
 konttialus
 	[m1]/ˈkonttiˌɑlus/[/m]
 
@@ -83234,9 +81989,6 @@ koppero
 koppi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-koppi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 koppilyönti
 	[m1]/ˈkoppiˌlyønti/[/m]
 
@@ -83273,16 +82025,10 @@ kopsata
 kopsaus
 	[m1]/ˈkopsɑus/[/m]
 
-kopsaus
-	[m1]/ˈkopsɑus/[/m]
-
 kopsauttaa
 	[m1]/ˈkopsɑˌuttɑɑ/[/m]
 
 kopse
-	[m1]/ˈ[i]~[/i]/[/m]
-
-kopsu
 	[m1]/ˈ[i]~[/i]/[/m]
 
 kopsu
@@ -83378,14 +82124,11 @@ korallisammal
 korea
 	[m1]/ˈkoreɑ/[/m]
 
-korea
-	[m1]/ˈkoreɑ/[/m]
-
 korealainen
 	[m1]/ˈkoreɑˌlɑinen/[/m]
 
 korean kieli
-	[m1]/ˈkoreɑn[/m]
+	[m1]/ˈkoreɑn ˈkieli/[/m]
 
 koreanvärinen
 	[m1]/ˈkoreˌɑnvæˌrinen/[/m]
@@ -83462,6 +82205,9 @@ koripaju
 koripallo
 	[m1]/ˈkoriˌpɑllo/[/m]
 
+koripallo-ottelu
+	[m1]/ˈkoripɑlˌloottelu/[/m]
+
 koripalloilija
 	[m1]/ˈkoripɑlˌloilijɑ/[/m]
 
@@ -83473,9 +82219,6 @@ koripallojoukkue
 
 koripallokenttä
 	[m1]/ˈkoriˌpɑlloˌkenttæ/[/m]
-
-koripallo-ottelu
-	[m1]/ˈkoripɑlˌloottelu/[/m]
 
 koripullo
 	[m1]/ˈkoriˌpullo/[/m]
@@ -83501,6 +82244,9 @@ koristautua
 koriste
 	[m1]/ˈ[i]~[/i]/[/m]
 
+koriste-esine
+	[m1]/ˈkorisˌteesine/[/m]
+
 koristeaihe
 	[m1]/ˈkoristeˌɑihe/[/m]
 
@@ -83512,12 +82258,6 @@ koristeellisesti
 
 koristeellisuus
 	[m1]/ˈkorisˌteellisuus/[/m]
-
-koriste-esine
-	[m1]/ˈkorisˌteesine/[/m]
-
--koristeinen
-	[m1]/ˈkorisˌteinen/[/m]
 
 koristekaali
 	[m1]/ˈkoristeˌkɑɑli/[/m]
@@ -83945,6 +82685,9 @@ korkkiutua
 korko
 	[m1]/ˈ[i]~[/i]/[/m]
 
+korko-ompelu
+	[m1]/ˈkorkoomˌpelu/[/m]
+
 korkoehto
 	[m1]/ˈkorkoˌehto/[/m]
 
@@ -83953,9 +82696,6 @@ korkoerotus
 
 korkoerä
 	[m1]/ˈkorkoˌeræ/[/m]
-
--korkoinen
-	[m1]/ˈkorkoinen/[/m]
 
 korkokanta
 	[m1]/ˈkorkoˌkɑntɑ/[/m]
@@ -83989,9 +82729,6 @@ korkomenot
 
 korkomerkki
 	[m1]/ˈkorkoˌmerkki/[/m]
-
-korko-ompelu
-	[m1]/ˈkorkoomˌpelu/[/m]
 
 korkopainanta
 	[m1]/ˈkorkoˌpɑinɑntɑ/[/m]
@@ -84149,11 +82886,11 @@ korpeentua
 korpi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-korpihotelli
-	[m1]/ˈkorpihoˌtelli/[/m]
-
 korpi-imarre
 	[m1]/ˈkorpiiˌmɑrre/[/m]
+
+korpihotelli
+	[m1]/ˈkorpihoˌtelli/[/m]
 
 korpikuusi
 	[m1]/ˈkorpiˌkuusi/[/m]
@@ -84217,9 +82954,6 @@ korporatiivinen
 
 korporativismi
 	[m1]/ˈkorpoˌrɑtiˌvismi/[/m]
-
-korppi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 korppi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -84305,9 +83039,6 @@ korsetti
 korsi
 	[m1]/ˈ[i]~[/i]/[/m]
 
--korsinen
-	[m1]/ˈkorsinen/[/m]
-
 korsivilja
 	[m1]/ˈkorsiˌviljɑ/[/m]
 
@@ -84352,9 +83083,6 @@ korsu
 
 korte
 	[m1]/ˈ[i]~[/i]/[/m]
-
--kortinen
-	[m1]/ˈkortinen/[/m]
 
 kortinlyönti
 	[m1]/ˈkortinˌlyønti/[/m]
@@ -84545,6 +83273,9 @@ koruttomuus
 korva
 	[m1]/ˈkorvɑ/[/m]
 
+korva-aukko
+	[m1]/ˈkorvɑɑˌukko/[/m]
+
 korvaaja
 	[m1]/ˈkorvɑɑjɑ/[/m]
 
@@ -84554,14 +83285,8 @@ korvaamaton
 korvaantua
 	[m1]/ˈkorvɑɑnˌtuɑ/[/m]
 
-korva-aukko
-	[m1]/ˈkorvɑɑˌukko/[/m]
-
 korvahylje
 	[m1]/ˈkorvɑˌhylje/[/m]
-
--korvainen
-	[m1]/ˈkorvɑinen/[/m]
 
 korvake
 	[m1]/ˈkorvɑke/[/m]
@@ -84770,6 +83495,9 @@ korvo
 korvus
 	[m1]/ˈ[i]~[/i]/[/m]
 
+kos-salaatti
+	[m1]/ˈkossɑˌlɑɑtti/[/m]
+
 kosekantti
 	[m1]/ˈkoseˌkɑntti/[/m]
 
@@ -84974,9 +83702,6 @@ kosmoskukka
 kosolti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kos-salaatti
-	[m1]/ˈkossɑˌlɑɑtti/[/m]
-
 kostaa
 	[m1]/ˈkostɑɑ/[/m]
 
@@ -85064,9 +83789,6 @@ kostotoimi
 kostua
 	[m1]/ˈkostuɑ/[/m]
 
-kostua
-	[m1]/ˈkostuɑ/[/m]
-
 kostuke
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -85117,6 +83839,18 @@ kotelosieni
 
 koti
 	[m1]/ˈ[i]~[/i]/[/m]
+
+koti-ihminen
+	[m1]/ˈkotiihˌminen/[/m]
+
+koti-ikävä
+	[m1]/ˈkotiiˌkævæ/[/m]
+
+koti-ilta
+	[m1]/ˈkotiiltɑ/[/m]
+
+koti-isä
+	[m1]/ˈkotiisæ/[/m]
 
 kotia
 	[m1]/ˈkotiɑ/[/m]
@@ -85175,15 +83909,6 @@ kotihipat
 kotihoito
 	[m1]/ˈkotiˌhoito/[/m]
 
-koti-ihminen
-	[m1]/ˈkotiihˌminen/[/m]
-
-koti-ikävä
-	[m1]/ˈkotiiˌkævæ/[/m]
-
-koti-ilta
-	[m1]/ˈkotiiltɑ/[/m]
-
 kotiin
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -85204,9 +83929,6 @@ kotiinpäin
 
 kotiintulo
 	[m1]/ˈkotiinˌtulo/[/m]
-
-koti-isä
-	[m1]/ˈkotiisæ/[/m]
 
 kotijoukko
 	[m1]/ˈkotijoˌukko/[/m]
@@ -85670,9 +84392,6 @@ kotletti
 koto
 	[m1]/ˈ[i]~[/i]/[/m]
 
-koto
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kotoa
 	[m1]/ˈkotoɑ/[/m]
 
@@ -85840,6 +84559,9 @@ kouliutua
 
 koulu
 	[m1]/ˈ[i]~[/i]/[/m]
+
+koulu-uudistus
+	[m1]/ˈkouluuuˌdistus/[/m]
 
 kouluaika
 	[m1]/ˈkouluˌɑikɑ/[/m]
@@ -86264,9 +84986,6 @@ koulutyttö
 koulutyö
 	[m1]/ˈkoulutyø/[/m]
 
-koulu-uudistus
-	[m1]/ˈkouluuuˌdistus/[/m]
-
 kouluvaikeus
 	[m1]/ˈkouluˌvɑikeus/[/m]
 
@@ -86299,9 +85018,6 @@ kouraantuntuva
 
 kouraantuntuvasti
 	[m1]/ˈkourɑɑnˌtuntuˌvɑsti/[/m]
-
--kourainen
-	[m1]/ˈkourɑinen/[/m]
 
 kouraista
 	[m1]/ˈkourɑistɑ/[/m]
@@ -86739,7 +85455,7 @@ kreemi
 	[m1]/ˈ[i]~[/i]/[/m]
 
 kreikan kieli
-	[m1]/ˈkreikɑn[/m]
+	[m1]/ˈkreikɑn ˈkieli/[/m]
 
 kreikankielinen
 	[m1]/ˈkreikɑnˌkielinen/[/m]
@@ -86753,6 +85469,9 @@ kreikka
 kreikkalainen
 	[m1]/ˈkreikkɑˌlɑinen/[/m]
 
+kreikkalais-roomalainen
+	[m1]/ˈkreikkɑˌlɑisroomɑˌlɑinen/[/m]
+
 kreikkalaiskatolilainen
 	[m1]/ˈkreikkɑˌlɑiskɑˌtoliˌlɑinen/[/m]
 
@@ -86761,9 +85480,6 @@ kreikkalaiskatolinen
 
 kreikkalaiskatolisuus
 	[m1]/ˈkreikkɑˌlɑiskɑˌtolisuus/[/m]
-
-kreikkalais-roomalainen
-	[m1]/ˈkreikkɑˌlɑisroomɑˌlɑinen/[/m]
 
 kreikkalaisuus
 	[m1]/ˈkreikkɑˌlɑisuus/[/m]
@@ -87233,9 +85949,6 @@ krossipyörä
 krouvi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-krouvi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kruksata
 	[m1]/ˈkruksɑtɑ/[/m]
 
@@ -87413,9 +86126,6 @@ ksylitoli
 ksylofoni
 	[m1]/ˈksyloˌfoni/[/m]
 
-K-takuu
-	[m1]/ˈktɑkuu/[/m]
-
 kubismi
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -87449,17 +86159,11 @@ kudinpuikko
 kudoksensiirto
 	[m1]/ˈkudoksenˌsiirto/[/m]
 
--kudoksinen
-	[m1]/ˈkudokˌsinen/[/m]
-
 kudonnainen
 	[m1]/ˈkudonˌnɑinen/[/m]
 
 kudonta
 	[m1]/ˈkudontɑ/[/m]
-
--kudontainen
-	[m1]/ˈkudonˌtɑinen/[/m]
 
 kudontaohje
 	[m1]/ˈkudontɑˌohje/[/m]
@@ -87614,9 +86318,6 @@ kuilu-uuni
 kuin
 	[m1]/ˈ[i]~[/i]/[/m]
 
--kuinen
-	[m1]/ˈkuinen/[/m]
-
 kuinka
 	[m1]/ˈkuinkɑ/[/m]
 
@@ -87746,14 +86447,14 @@ kuitupuu
 kuiva
 	[m1]/ˈkuivɑ/[/m]
 
-kuivaa
-	[m1]/ˈkuivɑɑ/[/m]
-
 kuiva-aine
 	[m1]/ˈkuivɑɑˌine/[/m]
 
 kuiva-ainepitoisuus
 	[m1]/ˈkuivɑɑˌinepiˌtoisuus/[/m]
+
+kuivaa
+	[m1]/ˈkuivɑɑ/[/m]
 
 kuivaaja
 	[m1]/ˈkuivɑɑjɑ/[/m]
@@ -88046,14 +86747,8 @@ kukinta
 kukinta-aika
 	[m1]/ˈkukinˌtɑɑikɑ/[/m]
 
--kukintainen
-	[m1]/ˈkukinˌtɑinen/[/m]
-
 kukinto
 	[m1]/ˈ[i]~[/i]/[/m]
-
--kukintoinen
-	[m1]/ˈkukinˌtoinen/[/m]
 
 kukistaa
 	[m1]/ˈkukistɑɑ/[/m]
@@ -88400,9 +87095,6 @@ kukuttaa
 kulahtaa
 	[m1]/ˈkulɑhtɑɑ/[/m]
 
-kulahtaa
-	[m1]/ˈkulɑhtɑɑ/[/m]
-
 kulakki
 	[m1]/ˈkulɑkki/[/m]
 
@@ -88568,14 +87260,14 @@ kulkija
 kulku
 	[m1]/ˈ[i]~[/i]/[/m]
 
+kulku-ura
+	[m1]/ˈkulkuurɑ/[/m]
+
 kulkuaika
 	[m1]/ˈkulkuˌɑikɑ/[/m]
 
 kulkue
 	[m1]/ˈ[i]~[/i]/[/m]
-
--kulkuinen
-	[m1]/ˈkulkuinen/[/m]
 
 kulkukauppa
 	[m1]/ˈkulkukɑˌuppɑ/[/m]
@@ -88654,9 +87346,6 @@ kulkutauti
 
 kulkutie
 	[m1]/ˈ[i]~[/i]/[/m]
-
-kulku-ura
-	[m1]/ˈkulkuurɑ/[/m]
 
 kulkuvalo
 	[m1]/ˈkulkuˌvɑlo/[/m]
@@ -88762,9 +87451,6 @@ kulmahuoneisto
 
 kulmaikkuna
 	[m1]/ˈkulmɑikˌkunɑ/[/m]
-
--kulmainen
-	[m1]/ˈkulmɑinen/[/m]
 
 kulmakaappi
 	[m1]/ˈkulmɑˌkɑɑppi/[/m]
@@ -88885,9 +87571,6 @@ kulminaatio
 
 kulminoitua
 	[m1]/ˈkulmiˌnoituɑ/[/m]
-
--kulmio
-	[m1]/ˈkulmio/[/m]
 
 kulmittain
 	[m1]/ˈkulmittɑin/[/m]
@@ -89213,6 +87896,12 @@ kulttikirja
 kulttuuri
 	[m1]/ˈ[i]~[/i]/[/m]
 
+kulttuuri-ihminen
+	[m1]/ˈkulttuuˌriihminen/[/m]
+
+kulttuuri-itsehallinto
+	[m1]/ˈkulttuuˌriitseˌhɑllinto/[/m]
+
 kulttuuriantropologi
 	[m1]/ˈkulttuuriˌɑntroˌpologi/[/m]
 
@@ -89236,12 +87925,6 @@ kulttuurihistoria
 
 kulttuurihistorioitsija
 	[m1]/ˈkulttuuriˌhistoriˌoitsijɑ/[/m]
-
-kulttuuri-ihminen
-	[m1]/ˈkulttuuˌriihminen/[/m]
-
-kulttuuri-itsehallinto
-	[m1]/ˈkulttuuˌriitseˌhɑllinto/[/m]
 
 kulttuurikansa
 	[m1]/ˈkulttuuriˌkɑnsɑ/[/m]
@@ -89591,9 +88274,6 @@ kumaus
 kumauttaa
 	[m1]/ˈkumɑˌuttɑɑ/[/m]
 
-kumauttaa
-	[m1]/ˈkumɑˌuttɑɑ/[/m]
-
 kumea
 	[m1]/ˈkumeɑ/[/m]
 
@@ -89659,9 +88339,6 @@ kumiluoti
 
 kumimatto
 	[m1]/ˈkumiˌmɑtto/[/m]
-
-kumina
-	[m1]/ˈkuminɑ/[/m]
 
 kumina
 	[m1]/ˈkuminɑ/[/m]
@@ -90006,9 +88683,6 @@ kumpupilvi
 	[m1]/ˈkumpuˌpilvi/[/m]
 
 kumpusuo
-	[m1]/ˈ[i]~[/i]/[/m]
-
-kumu
 	[m1]/ˈ[i]~[/i]/[/m]
 
 kumu
@@ -90572,9 +89246,6 @@ kuntoilla
 kuntoilu
 	[m1]/ˈ[i]~[/i]/[/m]
 
--kuntoinen
-	[m1]/ˈkuntoinen/[/m]
-
 kuntoisuus
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -90667,9 +89338,6 @@ kuohahdella
 
 kuohahtaa
 	[m1]/ˈkuohɑhtɑɑ/[/m]
-
-kuohari
-	[m1]/ˈkuohɑri/[/m]
 
 kuohari
 	[m1]/ˈkuohɑri/[/m]
@@ -91070,9 +89738,6 @@ kuonnuttaa
 kuono
 	[m1]/ˈ[i]~[/i]/[/m]
 
--kuonoinen
-	[m1]/ˈkuonoinen/[/m]
-
 kuonokoppa
 	[m1]/ˈkuonoˌkoppɑ/[/m]
 
@@ -91142,9 +89807,6 @@ kuoreutuma
 kuori
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kuori
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kuoria
 	[m1]/ˈkuoriɑ/[/m]
 
@@ -91205,9 +89867,6 @@ kuorimisjäte
 kuorimo
 	[m1]/ˈ[i]~[/i]/[/m]
 
--kuorinen
-	[m1]/ˈkuorinen/[/m]
-
 kuorinta
 	[m1]/ˈkuorintɑ/[/m]
 
@@ -91238,9 +89897,6 @@ kuoriäyriäinen
 kuorma
 	[m1]/ˈkuormɑ/[/m]
 
-kuormaaja
-	[m1]/ˈkuormɑɑjɑ/[/m]
-
 kuorma-auto
 	[m1]/ˈkuormɑɑˌuto/[/m]
 
@@ -91249,6 +89905,9 @@ kuorma-autolasti
 
 kuorma-autoliikenne
 	[m1]/ˈkuormɑɑˌutoˌliikenne/[/m]
+
+kuormaaja
+	[m1]/ˈkuormɑɑjɑ/[/m]
 
 kuormaeläin
 	[m1]/ˈkuormɑˌelæin/[/m]
@@ -91307,6 +89966,9 @@ kuormuri
 kuoro
 	[m1]/ˈ[i]~[/i]/[/m]
 
+kuoro-osa
+	[m1]/ˈkuoroosɑ/[/m]
+
 kuoroesitys
 	[m1]/ˈkuoroˌesitys/[/m]
 
@@ -91324,9 +89986,6 @@ kuorolausunta
 
 kuoromusiikki
 	[m1]/ˈkuoromuˌsiikki/[/m]
-
-kuoro-osa
-	[m1]/ˈkuoroosɑ/[/m]
 
 kuorosovitus
 	[m1]/ˈkuoroˌsovitus/[/m]
@@ -91378,9 +90037,6 @@ kuosikas
 
 kuosillinen
 	[m1]/ˈkuosilˌlinen/[/m]
-
--kuosinen
-	[m1]/ˈkuosinen/[/m]
 
 kuosittaa
 	[m1]/ˈkuosittɑɑ/[/m]
@@ -91499,9 +90155,6 @@ kupeessa
 kupeesta
 	[m1]/ˈkupeestɑ/[/m]
 
--kupeinen
-	[m1]/ˈkupeinen/[/m]
-
 kupera
 	[m1]/ˈkuperɑ/[/m]
 
@@ -91558,9 +90211,6 @@ kupolikatto
 
 kupolikattoinen
 	[m1]/ˈkupoliˌkɑttoinen/[/m]
-
--kupolinen
-	[m1]/ˈkupoˌlinen/[/m]
 
 kupoliteltta
 	[m1]/ˈkupoliˌtelttɑ/[/m]
@@ -91799,6 +90449,9 @@ kurinpidollinen
 kurinpito
 	[m1]/ˈkurinˌpito/[/m]
 
+kurinpito-ojennus
+	[m1]/ˈkurinpiˌtoojennus/[/m]
+
 kurinpitoasia
 	[m1]/ˈkurinˌpitoˌɑsiɑ/[/m]
 
@@ -91807,9 +90460,6 @@ kurinpitokeino
 
 kurinpitomenettely
 	[m1]/ˈkurinˌpitomeˌnettely/[/m]
-
-kurinpito-ojennus
-	[m1]/ˈkurinpiˌtoojennus/[/m]
 
 kurinpitorangaistus
 	[m1]/ˈkurinˌpitorɑnˌgɑistus/[/m]
@@ -91975,12 +90625,6 @@ kurkkia
 
 kurkku
 	[m1]/ˈ[i]~[/i]/[/m]
-
-kurkku
-	[m1]/ˈ[i]~[/i]/[/m]
-
--kurkkuinen
-	[m1]/ˈkurkkuinen/[/m]
 
 kurkkukaramelli
 	[m1]/ˈkurkkuˌkɑrɑˌmelli/[/m]
@@ -92345,9 +90989,6 @@ kussa
 kusta
 	[m1]/ˈkustɑ/[/m]
 
-kusta
-	[m1]/ˈkustɑ/[/m]
-
 kustanne
 	[m1]/ˈkustɑnne/[/m]
 
@@ -92459,12 +91100,6 @@ kuten
 kuti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kuti
-	[m1]/ˈ[i]~[/i]/[/m]
-
-kuti
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kutiaa
 	[m1]/ˈkutiɑɑ/[/m]
 
@@ -92531,9 +91166,6 @@ kutkuttaa
 kutoa
 	[m1]/ˈkutoɑ/[/m]
 
--kutoinen
-	[m1]/ˈkutoinen/[/m]
-
 kutoja
 	[m1]/ˈkutojɑ/[/m]
 
@@ -92557,9 +91189,6 @@ kutonen
 
 kutoutua
 	[m1]/ˈkutouˌtuɑ/[/m]
-
--kutrinen
-	[m1]/ˈkutrinen/[/m]
 
 kutrit
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -92645,9 +91274,6 @@ kutsuääni
 kutteri
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kutteri
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kutterinpuru
 	[m1]/ˈkutteˌrinpuru/[/m]
 
@@ -92662,9 +91288,6 @@ kutu
 
 kutuaika
 	[m1]/ˈkutuˌɑikɑ/[/m]
-
--kutuinen
-	[m1]/ˈkutuinen/[/m]
 
 kutukala
 	[m1]/ˈkutuˌkɑlɑ/[/m]
@@ -92701,6 +91324,9 @@ kutyymi
 
 kuu
 	[m1]/ˈ[i]~[/i]/[/m]
+
+kuu-ukko
+	[m1]/ˈkuuukko/[/m]
 
 kuualus
 	[m1]/ˈkuuɑlus/[/m]
@@ -93080,14 +91706,8 @@ kuultaa
 kuultava
 	[m1]/ˈkuultɑvɑ/[/m]
 
-kuultava
-	[m1]/ˈkuultɑvɑ/[/m]
-
 kuultavasti
 	[m1]/ˈkuultɑˌvɑsti/[/m]
-
-kuultavuus
-	[m1]/ˈkuultɑvuus/[/m]
 
 kuultavuus
 	[m1]/ˈkuultɑvuus/[/m]
@@ -93380,9 +92000,6 @@ kuumennusvastus
 kuumentaa
 	[m1]/ˈkuumentɑɑ/[/m]
 
--kuumenteinen
-	[m1]/ˈkuumenˌteinen/[/m]
-
 kuumentua
 	[m1]/ˈkuumenˌtuɑ/[/m]
 
@@ -93512,14 +92129,8 @@ kuunvalo
 kuupallinen
 	[m1]/ˈkuupɑlˌlinen/[/m]
 
-kuupallinen
-	[m1]/ˈkuupɑlˌlinen/[/m]
-
 kuuperä
 	[m1]/ˈkuuperæ/[/m]
-
-kuuppa
-	[m1]/ˈkuuppɑ/[/m]
 
 kuuppa
 	[m1]/ˈkuuppɑ/[/m]
@@ -93542,14 +92153,8 @@ kuurapartainen
 kuurata
 	[m1]/ˈkuurɑtɑ/[/m]
 
-kuurata
-	[m1]/ˈkuurɑtɑ/[/m]
-
 kuuraus
 	[m1]/ˈkuurɑus/[/m]
-
-kuuri
-	[m1]/ˈ[i]~[/i]/[/m]
 
 kuuri
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -93570,9 +92175,6 @@ kuurnittaa
 	[m1]/ˈkuurnittɑɑ/[/m]
 
 kuurnitus
-	[m1]/ˈ[i]~[/i]/[/m]
-
-kuuro
 	[m1]/ˈ[i]~[/i]/[/m]
 
 kuuro
@@ -93665,9 +92267,6 @@ kuusettua
 kuusi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kuusi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kuusiaita
 	[m1]/ˈkuusiˌɑitɑ/[/m]
 
@@ -93685,9 +92284,6 @@ kuusikanta
 
 kuusikerroksinen
 	[m1]/ˈkuusiˌkerrokˌsinen/[/m]
-
-kuusikko
-	[m1]/ˈ[i]~[/i]/[/m]
 
 kuusikko
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -93739,9 +92335,6 @@ kuusinkertainen
 
 kuusinumeroinen
 	[m1]/ˈkuusiˌnumeˌroinen/[/m]
-
-kuusio
-	[m1]/ˈ[i]~[/i]/[/m]
 
 kuusio
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -93854,9 +92447,6 @@ kuutiohinta
 kuutioida
 	[m1]/ˈkuutiˌoidɑ/[/m]
 
--kuutioinen
-	[m1]/ˈkuutiˌoinen/[/m]
-
 kuutiointi
 	[m1]/ˈkuutiˌointi/[/m]
 
@@ -93941,23 +92531,23 @@ kuutosmaa
 kuutti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kuutti
-	[m1]/ˈ[i]~[/i]/[/m]
-
-kuu-ukko
-	[m1]/ˈkuuukko/[/m]
-
 kuva
 	[m1]/ˈkuvɑ/[/m]
 
 kuva-aihe
 	[m1]/ˈkuvɑɑˌihe/[/m]
 
-kuvaaja
-	[m1]/ˈkuvɑɑjɑ/[/m]
-
 kuva-ala
 	[m1]/ˈkuvɑɑlɑ/[/m]
+
+kuva-arkisto
+	[m1]/ˈkuvɑɑrˌkisto/[/m]
+
+kuva-arvoitus
+	[m1]/ˈkuvɑɑrˌvoitus/[/m]
+
+kuvaaja
+	[m1]/ˈkuvɑɑjɑ/[/m]
 
 kuvaamataidonopettaja
 	[m1]/ˈkuvɑɑmɑˌtɑidonoˌpettɑjɑ/[/m]
@@ -93985,12 +92575,6 @@ kuvaannollinen
 
 kuvaannollisesti
 	[m1]/ˈkuvɑɑnˌnolliˌsesti/[/m]
-
-kuva-arkisto
-	[m1]/ˈkuvɑɑrˌkisto/[/m]
-
-kuva-arvoitus
-	[m1]/ˈkuvɑɑrˌvoitus/[/m]
 
 kuvaava
 	[m1]/ˈkuvɑɑvɑ/[/m]
@@ -94430,9 +93014,6 @@ kvanttiutua
 kvarkki
 	[m1]/ˈkvɑrkki/[/m]
 
-kvarkki
-	[m1]/ˈkvɑrkki/[/m]
-
 kvartetti
 	[m1]/ˈkvɑrtetti/[/m]
 
@@ -94610,9 +93191,6 @@ kyklooppi
 kyky
 	[m1]/ˈ[i]~[/i]/[/m]
 
--kykyinen
-	[m1]/ˈkykyinen/[/m]
-
 kykyisyys
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -94664,9 +93242,6 @@ kylkimiina
 kylkimyyryä
 	[m1]/ˈkylkiˌmyyryæ/[/m]
 
--kylkinen
-	[m1]/ˈkylkinen/[/m]
-
 kylkipaisti
 	[m1]/ˈkylkiˌpɑisti/[/m]
 
@@ -94700,14 +93275,14 @@ kyllyys
 kyllä
 	[m1]/ˈkyllæ/[/m]
 
+kyllä-mies
+	[m1]/ˈkyllæmies/[/m]
+
 kylläinen
 	[m1]/ˈkyllæinen/[/m]
 
 kylläisyys
 	[m1]/ˈkyllæisyys/[/m]
-
-kyllä-mies
-	[m1]/ˈkyllæmies/[/m]
 
 kylläste
 	[m1]/ˈkyllæste/[/m]
@@ -95285,9 +93860,6 @@ kymmenentuhatta
 kymmenes
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kymmenes
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kymmenesluokkalainen
 	[m1]/ˈkymmenesˌluokkɑˌlɑinen/[/m]
 
@@ -95308,9 +93880,6 @@ kymmenhenkinen
 
 kymmenikkö
 	[m1]/ˈkymmeˌnikkø/[/m]
-
--kymmeninen
-	[m1]/ˈkymmeˌninen/[/m]
 
 kymmenisen
 	[m1]/ˈkymmeˌnisen/[/m]
@@ -95414,9 +93983,6 @@ kymppiluokka
 kymppiluokkalainen
 	[m1]/ˈkymppiˌluokkɑˌlɑinen/[/m]
 
--kymppinen
-	[m1]/ˈkymppinen/[/m]
-
 kymppitonni
 	[m1]/ˈkymppiˌtonni/[/m]
 
@@ -95424,7 +93990,7 @@ kymri
 	[m1]/ˈ[i]~[/i]/[/m]
 
 kymrin kieli
-	[m1]/ˈkymrin[/m]
+	[m1]/ˈkymrin ˈkieli/[/m]
 
 kyniä
 	[m1]/ˈkyniæ/[/m]
@@ -95534,9 +94100,6 @@ kynte
 kynteli
 	[m1]/ˈ[i]~[/i]/[/m]
 
--kyntinen
-	[m1]/ˈkyntinen/[/m]
-
 kyntteli
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -95620,9 +94183,6 @@ kynäillä
 
 kynäily
 	[m1]/ˈkynæily/[/m]
-
--kynäinen
-	[m1]/ˈkynæinen/[/m]
 
 kynäjalava
 	[m1]/ˈkynæˌjɑlɑvɑ/[/m]
@@ -95784,7 +94344,7 @@ kyseenalaistua
 	[m1]/ˈkyseenɑˌlɑistuɑ/[/m]
 
 kyseessä oleva
-	[m1]/ˈkyseessæ[/m]
+	[m1]/ˈkyseessæ ˈolevɑ/[/m]
 
 kyseinen
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -95926,9 +94486,6 @@ kytkös
 
 kyttyrä
 	[m1]/ˈkyttyræ/[/m]
-
--kyttyräinen
-	[m1]/ˈkyttyˌræinen/[/m]
 
 kyttyräselkä
 	[m1]/ˈkyttyræˌselkæ/[/m]
@@ -96203,9 +94760,6 @@ kyyppari
 kyyppi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-kyyppi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 kyyristellä
 	[m1]/ˈkyyrisˌtellæ/[/m]
 
@@ -96305,6 +94859,9 @@ kyörätä
 kädellinen
 	[m1]/ˈkædelˌlinen/[/m]
 
+käden käänteessä
+	[m1]/ˈkæden ˈkæænteessæ/[/m]
+
 kädenanto
 	[m1]/ˈkædeˌnɑnto/[/m]
 
@@ -96313,9 +94870,6 @@ kädenheilautus
 
 kädenjatko
 	[m1]/ˈkædenˌjɑtko/[/m]
-
-käden käänteessä
-	[m1]/ˈkæden[/m]
 
 kädenliike
 	[m1]/ˈkædenˌliike/[/m]
@@ -96413,11 +94967,11 @@ käheytyä
 käheä
 	[m1]/ˈkæheæ/[/m]
 
-käheästi
-	[m1]/ˈkæheˌæsti/[/m]
-
 käheä-ääninen
 	[m1]/ˈkæheˌæææninen/[/m]
+
+käheästi
+	[m1]/ˈkæheˌæsti/[/m]
 
 kähinä
 	[m1]/ˈkæhinæ/[/m]
@@ -96833,9 +95387,6 @@ kärkimaa
 kärkimies
 	[m1]/ˈkærkimies/[/m]
 
--kärkinen
-	[m1]/ˈkærkinen/[/m]
-
 kärkinimi
 	[m1]/ˈkærkiˌnimi/[/m]
 
@@ -97145,6 +95696,9 @@ käräyttää
 käsi
 	[m1]/ˈkæsi/[/m]
 
+käsi-invalidi
+	[m1]/ˈkæsiinˌvɑlidi/[/m]
+
 käsiaika
 	[m1]/ˈkæsiˌɑikɑ/[/m]
 
@@ -97171,9 +95725,6 @@ käsienhoitaja
 
 käsienhoito
 	[m1]/ˈkæsienˌhoito/[/m]
-
-käsi-invalidi
-	[m1]/ˈkæsiinˌvɑlidi/[/m]
 
 käsijarru
 	[m1]/ˈkæsiˌjɑrru/[/m]
@@ -97487,9 +96038,6 @@ käsitteellisyys
 käsitteenmuodostus
 	[m1]/ˈkæsitˌteenmuoˌdostus/[/m]
 
--käsitteinen
-	[m1]/ˈkæsitˌteinen/[/m]
-
 käsitteistää
 	[m1]/ˈkæsitˌteistææ/[/m]
 
@@ -97742,12 +96290,6 @@ kätilö
 kätilöidä
 	[m1]/ˈkætiˌløidæ/[/m]
 
--kätinen
-	[m1]/ˈkætinen/[/m]
-
--kätisesti
-	[m1]/ˈkætiˌsesti/[/m]
-
 kätisyys
 	[m1]/ˈkætisyys/[/m]
 
@@ -97907,9 +96449,6 @@ käymäseltään
 käynniste
 	[m1]/ˈkæynˌniste/[/m]
 
--käynnisteinen
-	[m1]/ˈkæynnisˌteinen/[/m]
-
 käynnistin
 	[m1]/ˈkæynˌnistin/[/m]
 
@@ -97966,9 +96505,6 @@ käyntilämpöinen
 
 käyntilämpötila
 	[m1]/ˈkæyntiˌlæmpøˌtilɑ/[/m]
-
--käyntinen
-	[m1]/ˈkæynˌtinen/[/m]
 
 käyntinopeus
 	[m1]/ˈkæynˌtinoˌpeus/[/m]
@@ -98156,9 +96692,6 @@ käyttöhäiriö
 käyttöikä
 	[m1]/ˈkæytˌtøikæ/[/m]
 
--käyttöinen
-	[m1]/ˈkæytˌtøinen/[/m]
-
 käyttöinsinööri
 	[m1]/ˈkæytˌtøinsiˌnøøri/[/m]
 
@@ -98330,9 +96863,6 @@ käytävämatto
 käytäväpolitiikka
 	[m1]/ˈkæytæˌvæpoliˌtiikkɑ/[/m]
 
--käytöksinen
-	[m1]/ˈkæytøkˌsinen/[/m]
-
 käytös
 	[m1]/ˈkæytøs/[/m]
 
@@ -98460,9 +96990,6 @@ käänteentekevästi
 	[m1]/ˈkæænteenˌtekeˌvæsti/[/m]
 
 käänteinen
-	[m1]/ˈkæænteinen/[/m]
-
--käänteinen
 	[m1]/ˈkæænteinen/[/m]
 
 käänteisarvo
@@ -98777,9 +97304,6 @@ kölivesi
 kölli
 	[m1]/ˈkølli/[/m]
 
-kölli
-	[m1]/ˈkølli/[/m]
-
 köllikkä
 	[m1]/ˈkøllikkæ/[/m]
 
@@ -98896,9 +97420,6 @@ körötellä
 
 köröttää
 	[m1]/ˈkørøttææ/[/m]
-
-kössi
-	[m1]/ˈkøssi/[/m]
 
 kössi
 	[m1]/ˈkøssi/[/m]
@@ -99103,6 +97624,12 @@ köö
 
 kööri
 	[m1]/ˈkøøri/[/m]
+
+L-teräs
+	[m1]/ˈlteræs/[/m]
+
+LA-puhelin
+	[m1]/ˈlɑpuˌhelin/[/m]
 
 laadinta
 	[m1]/ˈlɑɑdintɑ/[/m]
@@ -99353,9 +97880,6 @@ laakea
 laakeri
 	[m1]/ˈlɑɑkeri/[/m]
 
-laakeri
-	[m1]/ˈlɑɑkeri/[/m]
-
 laakeriholkki
 	[m1]/ˈlɑɑkeriˌholkki/[/m]
 
@@ -99398,9 +97922,6 @@ laakeriöljy
 laakeroida
 	[m1]/ˈlɑɑkeˌroidɑ/[/m]
 
-laakeroida
-	[m1]/ˈlɑɑkeˌroidɑ/[/m]
-
 laakerointi
 	[m1]/ˈlɑɑkeˌrointi/[/m]
 
@@ -99416,14 +97937,8 @@ laakiomaa
 laakso
 	[m1]/ˈlɑɑkso/[/m]
 
--laaksoinen
-	[m1]/ˈlɑɑksoinen/[/m]
-
 laaksopenger
 	[m1]/ˈlɑɑksoˌpenger/[/m]
-
-laama
-	[m1]/ˈlɑɑmɑ/[/m]
 
 laama
 	[m1]/ˈlɑɑmɑ/[/m]
@@ -99559,9 +98074,6 @@ laatuinen
 
 laatuisa
 	[m1]/ˈlɑɑtuisɑ/[/m]
-
--laatuisuus
-	[m1]/ˈlɑɑtuisuus/[/m]
 
 laatukasvu
 	[m1]/ˈlɑɑtuˌkɑsvu/[/m]
@@ -99710,9 +98222,6 @@ labyrintti
 ladata
 	[m1]/ˈlɑdɑtɑ/[/m]
 
-ladata
-	[m1]/ˈlɑdɑtɑ/[/m]
-
 ladella
 	[m1]/ˈlɑdellɑ/[/m]
 
@@ -99763,12 +98272,6 @@ lahjaesine
 
 lahjahevonen
 	[m1]/ˈlɑhjɑˌhevonen/[/m]
-
--lahjainen
-	[m1]/ˈlɑhjɑinen/[/m]
-
--lahjaisuus
-	[m1]/ˈlɑhjɑisuus/[/m]
 
 lahjakas
 	[m1]/ˈlɑhjɑkɑs/[/m]
@@ -99871,9 +98374,6 @@ lahjus
 
 lahjusskandaali
 	[m1]/ˈlɑhjusskɑnˌdɑɑli/[/m]
-
--lahkeinen
-	[m1]/ˈlɑhkeinen/[/m]
 
 lahko
 	[m1]/ˈlɑhko/[/m]
@@ -99979,9 +98479,6 @@ lahovikaisuus
 
 lahtari
 	[m1]/ˈlɑhtɑri/[/m]
-
-lahti
-	[m1]/ˈlɑhti/[/m]
 
 lahti
 	[m1]/ˈlɑhti/[/m]
@@ -100229,6 +98726,9 @@ laina
 laina-aika
 	[m1]/ˈlɑinɑɑˌikɑ/[/m]
 
+laina-anomus
+	[m1]/ˈlɑinɑɑˌnomus/[/m]
+
 lainaaja
 	[m1]/ˈlɑinɑɑjɑ/[/m]
 
@@ -100237,9 +98737,6 @@ lainaajankortti
 
 lainaamo
 	[m1]/ˈlɑinɑɑmo/[/m]
-
-laina-anomus
-	[m1]/ˈlɑinɑɑˌnomus/[/m]
 
 lainaehto
 	[m1]/ˈlɑinɑˌehto/[/m]
@@ -100399,9 +98896,6 @@ lainmuutos
 
 lainoittaa
 	[m1]/ˈlɑinoittɑɑ/[/m]
-
--lainoitteinen
-	[m1]/ˈlɑinoitˌteinen/[/m]
 
 lainoitus
 	[m1]/ˈlɑinoitus/[/m]
@@ -100724,9 +99218,6 @@ laittomuus
 laituri
 	[m1]/ˈlɑituri/[/m]
 
-laituri
-	[m1]/ˈlɑituri/[/m]
-
 laituripaikka
 	[m1]/ˈlɑituriˌpɑikkɑ/[/m]
 
@@ -100747,9 +99238,6 @@ laivaemäntä
 
 laivahylky
 	[m1]/ˈlɑivɑˌhylky/[/m]
-
--laivainen
-	[m1]/ˈlɑivɑinen/[/m]
 
 laivajuna
 	[m1]/ˈlɑivɑˌjunɑ/[/m]
@@ -100883,14 +99371,14 @@ laivasilta
 laivasto
 	[m1]/ˈlɑivɑsto/[/m]
 
+laivasto-osasto
+	[m1]/ˈlɑivɑsˌtoosɑsto/[/m]
+
 laivastoasema
 	[m1]/ˈlɑivɑsˌtoɑˌsemɑ/[/m]
 
 laivastonsininen
 	[m1]/ˈlɑivɑsˌtonsiˌninen/[/m]
-
-laivasto-osasto
-	[m1]/ˈlɑivɑsˌtoosɑsto/[/m]
 
 laivastosaarto
 	[m1]/ˈlɑivɑstoˌsɑɑrto/[/m]
@@ -100969,9 +99457,6 @@ lajikumppani
 
 lajiköyhä
 	[m1]/ˈlɑjiˌkøyhæ/[/m]
-
--lajinen
-	[m1]/ˈlɑjinen/[/m]
 
 lajinimi
 	[m1]/ˈlɑjiˌnimi/[/m]
@@ -101078,9 +99563,6 @@ lakastuttaa
 lakata
 	[m1]/ˈlɑkɑtɑ/[/m]
 
-lakata
-	[m1]/ˈlɑkɑtɑ/[/m]
-
 lakea
 	[m1]/ˈlɑkeɑ/[/m]
 
@@ -101098,9 +99580,6 @@ lakeinen
 
 lakeus
 	[m1]/ˈlɑkeus/[/m]
-
-laki
-	[m1]/ˈlɑki/[/m]
 
 laki
 	[m1]/ˈlɑki/[/m]
@@ -101156,12 +99635,6 @@ lakimääräisesti
 lakinainen
 	[m1]/ˈlɑkiˌnɑinen/[/m]
 
--lakinen
-	[m1]/ˈlɑkinen/[/m]
-
--lakinen
-	[m1]/ˈlɑkinen/[/m]
-
 lakinlippa
 	[m1]/ˈlɑkinˌlippɑ/[/m]
 
@@ -101203,15 +99676,6 @@ lakivaliokunta
 
 lakka
 	[m1]/ˈlɑkkɑ/[/m]
-
-lakka
-	[m1]/ˈlɑkkɑ/[/m]
-
-lakka
-	[m1]/ˈlɑkkɑ/[/m]
-
-lakkaamaton
-	[m1]/ˈlɑkkɑɑˌmɑton/[/m]
 
 lakkaamaton
 	[m1]/ˈlɑkkɑɑˌmɑton/[/m]
@@ -101258,9 +99722,6 @@ lakkaus
 lakkauttaa
 	[m1]/ˈlɑkkɑˌuttɑɑ/[/m]
 
-lakkauttaa
-	[m1]/ˈlɑkkɑˌuttɑɑ/[/m]
-
 lakkautus
 	[m1]/ˈlɑkkɑutus/[/m]
 
@@ -101273,9 +99734,6 @@ lakki
 lakkiaiset
 	[m1]/ˈlɑkkiˌɑiset/[/m]
 
--lakkinen
-	[m1]/ˈlɑkkinen/[/m]
-
 lakkireuhka
 	[m1]/ˈlɑkkireˌuhkɑ/[/m]
 
@@ -101284,6 +99742,9 @@ lakkisieni
 
 lakko
 	[m1]/ˈlɑkko/[/m]
+
+lakko-oikeus
+	[m1]/ˈlɑkkooˌikeus/[/m]
 
 lakkoaalto
 	[m1]/ˈlɑkkoˌɑɑlto/[/m]
@@ -101323,9 +99784,6 @@ lakkolainen
 
 lakkolupa
 	[m1]/ˈlɑkkoˌlupɑ/[/m]
-
-lakko-oikeus
-	[m1]/ˈlɑkkooˌikeus/[/m]
 
 lakkorahasto
 	[m1]/ˈlɑkkorɑˌhɑsto/[/m]
@@ -101465,9 +99923,6 @@ lallukka
 lama
 	[m1]/ˈlɑmɑ/[/m]
 
-lama
-	[m1]/ˈlɑmɑ/[/m]
-
 lamaan
 	[m1]/ˈlɑmɑɑn/[/m]
 
@@ -101497,9 +99952,6 @@ lamalainen
 
 lamalaisuus
 	[m1]/ˈlɑmɑˌlɑisuus/[/m]
-
-lamarckismi
-	[m1]/ˈlɑmɑrcˌkismi/[/m]
 
 lamassa
 	[m1]/ˈlɑmɑssɑ/[/m]
@@ -101762,9 +100214,6 @@ langusti
 lanka
 	[m1]/ˈlɑnkɑ/[/m]
 
--lankainen
-	[m1]/ˈlɑnkɑinen/[/m]
-
 lankajuoksu
 	[m1]/ˈlɑnkɑˌjuoksu/[/m]
 
@@ -102002,17 +100451,11 @@ lantavesi
 lantavesikaivo
 	[m1]/ˈlɑntɑˌvesiˌkɑivo/[/m]
 
--lanteinen
-	[m1]/ˈlɑnteinen/[/m]
-
 lantinki
 	[m1]/ˈlɑntinki/[/m]
 
 lantio
 	[m1]/ˈlɑntio/[/m]
-
--lantioinen
-	[m1]/ˈlɑntiˌoinen/[/m]
 
 lantiomalli
 	[m1]/ˈlɑntioˌmɑlli/[/m]
@@ -102083,9 +100526,6 @@ laottaa
 lapa
 	[m1]/ˈlɑpɑ/[/m]
 
--lapainen
-	[m1]/ˈlɑpɑinen/[/m]
-
 lapakko
 	[m1]/ˈlɑpɑkko/[/m]
 
@@ -102119,14 +100559,14 @@ lapidaarinen
 lapikas
 	[m1]/ˈlɑpikɑs/[/m]
 
+lapin kieli
+	[m1]/ˈlɑpin ˈkieli/[/m]
+
 lapinharakka
 	[m1]/ˈlɑpinhɑˌrɑkkɑ/[/m]
 
 lapinhullu
 	[m1]/ˈlɑpinˌhullu/[/m]
-
-lapin kieli
-	[m1]/ˈlɑpin[/m]
 
 lapinkielinen
 	[m1]/ˈlɑpinˌkielinen/[/m]
@@ -102416,9 +100856,6 @@ lapsiluku
 lapsimäärä
 	[m1]/ˈlɑpsiˌmææræ/[/m]
 
--lapsinen
-	[m1]/ˈlɑpsinen/[/m]
-
 lapsinäyttelijä
 	[m1]/ˈlɑpsinæˌytteˌlijæ/[/m]
 
@@ -102569,20 +101006,11 @@ lapsuusvuosi
 lapuanliike
 	[m1]/ˈlɑpuɑnˌliike/[/m]
 
-LA-puhelin
-	[m1]/ˈlɑpuˌhelin/[/m]
-
-laputtaa
-	[m1]/ˈlɑputtɑɑ/[/m]
-
 laputtaa
 	[m1]/ˈlɑputtɑɑ/[/m]
 
 largo
 	[m1]/ˈlɑrgo/[/m]
-
-lari
-	[m1]/ˈlɑri/[/m]
 
 lari
 	[m1]/ˈlɑri/[/m]
@@ -103049,9 +101477,6 @@ laskiämpäri
 lasko
 	[m1]/ˈlɑsko/[/m]
 
--laskoksinen
-	[m1]/ˈlɑskokˌsinen/[/m]
-
 laskos
 	[m1]/ˈlɑskos/[/m]
 
@@ -103078,9 +101503,6 @@ laskuautomaatti
 
 laskuhumala
 	[m1]/ˈlɑskuˌhumɑlɑ/[/m]
-
--laskuinen
-	[m1]/ˈlɑskuinen/[/m]
 
 laskujoki
 	[m1]/ˈlɑskuˌjoki/[/m]
@@ -103506,7 +101928,7 @@ latinalaistanssi
 	[m1]/ˈlɑtinɑˌlɑistɑnssi/[/m]
 
 latinan kieli
-	[m1]/ˈlɑtinɑn[/m]
+	[m1]/ˈlɑtinɑn ˈkieli/[/m]
 
 latinankielinen
 	[m1]/ˈlɑtinɑnˌkielinen/[/m]
@@ -103703,6 +102125,9 @@ lattiavasa
 latu
 	[m1]/ˈlɑtu/[/m]
 
+latu-ura
+	[m1]/ˈlɑtuurɑ/[/m]
+
 latuhiihto
 	[m1]/ˈlɑtuˌhiihto/[/m]
 
@@ -103742,17 +102167,11 @@ latuskajalkainen
 latutyyli
 	[m1]/ˈlɑtuˌtyyli/[/m]
 
-latu-ura
-	[m1]/ˈlɑtuurɑ/[/m]
-
 latva
 	[m1]/ˈlɑtvɑ/[/m]
 
 latva-artisokka
 	[m1]/ˈlɑtvɑɑrtiˌsokkɑ/[/m]
-
--latvainen
-	[m1]/ˈlɑtvɑinen/[/m]
 
 latvakasvain
 	[m1]/ˈlɑtvɑˌkɑsvɑin/[/m]
@@ -103782,7 +102201,7 @@ latvialainen
 	[m1]/ˈlɑtviɑˌlɑinen/[/m]
 
 latvian kieli
-	[m1]/ˈlɑtviɑn[/m]
+	[m1]/ˈlɑtviɑn ˈkieli/[/m]
 
 latvimmainen
 	[m1]/ˈlɑtvimˌmɑinen/[/m]
@@ -103793,9 +102212,6 @@ latvoa
 latvonta
 	[m1]/ˈlɑtvontɑ/[/m]
 
--latvuksinen
-	[m1]/ˈlɑtvukˌsinen/[/m]
-
 latvus
 	[m1]/ˈlɑtvus/[/m]
 
@@ -103805,11 +102221,11 @@ latvusto
 lauantai
 	[m1]/ˈlɑuɑntɑi/[/m]
 
-lauantaiaamu
-	[m1]/ˈlɑuɑnˌtɑiɑɑmu/[/m]
-
 lauantai-ilta
 	[m1]/ˈlɑuɑntɑˌiiltɑ/[/m]
+
+lauantaiaamu
+	[m1]/ˈlɑuɑnˌtɑiɑɑmu/[/m]
 
 lauantaimakkara
 	[m1]/ˈlɑuɑnˌtɑimɑkˌkɑrɑ/[/m]
@@ -103870,9 +102286,6 @@ laudoitus
 
 laueta
 	[m1]/ˈlɑuetɑ/[/m]
-
-lauha
-	[m1]/ˈlɑuhɑ/[/m]
 
 lauha
 	[m1]/ˈlɑuhɑ/[/m]
@@ -103957,9 +102370,6 @@ laukaussarja
 
 laukaustenvaihto
 	[m1]/ˈlɑukɑˌustenˌvɑihto/[/m]
-
-laukka
-	[m1]/ˈlɑukkɑ/[/m]
 
 laukka
 	[m1]/ˈlɑukkɑ/[/m]
@@ -104228,9 +102638,6 @@ lauseenjäsennys
 lauseenvastike
 	[m1]/ˈlɑuseenˌvɑstike/[/m]
 
--lauseinen
-	[m1]/ˈlɑuseinen/[/m]
-
 lauseke
 	[m1]/ˈlɑuseke/[/m]
 
@@ -104432,9 +102839,6 @@ lautuma
 lava
 	[m1]/ˈlɑvɑ/[/m]
 
--lavainen
-	[m1]/ˈlɑvɑinen/[/m]
-
 lavakomedia
 	[m1]/ˈlɑvɑˌkomeˌdiɑ/[/m]
 
@@ -104466,7 +102870,7 @@ lavantautitartunta
 	[m1]/ˈlɑvɑnˌtɑutiˌtɑrtuntɑ/[/m]
 
 lavashow
-	[m1]/ˈlɑvɑshow/[/m]
+	[m1]/ˈlɑvɑsow/[/m]
 
 lavastaa
 	[m1]/ˈlɑvɑstɑɑ/[/m]
@@ -104567,11 +102971,11 @@ leasingauto
 LED
 	[m1]/led/[/m]
 
-ledi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 LED-näyttö
 	[m1]/ˈlednæˌyttø/[/m]
+
+ledi
+	[m1]/ˈ[i]~[/i]/[/m]
 
 leegio
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -104783,6 +103187,9 @@ lehtevä
 lehti
 	[m1]/ˈ[i]~[/i]/[/m]
 
+lehti-ilmoitus
+	[m1]/ˈlehtiilˌmoitus/[/m]
+
 lehtiala
 	[m1]/ˈlehtiˌɑlɑ/[/m]
 
@@ -104803,9 +103210,6 @@ lehtihanka
 
 lehtiharava
 	[m1]/ˈlehtiˌhɑrɑvɑ/[/m]
-
-lehti-ilmoitus
-	[m1]/ˈlehtiilˌmoitus/[/m]
 
 lehtijousi
 	[m1]/ˈlehtiˌjousi/[/m]
@@ -104911,9 +103315,6 @@ lehtinainen
 
 lehtinen
 	[m1]/ˈ[i]~[/i]/[/m]
-
--lehtinen
-	[m1]/ˈlehtinen/[/m]
 
 lehtipihvi
 	[m1]/ˈlehtiˌpihvi/[/m]
@@ -105065,9 +103466,6 @@ lehvistö
 lehvä
 	[m1]/ˈlehvæ/[/m]
 
--lehväinen
-	[m1]/ˈlehvæinen/[/m]
-
 lehvästö
 	[m1]/ˈlehvæstø/[/m]
 
@@ -105085,9 +103483,6 @@ leijailla
 
 leijailu
 	[m1]/ˈleijɑilu/[/m]
-
-leijata
-	[m1]/ˈleijɑtɑ/[/m]
 
 leijata
 	[m1]/ˈleijɑtɑ/[/m]
@@ -105314,6 +103709,12 @@ leikki
 leikki-
 	[m1]/ˈleikki/[/m]
 
+leikki-ikä
+	[m1]/ˈleikkiikæ/[/m]
+
+leikki-ikäinen
+	[m1]/ˈleikkiiˌkæinen/[/m]
+
 leikkiauto
 	[m1]/ˈleikkiˌɑuto/[/m]
 
@@ -105322,12 +103723,6 @@ leikkieläin
 
 leikkihuone
 	[m1]/ˈleikkiˌhuone/[/m]
-
-leikki-ikä
-	[m1]/ˈleikkiikæ/[/m]
-
-leikki-ikäinen
-	[m1]/ˈleikkiiˌkæinen/[/m]
 
 leikkijuna
 	[m1]/ˈleikkiˌjunɑ/[/m]
@@ -105482,9 +103877,6 @@ leimahtaa
 leimahtelu
 	[m1]/ˈleimɑhˌtelu/[/m]
 
--leimainen
-	[m1]/ˈleimɑinen/[/m]
-
 leimakirves
 	[m1]/ˈleimɑˌkirves/[/m]
 
@@ -105508,12 +103900,6 @@ leimata
 
 leimaus
 	[m1]/ˈleimɑus/[/m]
-
-leimaus
-	[m1]/ˈleimɑus/[/m]
-
-leimauttaa
-	[m1]/ˈleimɑˌuttɑɑ/[/m]
 
 leimauttaa
 	[m1]/ˈleimɑˌuttɑɑ/[/m]
@@ -106232,8 +104618,8 @@ lentis
 lento
 	[m1]/ˈ[i]~[/i]/[/m]
 
-lento
-	[m1]/ˈ[i]~[/i]/[/m]
+lento-onnettomuus
+	[m1]/ˈlentoonˌnettomuus/[/m]
 
 lentoaika
 	[m1]/ˈlentoˌɑikɑ/[/m]
@@ -106264,9 +104650,6 @@ lentohiekka
 
 lentohyökkäys
 	[m1]/ˈlentoˌhyøkkæys/[/m]
-
--lentoinen
-	[m1]/ˈlentoinen/[/m]
 
 lentojarrut
 	[m1]/ˈlentoˌjɑrrut/[/m]
@@ -106426,9 +104809,6 @@ lentoonammunta
 
 lentoonlähtö
 	[m1]/ˈlentoonˌlæhtø/[/m]
-
-lento-onnettomuus
-	[m1]/ˈlentoonˌnettomuus/[/m]
 
 lentopallo
 	[m1]/ˈlentoˌpɑllo/[/m]
@@ -107051,9 +105431,6 @@ leukailla
 leukailu
 	[m1]/ˈleukɑilu/[/m]
 
--leukainen
-	[m1]/ˈleukɑinen/[/m]
-
 leukakuoppa
 	[m1]/ˈleukɑˌkuoppɑ/[/m]
 
@@ -107186,17 +105563,11 @@ levikki
 levikkialue
 	[m1]/ˈlevikˌkiɑˌlue/[/m]
 
--levikkinen
-	[m1]/ˈlevikˌkinen/[/m]
-
 levinneisyys
 	[m1]/ˈlevinˌneisyys/[/m]
 
 levintä
 	[m1]/ˈlevintæ/[/m]
-
--levintäinen
-	[m1]/ˈlevinˌtæinen/[/m]
 
 levitaatio
 	[m1]/ˈleviˌtɑɑtio/[/m]
@@ -107255,6 +105626,9 @@ levottomuus
 levy
 	[m1]/ˈ[i]~[/i]/[/m]
 
+levy-yhtiö
+	[m1]/ˈlevyyhˌtiø/[/m]
+
 levyalbumi
 	[m1]/ˈlevyˌɑlbumi/[/m]
 
@@ -107266,9 +105640,6 @@ levyautomaatti
 
 levyinen
 	[m1]/ˈ[i]~[/i]/[/m]
-
--levyinen
-	[m1]/ˈlevyinen/[/m]
 
 levyjarru
 	[m1]/ˈlevyˌjɑrru/[/m]
@@ -107348,9 +105719,6 @@ levytys
 levyuutuus
 	[m1]/ˈlevyˌuutuus/[/m]
 
-levy-yhtiö
-	[m1]/ˈlevyyhˌtiø/[/m]
-
 levä
 	[m1]/ˈlevæ/[/m]
 
@@ -107362,9 +105730,6 @@ levähdysalue
 
 levähdyspaikka
 	[m1]/ˈlevæhdysˌpɑikkɑ/[/m]
-
-levähtää
-	[m1]/ˈlevæhtææ/[/m]
 
 levähtää
 	[m1]/ˈlevæhtææ/[/m]
@@ -107681,9 +106046,6 @@ liepeillä
 liepeiltä
 	[m1]/ˈliepeiltæ/[/m]
 
--liepeinen
-	[m1]/ˈliepeinen/[/m]
-
 liereys
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -107698,9 +106060,6 @@ lierihattu
 
 lierikko
 	[m1]/ˈ[i]~[/i]/[/m]
-
--lierinen
-	[m1]/ˈlierinen/[/m]
 
 lieriö
 	[m1]/ˈlieriø/[/m]
@@ -107749,9 +106108,6 @@ liesma
 
 liestyä
 	[m1]/ˈliestyæ/[/m]
-
-liesu
-	[m1]/ˈ[i]~[/i]/[/m]
 
 liesu
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -107814,7 +106170,7 @@ liettualainen
 	[m1]/ˈliettuɑˌlɑinen/[/m]
 
 liettuan kieli
-	[m1]/ˈliettuɑn[/m]
+	[m1]/ˈliettuɑn ˈkieli/[/m]
 
 liettymä
 	[m1]/ˈliettymæ/[/m]
@@ -107888,6 +106244,12 @@ ligniini
 liha
 	[m1]/ˈlihɑ/[/m]
 
+liha-makaronilaatikko
+	[m1]/ˈlihɑˌmɑkɑˌroniˌlɑɑtikko/[/m]
+
+liha-perunavuoka
+	[m1]/ˈlihɑˌperunɑˌvuokɑ/[/m]
+
 lihaeines
 	[m1]/ˈlihɑˌeines/[/m]
 
@@ -107960,9 +106322,6 @@ lihallinen
 lihalämpömittari
 	[m1]/ˈlihɑˌlæmpøˌmittɑri/[/m]
 
-liha-makaronilaatikko
-	[m1]/ˈlihɑˌmɑkɑˌroniˌlɑɑtikko/[/m]
-
 lihamehu
 	[m1]/ˈlihɑˌmehu/[/m]
 
@@ -108034,9 +106393,6 @@ lihapasteija
 
 lihapata
 	[m1]/ˈlihɑˌpɑtɑ/[/m]
-
-liha-perunavuoka
-	[m1]/ˈlihɑˌperunɑˌvuokɑ/[/m]
 
 lihapiikki
 	[m1]/ˈlihɑˌpiikki/[/m]
@@ -108251,11 +106607,11 @@ liihottaa
 liika
 	[m1]/ˈliikɑ/[/m]
 
-liikaa
-	[m1]/ˈliikɑɑ/[/m]
-
 liika-annostus
 	[m1]/ˈliikɑɑnˌnostus/[/m]
+
+liikaa
+	[m1]/ˈliikɑɑ/[/m]
 
 liikaedustus
 	[m1]/ˈliikɑeˌdustus/[/m]
@@ -108362,6 +106718,12 @@ liikavarvas
 liike
 	[m1]/ˈ[i]~[/i]/[/m]
 
+liike-elämä
+	[m1]/ˈliikeeˌlæmæ/[/m]
+
+liike-energia
+	[m1]/ˈliikeeˌnergiɑ/[/m]
+
 liikeaika
 	[m1]/ˈliikeˌɑikɑ/[/m]
 
@@ -108376,12 +106738,6 @@ liikeapulainen
 
 liikeasia
 	[m1]/ˈliikeˌɑsiɑ/[/m]
-
-liike-elämä
-	[m1]/ˈliikeeˌlæmæ/[/m]
-
-liike-energia
-	[m1]/ˈliikeeˌnergiɑ/[/m]
 
 liikehdintä
 	[m1]/ˈliikehˌdintæ/[/m]
@@ -108680,9 +107036,6 @@ liikenteenohjaaja
 liikenteenvalvonta
 	[m1]/ˈliikenˌteenvɑlˌvontɑ/[/m]
 
--liikenteinen
-	[m1]/ˈliikenˌteinen/[/m]
-
 liikeoppi
 	[m1]/ˈliikeˌoppi/[/m]
 
@@ -108826,12 +107179,6 @@ liikkeessä
 
 liikkeessäolo
 	[m1]/ˈliikkeesˌsæolo/[/m]
-
--liikkeinen
-	[m1]/ˈliikkeinen/[/m]
-
--liikkeisyys
-	[m1]/ˈliikkeisyys/[/m]
 
 liikkis
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -109184,6 +107531,9 @@ liitin
 liito
 	[m1]/ˈ[i]~[/i]/[/m]
 
+liito-orava
+	[m1]/ˈliitooˌrɑvɑ/[/m]
+
 liitokala
 	[m1]/ˈliitoˌkɑlɑ/[/m]
 
@@ -109201,9 +107551,6 @@ liitolento
 
 liitonarkki
 	[m1]/ˈliitoˌnɑrkki/[/m]
-
-liito-orava
-	[m1]/ˈliitooˌrɑvɑ/[/m]
 
 liitos
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -109376,9 +107723,6 @@ liivatelehti
 liivi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-liivi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 liivihame
 	[m1]/ˈliiviˌhɑme/[/m]
 
@@ -109386,7 +107730,7 @@ liiviläinen
 	[m1]/ˈliiviˌlæinen/[/m]
 
 liivin kieli
-	[m1]/ˈliivin[/m]
+	[m1]/ˈliivin ˈkieli/[/m]
 
 liivinkielinen
 	[m1]/ˈliivinˌkielinen/[/m]
@@ -109843,9 +108187,6 @@ linja-autopysäkki
 
 linja-autovuoro
 	[m1]/ˈlinjɑɑˌutoˌvuoro/[/m]
-
--linjainen
-	[m1]/ˈlinjɑinen/[/m]
 
 linjajako
 	[m1]/ˈlinjɑˌjɑko/[/m]
@@ -110315,9 +108656,6 @@ lipeinen
 liperi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-liperi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 liperit
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -110629,9 +108967,6 @@ lisenssipakko
 
 lisenssisopimus
 	[m1]/ˈlisensˌsisoˌpimus/[/m]
-
-lisko
-	[m1]/ˈ[i]~[/i]/[/m]
 
 lisko
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -110951,9 +109286,6 @@ litsahtaa
 litsi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-litsi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 litsiliitos
 	[m1]/ˈlitsiˌliitos/[/m]
 
@@ -111004,6 +109336,12 @@ lituruoho
 
 lituskainen
 	[m1]/ˈlitusˌkɑinen/[/m]
+
+liu'unta
+	[m1]/ˈliuuntɑ/[/m]
+
+liu'uttaa
+	[m1]/ˈliuuttɑɑ/[/m]
 
 liudennus
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -111242,12 +109580,6 @@ liuskoittua
 liuta
 	[m1]/ˈliutɑ/[/m]
 
-liu'unta
-	[m1]/ˈliuuntɑ/[/m]
-
-liu'uttaa
-	[m1]/ˈliuuttɑɑ/[/m]
-
 livahtaa
 	[m1]/ˈlivɑhtɑɑ/[/m]
 
@@ -111260,8 +109592,8 @@ livauttaa
 live
 	[m1]/ˈ[i]~[/i]/[/m]
 
-live
-	[m1]/ˈ[i]~[/i]/[/m]
+live-äänitys
+	[m1]/ˈliveˌæænitys/[/m]
 
 livekala
 	[m1]/ˈliveˌkɑlɑ/[/m]
@@ -111283,9 +109615,6 @@ livettää
 
 livetä
 	[m1]/ˈlivetæ/[/m]
-
-live-äänitys
-	[m1]/ˈliveˌæænitys/[/m]
 
 livistää
 	[m1]/ˈlivistææ/[/m]
@@ -111352,9 +109681,6 @@ logaritmitaulukko
 
 logiikka
 	[m1]/ˈlogiikkɑ/[/m]
-
-logistiikka
-	[m1]/ˈlogisˌtiikkɑ/[/m]
 
 logistiikka
 	[m1]/ˈlogisˌtiikkɑ/[/m]
@@ -111440,11 +109766,11 @@ lohestaa
 lohi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-lohiallas
-	[m1]/ˈlohiˌɑllɑs/[/m]
-
 lohi-istukas
 	[m1]/ˈlohiisˌtukɑs/[/m]
+
+lohiallas
+	[m1]/ˈlohiˌɑllɑs/[/m]
 
 lohijoki
 	[m1]/ˈlohiˌjoki/[/m]
@@ -111619,9 +109945,6 @@ loimi
 
 loimilanka
 	[m1]/ˈloimiˌlɑnkɑ/[/m]
-
--loiminen
-	[m1]/ˈloiminen/[/m]
 
 loimineulos
 	[m1]/ˈloimiˌneulos/[/m]
@@ -111962,6 +110285,9 @@ lojua
 loka
 	[m1]/ˈlokɑ/[/m]
 
+loka-auto
+	[m1]/ˈlokɑɑˌuto/[/m]
+
 lokaalinen
 	[m1]/ˈlokɑɑˌlinen/[/m]
 
@@ -111970,9 +110296,6 @@ lokaalisesti
 
 lokaalisuus
 	[m1]/ˈlokɑɑˌlisuus/[/m]
-
-loka-auto
-	[m1]/ˈlokɑɑˌuto/[/m]
 
 lokainen
 	[m1]/ˈlokɑinen/[/m]
@@ -112006,9 +110329,6 @@ lokero
 
 lokeroida
 	[m1]/ˈlokeˌroidɑ/[/m]
-
--lokeroinen
-	[m1]/ˈlokeˌroinen/[/m]
 
 lokerointi
 	[m1]/ˈlokeˌrointi/[/m]
@@ -112082,11 +110402,11 @@ loma
 loma-aika
 	[m1]/ˈlomɑɑˌikɑ/[/m]
 
-lomaan
-	[m1]/ˈlomɑɑn/[/m]
-
 loma-asunto
 	[m1]/ˈlomɑɑˌsunto/[/m]
+
+lomaan
+	[m1]/ˈlomɑɑn/[/m]
 
 lomahotelli
 	[m1]/ˈlomɑhoˌtelli/[/m]
@@ -112260,7 +110580,7 @@ lompsa
 	[m1]/ˈlompsɑ/[/m]
 
 long drink
-	[m1]/long[/m]
+	[m1]/[i]~[/i]/[/m]
 
 longerrella
 	[m1]/ˈlongerˌrellɑ/[/m]
@@ -112273,9 +110593,6 @@ longitudi
 
 lonka
 	[m1]/ˈlonkɑ/[/m]
-
-lonkero
-	[m1]/ˈ[i]~[/i]/[/m]
 
 lonkero
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -112408,9 +110725,6 @@ loppuikä
 
 loppuilta
 	[m1]/ˈloppuiltɑ/[/m]
-
--loppuinen
-	[m1]/ˈloppuinen/[/m]
 
 loppujakso
 	[m1]/ˈloppuˌjɑkso/[/m]
@@ -112781,9 +111095,6 @@ losottaa
 lossata
 	[m1]/ˈlossɑtɑ/[/m]
 
-lossata
-	[m1]/ˈlossɑtɑ/[/m]
-
 lossi
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -112825,9 +111136,6 @@ lotota
 
 lotrata
 	[m1]/ˈlotrɑtɑ/[/m]
-
-lotta
-	[m1]/ˈlottɑ/[/m]
 
 lotta
 	[m1]/ˈlottɑ/[/m]
@@ -112991,11 +111299,8 @@ lovitus
 LP-levy
 	[m1]/ˈlplevy/[/m]
 
-L-teräs
-	[m1]/ˈlteræs/[/m]
-
 lubenter approbatur
-	[m1]/ˈlubenter[/m]
+	[m1]/ˈlubenter ˈɑpproˌbɑtur/[/m]
 
 lude
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -113018,6 +111323,12 @@ luenta
 luento
 	[m1]/ˈ[i]~[/i]/[/m]
 
+luento-ohjelma
+	[m1]/ˈluenˌtoohjelmɑ/[/m]
+
+luento-opetus
+	[m1]/ˈluenˌtoopetus/[/m]
+
 luentokalvo
 	[m1]/ˈluentoˌkɑlvo/[/m]
 
@@ -113032,12 +111343,6 @@ luentomoniste
 
 luentomuistiinpanot
 	[m1]/ˈluentoˌmuistiinˌpɑnot/[/m]
-
-luento-ohjelma
-	[m1]/ˈluenˌtoohjelmɑ/[/m]
-
-luento-opetus
-	[m1]/ˈluenˌtoopetus/[/m]
 
 luentopäivä
 	[m1]/ˈluentoˌpæivæ/[/m]
@@ -113248,9 +111553,6 @@ luistinrata
 
 luisto
 	[m1]/ˈ[i]~[/i]/[/m]
-
--luistoinen
-	[m1]/ˈluistoinen/[/m]
 
 luistovoide
 	[m1]/ˈluistoˌvoide/[/m]
@@ -113703,7 +112005,7 @@ lukutoukka
 	[m1]/ˈlukutoˌukkɑ/[/m]
 
 lukuun ottamatta
-	[m1]/ˈlukuun[/m]
+	[m1]/ˈlukuun ˈottɑˌmɑttɑ/[/m]
 
 lukuvalaisin
 	[m1]/ˈlukuvɑˌlɑisin/[/m]
@@ -114122,9 +112424,6 @@ lunttilappu
 lunttu
 	[m1]/ˈ[i]~[/i]/[/m]
 
-lunttu
-	[m1]/ˈ[i]~[/i]/[/m]
-
 luo
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -114133,9 +112432,6 @@ luoda
 
 luodata
 	[m1]/ˈluodɑtɑ/[/m]
-
-luode
-	[m1]/ˈ[i]~[/i]/[/m]
 
 luode
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -114209,9 +112505,6 @@ luokitusperuste
 luokka
 	[m1]/ˈluokkɑ/[/m]
 
-luokka
-	[m1]/ˈluokkɑ/[/m]
-
 luokkaero
 	[m1]/ˈluokkɑˌero/[/m]
 
@@ -114220,12 +112513,6 @@ luokkahenki
 
 luokkahuone
 	[m1]/ˈluokkɑˌhuone/[/m]
-
--luokkainen
-	[m1]/ˈluokkɑinen/[/m]
-
--luokkaisuus
-	[m1]/ˈluokkɑisuus/[/m]
 
 luokkajako
 	[m1]/ˈluokkɑˌjɑko/[/m]
@@ -114244,9 +112531,6 @@ luokkakokous
 
 luokkakuva
 	[m1]/ˈluokkɑˌkuvɑ/[/m]
-
--luokkalainen
-	[m1]/ˈluokkɑˌlɑinen/[/m]
 
 luokkaopetus
 	[m1]/ˈluokkɑˌopetus/[/m]
@@ -114349,9 +112633,6 @@ luomakunta
 
 luomapuut
 	[m1]/ˈluomɑpuut/[/m]
-
-luomi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 luomi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -115586,12 +113867,6 @@ luulla
 luulo
 	[m1]/ˈ[i]~[/i]/[/m]
 
--luuloinen
-	[m1]/ˈluuloinen/[/m]
-
--luuloisuus
-	[m1]/ˈluuloisuus/[/m]
-
 luulosairas
 	[m1]/ˈluuloˌsɑirɑs/[/m]
 
@@ -115724,9 +113999,6 @@ luusolukko
 luusto
 	[m1]/ˈ[i]~[/i]/[/m]
 
--luustoinen
-	[m1]/ˈluustoinen/[/m]
-
 luustolihas
 	[m1]/ˈluustoˌlihɑs/[/m]
 
@@ -115746,9 +114018,6 @@ luutnantti
 	[m1]/ˈluutnɑntti/[/m]
 
 luuton
-	[m1]/ˈ[i]~[/i]/[/m]
-
-luuttu
 	[m1]/ˈ[i]~[/i]/[/m]
 
 luuttu
@@ -116234,9 +114503,6 @@ lypsy
 lypsyasema
 	[m1]/ˈlypsyˌɑsemɑ/[/m]
 
--lypsyinen
-	[m1]/ˈlypsyinen/[/m]
-
 lypsyjakkara
 	[m1]/ˈlypsyˌjɑkkɑrɑ/[/m]
 
@@ -116386,9 +114652,6 @@ lyönti
 
 lyöntilaukaus
 	[m1]/ˈlyøntiˌlɑukɑus/[/m]
-
--lyöntinen
-	[m1]/ˈlyøntinen/[/m]
 
 lyöntipeli
 	[m1]/ˈlyøntiˌpeli/[/m]
@@ -116828,9 +115091,6 @@ lähimyymälä
 lähin
 	[m1]/ˈlæhin/[/m]
 
-lähin
-	[m1]/ˈlæhin/[/m]
-
 lähinaapuri
 	[m1]/ˈlæhiˌnɑɑpuri/[/m]
 
@@ -116990,14 +115250,8 @@ lähtöhetki
 lähtöhinta
 	[m1]/ˈlæhtøˌhintɑ/[/m]
 
--lähtöinen
-	[m1]/ˈlæhtøinen/[/m]
-
 lähtöisin
 	[m1]/ˈlæhtøisin/[/m]
-
--lähtöisyys
-	[m1]/ˈlæhtøisyys/[/m]
 
 lähtöjännite
 	[m1]/ˈlæhtøˌjænnite/[/m]
@@ -117266,9 +115520,6 @@ läjätä
 läjäys
 	[m1]/ˈlæjæys/[/m]
 
-läjäys
-	[m1]/ˈlæjæys/[/m]
-
 läjäyttää
 	[m1]/ˈlæjæˌyttææ/[/m]
 
@@ -117397,9 +115648,6 @@ lämmitellä
 
 lämmitin
 	[m1]/ˈlæmmitin/[/m]
-
--lämmitteinen
-	[m1]/ˈlæmmitˌteinen/[/m]
 
 lämmittely
 	[m1]/ˈlæmmitˌtely/[/m]
@@ -117944,9 +116192,6 @@ läpeensä
 läpi
 	[m1]/ˈlæpi/[/m]
 
-läpi
-	[m1]/ˈlæpi/[/m]
-
 läpiajo
 	[m1]/ˈlæpiˌɑjo/[/m]
 
@@ -118084,12 +116329,6 @@ läpivientieristin
 
 läpivientikohta
 	[m1]/ˈlæpiˌvientiˌkohtɑ/[/m]
-
-läppä
-	[m1]/ˈlæppæ/[/m]
-
-läppä
-	[m1]/ˈlæppæ/[/m]
 
 läppä
 	[m1]/ˈlæppæ/[/m]
@@ -118283,9 +116522,6 @@ lätsähtää
 lätti
 	[m1]/ˈlætti/[/m]
 
-lätti
-	[m1]/ˈlætti/[/m]
-
 lättiläinen
 	[m1]/ˈlættiˌlæinen/[/m]
 
@@ -118352,6 +116588,9 @@ läähätys
 lääke
 	[m1]/ˈlææke/[/m]
 
+lääke-esittelijä
+	[m1]/ˈlæækeeˌsitteˌlijæ/[/m]
+
 lääkeaddikti
 	[m1]/ˈlæækeˌɑddikti/[/m]
 
@@ -118369,9 +116608,6 @@ lääkeaineoppi
 
 lääkeannos
 	[m1]/ˈlæækeˌɑnnos/[/m]
-
-lääke-esittelijä
-	[m1]/ˈlæækeeˌsitteˌlijæ/[/m]
 
 lääkehiili
 	[m1]/ˈlæækeˌhiili/[/m]
@@ -118700,9 +116936,6 @@ löpistä
 löpö
 	[m1]/ˈløpø/[/m]
 
-löpö
-	[m1]/ˈløpø/[/m]
-
 lörppö
 	[m1]/ˈlørppø/[/m]
 
@@ -118720,9 +116953,6 @@ lörpötys
 
 lörtsy
 	[m1]/ˈlørtsy/[/m]
-
-lössi
-	[m1]/ˈløssi/[/m]
 
 lössi
 	[m1]/ˈløssi/[/m]
@@ -119030,9 +117260,6 @@ maahikas
 maahinen
 	[m1]/ˈmɑɑhinen/[/m]
 
-maahockey
-	[m1]/ˈmɑɑhockey/[/m]
-
 maahumala
 	[m1]/ˈmɑɑhuˌmɑlɑ/[/m]
 
@@ -119050,9 +117277,6 @@ maailmallisuus
 
 maailmanaika
 	[m1]/ˈmɑɑilmɑˌnɑikɑ/[/m]
-
-maailmancup
-	[m1]/ˈmɑɑilˌmɑncup/[/m]
 
 maailmanennätys
 	[m1]/ˈmɑɑilmɑˌnennætys/[/m]
@@ -119546,17 +117770,11 @@ maalajite
 maalari
 	[m1]/ˈmɑɑlɑri/[/m]
 
-maalari
-	[m1]/ˈmɑɑlɑri/[/m]
-
 maalarinkelkka
 	[m1]/ˈmɑɑlɑˌrinkelkkɑ/[/m]
 
 maalarinteippi
 	[m1]/ˈmɑɑlɑrinˌteippi/[/m]
-
-maalata
-	[m1]/ˈmɑɑlɑtɑ/[/m]
 
 maalata
 	[m1]/ˈmɑɑlɑtɑ/[/m]
@@ -119569,9 +117787,6 @@ maalauksellisesti
 
 maalauksellisuus
 	[m1]/ˈmɑɑlɑˌukselˌlisuus/[/m]
-
-maalaus
-	[m1]/ˈmɑɑlɑus/[/m]
 
 maalaus
 	[m1]/ˈmɑɑlɑus/[/m]
@@ -119617,9 +117832,6 @@ maaleikkaus
 
 maalevintäinen
 	[m1]/ˈmɑɑlevinˌtæinen/[/m]
-
-maali
-	[m1]/ˈmɑɑli/[/m]
 
 maali
 	[m1]/ˈmɑɑli/[/m]
@@ -119678,9 +117890,6 @@ maalinedustapeli
 maalinen
 	[m1]/ˈmɑɑlinen/[/m]
 
--maalinen
-	[m1]/ˈmɑɑlinen/[/m]
-
 maalinnälkä
 	[m1]/ˈmɑɑlinˌnælkæ/[/m]
 
@@ -119698,9 +117907,6 @@ maalintekijä
 
 maalipensseli
 	[m1]/ˈmɑɑliˌpensseli/[/m]
-
-maalipinta
-	[m1]/ˈmɑɑliˌpintɑ/[/m]
 
 maalipinta
 	[m1]/ˈmɑɑliˌpintɑ/[/m]
@@ -119762,9 +117968,6 @@ maalitolppa
 maaliton
 	[m1]/ˈmɑɑliton/[/m]
 
-maaliton
-	[m1]/ˈmɑɑliton/[/m]
-
 maalituomari
 	[m1]/ˈmɑɑliˌtuomɑri/[/m]
 
@@ -119779,9 +117982,6 @@ maalivahti
 
 maaliverkko
 	[m1]/ˈmɑɑliˌverkko/[/m]
-
-maaliviiva
-	[m1]/ˈmɑɑliˌviivɑ/[/m]
 
 maaliviiva
 	[m1]/ˈmɑɑliˌviivɑ/[/m]
@@ -120527,9 +118727,6 @@ maastoharjoitus
 maastohiihto
 	[m1]/ˈmɑɑstoˌhiihto/[/m]
 
--maastoinen
-	[m1]/ˈmɑɑstoinen/[/m]
-
 maastoitse
 	[m1]/ˈmɑɑstoitse/[/m]
 
@@ -120857,30 +119054,6 @@ maaäiti
 maaöljy
 	[m1]/ˈmɑɑøljy/[/m]
 
-machiavellilainen
-	[m1]/ˈmɑchiɑˌvelliˌlɑinen/[/m]
-
-machiavellismi
-	[m1]/ˈmɑchiɑˌvellismi/[/m]
-
-machiavellisti
-	[m1]/ˈmɑchiɑˌvellisti/[/m]
-
-machiavellistinen
-	[m1]/ˈmɑchiɑˌvellisˌtinen/[/m]
-
-macho
-	[m1]/ˈmɑcho/[/m]
-
-machoilla
-	[m1]/ˈmɑchoillɑ/[/m]
-
-machoilu
-	[m1]/ˈmɑchoilu/[/m]
-
-machomies
-	[m1]/ˈmɑchomies/[/m]
-
 madallus
 	[m1]/ˈmɑdɑllus/[/m]
 
@@ -120988,9 +119161,6 @@ magna
 
 magnaatti
 	[m1]/ˈmɑgnɑɑtti/[/m]
-
-magna cum laude approbatur
-	[m1]/ˈmɑgnɑ[/m]
 
 magneetiton
 	[m1]/ˈmɑgneeˌtiton/[/m]
@@ -121135,9 +119305,6 @@ mahahappo
 
 mahahuuhtelu
 	[m1]/ˈmɑhɑˌhuuhtelu/[/m]
-
--mahainen
-	[m1]/ˈmɑhɑinen/[/m]
 
 mahakas
 	[m1]/ˈmɑhɑkɑs/[/m]
@@ -121448,9 +119615,6 @@ maileri
 maili
 	[m1]/ˈmɑili/[/m]
 
-maili
-	[m1]/ˈmɑili/[/m]
-
 main
 	[m1]/ˈmɑin/[/m]
 
@@ -121471,9 +119635,6 @@ maineikkaasti
 
 maineikkuus
 	[m1]/ˈmɑineikkuus/[/m]
-
--maineinen
-	[m1]/ˈmɑineinen/[/m]
 
 mainen
 	[m1]/ˈmɑinen/[/m]
@@ -122132,6 +120293,9 @@ makaus
 makauttaa
 	[m1]/ˈmɑkɑˌuttɑɑ/[/m]
 
+make-up
+	[m1]/ˈmɑkeup/[/m]
+
 makea
 	[m1]/ˈmɑkeɑ/[/m]
 
@@ -122170,9 +120334,6 @@ makeisrasia
 
 makeisteollisuus
 	[m1]/ˈmɑkeisteˌollisuus/[/m]
-
-make-up
-	[m1]/ˈmɑkeup/[/m]
 
 makeus
 	[m1]/ˈmɑkeus/[/m]
@@ -122267,6 +120428,9 @@ makro
 makro-
 	[m1]/ˈmɑkro/[/m]
 
+makro-objektiivi
+	[m1]/ˈmɑkroobjekˌtiivi/[/m]
+
 makrobiootikko
 	[m1]/ˈmɑkrobiˌootikko/[/m]
 
@@ -122293,9 +120457,6 @@ makromolekyyli
 
 makromolekyylikemia
 	[m1]/ˈmɑkroˌmoleˌkyyliˌkemiɑ/[/m]
-
-makro-objektiivi
-	[m1]/ˈmɑkroobjekˌtiivi/[/m]
 
 makroravinne
 	[m1]/ˈmɑkrorɑˌvinne/[/m]
@@ -122721,7 +120882,7 @@ malaijilainen
 	[m1]/ˈmɑlɑijiˌlɑinen/[/m]
 
 malaijin kieli
-	[m1]/ˈmɑlɑijin[/m]
+	[m1]/ˈmɑlɑijin ˈkieli/[/m]
 
 malakiitti
 	[m1]/ˈmɑlɑˌkiitti/[/m]
@@ -123131,9 +121292,6 @@ mamselli
 mana
 	[m1]/ˈmɑnɑ/[/m]
 
-mana
-	[m1]/ˈmɑnɑ/[/m]
-
 manaaja
 	[m1]/ˈmɑnɑɑjɑ/[/m]
 
@@ -123163,9 +121321,6 @@ mandaatti
 
 mandaattialue
 	[m1]/ˈmɑndɑɑtˌtiɑˌlue/[/m]
-
-mandariini
-	[m1]/ˈmɑndɑˌriini/[/m]
 
 mandariini
 	[m1]/ˈmɑndɑˌriini/[/m]
@@ -123450,7 +121605,7 @@ mansikkaviljelys
 	[m1]/ˈmɑnsikkɑˌviljelys/[/m]
 
 mansin kieli
-	[m1]/ˈmɑnsin[/m]
+	[m1]/ˈmɑnsin ˈkieli/[/m]
 
 manteli
 	[m1]/ˈmɑnteli/[/m]
@@ -123650,17 +121805,14 @@ mariininsininen
 marimba
 	[m1]/ˈmɑrimbɑ/[/m]
 
-marina
-	[m1]/ˈmɑrinɑ/[/m]
+marin kieli
+	[m1]/ˈmɑrin ˈkieli/[/m]
 
 marina
 	[m1]/ˈmɑrinɑ/[/m]
 
 marinadi
 	[m1]/ˈmɑriˌnɑdi/[/m]
-
-marin kieli
-	[m1]/ˈmɑrin[/m]
 
 marinoida
 	[m1]/ˈmɑriˌnoidɑ/[/m]
@@ -123823,9 +121975,6 @@ markkamääräinen
 
 markkamääräisesti
 	[m1]/ˈmɑrkkɑˌmææræiˌsesti/[/m]
-
--markkanen
-	[m1]/ˈmɑrkkɑnen/[/m]
 
 markkeerata
 	[m1]/ˈmɑrkkeeˌrɑtɑ/[/m]
@@ -124048,9 +122197,6 @@ marsilainen
 
 marsipaani
 	[m1]/ˈmɑrsiˌpɑɑni/[/m]
-
-marski
-	[m1]/ˈmɑrski/[/m]
 
 marski
 	[m1]/ˈmɑrski/[/m]
@@ -124385,9 +122531,6 @@ masto
 mastodontti
 	[m1]/ˈmɑstoˌdontti/[/m]
 
--mastoinen
-	[m1]/ˈmɑstoinen/[/m]
-
 mastonhuippu
 	[m1]/ˈmɑstonˌhuippu/[/m]
 
@@ -124658,9 +122801,6 @@ materialistisesti
 matikka
 	[m1]/ˈmɑtikkɑ/[/m]
 
-matikka
-	[m1]/ˈmɑtikkɑ/[/m]
-
 matinea
 	[m1]/ˈmɑtiˌneɑ/[/m]
 
@@ -124682,11 +122822,17 @@ matka-aie
 matka-aika
 	[m1]/ˈmɑtkɑɑˌikɑ/[/m]
 
-matkaaja
-	[m1]/ˈmɑtkɑɑjɑ/[/m]
-
 matka-ajo
 	[m1]/ˈmɑtkɑɑjo/[/m]
+
+matka-apteekki
+	[m1]/ˈmɑtkɑɑpˌteekki/[/m]
+
+matka-apuraha
+	[m1]/ˈmɑtkɑɑˌpurɑhɑ/[/m]
+
+matkaaja
+	[m1]/ˈmɑtkɑɑjɑ/[/m]
 
 matkaanlähtijä
 	[m1]/ˈmɑtkɑɑnˌlæhtijæ/[/m]
@@ -124696,12 +122842,6 @@ matkaanlähtö
 
 matkaansaattaa
 	[m1]/ˈmɑtkɑɑnˌsɑɑttɑɑ/[/m]
-
-matka-apteekki
-	[m1]/ˈmɑtkɑɑpˌteekki/[/m]
-
-matka-apuraha
-	[m1]/ˈmɑtkɑɑˌpurɑhɑ/[/m]
 
 matkaeväs
 	[m1]/ˈmɑtkɑˌevæs/[/m]
@@ -124780,9 +122920,6 @@ matkailuvaunu
 
 matkailuyhdistys
 	[m1]/ˈmɑtkɑiluˌyhdistys/[/m]
-
--matkainen
-	[m1]/ˈmɑtkɑinen/[/m]
 
 matkakassa
 	[m1]/ˈmɑtkɑˌkɑssɑ/[/m]
@@ -125075,6 +123212,9 @@ matkustusväline
 mato
 	[m1]/ˈmɑto/[/m]
 
+mato-onki
+	[m1]/ˈmɑtoonki/[/m]
+
 matoinen
 	[m1]/ˈmɑtoinen/[/m]
 
@@ -125095,9 +123235,6 @@ matonen
 
 matonkude
 	[m1]/ˈmɑtonˌkude/[/m]
-
-mato-onki
-	[m1]/ˈmɑtoonki/[/m]
 
 matosyötti
 	[m1]/ˈmɑtoˌsyøtti/[/m]
@@ -125153,9 +123290,6 @@ mattaväri
 matti
 	[m1]/ˈmɑtti/[/m]
 
-matti
-	[m1]/ˈmɑtti/[/m]
-
 mattiasema
 	[m1]/ˈmɑttiˌɑsemɑ/[/m]
 
@@ -125203,6 +123337,9 @@ maturiteettikoe
 
 mau
 	[m1]/ˈmɑu/[/m]
+
+mau'unta
+	[m1]/ˈmɑuuntɑ/[/m]
 
 maukas
 	[m1]/ˈmɑukɑs/[/m]
@@ -125339,9 +123476,6 @@ mauttomasti
 mauttomuus
 	[m1]/ˈmɑutˌtomuus/[/m]
 
-mau'unta
-	[m1]/ˈmɑuuntɑ/[/m]
-
 maya
 	[m1]/ˈmɑyɑ/[/m]
 
@@ -125353,6 +123487,9 @@ mayakulttuuri
 
 me
 	[m1]/[i]~[/i]/[/m]
+
+me-henki
+	[m1]/ˈmehenki/[/m]
 
 medaljonki
 	[m1]/ˈmedɑlˌjonki/[/m]
@@ -125437,9 +123574,6 @@ megatähti
 
 megawatti
 	[m1]/ˈmegɑˌwɑtti/[/m]
-
-me-henki
-	[m1]/ˈmehenki/[/m]
 
 mehevyys
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -126002,9 +124136,6 @@ menekinedistäminen
 menekki
 	[m1]/ˈ[i]~[/i]/[/m]
 
--menekkinen
-	[m1]/ˈmenekˌkinen/[/m]
-
 menekkivaikeudet
 	[m1]/ˈmenekkiˌvɑikeudet/[/m]
 
@@ -126122,6 +124253,9 @@ mennä
 meno
 	[m1]/ˈ[i]~[/i]/[/m]
 
+meno-paluulippu
+	[m1]/ˈmenopɑˌluulippu/[/m]
+
 menoarvio
 	[m1]/ˈmenoˌɑrvio/[/m]
 
@@ -126136,9 +124270,6 @@ menolippu
 
 menomatka
 	[m1]/ˈmenoˌmɑtkɑ/[/m]
-
-meno-paluulippu
-	[m1]/ˈmenopɑˌluulippu/[/m]
 
 menopaussi
 	[m1]/ˈmenopɑˌussi/[/m]
@@ -126335,6 +124466,12 @@ merenvihreä
 meri
 	[m1]/ˈ[i]~[/i]/[/m]
 
+meri-ilma
+	[m1]/ˈmeriilmɑ/[/m]
+
+meri-ilmasto
+	[m1]/ˈmeriilˌmɑsto/[/m]
+
 meriahven
 	[m1]/ˈmeriˌɑhven/[/m]
 
@@ -126391,12 +124528,6 @@ merihirviö
 
 merihätä
 	[m1]/ˈmeriˌhætæ/[/m]
-
-meri-ilma
-	[m1]/ˈmeriilmɑ/[/m]
-
-meri-ilmasto
-	[m1]/ˈmeriilˌmɑsto/[/m]
 
 meriitti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -126797,11 +124928,11 @@ merkeli
 merkelikivi
 	[m1]/ˈmerkeˌlikivi/[/m]
 
+merkille pantava
+	[m1]/ˈmerkille ˈpɑntɑvɑ/[/m]
+
 merkillepano
 	[m1]/ˈmerkilˌlepɑno/[/m]
-
-merkille pantava
-	[m1]/ˈmerkille[/m]
 
 merkillinen
 	[m1]/ˈmerkilˌlinen/[/m]
@@ -126829,9 +124960,6 @@ merkintä
 
 merkintähinta
 	[m1]/ˈmerkintæˌhintɑ/[/m]
-
--merkintäinen
-	[m1]/ˈmerkinˌtæinen/[/m]
 
 merkintäoikeus
 	[m1]/ˈmerkintæˌoikeus/[/m]
@@ -126880,12 +125008,6 @@ merkityksellinen
 
 merkityksetön
 	[m1]/ˈmerkiˌtyksetøn/[/m]
-
--merkityksinen
-	[m1]/ˈmerkiˌtyksinen/[/m]
-
--merkityksisyys
-	[m1]/ˈmerkiˌtyksisyys/[/m]
 
 merkitys
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -127118,6 +125240,9 @@ messityttö
 messu
 	[m1]/ˈ[i]~[/i]/[/m]
 
+messu-uhri
+	[m1]/ˈmessuuhri/[/m]
+
 messuemäntä
 	[m1]/ˈmessueˌmæntæ/[/m]
 
@@ -127138,9 +125263,6 @@ messuta
 
 messutavara
 	[m1]/ˈmessuˌtɑvɑrɑ/[/m]
-
-messu-uhri
-	[m1]/ˈmessuuhri/[/m]
 
 messuvieras
 	[m1]/ˈmessuˌvierɑs/[/m]
@@ -127643,9 +125765,6 @@ metreittäin
 metri
 	[m1]/ˈ[i]~[/i]/[/m]
 
--metri
-	[m1]/ˈmetri/[/m]
-
 metriikka
 	[m1]/ˈmetriikkɑ/[/m]
 
@@ -127726,6 +125845,9 @@ metsuri
 
 metsä
 	[m1]/ˈmetsæ/[/m]
+
+metsä-äes
+	[m1]/ˈmetsææes/[/m]
 
 metsäajo
 	[m1]/ˈmetsæˌɑjo/[/m]
@@ -128159,9 +126281,6 @@ metsäyhtiö
 metsäympäristö
 	[m1]/ˈmetsæˌympæˌristø/[/m]
 
-metsä-äes
-	[m1]/ˈmetsææes/[/m]
-
 mettinen
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -128194,9 +126313,6 @@ mi
 
 miau
 	[m1]/ˈmiɑu/[/m]
-
-midi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 midi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -128636,14 +126752,11 @@ mielikuvitus
 mielikuvitusmaailma
 	[m1]/ˈmieliˌkuvitusˌmɑɑilmɑ/[/m]
 
--mielinen
-	[m1]/ˈmielinen/[/m]
-
 mielin kielin
-	[m1]/ˈmielin[/m]
+	[m1]/ˈmielin ˈkielin/[/m]
 
 mielin määrin
-	[m1]/ˈmielin[/m]
+	[m1]/ˈmielin ˈmæærin/[/m]
 
 mielipaha
 	[m1]/ˈmieliˌpɑhɑ/[/m]
@@ -128732,9 +126845,6 @@ mielisairas
 mielisairaus
 	[m1]/ˈmieliˌsɑirɑus/[/m]
 
--mielisesti
-	[m1]/ˈmieliˌsesti/[/m]
-
 mielissään
 	[m1]/ˈmielissææn/[/m]
 
@@ -128752,9 +126862,6 @@ mielistyä
 
 mielisuosio
 	[m1]/ˈmieliˌsuosio/[/m]
-
--mielisyys
-	[m1]/ˈmielisyys/[/m]
 
 mielitauti
 	[m1]/ˈmieliˌtɑuti/[/m]
@@ -128804,14 +126911,14 @@ miellyttävyys
 miellyttävä
 	[m1]/ˈmiellytˌtævæ/[/m]
 
+miellyttävä-ääninen
+	[m1]/ˈmiellyttæˌvæææˌninen/[/m]
+
 miellyttäväkäytöksinen
 	[m1]/ˈmiellytˌtævæˌkæytøkˌsinen/[/m]
 
 miellyttävästi
 	[m1]/ˈmiellyttæˌvæsti/[/m]
-
-miellyttävä-ääninen
-	[m1]/ˈmiellyttæˌvæææˌninen/[/m]
 
 miellyttää
 	[m1]/ˈmiellyttææ/[/m]
@@ -129116,9 +127223,6 @@ mieto
 mietous
 	[m1]/ˈ[i]~[/i]/[/m]
 
--mietteinen
-	[m1]/ˈmietteinen/[/m]
-
 mietteliäisyys
 	[m1]/ˈmietteliˌæisyys/[/m]
 
@@ -129263,14 +127367,14 @@ mikkelinpäivä
 mikki
 	[m1]/ˈ[i]~[/i]/[/m]
 
--mikko
-	[m1]/ˈmikko/[/m]
-
 mikro
 	[m1]/ˈ[i]~[/i]/[/m]
 
 mikro-
 	[m1]/ˈmikro/[/m]
+
+mikro-organismi
+	[m1]/ˈmikroorgɑˌnismi/[/m]
 
 mikroaallot
 	[m1]/ˈmikroˌɑɑllot/[/m]
@@ -129349,9 +127453,6 @@ mikrometri
 
 mikroni
 	[m1]/ˈ[i]~[/i]/[/m]
-
-mikro-organismi
-	[m1]/ˈmikroorgɑˌnismi/[/m]
 
 mikropiiri
 	[m1]/ˈmikroˌpiiri/[/m]
@@ -129552,7 +127653,7 @@ miljöökuvaus
 	[m1]/ˈmiljøøˌkuvɑus/[/m]
 
 milk shake
-	[m1]/milk[/m]
+	[m1]/milk ˈseik/[/m]
 
 millainen
 	[m1]/ˈmillɑinen/[/m]
@@ -129734,9 +127835,6 @@ miniatyyritaide
 minibaari
 	[m1]/ˈminiˌbɑɑri/[/m]
 
-minicross
-	[m1]/ˈ[i]~[/i]/[/m]
-
 minigolf
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -129893,6 +127991,15 @@ minkkitarhaaja
 minkkiturkki
 	[m1]/ˈminkkiˌturkki/[/m]
 
+minkä takia
+	[m1]/ˈminkæ ˈtɑkiɑ/[/m]
+
+minkä tähden
+	[m1]/ˈminkæ ˈtæhden/[/m]
+
+minkä vuoksi
+	[m1]/ˈminkæ ˈvuoksi/[/m]
+
 minkähintainen
 	[m1]/ˈminkæhinˌtɑinen/[/m]
 
@@ -129910,15 +128017,6 @@ minkämaalainen
 
 minkämerkkinen
 	[m1]/ˈminkæˌmerkkinen/[/m]
-
-minkä takia
-	[m1]/ˈminkæ[/m]
-
-minkä tähden
-	[m1]/ˈminkæ[/m]
-
-minkä vuoksi
-	[m1]/ˈminkæ[/m]
 
 minkävärinen
 	[m1]/ˈminkæˌværinen/[/m]
@@ -129982,9 +128080,6 @@ minuuteittain
 
 minuutti
 	[m1]/ˈ[i]~[/i]/[/m]
-
--minuuttinen
-	[m1]/ˈminuutˌtinen/[/m]
 
 minuuttiosoitin
 	[m1]/ˈminuutˌtioˌsoitin/[/m]
@@ -130154,6 +128249,9 @@ mitellä
 miten
 	[m1]/ˈ[i]~[/i]/[/m]
 
+miten päin
+	[m1]/ˈmiten ˈpæin/[/m]
+
 mitenkin
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -130165,9 +128263,6 @@ mitenkä
 
 mitenkään
 	[m1]/ˈmitenkææn/[/m]
-
-miten päin
-	[m1]/ˈmiten[/m]
 
 mitoittaa
 	[m1]/ˈmitoittɑɑ/[/m]
@@ -130187,6 +128282,12 @@ mitra
 mitta
 	[m1]/ˈmittɑ/[/m]
 
+mitta-asteikko
+	[m1]/ˈmittɑɑsˌteikko/[/m]
+
+mitta-astia
+	[m1]/ˈmittɑɑsˌtiɑ/[/m]
+
 mittaaja
 	[m1]/ˈmittɑɑjɑ/[/m]
 
@@ -130198,12 +128299,6 @@ mittaamattomasti
 
 mittaamattomuus
 	[m1]/ˈmittɑɑˌmɑttomuus/[/m]
-
-mitta-asteikko
-	[m1]/ˈmittɑɑsˌteikko/[/m]
-
-mitta-astia
-	[m1]/ˈmittɑɑsˌtiɑ/[/m]
 
 mittahävikki
 	[m1]/ˈmittɑhæˌvikki/[/m]
@@ -130225,9 +128320,6 @@ mittajärjestelmä
 
 mittakaava
 	[m1]/ˈmittɑˌkɑɑvɑ/[/m]
-
--mittakaavainen
-	[m1]/ˈmittɑˌkɑɑvɑinen/[/m]
 
 mittakaulain
 	[m1]/ˈmittɑˌkɑulɑin/[/m]
@@ -130445,9 +128537,6 @@ modernistaa
 modernisti
 	[m1]/ˈmoderˌnisti/[/m]
 
-modernisti
-	[m1]/ˈmoderˌnisti/[/m]
-
 modernistinen
 	[m1]/ˈmoderˌnistinen/[/m]
 
@@ -130628,9 +128717,6 @@ mokaus
 mokka
 	[m1]/ˈmokkɑ/[/m]
 
-mokka
-	[m1]/ˈmokkɑ/[/m]
-
 mokkaharja
 	[m1]/ˈmokkɑˌhɑrjɑ/[/m]
 
@@ -130683,7 +128769,7 @@ moksahtaa
 	[m1]/ˈmoksɑhtɑɑ/[/m]
 
 mokšan kieli
-	[m1]/mokšɑn[/m]
+	[m1]/mokšɑn ˈkieli/[/m]
 
 moksaus
 	[m1]/ˈmoksɑus/[/m]
@@ -130920,7 +129006,7 @@ mongolilainen
 	[m1]/ˈmongoliˌlɑinen/[/m]
 
 mongolin kieli
-	[m1]/ˈmongolin[/m]
+	[m1]/ˈmongolin ˈkieli/[/m]
 
 mongolinkielinen
 	[m1]/ˈmongolinˌkielinen/[/m]
@@ -130936,6 +129022,9 @@ mongoloidi
 
 moni
 	[m1]/ˈ[i]~[/i]/[/m]
+
+moni-ilmeinen
+	[m1]/ˈmoniilˌmeinen/[/m]
 
 moniaalla
 	[m1]/ˈmoniˌɑɑllɑ/[/m]
@@ -130978,9 +129067,6 @@ monihaarainen
 
 monihenkinen
 	[m1]/ˈmoniˌhenkinen/[/m]
-
-moni-ilmeinen
-	[m1]/ˈmoniilˌmeinen/[/m]
 
 monijumalainen
 	[m1]/ˈmoniˌjumɑˌlɑinen/[/m]
@@ -131120,6 +129206,12 @@ monimiljoonainen
 monimiljoonikko
 	[m1]/ˈmonimilˌjoonikko/[/m]
 
+monimuoto-opetus
+	[m1]/ˈmoniˌmuotooˌpetus/[/m]
+
+monimuoto-opiskelu
+	[m1]/ˈmoniˌmuotooˌpiskelu/[/m]
+
 monimuotoinen
 	[m1]/ˈmoniˌmuotoinen/[/m]
 
@@ -131128,12 +129220,6 @@ monimuotoistua
 
 monimuotoisuus
 	[m1]/ˈmoniˌmuotoisuus/[/m]
-
-monimuoto-opetus
-	[m1]/ˈmoniˌmuotooˌpetus/[/m]
-
-monimuoto-opiskelu
-	[m1]/ˈmoniˌmuotooˌpiskelu/[/m]
 
 monimutkainen
 	[m1]/ˈmonimutˌkɑinen/[/m]
@@ -131456,9 +129542,6 @@ monkua
 mono
 	[m1]/ˈ[i]~[/i]/[/m]
 
-mono
-	[m1]/ˈ[i]~[/i]/[/m]
-
 monofonia
 	[m1]/ˈmonoˌfoniɑ/[/m]
 
@@ -131663,9 +129746,6 @@ moottoriliikennetie
 moottorillinen
 	[m1]/ˈmoottoˌrillinen/[/m]
 
--moottorinen
-	[m1]/ˈmoottoˌrinen/[/m]
-
 moottoriperä
 	[m1]/ˈmoottoˌriperæ/[/m]
 
@@ -131853,7 +129933,7 @@ mordvalainen
 	[m1]/ˈmordvɑˌlɑinen/[/m]
 
 mordvan kieli
-	[m1]/ˈmordvɑn[/m]
+	[m1]/ˈmordvɑn ˈkieli/[/m]
 
 moreeni
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -131923,9 +130003,6 @@ mormyska
 
 mormyskaonki
 	[m1]/ˈmormyskɑˌonki/[/m]
-
-moro
-	[m1]/ˈ[i]~[/i]/[/m]
 
 moro
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -132077,12 +130154,6 @@ motkottaa
 moto
 	[m1]/ˈ[i]~[/i]/[/m]
 
-motocross
-	[m1]/ˈ[i]~[/i]/[/m]
-
-motocrosskilpailu
-	[m1]/ˈmotocˌrosskilˌpɑilu/[/m]
-
 motoriikka
 	[m1]/ˈmotoˌriikkɑ/[/m]
 
@@ -132100,9 +130171,6 @@ motoristi
 
 motskari
 	[m1]/ˈmotskɑri/[/m]
-
-motti
-	[m1]/ˈ[i]~[/i]/[/m]
 
 motti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -132452,9 +130520,6 @@ muistilista
 muistilokero
 	[m1]/ˈmuistiˌlokero/[/m]
 
--muistinen
-	[m1]/ˈmuistinen/[/m]
-
 muistinmenetys
 	[m1]/ˈmuistinˌmenetys/[/m]
 
@@ -132469,9 +130534,6 @@ muistio
 
 muistipaikka
 	[m1]/ˈmuistiˌpɑikkɑ/[/m]
-
--muistisuus
-	[m1]/ˈmuistisuus/[/m]
 
 muistisääntö
 	[m1]/ˈmuistiˌsææntø/[/m]
@@ -132496,9 +130558,6 @@ muistoesine
 
 muistohetki
 	[m1]/ˈmuistoˌhetki/[/m]
-
--muistoinen
-	[m1]/ˈmuistoinen/[/m]
 
 muistoisa
 	[m1]/ˈmuistoisɑ/[/m]
@@ -132597,10 +130656,10 @@ mukaan
 	[m1]/ˈmukɑɑn/[/m]
 
 mukaan luettuna
-	[m1]/ˈmukɑɑn[/m]
+	[m1]/ˈmukɑɑn ˈluetˌtunɑ/[/m]
 
 mukaan lukien
-	[m1]/ˈmukɑɑn[/m]
+	[m1]/ˈmukɑɑn ˈlukien/[/m]
 
 mukaanotto
 	[m1]/ˈmukɑɑˌnotto/[/m]
@@ -132741,7 +130800,7 @@ mukista
 	[m1]/ˈmukistɑ/[/m]
 
 mukkelis makkelis
-	[m1]/ˈmukkelis[/m]
+	[m1]/ˈmukkelis ˈmɑkkelis/[/m]
 
 muksahdus
 	[m1]/ˈmuksɑhdus/[/m]
@@ -132766,9 +130825,6 @@ mukula
 
 mukula-artisokka
 	[m1]/ˈmukuˌlɑɑrtiˌsokkɑ/[/m]
-
--mukulainen
-	[m1]/ˈmukuˌlɑinen/[/m]
 
 mukulajuuri
 	[m1]/ˈmukulɑˌjuuri/[/m]
@@ -132867,7 +130923,7 @@ mullikka
 	[m1]/ˈmullikkɑ/[/m]
 
 mullin mallin
-	[m1]/ˈmullin[/m]
+	[m1]/ˈmullin ˈmɑllin/[/m]
 
 mullinpaisti
 	[m1]/ˈmullinˌpɑisti/[/m]
@@ -133006,9 +131062,6 @@ muna
 
 munahedelmä
 	[m1]/ˈmunɑheˌdelmæ/[/m]
-
--munainen
-	[m1]/ˈmunɑinen/[/m]
 
 munajuusto
 	[m1]/ˈmunɑˌjuusto/[/m]
@@ -133391,6 +131444,12 @@ muoti
 muoti-
 	[m1]/ˈmuoti/[/m]
 
+muoti-ilmiö
+	[m1]/ˈmuotiilˌmiø/[/m]
+
+muoti-iskelmä
+	[m1]/ˈmuotiisˌkelmæ/[/m]
+
 muotiala
 	[m1]/ˈmuotiˌɑlɑ/[/m]
 
@@ -133402,12 +131461,6 @@ muotiharrastus
 
 muotihuone
 	[m1]/ˈmuotiˌhuone/[/m]
-
-muoti-ilmiö
-	[m1]/ˈmuotiilˌmiø/[/m]
-
-muoti-iskelmä
-	[m1]/ˈmuotiisˌkelmæ/[/m]
 
 muotikeskus
 	[m1]/ˈmuotiˌkeskus/[/m]
@@ -133440,7 +131493,7 @@ muotisana
 	[m1]/ˈmuotiˌsɑnɑ/[/m]
 
 muotishow
-	[m1]/ˈ[i]~[/i]/[/m]
+	[m1]/ˈmuotisow/[/m]
 
 muotisuunnittelija
 	[m1]/ˈmuotiˌsuunnitˌtelijɑ/[/m]
@@ -133468,6 +131521,12 @@ muotiväri
 
 muoto
 	[m1]/ˈ[i]~[/i]/[/m]
+
+muoto-opillinen
+	[m1]/ˈmuotooˌpillinen/[/m]
+
+muoto-oppi
+	[m1]/ˈmuotooppi/[/m]
 
 muotoaisti
 	[m1]/ˈmuotoˌɑisti/[/m]
@@ -133531,12 +131590,6 @@ muotolaskos
 
 muotolista
 	[m1]/ˈmuotoˌlistɑ/[/m]
-
-muoto-opillinen
-	[m1]/ˈmuotooˌpillinen/[/m]
-
-muoto-oppi
-	[m1]/ˈmuotooppi/[/m]
 
 muotopuhdas
 	[m1]/ˈmuotoˌpuhdɑs/[/m]
@@ -133847,11 +131900,11 @@ mureutua
 murha
 	[m1]/ˈmurhɑ/[/m]
 
-murhaaja
-	[m1]/ˈmurhɑɑjɑ/[/m]
-
 murha-ase
 	[m1]/ˈmurhɑɑse/[/m]
+
+murhaaja
+	[m1]/ˈmurhɑɑjɑ/[/m]
 
 murhaava
 	[m1]/ˈmurhɑɑvɑ/[/m]
@@ -133963,9 +132016,6 @@ murkinoida
 
 murkinointi
 	[m1]/ˈmurkiˌnointi/[/m]
-
-murkku
-	[m1]/ˈ[i]~[/i]/[/m]
 
 murkku
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -134156,9 +132206,6 @@ murteentutkija
 murteentutkimus
 	[m1]/ˈmurteenˌtutkimus/[/m]
 
--murteinen
-	[m1]/ˈmurteinen/[/m]
-
 murteisto
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -134167,6 +132214,9 @@ murteittain
 
 murto
 	[m1]/ˈ[i]~[/i]/[/m]
+
+murto-osa
+	[m1]/ˈmurtoosɑ/[/m]
 
 murtohälytin
 	[m1]/ˈmurtoˌhælytin/[/m]
@@ -134194,9 +132244,6 @@ murtomaahiihto
 
 murtomies
 	[m1]/ˈ[i]~[/i]/[/m]
-
-murto-osa
-	[m1]/ˈmurtoosɑ/[/m]
 
 murtopinta
 	[m1]/ˈmurtoˌpintɑ/[/m]
@@ -134957,9 +133004,6 @@ mutteri
 mutu
 	[m1]/ˈ[i]~[/i]/[/m]
 
-mutu
-	[m1]/ˈ[i]~[/i]/[/m]
-
 mutumenetelmä
 	[m1]/ˈmutuˌmeneˌtelmæ/[/m]
 
@@ -135047,6 +133091,9 @@ muumioitua
 muumiotauti
 	[m1]/ˈmuumioˌtɑuti/[/m]
 
+muun muassa
+	[m1]/ˈmuun ˈmuɑssɑ/[/m]
+
 muunkaltainen
 	[m1]/ˈmuunkɑlˌtɑinen/[/m]
 
@@ -135064,9 +133111,6 @@ muunlainen
 
 muunmaalainen
 	[m1]/ˈmuunmɑɑˌlɑinen/[/m]
-
-muun muassa
-	[m1]/ˈmuun[/m]
 
 muunnella
 	[m1]/ˈmuunnellɑ/[/m]
@@ -135614,6 +133658,9 @@ myrkytön
 myrsky
 	[m1]/ˈ[i]~[/i]/[/m]
 
+myrsky-yö
+	[m1]/ˈmyrskyyø/[/m]
+
 myrskyaalto
 	[m1]/ˈmyrskyˌɑɑlto/[/m]
 
@@ -135664,9 +133711,6 @@ myrskyvahinko
 
 myrskyvaroitus
 	[m1]/ˈmyrskyvɑˌroitus/[/m]
-
-myrsky-yö
-	[m1]/ˈmyrskyyø/[/m]
 
 myrtsi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -136211,9 +134255,6 @@ myötäinen
 myötäisesti
 	[m1]/ˈmyøtæiˌsesti/[/m]
 
--myötäisyys
-	[m1]/ˈmyøtæisyys/[/m]
-
 myötäjuoksija
 	[m1]/ˈmyøtæˌjuoksijɑ/[/m]
 
@@ -136511,9 +134552,6 @@ mäkätys
 mälli
 	[m1]/ˈmælli/[/m]
 
-mälli
-	[m1]/ˈmælli/[/m]
-
 mällätä
 	[m1]/ˈmællætæ/[/m]
 
@@ -136568,14 +134606,14 @@ männäntappi
 mäntti
 	[m1]/ˈmæntti/[/m]
 
-mäntti
-	[m1]/ˈmæntti/[/m]
-
 mänttipää
 	[m1]/ˈmænttipææ/[/m]
 
 mänty
 	[m1]/ˈmænty/[/m]
+
+mänty-yökkönen
+	[m1]/ˈmæntyyˌøkkønen/[/m]
 
 mäntyhalko
 	[m1]/ˈmæntyˌhɑlko/[/m]
@@ -136630,9 +134668,6 @@ mäntysuopa
 
 mäntyvaltainen
 	[m1]/ˈmæntyvɑlˌtɑinen/[/m]
-
-mänty-yökkönen
-	[m1]/ˈmæntyyˌøkkønen/[/m]
 
 mäntyöljy
 	[m1]/ˈmæntyøljy/[/m]
@@ -137282,9 +135317,6 @@ naamahermo
 naamahermohalvaus
 	[m1]/ˈnɑɑmɑˌhermoˌhɑlvɑus/[/m]
 
--naamainen
-	[m1]/ˈnɑɑmɑinen/[/m]
-
 naamakukkainen
 	[m1]/ˈnɑɑmɑkukˌkɑinen/[/m]
 
@@ -137563,9 +135595,6 @@ nahkahuonekalu
 
 nahkainen
 	[m1]/ˈnɑhkɑinen/[/m]
-
--nahkaisuus
-	[m1]/ˈnɑhkɑisuus/[/m]
 
 nahkajakku
 	[m1]/ˈnɑhkɑˌjɑkku/[/m]
@@ -138107,15 +136136,6 @@ nakkelu
 nakki
 	[m1]/ˈnɑkki/[/m]
 
-nakki
-	[m1]/ˈnɑkki/[/m]
-
-nakki
-	[m1]/ˈnɑkki/[/m]
-
-nakki
-	[m1]/ˈnɑkki/[/m]
-
 nakkikastike
 	[m1]/ˈnɑkkiˌkɑstike/[/m]
 
@@ -138218,9 +136238,6 @@ nallekarhu
 nalli
 	[m1]/ˈnɑlli/[/m]
 
-nalli
-	[m1]/ˈnɑlli/[/m]
-
 nallikka
 	[m1]/ˈnɑllikkɑ/[/m]
 
@@ -138262,9 +136279,6 @@ napa
 
 napa-alue
 	[m1]/ˈnɑpɑɑˌlue/[/m]
-
--napainen
-	[m1]/ˈnɑpɑinen/[/m]
 
 napaisuus
 	[m1]/ˈnɑpɑisuus/[/m]
@@ -138448,9 +136462,6 @@ nappilenkki
 
 nappilista
 	[m1]/ˈnɑppiˌlistɑ/[/m]
-
--nappinen
-	[m1]/ˈnɑppinen/[/m]
 
 nappiparisto
 	[m1]/ˈnɑppipɑˌristo/[/m]
@@ -138737,9 +136748,6 @@ nasevuus
 naskali
 	[m1]/ˈnɑskɑli/[/m]
 
-naskali
-	[m1]/ˈnɑskɑli/[/m]
-
 nassakka
 	[m1]/ˈnɑssɑkkɑ/[/m]
 
@@ -138748,9 +136756,6 @@ nasse
 
 nassikka
 	[m1]/ˈnɑssikkɑ/[/m]
-
-nassu
-	[m1]/ˈnɑssu/[/m]
 
 nassu
 	[m1]/ˈnɑssu/[/m]
@@ -138877,6 +136882,9 @@ natustaa
 
 natustella
 	[m1]/ˈnɑtusˌtellɑ/[/m]
+
+nau'unta
+	[m1]/ˈnɑuuntɑ/[/m]
 
 naudanliha
 	[m1]/ˈnɑudɑnˌlihɑ/[/m]
@@ -139180,9 +137188,6 @@ nauttia
 
 nauttija
 	[m1]/ˈnɑutˌtijɑ/[/m]
-
-nau'unta
-	[m1]/ˈnɑuuntɑ/[/m]
 
 navaho
 	[m1]/ˈnɑvɑho/[/m]
@@ -139622,18 +137627,6 @@ neliövuokra
 neljä
 	[m1]/ˈneljæ/[/m]
 
-4H-kerho
-	[m1]/ˈhkerho/[/m]
-
-4H-kerholainen
-	[m1]/ˈhkerhoˌlɑinen/[/m]
-
-4H-neuvoja
-	[m1]/ˈhneuvojɑ/[/m]
-
-4H-toiminta
-	[m1]/ˈhtoimintɑ/[/m]
-
 neljäkymmentä
 	[m1]/ˈneljæˌkymmentæ/[/m]
 
@@ -139753,9 +137746,6 @@ nenä
 
 nenähengitys
 	[m1]/ˈnenæˌhengitys/[/m]
-
--nenäinen
-	[m1]/ˈnenæinen/[/m]
 
 nenäkkyys
 	[m1]/ˈnenækkyys/[/m]
@@ -140129,9 +138119,6 @@ neule
 neuleasu
 	[m1]/ˈneuleˌɑsu/[/m]
 
--neuleinen
-	[m1]/ˈneuleinen/[/m]
-
 neulekangas
 	[m1]/ˈneuleˌkɑngɑs/[/m]
 
@@ -140300,9 +138287,6 @@ neuvoa
 neuvoa-antava
 	[m1]/ˈneuvoˌɑɑntɑvɑ/[/m]
 
--neuvoinen
-	[m1]/ˈneuvoinen/[/m]
-
 neuvoja
 	[m1]/ˈneuvojɑ/[/m]
 
@@ -140447,20 +138431,17 @@ nevaniitty
 nevaräme
 	[m1]/ˈnevɑˌræme/[/m]
 
-newfoundlandinkoira
-	[m1]/ˈnewfoundˌlɑndinˌkoirɑ/[/m]
-
 nevoittua
 	[m1]/ˈnevoitˌtuɑ/[/m]
+
+newfoundlandinkoira
+	[m1]/ˈnewfoundˌlɑndinˌkoirɑ/[/m]
 
 newton
 	[m1]/ˈ[i]~[/i]/[/m]
 
 nide
 	[m1]/ˈ[i]~[/i]/[/m]
-
--nidoksinen
-	[m1]/ˈnidokˌsinen/[/m]
 
 nidoksittain
 	[m1]/ˈnidokˌsittɑin/[/m]
@@ -140473,9 +138454,6 @@ nidos
 
 nidosluku
 	[m1]/ˈnidosˌluku/[/m]
-
--niekka
-	[m1]/ˈniekkɑ/[/m]
 
 nielaista
 	[m1]/ˈnielɑistɑ/[/m]
@@ -140500,9 +138478,6 @@ niellä
 
 nielu
 	[m1]/ˈ[i]~[/i]/[/m]
-
--nieluinen
-	[m1]/ˈnieluinen/[/m]
 
 nielurisa
 	[m1]/ˈnieluˌrisɑ/[/m]
@@ -140573,6 +138548,24 @@ niiaus
 niin
 	[m1]/ˈ[i]~[/i]/[/m]
 
+niin ikään
+	[m1]/ˈniin ˈikææn/[/m]
+
+niin kuin
+	[m1]/ˈniin ˈkuin/[/m]
+
+niin kutsuttu
+	[m1]/ˈniin ˈkutsuttu/[/m]
+
+niin päin
+	[m1]/ˈniin ˈpæin/[/m]
+
+niin sanottu
+	[m1]/ˈniin ˈsɑnottu/[/m]
+
+niin sanotusti
+	[m1]/ˈniin ˈsɑnoˌtusti/[/m]
+
 niini
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -140581,9 +138574,6 @@ niinikori
 
 niinikuitu
 	[m1]/ˈniiniˌkuitu/[/m]
-
-niin ikään
-	[m1]/ˈniin[/m]
 
 niininen
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -140602,21 +138592,6 @@ niinisäie
 
 niinku
 	[m1]/ˈ[i]~[/i]/[/m]
-
-niin kuin
-	[m1]/ˈniin[/m]
-
-niin kutsuttu
-	[m1]/ˈniin[/m]
-
-niin päin
-	[m1]/ˈniin[/m]
-
-niin sanottu
-	[m1]/ˈniin[/m]
-
-niin sanotusti
-	[m1]/ˈniin[/m]
 
 niisi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -140647,9 +138622,6 @@ niistää
 
 niitata
 	[m1]/ˈniitɑtɑ/[/m]
-
--niitinen
-	[m1]/ˈniitinen/[/m]
 
 niittaus
 	[m1]/ˈniittɑus/[/m]
@@ -140687,6 +138659,9 @@ niittosilppuri
 niitty
 	[m1]/ˈ[i]~[/i]/[/m]
 
+niitty-yökkönen
+	[m1]/ˈniittyyˌøkkønen/[/m]
+
 niittyhumala
 	[m1]/ˈniittyˌhumɑlɑ/[/m]
 
@@ -140716,9 +138691,6 @@ niittynätkelmä
 
 niittyvilla
 	[m1]/ˈniittyˌvillɑ/[/m]
-
-niitty-yökkönen
-	[m1]/ˈniittyyˌøkkønen/[/m]
 
 niittää
 	[m1]/ˈniittææ/[/m]
@@ -140848,9 +138820,6 @@ nilkka
 
 nilkkain
 	[m1]/ˈnilkkɑin/[/m]
-
--nilkkainen
-	[m1]/ˈnilkkɑinen/[/m]
 
 nilkkakenkä
 	[m1]/ˈnilkkɑˌkenkæ/[/m]
@@ -141198,7 +139167,7 @@ niobium
 	[m1]/ˈnioˌbium/[/m]
 
 nipin napin
-	[m1]/ˈnipin[/m]
+	[m1]/ˈnipin ˈnɑpin/[/m]
 
 nipistellä
 	[m1]/ˈnipisˌtellæ/[/m]
@@ -141228,7 +139197,7 @@ nippa
 	[m1]/ˈnippɑ/[/m]
 
 nippa nappa
-	[m1]/ˈnippɑ[/m]
+	[m1]/ˈnippɑ ˈnɑppɑ/[/m]
 
 nippeli
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -141242,6 +139211,9 @@ nippelitieto
 nippu
 	[m1]/ˈ[i]~[/i]/[/m]
 
+nippu-uitto
+	[m1]/ˈnippuuˌitto/[/m]
+
 nippulautta
 	[m1]/ˈnippulɑˌuttɑ/[/m]
 
@@ -141253,9 +139225,6 @@ nippunosturi
 
 nippuratkaisu
 	[m1]/ˈnippurɑtˌkɑisu/[/m]
-
-nippu-uitto
-	[m1]/ˈnippuuˌitto/[/m]
 
 nipsahdus
 	[m1]/ˈnipsɑhdus/[/m]
@@ -141364,9 +139333,6 @@ niskahirsi
 
 niskahius
 	[m1]/ˈniskɑˌhius/[/m]
-
--niskainen
-	[m1]/ˈniskɑinen/[/m]
 
 niskakarva
 	[m1]/ˈniskɑˌkɑrvɑ/[/m]
@@ -141537,7 +139503,7 @@ niuketa
 	[m1]/ˈniuketɑ/[/m]
 
 niukin naukin
-	[m1]/ˈniukin[/m]
+	[m1]/ˈniukin ˈnɑukin/[/m]
 
 niukka
 	[m1]/ˈniukkɑ/[/m]
@@ -141580,9 +139546,6 @@ nivelbussi
 
 nivelikäs
 	[m1]/ˈniveˌlikæs/[/m]
-
--nivelinen
-	[m1]/ˈniveˌlinen/[/m]
 
 nivelistö
 	[m1]/ˈniveˌlistø/[/m]
@@ -141725,11 +139688,11 @@ noidannuoli
 noin
 	[m1]/ˈ[i]~[/i]/[/m]
 
+noin päin
+	[m1]/ˈnoin ˈpæin/[/m]
+
 noin-hinta
 	[m1]/ˈnoinhintɑ/[/m]
-
-noin päin
-	[m1]/ˈnoin[/m]
 
 noisetti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -141764,11 +139727,11 @@ noituus
 noja
 	[m1]/ˈnojɑ/[/m]
 
-nojaan
-	[m1]/ˈnojɑɑn/[/m]
-
 noja-asento
 	[m1]/ˈnojɑɑˌsento/[/m]
+
+nojaan
+	[m1]/ˈnojɑɑn/[/m]
 
 nojailla
 	[m1]/ˈnojɑillɑ/[/m]
@@ -141875,9 +139838,6 @@ nokka-akseli
 nokkahuilu
 	[m1]/ˈnokkɑˌhuilu/[/m]
 
--nokkainen
-	[m1]/ˈnokkɑinen/[/m]
-
 nokkaista
 	[m1]/ˈnokkɑistɑ/[/m]
 
@@ -141953,11 +139913,11 @@ nolata
 nolla
 	[m1]/ˈnollɑ/[/m]
 
-nollaantua
-	[m1]/ˈnollɑɑnˌtuɑ/[/m]
-
 nolla-asteinen
 	[m1]/ˈnollɑɑsˌteinen/[/m]
+
+nollaantua
+	[m1]/ˈnollɑɑnˌtuɑ/[/m]
 
 nollajohdin
 	[m1]/ˈnollɑˌjohdin/[/m]
@@ -142061,14 +140021,17 @@ nominatiivimuoto
 nomini
 	[m1]/ˈ[i]~[/i]/[/m]
 
-nonfiguratiivinen
-	[m1]/ˈnonfiˌgurɑˌtiivinen/[/m]
-
 non-food
 	[m1]/ˈnonfood/[/m]
 
 non-iron
 	[m1]/ˈnoniron/[/m]
+
+non-woven
+	[m1]/ˈnonwoven/[/m]
+
+nonfiguratiivinen
+	[m1]/ˈnonfiˌgurɑˌtiivinen/[/m]
 
 nonparelli
 	[m1]/ˈnonpɑˌrelli/[/m]
@@ -142078,9 +140041,6 @@ nonstop
 
 nonstop-ohjelma
 	[m1]/ˈnonstoˌpohjelmɑ/[/m]
-
-non-woven
-	[m1]/ˈnonwoven/[/m]
 
 nootti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -142147,9 +140107,6 @@ nopeudensäädin
 
 nopeudensäätö
 	[m1]/ˈnopeudenˌsæætø/[/m]
-
--nopeuksinen
-	[m1]/ˈnopeˌuksinen/[/m]
 
 nopeus
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -142220,14 +140177,11 @@ nordistiikka
 norja
 	[m1]/ˈnorjɑ/[/m]
 
-norja
-	[m1]/ˈnorjɑ/[/m]
-
 norjalainen
 	[m1]/ˈnorjɑˌlɑinen/[/m]
 
 norjan kieli
-	[m1]/ˈnorjɑn[/m]
+	[m1]/ˈnorjɑn ˈkieli/[/m]
 
 norjankielinen
 	[m1]/ˈnorjɑnˌkielinen/[/m]
@@ -142409,9 +140363,6 @@ norri
 norssi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-norssi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 norsu
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -142475,6 +140426,9 @@ nostin
 nosto
 	[m1]/ˈ[i]~[/i]/[/m]
 
+nosto-ovi
+	[m1]/ˈnostoovi/[/m]
+
 nostokauha
 	[m1]/ˈnostoˌkɑuhɑ/[/m]
 
@@ -142501,9 +140455,6 @@ nostolava
 
 nostomies
 	[m1]/ˈ[i]~[/i]/[/m]
-
-nosto-ovi
-	[m1]/ˈnostoovi/[/m]
 
 nostoruuvi
 	[m1]/ˈnostoˌruuvi/[/m]
@@ -142633,9 +140584,6 @@ nousu
 
 nousuhumala
 	[m1]/ˈnousuˌhumɑlɑ/[/m]
-
--nousuinen
-	[m1]/ˈnousuinen/[/m]
 
 nousujohteinen
 	[m1]/ˈnousujohˌteinen/[/m]
@@ -142967,11 +140915,11 @@ nukkavieru
 nukke
 	[m1]/ˈ[i]~[/i]/[/m]
 
-nukkeanimaatio
-	[m1]/ˈnukkeˌɑniˌmɑɑtio/[/m]
-
 nukke-elokuva
 	[m1]/ˈnukkeeˌlokuvɑ/[/m]
+
+nukkeanimaatio
+	[m1]/ˈnukkeˌɑniˌmɑɑtio/[/m]
 
 nukkefilmi
 	[m1]/ˈnukkeˌfilmi/[/m]
@@ -143393,14 +141341,14 @@ nuoreta
 nuori
 	[m1]/ˈ[i]~[/i]/[/m]
 
+nuori-isäntä
+	[m1]/ˈnuoriiˌsæntæ/[/m]
+
 nuoriemäntä
 	[m1]/ˈnuorieˌmæntæ/[/m]
 
 nuoriherra
 	[m1]/ˈnuoriˌherrɑ/[/m]
-
-nuori-isäntä
-	[m1]/ˈnuoriiˌsæntæ/[/m]
 
 nuorikarja
 	[m1]/ˈnuoriˌkɑrjɑ/[/m]
@@ -143419,6 +141367,15 @@ nuoripari
 
 nuoriso
 	[m1]/ˈ[i]~[/i]/[/m]
+
+nuoriso-ohjaaja
+	[m1]/ˈnuoriˌsoohjɑɑjɑ/[/m]
+
+nuoriso-ongelma
+	[m1]/ˈnuoriˌsoongelmɑ/[/m]
+
+nuoriso-osasto
+	[m1]/ˈnuoriˌsoosɑsto/[/m]
 
 nuorisoasema
 	[m1]/ˈnuoriˌsoɑˌsemɑ/[/m]
@@ -143467,15 +141424,6 @@ nuorisonohjaaja
 
 nuorisonsuojelu
 	[m1]/ˈnuorisonˌsuojelu/[/m]
-
-nuoriso-ohjaaja
-	[m1]/ˈnuoriˌsoohjɑɑjɑ/[/m]
-
-nuoriso-ongelma
-	[m1]/ˈnuoriˌsoongelmɑ/[/m]
-
-nuoriso-osasto
-	[m1]/ˈnuoriˌsoosɑsto/[/m]
 
 nuorisopappi
 	[m1]/ˈnuorisoˌpɑppi/[/m]
@@ -143810,6 +141758,9 @@ nureissaan
 nurin
 	[m1]/ˈ[i]~[/i]/[/m]
 
+nurin päin
+	[m1]/ˈnurin ˈpæin/[/m]
+
 nurina
 	[m1]/ˈnurinɑ/[/m]
 
@@ -143824,9 +141775,6 @@ nurinkurisesti
 
 nurinmeno
 	[m1]/ˈnurinˌmeno/[/m]
-
-nurin päin
-	[m1]/ˈnurin[/m]
 
 nurinpäinen
 	[m1]/ˈnurinˌpæinen/[/m]
@@ -143890,9 +141838,6 @@ nurkkaaja
 
 nurkkahylly
 	[m1]/ˈnurkkɑˌhylly/[/m]
-
--nurkkainen
-	[m1]/ˈnurkkɑinen/[/m]
 
 nurkkakaappi
 	[m1]/ˈnurkkɑˌkɑɑppi/[/m]
@@ -144173,6 +142118,9 @@ nykiä
 nyky-
 	[m1]/ˈnyky/[/m]
 
+nyky-yhteiskunta
+	[m1]/ˈnykyyhˌteiskuntɑ/[/m]
+
 nykyaika
 	[m1]/ˈnykyˌɑikɑ/[/m]
 
@@ -144310,9 +142258,6 @@ nykytysharja
 
 nykyvaihe
 	[m1]/ˈnykyˌvɑihe/[/m]
-
-nyky-yhteiskunta
-	[m1]/ˈnykyyhˌteiskuntɑ/[/m]
 
 nykyä
 	[m1]/ˈnykyæ/[/m]
@@ -144763,9 +142708,6 @@ näkemistapa
 
 näkemyksellinen
 	[m1]/ˈnækeˌmykselˌlinen/[/m]
-
--näkemyksinen
-	[m1]/ˈnækeˌmyksinen/[/m]
 
 näkemys
 	[m1]/ˈnækemys/[/m]
@@ -145481,9 +143423,6 @@ näyttää
 näyttö
 	[m1]/ˈnæyttø/[/m]
 
--näyttöinen
-	[m1]/ˈnæytˌtøinen/[/m]
-
 näyttölaite
 	[m1]/ˈnæyttøˌlɑite/[/m]
 
@@ -145519,9 +143458,6 @@ näytäntökausi
 
 näytäntövuosi
 	[m1]/ˈnæytæntøˌvuosi/[/m]
-
--näytöksinen
-	[m1]/ˈnæytøkˌsinen/[/m]
 
 näytös
 	[m1]/ˈnæytøs/[/m]
@@ -145637,14 +143573,14 @@ nöyräselkäisyys
 nöyrästi
 	[m1]/ˈnøyræsti/[/m]
 
-oas
-	[m1]/ˈoɑs/[/m]
-
 O-aukko
 	[m1]/ˈoɑˌukko/[/m]
 
 O-aukkoinen
 	[m1]/ˈoɑukˌkoinen/[/m]
+
+oas
+	[m1]/ˈoɑs/[/m]
 
 obduktio
 	[m1]/ˈobdukˌtio/[/m]
@@ -145934,9 +143870,6 @@ ohimo
 ohimohiukset
 	[m1]/ˈohiˌmohiˌukset/[/m]
 
--ohimoinen
-	[m1]/ˈohiˌmoinen/[/m]
-
 ohimolihas
 	[m1]/ˈohiˌmolihɑs/[/m]
 
@@ -146057,9 +143990,6 @@ ohjattava
 ohjattavuus
 	[m1]/ˈohjɑtˌtɑvuus/[/m]
 
--ohjauksinen
-	[m1]/ˈohjɑˌuksinen/[/m]
-
 ohjaus
 	[m1]/ˈohjɑus/[/m]
 
@@ -146146,9 +144076,6 @@ ohjekirjanen
 
 ohjelma
 	[m1]/ˈohjelmɑ/[/m]
-
--ohjelmainen
-	[m1]/ˈohjelˌmɑinen/[/m]
 
 ohjelmajulistus
 	[m1]/ˈohjelˌmɑjuˌlistus/[/m]
@@ -146531,17 +144458,17 @@ oikeellisuus
 oikein
 	[m1]/ˈ[i]~[/i]/[/m]
 
+oikein päin
+	[m1]/ˈoikein ˈpæin/[/m]
+
+oikein-merkki
+	[m1]/ˈoikeinˌmerkki/[/m]
+
 oikeinkirjoitus
 	[m1]/ˈoikeinkirˌjoitus/[/m]
 
 oikeinkirjoitussääntö
 	[m1]/ˈoikeinkirˌjoitusˌsææntø/[/m]
-
-oikein-merkki
-	[m1]/ˈoikeinˌmerkki/[/m]
-
-oikein päin
-	[m1]/ˈoikein[/m]
 
 oikeisto
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -147047,11 +144974,11 @@ oivaltaa
 oja
 	[m1]/ˈojɑ/[/m]
 
-ojaanajo
-	[m1]/ˈojɑɑˌnɑjo/[/m]
-
 oja-aura
 	[m1]/ˈojɑɑˌurɑ/[/m]
+
+ojaanajo
+	[m1]/ˈojɑɑˌnɑjo/[/m]
 
 ojajyrsin
 	[m1]/ˈojɑˌjyrsin/[/m]
@@ -147179,9 +145106,6 @@ okkulttinen
 okra
 	[m1]/ˈokrɑ/[/m]
 
-okra
-	[m1]/ˈokrɑ/[/m]
-
 okrankeltainen
 	[m1]/ˈokrɑnkelˌtɑinen/[/m]
 
@@ -147301,9 +145225,6 @@ oktaani
 
 oktaaniluku
 	[m1]/ˈoktɑɑˌniluku/[/m]
-
--oktaaninen
-	[m1]/ˈoktɑɑˌninen/[/m]
 
 oktaavi
 	[m1]/ˈoktɑɑvi/[/m]
@@ -147469,9 +145390,6 @@ olkahihna
 
 olkaimellinen
 	[m1]/ˈolkɑiˌmellinen/[/m]
-
--olkaiminen
-	[m1]/ˈolkɑiˌminen/[/m]
 
 olkain
 	[m1]/ˈolkɑin/[/m]
@@ -147821,12 +145739,6 @@ omailmeinen
 omainen
 	[m1]/ˈomɑinen/[/m]
 
--omainen
-	[m1]/ˈomɑinen/[/m]
-
--omaisesti
-	[m1]/ˈomɑiˌsesti/[/m]
-
 omaishoitaja
 	[m1]/ˈomɑisˌhoitɑjɑ/[/m]
 
@@ -147849,9 +145761,6 @@ omaisuudensiirto
 	[m1]/ˈomɑiˌsuudenˌsiirto/[/m]
 
 omaisuus
-	[m1]/ˈomɑisuus/[/m]
-
--omaisuus
 	[m1]/ˈomɑisuus/[/m]
 
 omaisuusluettelo
@@ -148106,6 +146015,9 @@ omeletti
 omena
 	[m1]/ˈomenɑ/[/m]
 
+omena-riisipuuro
+	[m1]/ˈomenɑˌriisiˌpuuro/[/m]
+
 omenahappo
 	[m1]/ˈomenɑˌhɑppo/[/m]
 
@@ -148174,9 +146086,6 @@ omenapora
 
 omenapuu
 	[m1]/ˈomeˌnɑpuu/[/m]
-
-omena-riisipuuro
-	[m1]/ˈomenɑˌriisiˌpuuro/[/m]
 
 omenarupi
 	[m1]/ˈomeˌnɑrupi/[/m]
@@ -148304,9 +146213,6 @@ omistautua
 omiste
 	[m1]/ˈ[i]~[/i]/[/m]
 
--omisteinen
-	[m1]/ˈomisˌteinen/[/m]
-
 omistus
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -148369,9 +146275,6 @@ omnipotenssi
 
 ompele
 	[m1]/ˈ[i]~[/i]/[/m]
-
--ompeleinen
-	[m1]/ˈompeˌleinen/[/m]
 
 ompelija
 	[m1]/ˈompeˌlijɑ/[/m]
@@ -148682,9 +146585,6 @@ onni
 onnikka
 	[m1]/ˈonnikkɑ/[/m]
 
--onninen
-	[m1]/ˈonninen/[/m]
-
 onnistaa
 	[m1]/ˈonnistɑɑ/[/m]
 
@@ -148859,6 +146759,9 @@ ootrata
 ootraus
 	[m1]/ˈootrɑus/[/m]
 
+op-taide
+	[m1]/ˈoptɑide/[/m]
+
 opaakki
 	[m1]/ˈopɑɑkki/[/m]
 
@@ -148920,10 +146823,10 @@ ope
 	[m1]/ˈ[i]~[/i]/[/m]
 
 open house
-	[m1]/ˈopen[/m]
+	[m1]/ˈopen ˈhouse/[/m]
 
 open house -kutsut
-	[m1]/ˈopen[/m]
+	[m1]/ˈopen ˈhouse ˈkutsut/[/m]
 
 operaatio
 	[m1]/ˈopeˌrɑɑtio/[/m]
@@ -148972,9 +146875,6 @@ opettaa
 
 opettaja
 	[m1]/ˈopetˌtɑjɑ/[/m]
-
--opettajainen
-	[m1]/ˈopettɑˌjɑinen/[/m]
 
 opettajainhuone
 	[m1]/ˈopettɑˌjɑinhuone/[/m]
@@ -149186,6 +147086,12 @@ opinnäyte
 opintie
 	[m1]/ˈ[i]~[/i]/[/m]
 
+opinto-ohjaaja
+	[m1]/ˈopinˌtoohjɑɑjɑ/[/m]
+
+opinto-ohjelma
+	[m1]/ˈopinˌtoohjelmɑ/[/m]
+
 opintoapuraha
 	[m1]/ˈopinˌtoɑˌpurɑhɑ/[/m]
 
@@ -149209,12 +147115,6 @@ opintolinja
 
 opintomatka
 	[m1]/ˈopintoˌmɑtkɑ/[/m]
-
-opinto-ohjaaja
-	[m1]/ˈopinˌtoohjɑɑjɑ/[/m]
-
-opinto-ohjelma
-	[m1]/ˈopinˌtoohjelmɑ/[/m]
 
 opintopiiri
 	[m1]/ˈopintoˌpiiri/[/m]
@@ -149324,6 +147224,9 @@ opossumi
 oppi
 	[m1]/ˈ[i]~[/i]/[/m]
 
+oppi-isä
+	[m1]/ˈoppiisæ/[/m]
+
 oppia
 	[m1]/ˈoppiɑ/[/m]
 
@@ -149338,9 +147241,6 @@ oppiarvo
 
 oppihistoria
 	[m1]/ˈoppiˌhistoˌriɑ/[/m]
-
-oppi-isä
-	[m1]/ˈoppiisæ/[/m]
 
 oppijakso
 	[m1]/ˈoppiˌjɑkso/[/m]
@@ -149444,9 +147344,6 @@ oppineisuus
 oppineittenkukka
 	[m1]/ˈoppiˌneittenˌkukkɑ/[/m]
 
--oppinen
-	[m1]/ˈoppinen/[/m]
-
 oppinut
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -149473,9 +147370,6 @@ oppisopimussuhde
 
 oppisuunta
 	[m1]/ˈoppiˌsuuntɑ/[/m]
-
--oppisuus
-	[m1]/ˈoppisuus/[/m]
 
 oppitekoinen
 	[m1]/ˈoppiteˌkoinen/[/m]
@@ -149540,9 +147434,6 @@ oppositiopuolue
 oppositioryhmä
 	[m1]/ˈoppoˌsitioˌryhmæ/[/m]
 
-op-taide
-	[m1]/ˈoptɑide/[/m]
-
 optiikka
 	[m1]/ˈoptiikkɑ/[/m]
 
@@ -149591,6 +147482,9 @@ optinen
 optio
 	[m1]/ˈ[i]~[/i]/[/m]
 
+optio-oikeus
+	[m1]/ˈoptiˌooikeus/[/m]
+
 optiokauppa
 	[m1]/ˈoptiˌokɑˌuppɑ/[/m]
 
@@ -149599,9 +147493,6 @@ optiolaina
 
 optiomarkkinat
 	[m1]/ˈoptioˌmɑrkkinɑt/[/m]
-
-optio-oikeus
-	[m1]/ˈoptiˌooikeus/[/m]
 
 optiopörssi
 	[m1]/ˈoptioˌpørssi/[/m]
@@ -150053,11 +147944,11 @@ osa-aikaviljelijä
 osa-aikaviljely
 	[m1]/ˈosɑɑˌikɑˌviljely/[/m]
 
-osaaja
-	[m1]/ˈosɑɑjɑ/[/m]
-
 osa-alue
 	[m1]/ˈosɑɑˌlue/[/m]
+
+osaaja
+	[m1]/ˈosɑɑjɑ/[/m]
 
 osaaminen
 	[m1]/ˈosɑɑˌminen/[/m]
@@ -150070,12 +147961,6 @@ osaaottavasti
 
 osaeläke
 	[m1]/ˈosɑˌelæke/[/m]
-
--osainen
-	[m1]/ˈosɑinen/[/m]
-
--osaisuus
-	[m1]/ˈosɑisuus/[/m]
 
 osajako
 	[m1]/ˈosɑˌjɑko/[/m]
@@ -150092,17 +147977,17 @@ osakasluettelo
 osake
 	[m1]/ˈosɑke/[/m]
 
-osakeanti
-	[m1]/ˈosɑkeˌɑnti/[/m]
-
-osakeasunto
-	[m1]/ˈosɑˌkeɑˌsunto/[/m]
-
 osake-emissio
 	[m1]/ˈosɑˌkeemisˌsio/[/m]
 
 osake-enemmistö
 	[m1]/ˈosɑˌkeenemˌmistø/[/m]
+
+osakeanti
+	[m1]/ˈosɑkeˌɑnti/[/m]
+
+osakeasunto
+	[m1]/ˈosɑˌkeɑˌsunto/[/m]
 
 osakehuoneisto
 	[m1]/ˈosɑkeˌhuoneisto/[/m]
@@ -150287,9 +148172,6 @@ osasto
 osastoida
 	[m1]/ˈosɑsˌtoidɑ/[/m]
 
--osastoinen
-	[m1]/ˈosɑsˌtoinen/[/m]
-
 osastonhoitaja
 	[m1]/ˈosɑstonˌhoitɑjɑ/[/m]
 
@@ -150469,9 +148351,6 @@ osoitus
 
 ossi
 	[m1]/ˈ[i]~[/i]/[/m]
-
-osso buco
-	[m1]/ˈosso[/m]
 
 ostaa
 	[m1]/ˈostɑɑ/[/m]
@@ -150743,9 +148622,6 @@ otsaharja
 otsahius
 	[m1]/ˈotsɑˌhius/[/m]
 
--otsainen
-	[m1]/ˈotsɑinen/[/m]
-
 otsake
 	[m1]/ˈotsɑke/[/m]
 
@@ -150853,9 +148729,6 @@ ottamo
 
 ottava
 	[m1]/ˈottɑvɑ/[/m]
-
--otteinen
-	[m1]/ˈotteinen/[/m]
 
 ottelija
 	[m1]/ˈotteˌlijɑ/[/m]
@@ -151033,9 +148906,6 @@ ovimikko
 
 ovinaapuri
 	[m1]/ˈoviˌnɑɑpuri/[/m]
-
--ovinen
-	[m1]/ˈovinen/[/m]
 
 ovipaarinen
 	[m1]/ˈoviˌpɑɑrinen/[/m]
@@ -151688,9 +149558,6 @@ pahviveitsi
 pai
 	[m1]/ˈpɑi/[/m]
 
-pai
-	[m1]/ˈpɑi/[/m]
-
 paidanhelma
 	[m1]/ˈpɑidɑnˌhelmɑ/[/m]
 
@@ -151904,6 +149771,9 @@ paikata
 paikka
 	[m1]/ˈpɑikkɑ/[/m]
 
+paikka paikoin
+	[m1]/ˈpɑikkɑ ˈpɑikoin/[/m]
+
 paikka-arvo
 	[m1]/ˈpɑikkɑɑrvo/[/m]
 
@@ -151912,9 +149782,6 @@ paikkailla
 
 paikkailu
 	[m1]/ˈpɑikkɑilu/[/m]
-
--paikkainen
-	[m1]/ˈpɑikkɑinen/[/m]
 
 paikkajako
 	[m1]/ˈpɑikkɑˌjɑko/[/m]
@@ -151930,9 +149797,6 @@ paikkakunta
 
 paikkakuntalainen
 	[m1]/ˈpɑikkɑˌkuntɑˌlɑinen/[/m]
-
--paikkalainen
-	[m1]/ˈpɑikkɑˌlɑinen/[/m]
 
 paikkalappu
 	[m1]/ˈpɑikkɑˌlɑppu/[/m]
@@ -151957,9 +149821,6 @@ paikkansapitämätön
 
 paikkansapitävä
 	[m1]/ˈpɑikkɑnˌsɑpiˌtævæ/[/m]
-
-paikka paikoin
-	[m1]/ˈpɑikkɑ[/m]
 
 paikkapuolustus
 	[m1]/ˈpɑikkɑˌpuolustus/[/m]
@@ -152360,12 +150221,6 @@ painohäviö
 painoinen
 	[m1]/ˈpɑinoinen/[/m]
 
--painoisesti
-	[m1]/ˈpɑinoiˌsesti/[/m]
-
--painoisuus
-	[m1]/ˈpɑinoisuus/[/m]
-
 painojälki
 	[m1]/ˈpɑinoˌjælki/[/m]
 
@@ -152530,15 +150385,6 @@ painoton
 
 painottaa
 	[m1]/ˈpɑinottɑɑ/[/m]
-
--painotteinen
-	[m1]/ˈpɑinotˌteinen/[/m]
-
--painotteisesti
-	[m1]/ˈpɑinotˌteisesti/[/m]
-
--painotteisuus
-	[m1]/ˈpɑinotˌteisuus/[/m]
 
 painottomuus
 	[m1]/ˈpɑinotˌtomuus/[/m]
@@ -152749,9 +150595,6 @@ paitahihasillaan
 
 paitahihasilleen
 	[m1]/ˈpɑitɑˌhihɑˌsilleen/[/m]
-
--paitainen
-	[m1]/ˈpɑitɑinen/[/m]
 
 paitakauluksinen
 	[m1]/ˈpɑitɑˌkɑulukˌsinen/[/m]
@@ -152969,9 +150812,6 @@ pakastuspussi
 pakata
 	[m1]/ˈpɑkɑtɑ/[/m]
 
-pakata
-	[m1]/ˈpɑkɑtɑ/[/m]
-
 pakeilla
 	[m1]/ˈpɑkeillɑ/[/m]
 
@@ -153073,9 +150913,6 @@ pakinoitsija
 
 pakista
 	[m1]/ˈpɑkistɑ/[/m]
-
-pakka
-	[m1]/ˈpɑkkɑ/[/m]
 
 pakka
 	[m1]/ˈpɑkkɑ/[/m]
@@ -153188,14 +151025,17 @@ pakkeli
 pakki
 	[m1]/ˈpɑkki/[/m]
 
-pakki
-	[m1]/ˈpɑkki/[/m]
-
 pakkilaatikko
 	[m1]/ˈpɑkkiˌlɑɑtikko/[/m]
 
 pakko
 	[m1]/ˈpɑkko/[/m]
+
+pakko-ohjaus
+	[m1]/ˈpɑkkoohˌjɑus/[/m]
+
+pakko-otto
+	[m1]/ˈpɑkkootto/[/m]
 
 pakkoajatus
 	[m1]/ˈpɑkkoˌɑjɑtus/[/m]
@@ -153271,12 +151111,6 @@ pakkoneurootikko
 
 pakkoneuroottinen
 	[m1]/ˈpɑkkoˌneurootˌtinen/[/m]
-
-pakko-ohjaus
-	[m1]/ˈpɑkkoohˌjɑus/[/m]
-
-pakko-otto
-	[m1]/ˈpɑkkootto/[/m]
 
 pakkopaita
 	[m1]/ˈpɑkkoˌpɑitɑ/[/m]
@@ -153355,9 +151189,6 @@ pakoilla
 
 pakoilu
 	[m1]/ˈpɑkoilu/[/m]
-
--pakoinen
-	[m1]/ˈpɑkoinen/[/m]
 
 pakokaasu
 	[m1]/ˈpɑkoˌkɑɑsu/[/m]
@@ -153929,12 +151760,6 @@ palkkahinnoitteluliite
 palkkaindeksi
 	[m1]/ˈpɑlkkɑinˌdeksi/[/m]
 
--palkkainen
-	[m1]/ˈpɑlkkɑinen/[/m]
-
--palkkaisuus
-	[m1]/ˈpɑlkkɑisuus/[/m]
-
 palkkajoukko
 	[m1]/ˈpɑlkkɑjoˌukko/[/m]
 
@@ -154079,9 +151904,6 @@ pallas
 palle
 	[m1]/ˈpɑlle/[/m]
 
-palle
-	[m1]/ˈpɑlle/[/m]
-
 pallea
 	[m1]/ˈpɑlleɑ/[/m]
 
@@ -154103,9 +151925,6 @@ palleropilvi
 palli
 	[m1]/ˈpɑlli/[/m]
 
-palli
-	[m1]/ˈpɑlli/[/m]
-
 palliatiivinen
 	[m1]/ˈpɑlliɑˌtiivinen/[/m]
 
@@ -154114,6 +151933,9 @@ pallinaama
 
 pallo
 	[m1]/ˈpɑllo/[/m]
+
+pallo-ohdake
+	[m1]/ˈpɑlloohˌdɑke/[/m]
 
 pallobakteeri
 	[m1]/ˈpɑllobɑkˌteeri/[/m]
@@ -154187,9 +152009,6 @@ pallonpuolisko
 pallonriisto
 	[m1]/ˈpɑllonˌriisto/[/m]
 
-pallo-ohdake
-	[m1]/ˈpɑlloohˌdɑke/[/m]
-
 pallopeli
 	[m1]/ˈpɑlloˌpeli/[/m]
 
@@ -154250,9 +152069,6 @@ pallukka
 palmikko
 	[m1]/ˈpɑlmikko/[/m]
 
--palmikkoinen
-	[m1]/ˈpɑlmikˌkoinen/[/m]
-
 palmikkonauha
 	[m1]/ˈpɑlmikkoˌnɑuhɑ/[/m]
 
@@ -154300,6 +152116,9 @@ palmuöljy
 
 palo
 	[m1]/ˈpɑlo/[/m]
+
+palo-ovi
+	[m1]/ˈpɑloovi/[/m]
 
 paloa
 	[m1]/ˈpɑloɑ/[/m]
@@ -154420,9 +152239,6 @@ palonsammutus
 
 palontorjunta
 	[m1]/ˈpɑlonˌtorjuntɑ/[/m]
-
-palo-ovi
-	[m1]/ˈpɑloovi/[/m]
 
 palopaikka
 	[m1]/ˈpɑloˌpɑikkɑ/[/m]
@@ -154553,9 +152369,6 @@ palpointi
 palsa
 	[m1]/ˈpɑlsɑ/[/m]
 
-palsa
-	[m1]/ˈpɑlsɑ/[/m]
-
 palsami
 	[m1]/ˈpɑlsɑmi/[/m]
 
@@ -154570,9 +152383,6 @@ palsasuo
 
 palsta
 	[m1]/ˈpɑlstɑ/[/m]
-
--palstainen
-	[m1]/ˈpɑlstɑinen/[/m]
 
 palstalääkäri
 	[m1]/ˈpɑlstɑˌlæækæri/[/m]
@@ -154624,9 +152434,6 @@ palttinasidos
 
 palttoo
 	[m1]/ˈpɑlttoo/[/m]
-
-palttu
-	[m1]/ˈpɑlttu/[/m]
 
 palttu
 	[m1]/ˈpɑlttu/[/m]
@@ -154811,9 +152618,6 @@ palveluyritys
 palvi
 	[m1]/ˈpɑlvi/[/m]
 
-palvi
-	[m1]/ˈpɑlvi/[/m]
-
 palvikinkku
 	[m1]/ˈpɑlviˌkinkku/[/m]
 
@@ -154873,9 +152677,6 @@ pampattaa
 
 pamppailla
 	[m1]/ˈpɑmppɑillɑ/[/m]
-
-pamppu
-	[m1]/ˈpɑmppu/[/m]
 
 pamppu
 	[m1]/ˈpɑmppu/[/m]
@@ -154979,9 +152780,6 @@ paneutua
 panhuilu
 	[m1]/ˈpɑnhuilu/[/m]
 
--paniaiset
-	[m1]/ˈpɑniˌɑiset/[/m]
-
 paniikki
 	[m1]/ˈpɑniikki/[/m]
 
@@ -154999,9 +152797,6 @@ paniikkimieliala
 
 paniikkitunnelma
 	[m1]/ˈpɑniikkiˌtunnelmɑ/[/m]
-
--panija
-	[m1]/ˈpɑnijɑ/[/m]
 
 panimo
 	[m1]/ˈpɑnimo/[/m]
@@ -155131,9 +152926,6 @@ pankkiyhteys
 
 pankko
 	[m1]/ˈpɑnkko/[/m]
-
-panna
-	[m1]/ˈpɑnnɑ/[/m]
 
 panna
 	[m1]/ˈpɑnnɑ/[/m]
@@ -155396,17 +153188,17 @@ panttivelkakirja
 paossa
 	[m1]/ˈpɑossɑ/[/m]
 
-papaija
-	[m1]/ˈpɑpɑijɑ/[/m]
-
 Papa-koe
 	[m1]/ˈpɑpɑˌkoe/[/m]
 
-papana
-	[m1]/ˈpɑpɑnɑ/[/m]
-
 Papa-näyte
 	[m1]/ˈpɑpɑˌnæyte/[/m]
+
+papaija
+	[m1]/ˈpɑpɑijɑ/[/m]
+
+papana
+	[m1]/ˈpɑpɑnɑ/[/m]
 
 paparazzi
 	[m1]/ˈpɑpɑˌrɑzzi/[/m]
@@ -155423,11 +153215,11 @@ papatus
 paperi
 	[m1]/ˈpɑperi/[/m]
 
-paperiarkki
-	[m1]/ˈpɑperiˌɑrkki/[/m]
-
 paperi-insinööri
 	[m1]/ˈpɑpeˌriinsiˌnøøri/[/m]
+
+paperiarkki
+	[m1]/ˈpɑperiˌɑrkki/[/m]
 
 paperijäsen
 	[m1]/ˈpɑpeˌrijæsen/[/m]
@@ -155801,6 +153593,12 @@ papyruskäärö
 par
 	[m1]/pɑr/[/m]
 
+par avion
+	[m1]/pɑr ˈɑvion/[/m]
+
+par-luku
+	[m1]/ˈpɑrluku/[/m]
+
 para
 	[m1]/ˈpɑrɑ/[/m]
 
@@ -156047,9 +153845,6 @@ parasympaattinen
 parata
 	[m1]/ˈpɑrɑtɑ/[/m]
 
-parata
-	[m1]/ˈpɑrɑtɑ/[/m]
-
 parataksi
 	[m1]/ˈpɑrɑˌtɑksi/[/m]
 
@@ -156064,9 +153859,6 @@ paratiisiomena
 
 paratkoon
 	[m1]/ˈpɑrɑtkoon/[/m]
-
-par avion
-	[m1]/pɑr[/m]
 
 pareittain
 	[m1]/ˈpɑreittɑin/[/m]
@@ -156136,9 +153928,6 @@ parhaisto
 
 parhaiten
 	[m1]/ˈpɑrhɑiten/[/m]
-
-pari
-	[m1]/ˈpɑri/[/m]
 
 pari
 	[m1]/ˈpɑri/[/m]
@@ -156220,9 +154009,6 @@ parilointipannu
 
 pariluistelu
 	[m1]/ˈpɑriˌluistelu/[/m]
-
--parinen
-	[m1]/ˈpɑrinen/[/m]
 
 parinmuodostus
 	[m1]/ˈpɑrinˌmuodostus/[/m]
@@ -156377,9 +154163,6 @@ parjaus
 parka
 	[m1]/ˈpɑrkɑ/[/m]
 
-parka
-	[m1]/ˈpɑrkɑ/[/m]
-
 parkaista
 	[m1]/ˈpɑrkɑistɑ/[/m]
 
@@ -156396,7 +154179,7 @@ parkettilattia
 	[m1]/ˈpɑrkettiˌlɑttiɑ/[/m]
 
 Parkinsonin tauti
-	[m1]/ˈpɑrkinˌsonin[/m]
+	[m1]/ˈpɑrkinˌsonin ˈtɑuti/[/m]
 
 parkinsonismi
 	[m1]/ˈpɑrkinsoˌnismi/[/m]
@@ -156424,15 +154207,6 @@ parkkeeraus
 
 parkkeerausalue
 	[m1]/ˈpɑrkkeeˌrɑusɑˌlue/[/m]
-
-parkki
-	[m1]/ˈpɑrkki/[/m]
-
-parkki
-	[m1]/ˈpɑrkki/[/m]
-
-parkki
-	[m1]/ˈpɑrkki/[/m]
 
 parkki
 	[m1]/ˈpɑrkki/[/m]
@@ -156508,9 +154282,6 @@ parlamenttitalo
 
 parlamenttivaalit
 	[m1]/ˈpɑrlɑˌmenttiˌvɑɑlit/[/m]
-
-par-luku
-	[m1]/ˈpɑrluku/[/m]
 
 parmanjuusto
 	[m1]/ˈpɑrmɑnˌjuusto/[/m]
@@ -156836,9 +154607,6 @@ parveutua
 parvi
 	[m1]/ˈpɑrvi/[/m]
 
-parvi
-	[m1]/ˈpɑrvi/[/m]
-
 parvikala
 	[m1]/ˈpɑrviˌkɑlɑ/[/m]
 
@@ -156868,9 +154636,6 @@ pasaatituuli
 
 pasaativyöhyke
 	[m1]/ˈpɑsɑɑtiˌvyøhyke/[/m]
-
-pascal
-	[m1]/ˈpɑscɑl/[/m]
 
 paseerailla
 	[m1]/ˈpɑseeˌrɑillɑ/[/m]
@@ -156941,9 +154706,6 @@ passari
 passata
 	[m1]/ˈpɑssɑtɑ/[/m]
 
-passata
-	[m1]/ˈpɑssɑtɑ/[/m]
-
 passauttaa
 	[m1]/ˈpɑssɑˌuttɑɑ/[/m]
 
@@ -156952,15 +154714,6 @@ passeli
 
 passepartout
 	[m1]/ˈpɑsseˌpɑrtout/[/m]
-
-passi
-	[m1]/ˈpɑssi/[/m]
-
-passi
-	[m1]/ˈpɑssi/[/m]
-
-passi
-	[m1]/ˈpɑssi/[/m]
 
 passi
 	[m1]/ˈpɑssi/[/m]
@@ -157111,9 +154864,6 @@ pasutusuuni
 
 pasuuna
 	[m1]/ˈpɑsuunɑ/[/m]
-
-pata
-	[m1]/ˈpɑtɑ/[/m]
 
 pata
 	[m1]/ˈpɑtɑ/[/m]
@@ -157340,9 +155090,6 @@ patronyymi
 patruuna
 	[m1]/ˈpɑtruunɑ/[/m]
 
-patruuna
-	[m1]/ˈpɑtruunɑ/[/m]
-
 patruunalipas
 	[m1]/ˈpɑtruuˌnɑlipɑs/[/m]
 
@@ -157375,9 +155122,6 @@ patteristi
 
 patteristo
 	[m1]/ˈpɑtteˌristo/[/m]
-
-patti
-	[m1]/ˈpɑtti/[/m]
 
 patti
 	[m1]/ˈpɑtti/[/m]
@@ -157640,6 +155384,9 @@ pehmeys
 pehmeä
 	[m1]/ˈpehmeæ/[/m]
 
+pehmeä-ääninen
+	[m1]/ˈpehmeˌæææninen/[/m]
+
 pehmeäkantinen
 	[m1]/ˈpehmeæˌkɑntinen/[/m]
 
@@ -157672,9 +155419,6 @@ pehmeäsävyinen
 
 pehmeäturkkinen
 	[m1]/ˈpehmeæˌturkkinen/[/m]
-
-pehmeä-ääninen
-	[m1]/ˈpehmeˌæææninen/[/m]
 
 pehmike
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -157783,9 +155527,6 @@ peikonlehti
 
 peilailla
 	[m1]/ˈpeilɑillɑ/[/m]
-
-peilata
-	[m1]/ˈpeilɑtɑ/[/m]
 
 peilata
 	[m1]/ˈpeilɑtɑ/[/m]
@@ -157924,9 +155665,6 @@ peitsaus
 
 peitsentaitto
 	[m1]/ˈpeitsenˌtɑitto/[/m]
-
-peitsi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 peitsi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -158555,6 +156293,12 @@ peltivaurio
 pelto
 	[m1]/ˈ[i]~[/i]/[/m]
 
+pelto-ohdake
+	[m1]/ˈpeltoohˌdɑke/[/m]
+
+pelto-orvokki
+	[m1]/ˈpeltoorˌvokki/[/m]
+
 peltoala
 	[m1]/ˈpeltoˌɑlɑ/[/m]
 
@@ -158582,9 +156326,6 @@ peltoherne
 peltohiiri
 	[m1]/ˈpeltoˌhiiri/[/m]
 
--peltoinen
-	[m1]/ˈpeltoinen/[/m]
-
 peltokaali
 	[m1]/ˈpeltoˌkɑɑli/[/m]
 
@@ -158608,12 +156349,6 @@ peltomies
 
 peltomyyrä
 	[m1]/ˈpeltoˌmyyræ/[/m]
-
-pelto-ohdake
-	[m1]/ˈpeltoohˌdɑke/[/m]
-
-pelto-orvokki
-	[m1]/ˈpeltoorˌvokki/[/m]
 
 peltopyy
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -158843,9 +156578,6 @@ pennilinja
 pennimääräinen
 	[m1]/ˈpenniˌmææræinen/[/m]
 
--penninen
-	[m1]/ˈpenninen/[/m]
-
 pennitön
 	[m1]/ˈpennitøn/[/m]
 
@@ -159005,9 +156737,6 @@ penätä
 peoni
 	[m1]/ˈ[i]~[/i]/[/m]
 
-peoni
-	[m1]/ˈ[i]~[/i]/[/m]
-
 pepino
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -159143,6 +156872,12 @@ perhanasti
 perhe
 	[m1]/ˈ[i]~[/i]/[/m]
 
+perhe-eläke
+	[m1]/ˈperheeˌlæke/[/m]
+
+perhe-elämä
+	[m1]/ˈperheeˌlæmæ/[/m]
+
 perhealbumi
 	[m1]/ˈperheˌɑlbumi/[/m]
 
@@ -159160,12 +156895,6 @@ perhedemokratia
 
 perheellinen
 	[m1]/ˈperheelˌlinen/[/m]
-
-perhe-eläke
-	[m1]/ˈperheeˌlæke/[/m]
-
-perhe-elämä
-	[m1]/ˈperheeˌlæmæ/[/m]
 
 perheenemäntä
 	[m1]/ˈperheeneˌmæntæ/[/m]
@@ -159205,9 +156934,6 @@ perhehotelli
 
 perheidylli
 	[m1]/ˈperheiˌdylli/[/m]
-
--perheinen
-	[m1]/ˈperheinen/[/m]
 
 perheittäin
 	[m1]/ˈperheittæin/[/m]
@@ -159380,6 +157106,12 @@ perheystävä
 perho
 	[m1]/ˈ[i]~[/i]/[/m]
 
+perho-onginta
+	[m1]/ˈperhoonˌgintɑ/[/m]
+
+perho-onki
+	[m1]/ˈperhoonki/[/m]
+
 perhokalastus
 	[m1]/ˈperhokɑˌlɑstus/[/m]
 
@@ -159394,12 +157126,6 @@ perhomainen
 
 perhonen
 	[m1]/ˈ[i]~[/i]/[/m]
-
-perho-onginta
-	[m1]/ˈperhoonˌgintɑ/[/m]
-
-perho-onki
-	[m1]/ˈperhoonki/[/m]
 
 perhosentoukka
 	[m1]/ˈperhoˌsentoˌukkɑ/[/m]
@@ -159454,9 +157180,6 @@ periaatteeton
 
 periaatteettomuus
 	[m1]/ˈperiˌɑɑtteetˌtomuus/[/m]
-
--periaatteinen
-	[m1]/ˈperiˌɑɑtteinen/[/m]
 
 peridotiitti
 	[m1]/ˈperidoˌtiitti/[/m]
@@ -159554,8 +157277,11 @@ perimätieto
 perin
 	[m1]/ˈ[i]~[/i]/[/m]
 
-perin
-	[m1]/ˈ[i]~[/i]/[/m]
+perin juurin
+	[m1]/ˈperin ˈjuurin/[/m]
+
+perin pohjin
+	[m1]/ˈperin ˈpohjin/[/m]
 
 perinataaliaika
 	[m1]/ˈperinɑˌtɑɑliˌɑikɑ/[/m]
@@ -159565,9 +157291,6 @@ perinataalinen
 
 perinatologia
 	[m1]/ˈperiˌnɑtoˌlogiɑ/[/m]
-
-perin juurin
-	[m1]/ˈperin[/m]
 
 perinjuurinen
 	[m1]/ˈperinˌjuurinen/[/m]
@@ -159637,9 +157360,6 @@ perinpohjaisesti
 
 perinpohjaisuus
 	[m1]/ˈperinpohˌjɑisuus/[/m]
-
-perin pohjin
-	[m1]/ˈperin[/m]
 
 perinteellinen
 	[m1]/ˈperinˌteellinen/[/m]
@@ -159909,7 +157629,7 @@ persialainen
 	[m1]/ˈpersiɑˌlɑinen/[/m]
 
 persian kieli
-	[m1]/ˈpersiɑn[/m]
+	[m1]/ˈpersiɑn ˈkieli/[/m]
 
 persiankielinen
 	[m1]/ˈpersiɑnˌkielinen/[/m]
@@ -159988,9 +157708,6 @@ personoituma
 
 persoona
 	[m1]/ˈpersoonɑ/[/m]
-
--persoonainen
-	[m1]/ˈpersooˌnɑinen/[/m]
 
 persoonallinen
 	[m1]/ˈpersooˌnɑllinen/[/m]
@@ -160517,9 +158234,6 @@ perusta
 perustaa
 	[m1]/ˈperustɑɑ/[/m]
 
--perustainen
-	[m1]/ˈperusˌtɑinen/[/m]
-
 perustaja
 	[m1]/ˈperusˌtɑjɑ/[/m]
 
@@ -160585,9 +158299,6 @@ perusteettomuus
 
 perusteilla
 	[m1]/ˈperusˌteillɑ/[/m]
-
--perusteinen
-	[m1]/ˈperusˌteinen/[/m]
 
 perustekijä
 	[m1]/ˈperusˌtekijæ/[/m]
@@ -160733,14 +158444,8 @@ peräevä
 perähytti
 	[m1]/ˈperæˌhytti/[/m]
 
--peräinen
-	[m1]/ˈperæinen/[/m]
-
 peräisin
 	[m1]/ˈperæisin/[/m]
-
--peräisyys
-	[m1]/ˈperæisyys/[/m]
 
 peräjälkeen
 	[m1]/ˈperæˌjælkeen/[/m]
@@ -161045,9 +158750,6 @@ pesiintyä
 pesijä
 	[m1]/ˈpesijæ/[/m]
 
-pesijä
-	[m1]/ˈpesijæ/[/m]
-
 pesimä-
 	[m1]/ˈpesimæ/[/m]
 
@@ -161315,6 +159017,9 @@ pesäpallisti
 pesäpallo
 	[m1]/ˈpesæˌpɑllo/[/m]
 
+pesäpallo-ottelu
+	[m1]/ˈpesæpɑlˌloottelu/[/m]
+
 pesäpalloilija
 	[m1]/ˈpesæpɑlˌloilijɑ/[/m]
 
@@ -161329,9 +159034,6 @@ pesäpallokenttä
 
 pesäpallomaila
 	[m1]/ˈpesæˌpɑlloˌmɑilɑ/[/m]
-
-pesäpallo-ottelu
-	[m1]/ˈpesæpɑlˌloottelu/[/m]
 
 pesäpallopeli
 	[m1]/ˈpesæˌpɑlloˌpeli/[/m]
@@ -161657,6 +159359,9 @@ pianistinen
 piano
 	[m1]/ˈpiɑno/[/m]
 
+piano-oppilas
+	[m1]/ˈpiɑˌnooppilɑs/[/m]
+
 pianohaitari
 	[m1]/ˈpiɑnoˌhɑitɑri/[/m]
 
@@ -161705,9 +159410,6 @@ pianonvirittäjä
 pianonviritys
 	[m1]/ˈpiɑˌnonviˌritys/[/m]
 
-piano-oppilas
-	[m1]/ˈpiɑˌnooppilɑs/[/m]
-
 pianosolisti
 	[m1]/ˈpiɑˌnosoˌlisti/[/m]
 
@@ -161740,15 +159442,6 @@ pianotunti
 
 pianotuoli
 	[m1]/ˈpiɑnoˌtuoli/[/m]
-
-piccolo
-	[m1]/ˈ[i]~[/i]/[/m]
-
-pick-up
-	[m1]/ˈpickup/[/m]
-
-picnic
-	[m1]/ˈ[i]~[/i]/[/m]
 
 pidellä
 	[m1]/ˈpidellæ/[/m]
@@ -161906,6 +159599,9 @@ pieneliö
 pieneläinklinikka
 	[m1]/ˈpieneˌlæinkliˌnikkɑ/[/m]
 
+pieneläintunneli
+	[m1]/ˈpieneˌlæintunˌneli/[/m]
+
 pieneläjä
 	[m1]/ˈpieneˌlæjæ/[/m]
 
@@ -162001,9 +159697,6 @@ pienkustantaja
 
 pienkustantamo
 	[m1]/ˈpienkusˌtɑntɑmo/[/m]
-
-pieneläintunneli
-	[m1]/ˈpieneˌlæintunˌneli/[/m]
 
 pienmetsänomistaja
 	[m1]/ˈpienmetˌsænoˌmistɑjɑ/[/m]
@@ -162239,9 +159932,6 @@ pigmentoitua
 pigmentti
 	[m1]/ˈ[i]~[/i]/[/m]
 
--pigmenttinen
-	[m1]/ˈpigmentˌtinen/[/m]
-
 pigmenttisolu
 	[m1]/ˈpigmentˌtisolu/[/m]
 
@@ -162419,12 +160109,6 @@ pihvitomaatti
 pii
 	[m1]/ˈ[i]~[/i]/[/m]
 
-pii
-	[m1]/ˈ[i]~[/i]/[/m]
-
-pii
-	[m1]/ˈ[i]~[/i]/[/m]
-
 piianpeili
 	[m1]/ˈpiiɑnˌpeili/[/m]
 
@@ -162544,9 +160228,6 @@ piileskellä
 
 piilevyys
 	[m1]/ˈ[i]~[/i]/[/m]
-
-piilevä
-	[m1]/ˈpiilevæ/[/m]
 
 piilevä
 	[m1]/ˈpiilevæ/[/m]
@@ -162752,9 +160433,6 @@ piipahtaa
 piipata
 	[m1]/ˈpiipɑtɑ/[/m]
 
-piipata
-	[m1]/ˈpiipɑtɑ/[/m]
-
 piiperrys
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -162776,9 +160454,6 @@ piippalakki
 piippaus
 	[m1]/ˈpiippɑus/[/m]
 
-piippaus
-	[m1]/ˈpiippɑus/[/m]
-
 piippo
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -162790,9 +160465,6 @@ piippu
 
 piippuhylly
 	[m1]/ˈpiippuˌhylly/[/m]
-
--piippuinen
-	[m1]/ˈpiippuinen/[/m]
 
 piippuköynnös
 	[m1]/ˈpiippukøˌynnøs/[/m]
@@ -162950,9 +160622,6 @@ piirrostaide
 piirrättää
 	[m1]/ˈpiirrættææ/[/m]
 
--piirteinen
-	[m1]/ˈpiirteinen/[/m]
-
 piirtely
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -162982,9 +160651,6 @@ piirtäjä
 
 piirtää
 	[m1]/ˈpiirtææ/[/m]
-
-piiru
-	[m1]/ˈ[i]~[/i]/[/m]
 
 piiru
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -163036,9 +160702,6 @@ piisamiturkki
 
 piisata
 	[m1]/ˈpiisɑtɑ/[/m]
-
-piisi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 piisi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -163148,9 +160811,6 @@ piittaamattomuus
 pika-
 	[m1]/ˈpikɑ/[/m]
 
-pikaa
-	[m1]/ˈpikɑɑ/[/m]
-
 pika-arpa
 	[m1]/ˈpikɑɑrpɑ/[/m]
 
@@ -163165,6 +160825,9 @@ pika-asutustila
 
 pika-ateria
 	[m1]/ˈpikɑɑˌteriɑ/[/m]
+
+pikaa
+	[m1]/ˈpikɑɑ/[/m]
 
 pikahiutaleet
 	[m1]/ˈpikɑˌhiutɑleet/[/m]
@@ -163499,6 +161162,12 @@ pikku
 pikku-
 	[m1]/ˈpikku/[/m]
 
+pikku-ukko
+	[m1]/ˈpikkuukko/[/m]
+
+pikku-uutinen
+	[m1]/ˈpikkuuˌutinen/[/m]
+
 pikkuaivot
 	[m1]/ˈpikkuˌɑivot/[/m]
 
@@ -163829,12 +161498,6 @@ pikkutärkeys
 pikkutärkeä
 	[m1]/ˈpikkuˌtærkeæ/[/m]
 
-pikku-ukko
-	[m1]/ˈpikkuukko/[/m]
-
-pikku-uutinen
-	[m1]/ˈpikkuuˌutinen/[/m]
-
 pikkuvaltio
 	[m1]/ˈpikkuˌvɑltio/[/m]
 
@@ -163997,9 +161660,6 @@ pilkata
 pilke
 	[m1]/ˈ[i]~[/i]/[/m]
 
-pilke
-	[m1]/ˈ[i]~[/i]/[/m]
-
 pilkintä
 	[m1]/ˈpilkintæ/[/m]
 
@@ -164011,9 +161671,6 @@ pilkistys
 
 pilkistää
 	[m1]/ˈpilkistææ/[/m]
-
-pilkka
-	[m1]/ˈpilkkɑ/[/m]
 
 pilkka
 	[m1]/ˈpilkkɑ/[/m]
@@ -164228,9 +161885,6 @@ pilssivesi
 piltti
 	[m1]/ˈ[i]~[/i]/[/m]
 
--pilttuinen
-	[m1]/ˈpilttuinen/[/m]
-
 pilttuu
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -164347,6 +162001,9 @@ pimputus
 
 pimu
 	[m1]/ˈ[i]~[/i]/[/m]
+
+pin-up-tyttö
+	[m1]/ˈpinupˌtyttø/[/m]
 
 pinaatinlehti
 	[m1]/ˈpinɑɑˌtinlehti/[/m]
@@ -164531,9 +162188,6 @@ pinnoite
 pinnoittaa
 	[m1]/ˈpinnoittɑɑ/[/m]
 
--pinnoitteinen
-	[m1]/ˈpinnoitˌteinen/[/m]
-
 pinnoitus
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -164584,12 +162238,6 @@ pintahiivaolut
 
 pintailmiö
 	[m1]/ˈpintɑilˌmiø/[/m]
-
--pintainen
-	[m1]/ˈpintɑinen/[/m]
-
--pintaisuus
-	[m1]/ˈpintɑisuus/[/m]
 
 pintajengi
 	[m1]/ˈpintɑˌjengi/[/m]
@@ -164756,9 +162404,6 @@ pinttymä
 pinttyä
 	[m1]/ˈpinttyæ/[/m]
 
-pin-up-tyttö
-	[m1]/ˈpinupˌtyttø/[/m]
-
 pinyin
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -164776,9 +162421,6 @@ pioneerikomppania
 
 pioneerityö
 	[m1]/ˈpioˌneerityø/[/m]
-
-pioni
-	[m1]/ˈ[i]~[/i]/[/m]
 
 pioni
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -165725,9 +163367,6 @@ pitkään
 pito
 	[m1]/ˈ[i]~[/i]/[/m]
 
--pitoinen
-	[m1]/ˈpitoinen/[/m]
-
 pitoisuus
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -165974,9 +163613,6 @@ pizza
 pizzeria
 	[m1]/ˈpizzeˌriɑ/[/m]
 
-pizzicato
-	[m1]/ˈpizziˌcɑto/[/m]
-
 piällysmies
 	[m1]/ˈpiælˌlysmies/[/m]
 
@@ -166142,9 +163778,6 @@ platonismi
 platy
 	[m1]/ˈplɑty/[/m]
 
-playback
-	[m1]/ˈplɑybɑck/[/m]
-
 playboy
 	[m1]/ˈplɑyˌboy/[/m]
 
@@ -166265,11 +163898,11 @@ plyymi
 plyysi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-plyysihuonekalu
-	[m1]/ˈplyysiˌhuoneˌkɑlu/[/m]
-
 plyysi-istuin
 	[m1]/ˈplyysiistuin/[/m]
+
+plyysihuonekalu
+	[m1]/ˈplyysiˌhuoneˌkɑlu/[/m]
 
 plyysikangas
 	[m1]/ˈplyysiˌkɑngɑs/[/m]
@@ -166354,15 +163987,6 @@ pohjahiivaolut
 
 pohjahinta
 	[m1]/ˈpohjɑˌhintɑ/[/m]
-
--pohjainen
-	[m1]/ˈpohjɑinen/[/m]
-
--pohjaisesti
-	[m1]/ˈpohjɑiˌsesti/[/m]
-
--pohjaisuus
-	[m1]/ˈpohjɑisuus/[/m]
 
 pohjajää
 	[m1]/ˈpohjɑjææ/[/m]
@@ -166727,14 +164351,8 @@ pohjustus
 pohkeenväistö
 	[m1]/ˈpohkeenˌvæistø/[/m]
 
--pohkeinen
-	[m1]/ˈpohkeinen/[/m]
-
 pohtia
 	[m1]/ˈpohtiɑ/[/m]
-
-poies
-	[m1]/ˈ[i]~[/i]/[/m]
 
 poi'inta
 	[m1]/ˈpoiintɑ/[/m]
@@ -166744,6 +164362,9 @@ poi'ittaa
 
 poi'itus
 	[m1]/ˈpoiitus/[/m]
+
+poies
+	[m1]/ˈ[i]~[/i]/[/m]
 
 poiju
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -167306,9 +164927,6 @@ pokasaha
 pokata
 	[m1]/ˈpokɑtɑ/[/m]
 
-pokata
-	[m1]/ˈpokɑtɑ/[/m]
-
 pokeri
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -167678,9 +165296,6 @@ polla
 pollari
 	[m1]/ˈpollɑri/[/m]
 
-pollari
-	[m1]/ˈpollɑri/[/m]
-
 polle
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -167924,6 +165539,9 @@ polveutumisoppi
 polvi
 	[m1]/ˈ[i]~[/i]/[/m]
 
+polvi-istunta
+	[m1]/ˈpolviisˌtuntɑ/[/m]
+
 polviasento
 	[m1]/ˈpolviɑˌsento/[/m]
 
@@ -167932,9 +165550,6 @@ polviheijaste
 
 polvihousut
 	[m1]/ˈpolviˌhousut/[/m]
-
-polvi-istunta
-	[m1]/ˈpolviisˌtuntɑ/[/m]
 
 polvijänne
 	[m1]/ˈpolviˌjænne/[/m]
@@ -167953,9 +165568,6 @@ polviltaan
 
 polvilumpio
 	[m1]/ˈpolviˌlumpio/[/m]
-
--polvinen
-	[m1]/ˈpolvinen/[/m]
 
 polvinivel
 	[m1]/ˈpolviˌnivel/[/m]
@@ -168116,17 +165728,14 @@ pomilointi
 pommi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-pommi
-	[m1]/ˈ[i]~[/i]/[/m]
+pommi-isku
+	[m1]/ˈpommiisku/[/m]
 
 pommiattentaatti
 	[m1]/ˈpommiˌɑttenˌtɑɑtti/[/m]
 
 pommihyökkäys
 	[m1]/ˈpommiˌhyøkkæys/[/m]
-
-pommi-isku
-	[m1]/ˈpommiisku/[/m]
 
 pommikoira
 	[m1]/ˈpommiˌkoirɑ/[/m]
@@ -168220,9 +165829,6 @@ pomsi
 
 pomsisidos
 	[m1]/ˈpomsiˌsidos/[/m]
-
-poncho
-	[m1]/ˈ[i]~[/i]/[/m]
 
 pondi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -168368,9 +165974,6 @@ ponttonisilta
 pooli
 	[m1]/ˈ[i]~[/i]/[/m]
 
-pooli
-	[m1]/ˈ[i]~[/i]/[/m]
-
 poolo
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -168388,12 +165991,6 @@ pop
 
 popata
 	[m1]/ˈpopɑtɑ/[/m]
-
-popata
-	[m1]/ˈpopɑtɑ/[/m]
-
-popcorn
-	[m1]/ˈ[i]~[/i]/[/m]
 
 popidoli
 	[m1]/ˈpopiˌdoli/[/m]
@@ -168523,9 +166120,6 @@ porapistiäinen
 
 porari
 	[m1]/ˈporɑri/[/m]
-
-porata
-	[m1]/ˈporɑtɑ/[/m]
 
 porata
 	[m1]/ˈporɑtɑ/[/m]
@@ -168676,9 +166270,6 @@ pornotähti
 
 pornovideo
 	[m1]/ˈpornoˌvideo/[/m]
-
-poro
-	[m1]/ˈ[i]~[/i]/[/m]
 
 poro
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -168920,6 +166511,9 @@ porskuttaa
 porstua
 	[m1]/ˈporstuɑ/[/m]
 
+port salut
+	[m1]/port ˈsɑlut/[/m]
+
 portaali
 	[m1]/ˈportɑɑli/[/m]
 
@@ -168937,9 +166531,6 @@ portaattomasti
 
 portaikko
 	[m1]/ˈportɑikko/[/m]
-
--portainen
-	[m1]/ˈportɑinen/[/m]
 
 portaittain
 	[m1]/ˈportɑittɑin/[/m]
@@ -168961,9 +166552,6 @@ portinvartija
 
 portlandsementti
 	[m1]/ˈportlɑndseˌmentti/[/m]
-
-port salut
-	[m1]/port[/m]
 
 portsari
 	[m1]/ˈportsɑri/[/m]
@@ -169008,7 +166596,7 @@ portugalilainen
 	[m1]/ˈportuˌgɑliˌlɑinen/[/m]
 
 portugalin kieli
-	[m1]/ˈportuˌgɑlin[/m]
+	[m1]/ˈportuˌgɑlin ˈkieli/[/m]
 
 portviini
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -169139,9 +166727,6 @@ poskilihas
 poskiluu
 	[m1]/ˈ[i]~[/i]/[/m]
 
--poskinen
-	[m1]/ˈposkinen/[/m]
-
 poskiontelo
 	[m1]/ˈposkiˌontelo/[/m]
 
@@ -169230,22 +166815,16 @@ possunliha
 	[m1]/ˈpossunˌlihɑ/[/m]
 
 poste restante
-	[m1]/ˈposte[/m]
+	[m1]/ˈposte ˈrestɑnte/[/m]
 
 poste restante -lähetys
-	[m1]/ˈposte[/m]
+	[m1]/ˈposte ˈrestɑnte ˈlæhetys/[/m]
 
 posteri
 	[m1]/ˈ[i]~[/i]/[/m]
 
 posteriesitelmä
 	[m1]/ˈposteˌriesiˌtelmæ/[/m]
-
-posti
-	[m1]/ˈ[i]~[/i]/[/m]
-
-posti
-	[m1]/ˈ[i]~[/i]/[/m]
 
 posti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -169598,14 +167177,8 @@ potkiskella
 potku
 	[m1]/ˈ[i]~[/i]/[/m]
 
-potku
-	[m1]/ˈ[i]~[/i]/[/m]
-
 potkuhousut
 	[m1]/ˈpotkuˌhousut/[/m]
-
--potkuinen
-	[m1]/ˈpotkuinen/[/m]
 
 potkukelkka
 	[m1]/ˈpotkuˌkelkkɑ/[/m]
@@ -169627,9 +167200,6 @@ potkurikone
 
 potkurinakseli
 	[m1]/ˈpotkuriˌnɑkseli/[/m]
-
--potkurinen
-	[m1]/ˈpotkuˌrinen/[/m]
 
 potkuriturbiini
 	[m1]/ˈpotkuriˌturbiini/[/m]
@@ -169655,14 +167225,8 @@ pottatuoli
 potti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-potti
-	[m1]/ˈ[i]~[/i]/[/m]
-
 pottitaimi
 	[m1]/ˈpottiˌtɑimi/[/m]
-
-pottu
-	[m1]/ˈ[i]~[/i]/[/m]
 
 pottu
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -169751,9 +167315,6 @@ povailla
 povari
 	[m1]/ˈpovɑri/[/m]
 
-povari
-	[m1]/ˈpovɑri/[/m]
-
 povata
 	[m1]/ˈpovɑtɑ/[/m]
 
@@ -169772,14 +167333,26 @@ povi
 povikuningatar
 	[m1]/ˈpovikuˌningɑtɑr/[/m]
 
--povinen
-	[m1]/ˈpovinen/[/m]
-
 povitasku
 	[m1]/ˈpoviˌtɑsku/[/m]
 
 PR
 	[m1]/pr/[/m]
+
+PR-kampanja
+	[m1]/ˈprkɑmpɑnjɑ/[/m]
+
+PR-mies
+	[m1]/ˈprmies/[/m]
+
+PR-nainen
+	[m1]/ˈprnɑinen/[/m]
+
+PR-osasto
+	[m1]/ˈprosɑsto/[/m]
+
+PR-toimisto
+	[m1]/ˈprtoimisto/[/m]
 
 praasniekka
 	[m1]/ˈprɑɑsniekkɑ/[/m]
@@ -170090,6 +167663,12 @@ prikulleen
 prillit
 	[m1]/ˈ[i]~[/i]/[/m]
 
+prima ballerina
+	[m1]/ˈprimɑ ˈbɑlleˌrinɑ/[/m]
+
+prima vista
+	[m1]/ˈprimɑ ˈvistɑ/[/m]
+
 primaari
 	[m1]/ˈprimɑɑri/[/m]
 
@@ -170120,14 +167699,8 @@ primaarisuus
 primaarius
 	[m1]/ˈprimɑɑˌrius/[/m]
 
-prima ballerina
-	[m1]/ˈprimɑ[/m]
-
 primadonna
 	[m1]/ˈprimɑˌdonnɑ/[/m]
-
-prima vista
-	[m1]/ˈprimɑ[/m]
 
 primekorko
 	[m1]/ˈprimeˌkorko/[/m]
@@ -170151,7 +167724,7 @@ primitivisti
 	[m1]/ˈprimitiˌvisti/[/m]
 
 primus motor
-	[m1]/ˈprimus[/m]
+	[m1]/ˈprimus ˈmotor/[/m]
 
 primääri
 	[m1]/ˈprimææri/[/m]
@@ -170231,17 +167804,11 @@ privilegi
 privilegio
 	[m1]/ˈpriviˌlegio/[/m]
 
-PR-kampanja
-	[m1]/ˈprkɑmpɑnjɑ/[/m]
-
-PR-mies
-	[m1]/ˈprmies/[/m]
-
-PR-nainen
-	[m1]/ˈprnɑinen/[/m]
-
 pro
 	[m1]/[i]~[/i]/[/m]
+
+pro gradu
+	[m1]/pro ˈgrɑdu/[/m]
 
 probleema
 	[m1]/ˈprobleemɑ/[/m]
@@ -170377,9 +167944,6 @@ prognoosi
 
 prognostinen
 	[m1]/ˈprognosˌtinen/[/m]
-
-pro gradu
-	[m1]/pro[/m]
 
 progredioida
 	[m1]/ˈprogrediˌoidɑ/[/m]
@@ -170756,9 +168320,6 @@ propyylialkoholi
 prosaisti
 	[m1]/ˈprosɑisti/[/m]
 
-PR-osasto
-	[m1]/ˈprosɑsto/[/m]
-
 proseduuri
 	[m1]/ˈproseˌduuri/[/m]
 
@@ -171007,9 +168568,6 @@ provosointi
 
 provosoitua
 	[m1]/ˈprovoˌsoituɑ/[/m]
-
-PR-toimisto
-	[m1]/ˈprtoimisto/[/m]
 
 prutkuttaa
 	[m1]/ˈprutkuttɑɑ/[/m]
@@ -171350,6 +168908,9 @@ puhallinyhtye
 puhallus
 	[m1]/ˈpuhɑllus/[/m]
 
+puhallus-paineluelvytys
+	[m1]/ˈpuhɑllusˌpɑineluˌelvytys/[/m]
+
 puhalluselvytys
 	[m1]/ˈpuhɑlluˌselvytys/[/m]
 
@@ -171358,9 +168919,6 @@ puhallusilma
 
 puhalluslamppu
 	[m1]/ˈpuhɑlˌluslɑmppu/[/m]
-
-puhallus-paineluelvytys
-	[m1]/ˈpuhɑllusˌpɑineluˌelvytys/[/m]
 
 puhallusputki
 	[m1]/ˈpuhɑlˌlusputki/[/m]
@@ -171530,11 +169088,11 @@ puhe
 puhe-elin
 	[m1]/ˈpuheelin/[/m]
 
+puheena oleva
+	[m1]/ˈpuheenɑ ˈolevɑ/[/m]
+
 puheenaihe
 	[m1]/ˈpuheeˌnɑihe/[/m]
-
-puheena oleva
-	[m1]/ˈpuheenɑ[/m]
 
 puheenjohtaja
 	[m1]/ˈpuheenˌjohtɑjɑ/[/m]
@@ -171577,9 +169135,6 @@ puheilmaisu
 
 puheilta
 	[m1]/ˈpuheiltɑ/[/m]
-
--puheinen
-	[m1]/ˈpuheinen/[/m]
 
 puheisiin
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -172298,9 +169853,6 @@ puitetalous
 puitetalousjärjestelmä
 	[m1]/ˈpuiteˌtɑloˌusjærˌjestelmæ/[/m]
 
--puitteinen
-	[m1]/ˈpuitteinen/[/m]
-
 pujahtaa
 	[m1]/ˈpujɑhtɑɑ/[/m]
 
@@ -172445,9 +169997,6 @@ pukkaus
 pukki
 	[m1]/ˈ[i]~[/i]/[/m]
 
-pukki
-	[m1]/ˈ[i]~[/i]/[/m]
-
 pukkihyppy
 	[m1]/ˈpukkiˌhyppy/[/m]
 
@@ -172477,9 +170026,6 @@ pukuharjoitus
 
 pukuhuone
 	[m1]/ˈpukuˌhuone/[/m]
-
--pukuinen
-	[m1]/ˈpukuinen/[/m]
 
 pukujuhla
 	[m1]/ˈpukuˌjuhlɑ/[/m]
@@ -172556,12 +170102,6 @@ puleeraus
 puli
 	[m1]/ˈ[i]~[/i]/[/m]
 
-puli
-	[m1]/ˈ[i]~[/i]/[/m]
-
-puli
-	[m1]/ˈ[i]~[/i]/[/m]
-
 pulikka
 	[m1]/ˈpulikkɑ/[/m]
 
@@ -172606,9 +170146,6 @@ pulja
 
 pulju
 	[m1]/ˈ[i]~[/i]/[/m]
-
-pulkka
-	[m1]/ˈpulkkɑ/[/m]
 
 pulkka
 	[m1]/ˈpulkkɑ/[/m]
@@ -172700,6 +170237,9 @@ pullistus
 pullo
 	[m1]/ˈ[i]~[/i]/[/m]
 
+pullo-olut
+	[m1]/ˈpulloolut/[/m]
+
 pulloharja
 	[m1]/ˈpulloˌhɑrjɑ/[/m]
 
@@ -172747,9 +170287,6 @@ pullonpohja
 
 pullonsuu
 	[m1]/ˈ[i]~[/i]/[/m]
-
-pullo-olut
-	[m1]/ˈpulloolut/[/m]
 
 pulloposki
 	[m1]/ˈpulloˌposki/[/m]
@@ -172886,9 +170423,6 @@ pulttaus
 pultti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-pultti
-	[m1]/ˈ[i]~[/i]/[/m]
-
 pulttikiinnitteinen
 	[m1]/ˈpulttiˌkiinnitˌteinen/[/m]
 
@@ -173008,6 +170542,15 @@ puna-apila
 
 puna-armeija
 	[m1]/ˈpunɑɑrˌmeijɑ/[/m]
+
+puna-viherheikkous
+	[m1]/ˈpunɑviˌherheikˌkous/[/m]
+
+puna-vihersokea
+	[m1]/ˈpunɑviˌhersoˌkeɑ/[/m]
+
+puna-vihersokeus
+	[m1]/ˈpunɑviˌhersoˌkeus/[/m]
 
 punaharmaa
 	[m1]/ˈpunɑˌhɑrmɑɑ/[/m]
@@ -173339,15 +170882,6 @@ punavaloinen
 punavarpunen
 	[m1]/ˈpunɑˌvɑrpunen/[/m]
 
-puna-viherheikkous
-	[m1]/ˈpunɑviˌherheikˌkous/[/m]
-
-puna-vihersokea
-	[m1]/ˈpunɑviˌhersoˌkeɑ/[/m]
-
-puna-vihersokeus
-	[m1]/ˈpunɑviˌhersoˌkeus/[/m]
-
 punavihreä
 	[m1]/ˈpunɑˌvihreæ/[/m]
 
@@ -173411,14 +170945,8 @@ punkero
 punkka
 	[m1]/ˈpunkkɑ/[/m]
 
-punkka
-	[m1]/ˈpunkkɑ/[/m]
-
 punkkari
 	[m1]/ˈpunkkɑri/[/m]
-
-punkki
-	[m1]/ˈ[i]~[/i]/[/m]
 
 punkki
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -173489,9 +171017,6 @@ punonnainen
 punonta
 	[m1]/ˈpunontɑ/[/m]
 
--punontainen
-	[m1]/ˈpunonˌtɑinen/[/m]
-
 punontatyö
 	[m1]/ˈpunonˌtɑtyø/[/m]
 
@@ -173534,29 +171059,14 @@ puntis
 puntti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-puntti
-	[m1]/ˈ[i]~[/i]/[/m]
-
-puntti
-	[m1]/ˈ[i]~[/i]/[/m]
-
 punttisali
 	[m1]/ˈpunttiˌsɑli/[/m]
 
 puola
 	[m1]/ˈpuolɑ/[/m]
 
-puola
-	[m1]/ˈpuolɑ/[/m]
-
-puola
-	[m1]/ˈpuolɑ/[/m]
-
 puolain
 	[m1]/ˈpuolɑin/[/m]
-
--puolainen
-	[m1]/ˈpuolɑinen/[/m]
 
 puolalainen
 	[m1]/ˈpuolɑˌlɑinen/[/m]
@@ -173565,7 +171075,7 @@ puolalaisuus
 	[m1]/ˈpuolɑˌlɑisuus/[/m]
 
 puolan kieli
-	[m1]/ˈpuolɑn[/m]
+	[m1]/ˈpuolɑn ˈkieli/[/m]
 
 puolankielinen
 	[m1]/ˈpuolɑnˌkielinen/[/m]
@@ -173603,9 +171113,6 @@ puoleensavetävästi
 puoleinen
 	[m1]/ˈ[i]~[/i]/[/m]
 
--puoleisesti
-	[m1]/ˈpuoleiˌsesti/[/m]
-
 puoleksi
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -173626,6 +171133,12 @@ puolestapuhuja
 
 puoli
 	[m1]/ˈ[i]~[/i]/[/m]
+
+puoli-ilmainen
+	[m1]/ˈpuoliilˌmɑinen/[/m]
+
+puoli-ilmaiseksi
+	[m1]/ˈpuoliilˌmɑiseksi/[/m]
 
 puoliaalto
 	[m1]/ˈpuoliˌɑɑlto/[/m]
@@ -173692,12 +171205,6 @@ puolihuolimattomasti
 
 puolihöperö
 	[m1]/ˈpuoliˌhøperø/[/m]
-
-puoli-ilmainen
-	[m1]/ˈpuoliilˌmɑinen/[/m]
-
-puoli-ilmaiseksi
-	[m1]/ˈpuoliilˌmɑiseksi/[/m]
 
 puoliintua
 	[m1]/ˈpuoliinˌtuɑ/[/m]
@@ -174353,14 +171860,17 @@ puoltolause
 puolue
 	[m1]/ˈ[i]~[/i]/[/m]
 
+puolue-elin
+	[m1]/ˈpuoluˌeelin/[/m]
+
+puolue-elämä
+	[m1]/ˈpuoluˌeelæmæ/[/m]
+
 puolueaktiivi
 	[m1]/ˈpuolueˌɑktiivi/[/m]
 
 puoluediktatuuri
 	[m1]/ˈpuolueˌdiktɑˌtuuri/[/m]
-
-puolue-elin
-	[m1]/ˈpuoluˌeelin/[/m]
 
 puolueellinen
 	[m1]/ˈpuoluˌeellinen/[/m]
@@ -174370,9 +171880,6 @@ puolueellisesti
 
 puolueellisuus
 	[m1]/ˈpuoluˌeellisuus/[/m]
-
-puolue-elämä
-	[m1]/ˈpuoluˌeelæmæ/[/m]
 
 puolueeton
 	[m1]/ˈpuoluˌeeton/[/m]
@@ -174394,9 +171901,6 @@ puoluehallinto
 
 puoluehallitus
 	[m1]/ˈpuolueˌhɑllitus/[/m]
-
--puolueinen
-	[m1]/ˈpuoluˌeinen/[/m]
 
 puolueittain
 	[m1]/ˈpuoluˌeittɑin/[/m]
@@ -174527,6 +172031,9 @@ puolukanvarpu
 puolukka
 	[m1]/ˈpuolukkɑ/[/m]
 
+puolukka-mustikkatyyppi
+	[m1]/ˈpuolukkɑˌmustikkɑˌtyyppi/[/m]
+
 puolukkahillo
 	[m1]/ˈpuolukkɑˌhillo/[/m]
 
@@ -174538,9 +172045,6 @@ puolukkamehu
 
 puolukkametsä
 	[m1]/ˈpuolukkɑˌmetsæ/[/m]
-
-puolukka-mustikkatyyppi
-	[m1]/ˈpuolukkɑˌmustikkɑˌtyyppi/[/m]
 
 puolukkapuuro
 	[m1]/ˈpuolukkɑˌpuuro/[/m]
@@ -174995,9 +172499,6 @@ purjehtia
 purjehtija
 	[m1]/ˈpurjehˌtijɑ/[/m]
 
--purjeinen
-	[m1]/ˈpurjeinen/[/m]
-
 purjekangas
 	[m1]/ˈpurjeˌkɑngɑs/[/m]
 
@@ -175331,9 +172832,6 @@ pusata
 pusero
 	[m1]/ˈ[i]~[/i]/[/m]
 
--puseroinen
-	[m1]/ˈpuseˌroinen/[/m]
-
 puseroisillaan
 	[m1]/ˈpuseˌroisillɑɑn/[/m]
 
@@ -175574,9 +173072,6 @@ putkilo
 putkimies
 	[m1]/ˈ[i]~[/i]/[/m]
 
--putkinen
-	[m1]/ˈputkinen/[/m]
-
 putkipihdit
 	[m1]/ˈputkiˌpihdit/[/m]
 
@@ -175663,6 +173158,9 @@ putto
 
 puu
 	[m1]/ˈ[i]~[/i]/[/m]
+
+puu-ukko
+	[m1]/ˈpuuukko/[/m]
 
 puuaine
 	[m1]/ˈpuuɑine/[/m]
@@ -176432,9 +173930,6 @@ puutyö
 puutyökalu
 	[m1]/ˈpuutyøˌkɑlu/[/m]
 
-puu-ukko
-	[m1]/ˈpuuukko/[/m]
-
 puuvaja
 	[m1]/ˈpuuvɑjɑ/[/m]
 
@@ -176735,9 +174230,6 @@ pylpyrä
 pylväikkö
 	[m1]/ˈpylvæikkø/[/m]
 
--pylväinen
-	[m1]/ˈpylvæinen/[/m]
-
 pylväistö
 	[m1]/ˈpylvæistø/[/m]
 
@@ -176860,9 +174352,6 @@ pyrstö
 
 pyrstöevä
 	[m1]/ˈpyrstøˌevæ/[/m]
-
--pyrstöinen
-	[m1]/ˈpyrstøinen/[/m]
 
 pyrstökäs
 	[m1]/ˈpyrstøkæs/[/m]
@@ -177395,9 +174884,6 @@ pyykitys
 pyykki
 	[m1]/ˈ[i]~[/i]/[/m]
 
-pyykki
-	[m1]/ˈ[i]~[/i]/[/m]
-
 pyykkikori
 	[m1]/ˈpyykkiˌkori/[/m]
 
@@ -177716,9 +175202,6 @@ pyöräilysortsit
 pyöräilystadion
 	[m1]/ˈpyøræiˌlystɑˌdion/[/m]
 
--pyöräinen
-	[m1]/ˈpyøræinen/[/m]
-
 pyöräkelkka
 	[m1]/ˈpyøræˌkelkkɑ/[/m]
 
@@ -177980,9 +175463,6 @@ päilyä
 päin
 	[m1]/ˈpæin/[/m]
 
--päinen
-	[m1]/ˈpæinen/[/m]
-
 päinmakuu
 	[m1]/ˈpæinmɑkuu/[/m]
 
@@ -178141,9 +175621,6 @@ päivähoitopaikka
 
 päivähuone
 	[m1]/ˈpæivæˌhuone/[/m]
-
--päiväinen
-	[m1]/ˈpæivæinen/[/m]
 
 päiväjumalanpalvelus
 	[m1]/ˈpæivæˌjumɑˌlɑnpɑlˌvelus/[/m]
@@ -178685,6 +176162,9 @@ pää
 pää-
 	[m1]/ˈpææ/[/m]
 
+pää-äänenkannattaja
+	[m1]/ˈpææææˌnenkɑnˌnɑttɑjɑ/[/m]
+
 pääaine
 	[m1]/ˈpææɑine/[/m]
 
@@ -178994,9 +176474,6 @@ päälliskangas
 päällitse
 	[m1]/ˈpæællitse/[/m]
 
--päällyksinen
-	[m1]/ˈpæællykˌsinen/[/m]
-
 päällys
 	[m1]/ˈpæællys/[/m]
 
@@ -179041,9 +176518,6 @@ päällystakki
 
 päällyste
 	[m1]/ˈpæællyste/[/m]
-
--päällysteinen
-	[m1]/ˈpæællysˌteinen/[/m]
 
 päällystys
 	[m1]/ˈpæællystys/[/m]
@@ -179333,9 +176807,6 @@ päärly
 päärme
 	[m1]/ˈpæærme/[/m]
 
--päärmeinen
-	[m1]/ˈpæærmeinen/[/m]
-
 päärmepisto
 	[m1]/ˈpæærmeˌpisto/[/m]
 
@@ -179486,9 +176957,6 @@ päästellä
 päästä
 	[m1]/ˈpææstæ/[/m]
 
-päästä
-	[m1]/ˈpææstæ/[/m]
-
 päästäinen
 	[m1]/ˈpææstæinen/[/m]
 
@@ -179509,9 +176977,6 @@ pääsuunta
 
 pääsy
 	[m1]/ˈpææsy/[/m]
-
--pääsyinen
-	[m1]/ˈpææsyinen/[/m]
 
 pääsykiintiö
 	[m1]/ˈpææsyˌkiintiø/[/m]
@@ -179552,11 +177017,11 @@ päätavoite
 pääte
 	[m1]/ˈpææte/[/m]
 
-pääteasema
-	[m1]/ˈpææteˌɑsemɑ/[/m]
-
 pääte-elin
 	[m1]/ˈpææteelin/[/m]
+
+pääteasema
+	[m1]/ˈpææteˌɑsemɑ/[/m]
 
 pääteema
 	[m1]/ˈpææteemɑ/[/m]
@@ -179620,9 +177085,6 @@ päätteellinen
 
 päätteetön
 	[m1]/ˈpæætteetøn/[/m]
-
--päätteinen
-	[m1]/ˈpæætteinen/[/m]
 
 päättely
 	[m1]/ˈpæættely/[/m]
@@ -179765,6 +177227,9 @@ päätyä
 päätyö
 	[m1]/ˈpæætyø/[/m]
 
+päätä pahkaa
+	[m1]/ˈpæætæ ˈpɑhkɑɑ/[/m]
+
 päätähti
 	[m1]/ˈpæætæhti/[/m]
 
@@ -179782,9 +177247,6 @@ päätäntäoikeus
 
 päätäntävalta
 	[m1]/ˈpæætæntæˌvɑltɑ/[/m]
-
-päätä pahkaa
-	[m1]/ˈpæætæ[/m]
 
 päätäpahkainen
 	[m1]/ˈpæætæpɑhˌkɑinen/[/m]
@@ -179897,9 +177359,6 @@ pääväri
 pääväylä
 	[m1]/ˈpæævæylæ/[/m]
 
-pää-äänenkannattaja
-	[m1]/ˈpææææˌnenkɑnˌnɑttɑjɑ/[/m]
-
 pöheikkö
 	[m1]/ˈpøheikkø/[/m]
 
@@ -179957,9 +177416,6 @@ pökkiä
 pökkö
 	[m1]/ˈpøkkø/[/m]
 
--pöksyinen
-	[m1]/ˈpøksyinen/[/m]
-
 pöksyt
 	[m1]/ˈpøksyt/[/m]
 
@@ -179977,12 +177433,6 @@ pölhö
 
 pölinä
 	[m1]/ˈpølinæ/[/m]
-
-pölinä
-	[m1]/ˈpølinæ/[/m]
-
-pölistä
-	[m1]/ˈpølistæ/[/m]
 
 pölistä
 	[m1]/ˈpølistæ/[/m]
@@ -180127,9 +177577,6 @@ pölyte
 
 pölytiivis
 	[m1]/ˈpølyˌtiivis/[/m]
-
--pölytteinen
-	[m1]/ˈpølytˌteinen/[/m]
 
 pölyttyä
 	[m1]/ˈpølytˌtyæ/[/m]
@@ -180656,21 +178103,6 @@ pöytävoi
 pöytävuori
 	[m1]/ˈpøytæˌvuori/[/m]
 
-quasi
-	[m1]/ˈquɑsi/[/m]
-
-quenelle
-	[m1]/ˈqueˌnelle/[/m]
-
-quiche
-	[m1]/ˈ[i]~[/i]/[/m]
-
-quickstep
-	[m1]/ˈ[i]~[/i]/[/m]
-
-quisling
-	[m1]/ˈ[i]~[/i]/[/m]
-
 raa'asti
 	[m1]/ˈrɑɑɑsti/[/m]
 
@@ -180722,9 +178154,6 @@ raaistuttaa
 raaja
 	[m1]/ˈrɑɑjɑ/[/m]
 
--raajainen
-	[m1]/ˈrɑɑjɑinen/[/m]
-
 raajaliike
 	[m1]/ˈrɑɑjɑˌliike/[/m]
 
@@ -180739,9 +178168,6 @@ raajarikkoinen
 
 raajavammainen
 	[m1]/ˈrɑɑjɑvɑmˌmɑinen/[/m]
-
-raaka
-	[m1]/ˈrɑɑkɑ/[/m]
 
 raaka
 	[m1]/ˈrɑɑkɑ/[/m]
@@ -180839,9 +178265,6 @@ raakapurje
 raakapuu
 	[m1]/ˈrɑɑkɑpuu/[/m]
 
-raakapuu
-	[m1]/ˈrɑɑkɑpuu/[/m]
-
 raakapuuro
 	[m1]/ˈrɑɑkɑˌpuuro/[/m]
 
@@ -180865,9 +178288,6 @@ raakasokeri
 
 raakasose
 	[m1]/ˈrɑɑkɑˌsose/[/m]
-
-raakata
-	[m1]/ˈrɑɑkɑtɑ/[/m]
 
 raakata
 	[m1]/ˈrɑɑkɑtɑ/[/m]
@@ -181175,9 +178595,6 @@ rabulisti
 rabulistinen
 	[m1]/ˈrɑbuˌlistinen/[/m]
 
-raclette
-	[m1]/ˈrɑclette/[/m]
-
 radanvarsi
 	[m1]/ˈrɑdɑnˌvɑrsi/[/m]
 
@@ -181195,9 +178612,6 @@ radiaani
 
 radiaattori
 	[m1]/ˈrɑdiˌɑɑttori/[/m]
-
-radicchio
-	[m1]/ˈrɑdiccˌhio/[/m]
 
 radikaali
 	[m1]/ˈrɑdiˌkɑɑli/[/m]
@@ -181237,6 +178651,15 @@ radikalisoitua
 
 radio
 	[m1]/ˈrɑdio/[/m]
+
+radio-ohjauksinen
+	[m1]/ˈrɑdiˌoohjɑˌuksinen/[/m]
+
+radio-ohjaus
+	[m1]/ˈrɑdiˌoohjɑus/[/m]
+
+radio-ohjelma
+	[m1]/ˈrɑdiˌoohjelmɑ/[/m]
 
 radioaallot
 	[m1]/ˈrɑdioˌɑɑllot/[/m]
@@ -181381,15 +178804,6 @@ radionkuuntelija
 
 radionkuuntelu
 	[m1]/ˈrɑdionˌkuuntelu/[/m]
-
-radio-ohjauksinen
-	[m1]/ˈrɑdiˌoohjɑˌuksinen/[/m]
-
-radio-ohjaus
-	[m1]/ˈrɑdiˌoohjɑus/[/m]
-
-radio-ohjelma
-	[m1]/ˈrɑdiˌoohjelmɑ/[/m]
 
 radiopaikannus
 	[m1]/ˈrɑdioˌpɑikɑnnus/[/m]
@@ -181979,9 +179393,6 @@ rahoittaa
 rahoittaja
 	[m1]/ˈrɑhoitˌtɑjɑ/[/m]
 
--rahoitteinen
-	[m1]/ˈrɑhoitˌteinen/[/m]
-
 rahoitus
 	[m1]/ˈrɑhoitus/[/m]
 
@@ -182270,12 +179681,6 @@ raisuus
 raita
 	[m1]/ˈrɑitɑ/[/m]
 
-raita
-	[m1]/ˈrɑitɑ/[/m]
-
-raita
-	[m1]/ˈrɑitɑ/[/m]
-
 raitainen
 	[m1]/ˈrɑitɑinen/[/m]
 
@@ -182284,9 +179689,6 @@ raitakehrääjä
 
 raiteilla
 	[m1]/ˈrɑiteillɑ/[/m]
-
--raiteinen
-	[m1]/ˈrɑiteinen/[/m]
 
 raiteisto
 	[m1]/ˈrɑiteisto/[/m]
@@ -182501,14 +179903,8 @@ raivotautinen
 raivotila
 	[m1]/ˈrɑivoˌtilɑ/[/m]
 
-raivotila
-	[m1]/ˈrɑivoˌtilɑ/[/m]
-
 raivuri
 	[m1]/ˈrɑivuri/[/m]
-
-raja
-	[m1]/ˈrɑjɑ/[/m]
 
 raja
 	[m1]/ˈrɑjɑ/[/m]
@@ -182539,9 +179935,6 @@ rajahinta
 
 rajain
 	[m1]/ˈrɑjɑin/[/m]
-
--rajainen
-	[m1]/ˈrɑjɑinen/[/m]
 
 rajajoki
 	[m1]/ˈrɑjɑˌjoki/[/m]
@@ -182785,9 +180178,6 @@ rajoittaa
 
 rajoittamaton
 	[m1]/ˈrɑjoitˌtɑmɑton/[/m]
-
--rajoitteinen
-	[m1]/ˈrɑjoitˌteinen/[/m]
 
 rajoittua
 	[m1]/ˈrɑjoitˌtuɑ/[/m]
@@ -183122,9 +180512,6 @@ rakentaja
 rakentamaton
 	[m1]/ˈrɑkenˌtɑmɑton/[/m]
 
--rakentaminen
-	[m1]/ˈrɑkenˌtɑminen/[/m]
-
 rakentava
 	[m1]/ˈrɑkenˌtɑvɑ/[/m]
 
@@ -183398,9 +180785,6 @@ raksutus
 rakuuna
 	[m1]/ˈrɑkuunɑ/[/m]
 
-rakuuna
-	[m1]/ˈrɑkuunɑ/[/m]
-
 rallatella
 	[m1]/ˈrɑllɑˌtellɑ/[/m]
 
@@ -183412,12 +180796,6 @@ rallattelu
 
 rallatus
 	[m1]/ˈrɑllɑtus/[/m]
-
-ralli
-	[m1]/ˈrɑlli/[/m]
-
-ralli
-	[m1]/ˈrɑlli/[/m]
 
 ralli
 	[m1]/ˈrɑlli/[/m]
@@ -183436,9 +180814,6 @@ ralliautoilija
 
 ralliautoilu
 	[m1]/ˈrɑlliˌɑutoilu/[/m]
-
-rallicross
-	[m1]/ˈrɑllicross/[/m]
 
 rallikilpailu
 	[m1]/ˈrɑllikilˌpɑilu/[/m]
@@ -183800,11 +181175,11 @@ ranskalaistaa
 ranskalaistua
 	[m1]/ˈrɑnskɑˌlɑistuɑ/[/m]
 
+ranskan kieli
+	[m1]/ˈrɑnskɑn ˈkieli/[/m]
+
 ranskankerma
 	[m1]/ˈrɑnskɑnˌkermɑ/[/m]
-
-ranskan kieli
-	[m1]/ˈrɑnskɑn[/m]
 
 ranskankielinen
 	[m1]/ˈrɑnskɑnˌkielinen/[/m]
@@ -183836,11 +181211,11 @@ ranta-alpi
 ranta-alue
 	[m1]/ˈrɑntɑɑˌlue/[/m]
 
-rantaantua
-	[m1]/ˈrɑntɑɑnˌtuɑ/[/m]
-
 ranta-asu
 	[m1]/ˈrɑntɑɑsu/[/m]
+
+rantaantua
+	[m1]/ˈrɑntɑɑnˌtuɑ/[/m]
 
 rantaelämä
 	[m1]/ˈrɑntɑˌelæmæ/[/m]
@@ -183853,9 +181228,6 @@ rantahietikko
 
 rantahotelli
 	[m1]/ˈrɑntɑhoˌtelli/[/m]
-
--rantainen
-	[m1]/ˈrɑntɑinen/[/m]
 
 rantakaava
 	[m1]/ˈrɑntɑˌkɑɑvɑ/[/m]
@@ -184099,9 +181471,6 @@ raparperimehu
 
 raparperipiirakka
 	[m1]/ˈrɑpɑrˌperiˌpiirɑkkɑ/[/m]
-
-rapata
-	[m1]/ˈrɑpɑtɑ/[/m]
 
 rapata
 	[m1]/ˈrɑpɑtɑ/[/m]
@@ -184712,9 +182081,6 @@ rataharjoittelu
 rataharjoitus
 	[m1]/ˈrɑtɑhɑrˌjoitus/[/m]
 
--ratainen
-	[m1]/ˈrɑtɑinen/[/m]
-
 ratajuoksu
 	[m1]/ˈrɑtɑˌjuoksu/[/m]
 
@@ -185029,9 +182395,6 @@ rattaat
 
 rattaisto
 	[m1]/ˈrɑttɑisto/[/m]
-
-ratti
-	[m1]/ˈrɑtti/[/m]
 
 ratti
 	[m1]/ˈrɑtti/[/m]
@@ -185603,9 +182966,6 @@ ravata
 ravauttaa
 	[m1]/ˈrɑvɑˌuttɑɑ/[/m]
 
-ravauttaa
-	[m1]/ˈrɑvɑˌuttɑɑ/[/m]
-
 ravet
 	[m1]/ˈrɑvet/[/m]
 
@@ -185675,14 +183035,20 @@ ravinnontarve
 ravinteikas
 	[m1]/ˈrɑvinˌteikɑs/[/m]
 
--ravinteinen
-	[m1]/ˈrɑvinˌteinen/[/m]
-
 ravinteisuus
 	[m1]/ˈrɑvinˌteisuus/[/m]
 
 ravinto
 	[m1]/ˈrɑvinto/[/m]
+
+ravinto-opillinen
+	[m1]/ˈrɑvinˌtoopilˌlinen/[/m]
+
+ravinto-opillisesti
+	[m1]/ˈrɑvinˌtoopilliˌsesti/[/m]
+
+ravinto-oppi
+	[m1]/ˈrɑvinˌtooppi/[/m]
 
 ravintoaine
 	[m1]/ˈrɑvintoˌɑine/[/m]
@@ -185695,9 +183061,6 @@ ravintoalusta
 
 ravintoarvo
 	[m1]/ˈrɑvintoˌɑrvo/[/m]
-
--ravintoinen
-	[m1]/ˈrɑvinˌtoinen/[/m]
 
 ravintokasvi
 	[m1]/ˈrɑvintoˌkɑsvi/[/m]
@@ -185763,7 +183126,7 @@ ravintolasali
 	[m1]/ˈrɑvinˌtolɑˌsɑli/[/m]
 
 ravintolashow
-	[m1]/ˈrɑvintoˌlɑshow/[/m]
+	[m1]/ˈrɑvintoˌlɑsow/[/m]
 
 ravintolatyöntekijä
 	[m1]/ˈrɑvinˌtolɑˌtyønteˌkijæ/[/m]
@@ -185785,15 +183148,6 @@ ravintoloitsija
 
 ravintolähde
 	[m1]/ˈrɑvintoˌlæhde/[/m]
-
-ravinto-opillinen
-	[m1]/ˈrɑvinˌtoopilˌlinen/[/m]
-
-ravinto-opillisesti
-	[m1]/ˈrɑvinˌtoopilliˌsesti/[/m]
-
-ravinto-oppi
-	[m1]/ˈrɑvinˌtooppi/[/m]
 
 ravintopyramidi
 	[m1]/ˈrɑvinˌtopyˌrɑmidi/[/m]
@@ -186575,9 +183929,6 @@ reistailla
 reistata
 	[m1]/ˈreistɑtɑ/[/m]
 
--reitinen
-	[m1]/ˈreitinen/[/m]
-
 reitittää
 	[m1]/ˈreitittææ/[/m]
 
@@ -186679,9 +184030,6 @@ rekisteröintikoje
 
 rekiviisu
 	[m1]/ˈrekiˌviisu/[/m]
-
-rekka
-	[m1]/ˈrekkɑ/[/m]
 
 rekka
 	[m1]/ˈrekkɑ/[/m]
@@ -186976,9 +184324,6 @@ renkaanheitto
 
 renkaanvaihto
 	[m1]/ˈrenkɑɑnˌvɑihto/[/m]
-
--renkainen
-	[m1]/ˈrenkɑinen/[/m]
 
 renki
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -187505,11 +184850,11 @@ retorisuus
 retoromaani
 	[m1]/ˈretoroˌmɑɑni/[/m]
 
+retoromaanin kieli
+	[m1]/ˈretoroˌmɑɑnin ˈkieli/[/m]
+
 retoromaaninen
 	[m1]/ˈretoroˌmɑɑninen/[/m]
-
-retoromaanin kieli
-	[m1]/ˈretoroˌmɑɑnin[/m]
 
 retortti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -187625,9 +184970,6 @@ reunaehto
 reunahuomautus
 	[m1]/ˈreunɑˌhuomɑutus/[/m]
 
--reunainen
-	[m1]/ˈreunɑinen/[/m]
-
 reunake
 	[m1]/ˈreunɑke/[/m]
 
@@ -187720,9 +185062,6 @@ reunimpaa
 
 reunimpana
 	[m1]/ˈreunimˌpɑnɑ/[/m]
-
--reunuksinen
-	[m1]/ˈreunukˌsinen/[/m]
 
 reunus
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -188267,9 +185606,6 @@ riimitön
 riimu
 	[m1]/ˈ[i]~[/i]/[/m]
 
-riimu
-	[m1]/ˈ[i]~[/i]/[/m]
-
 riimukalenteri
 	[m1]/ˈriimukɑˌlenteri/[/m]
 
@@ -188445,9 +185781,6 @@ riiputtaa
 	[m1]/ˈriiputtɑɑ/[/m]
 
 riiputus
-	[m1]/ˈ[i]~[/i]/[/m]
-
-riisi
 	[m1]/ˈ[i]~[/i]/[/m]
 
 riisi
@@ -188654,14 +185987,14 @@ riisuutumisohjelma
 riita
 	[m1]/ˈriitɑ/[/m]
 
+riita-asia
+	[m1]/ˈriitɑɑˌsiɑ/[/m]
+
 riitaannuttaa
 	[m1]/ˈriitɑɑnˌnuttɑɑ/[/m]
 
 riitaantua
 	[m1]/ˈriitɑɑnˌtuɑ/[/m]
-
-riita-asia
-	[m1]/ˈriitɑɑˌsiɑ/[/m]
 
 riitainen
 	[m1]/ˈriitɑinen/[/m]
@@ -188761,9 +186094,6 @@ riittävä
 
 riittävästi
 	[m1]/ˈriittæˌvæsti/[/m]
-
-riittää
-	[m1]/ˈriittææ/[/m]
 
 riittää
 	[m1]/ˈriittææ/[/m]
@@ -188896,9 +186226,6 @@ rikkaus
 
 rikkeetön
 	[m1]/ˈrikkeetøn/[/m]
-
-rikki
-	[m1]/ˈ[i]~[/i]/[/m]
 
 rikki
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -189377,9 +186704,6 @@ rintaelinkirurgia
 rintaevä
 	[m1]/ˈrintɑˌevæ/[/m]
 
--rintainen
-	[m1]/ˈrintɑinen/[/m]
-
 rintakappale
 	[m1]/ˈrintɑˌkɑppɑle/[/m]
 
@@ -189569,14 +186893,8 @@ rintavuus
 rintaääni
 	[m1]/ˈrintɑˌææni/[/m]
 
--rinteinen
-	[m1]/ˈrinteinen/[/m]
-
 rintsikat
 	[m1]/ˈrintsikɑt/[/m]
-
-ripa
-	[m1]/ˈripɑ/[/m]
 
 ripa
 	[m1]/ˈripɑ/[/m]
@@ -189761,9 +187079,6 @@ ripsauttaa
 ripsi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-ripsi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 ripsieläin
 	[m1]/ˈripsielæin/[/m]
 
@@ -189772,9 +187087,6 @@ ripsiharja
 
 ripsinauha
 	[m1]/ˈripsiˌnɑuhɑ/[/m]
-
-ripsinen
-	[m1]/ˈ[i]~[/i]/[/m]
 
 ripsinen
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -189836,9 +187148,6 @@ ripustuskoukku
 risa
 	[m1]/ˈrisɑ/[/m]
 
-risa
-	[m1]/ˈrisɑ/[/m]
-
 risahdella
 	[m1]/ˈrisɑhˌdellɑ/[/m]
 
@@ -189880,9 +187189,6 @@ riskaabeli
 
 riskeerata
 	[m1]/ˈriskeeˌrɑtɑ/[/m]
-
-riski
-	[m1]/ˈ[i]~[/i]/[/m]
 
 riski
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -190019,6 +187325,9 @@ risteytyä
 risti
 	[m1]/ˈ[i]~[/i]/[/m]
 
+risti-istunta
+	[m1]/ˈristiisˌtuntɑ/[/m]
+
 ristiaallokko
 	[m1]/ˈristiˌɑɑllokko/[/m]
 
@@ -190040,6 +187349,9 @@ ristihämähäkki
 ristiin
 	[m1]/ˈ[i]~[/i]/[/m]
 
+ristiin rastiin
+	[m1]/ˈristiin ˈrɑstiin/[/m]
+
 ristiinnaulita
 	[m1]/ˈristiinˌnɑulitɑ/[/m]
 
@@ -190052,14 +187364,8 @@ ristiinomistus
 ristiinpukeutuminen
 	[m1]/ˈristiinpuˌkeutuˌminen/[/m]
 
-ristiin rastiin
-	[m1]/ˈristiin[/m]
-
 ristiinäänestys
 	[m1]/ˈristiiˌnæænestys/[/m]
-
-risti-istunta
-	[m1]/ˈristiisˌtuntɑ/[/m]
 
 ristijousto
 	[m1]/ˈristijoˌusto/[/m]
@@ -190334,6 +187640,9 @@ rita
 ritari
 	[m1]/ˈritɑri/[/m]
 
+ritari-ihanne
+	[m1]/ˈritɑˌriihɑnne/[/m]
+
 ritariballadi
 	[m1]/ˈritɑriˌbɑllɑdi/[/m]
 
@@ -190342,9 +187651,6 @@ ritarihuone
 
 ritarihyve
 	[m1]/ˈritɑˌrihyve/[/m]
-
-ritari-ihanne
-	[m1]/ˈritɑˌriihɑnne/[/m]
 
 ritarikannus
 	[m1]/ˈritɑriˌkɑnnus/[/m]
@@ -190526,9 +187832,6 @@ rivimoottori
 rivinalinen
 	[m1]/ˈriviˌnɑlinen/[/m]
 
--rivinen
-	[m1]/ˈrivinen/[/m]
-
 rivinvaihdin
 	[m1]/ˈrivinˌvɑihdin/[/m]
 
@@ -190547,6 +187850,9 @@ rivistö
 rivitalo
 	[m1]/ˈriviˌtɑlo/[/m]
 
+rivitalo-osake
+	[m1]/ˈrivitɑˌloosɑke/[/m]
+
 rivitaloalue
 	[m1]/ˈriviˌtɑloˌɑlue/[/m]
 
@@ -190555,9 +187861,6 @@ rivitalohuoneisto
 
 rivitalonpätkä
 	[m1]/ˈrivitɑˌlonpætkæ/[/m]
-
-rivitalo-osake
-	[m1]/ˈrivitɑˌloosɑke/[/m]
 
 rivitekniikka
 	[m1]/ˈrivitekˌniikkɑ/[/m]
@@ -190589,6 +187892,9 @@ rivosuinen
 rivous
 	[m1]/ˈ[i]~[/i]/[/m]
 
+ro-ro-alus
+	[m1]/ˈroroˌɑlus/[/m]
+
 robotiikka
 	[m1]/ˈroboˌtiikkɑ/[/m]
 
@@ -190618,30 +187924,6 @@ robottitekniikka
 
 robusti
 	[m1]/ˈ[i]~[/i]/[/m]
-
-rock
-	[m1]/[i]~[/i]/[/m]
-
-rock and roll
-	[m1]/rock[/m]
-
-rockelokuva
-	[m1]/ˈrockeˌlokuvɑ/[/m]
-
-rockmusiikki
-	[m1]/ˈrockmuˌsiikki/[/m]
-
-rockooppera
-	[m1]/ˈrockoopˌperɑ/[/m]
-
-rocktähti
-	[m1]/ˈrocktæhti/[/m]
-
-rockvideo
-	[m1]/ˈrockviˌdeo/[/m]
-
-rockyhtye
-	[m1]/ˈrockyhˌtye/[/m]
 
 rodeo
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -191006,11 +188288,11 @@ rokuli
 rokulipäivä
 	[m1]/ˈrokuliˌpæivæ/[/m]
 
-rollaattori
-	[m1]/ˈrollɑɑtˌtori/[/m]
-
 roll-on
 	[m1]/ˈrollon/[/m]
+
+rollaattori
+	[m1]/ˈrollɑɑtˌtori/[/m]
 
 romaani
 	[m1]/ˈromɑɑni/[/m]
@@ -191079,7 +188361,7 @@ romanialainen
 	[m1]/ˈromɑˌniɑˌlɑinen/[/m]
 
 romanian kieli
-	[m1]/ˈromɑˌniɑn[/m]
+	[m1]/ˈromɑˌniɑn ˈkieli/[/m]
 
 romanikulttuuri
 	[m1]/ˈromɑniˌkulttuuri/[/m]
@@ -191087,11 +188369,11 @@ romanikulttuuri
 romanimies
 	[m1]/ˈromɑˌnimies/[/m]
 
+romanin kieli
+	[m1]/ˈromɑnin ˈkieli/[/m]
+
 romaninainen
 	[m1]/ˈromɑniˌnɑinen/[/m]
-
-romanin kieli
-	[m1]/ˈromɑnin[/m]
 
 romaninkielinen
 	[m1]/ˈromɑninˌkielinen/[/m]
@@ -191149,12 +188431,6 @@ romina
 
 romista
 	[m1]/ˈromistɑ/[/m]
-
-rommi
-	[m1]/ˈ[i]~[/i]/[/m]
-
-rommi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 rommi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -191383,9 +188659,6 @@ roquefortinjuusto
 
 roquefortjuusto
 	[m1]/ˈroqueˌfortjuusto/[/m]
-
-ro-ro-alus
-	[m1]/ˈroroˌɑlus/[/m]
 
 rosé
 	[m1]/[i]~[/i]/[/m]
@@ -192158,9 +189431,6 @@ rukkauttaa
 rukki
 	[m1]/ˈ[i]~[/i]/[/m]
 
-rukki
-	[m1]/ˈ[i]~[/i]/[/m]
-
 ruko
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -192467,11 +189737,17 @@ runkkaus
 runko
 	[m1]/ˈ[i]~[/i]/[/m]
 
+runko-ohjaus
+	[m1]/ˈrunkoohˌjɑus/[/m]
+
+runko-oja
+	[m1]/ˈrunkoojɑ/[/m]
+
+runko-osa
+	[m1]/ˈrunkoosɑ/[/m]
+
 runkohinta
 	[m1]/ˈrunkoˌhintɑ/[/m]
-
--runkoinen
-	[m1]/ˈrunkoinen/[/m]
 
 runkokauppa
 	[m1]/ˈrunkokɑˌuppɑ/[/m]
@@ -192481,15 +189757,6 @@ runkokunta
 
 runkoluku
 	[m1]/ˈrunkoˌluku/[/m]
-
-runko-ohjaus
-	[m1]/ˈrunkoohˌjɑus/[/m]
-
-runko-oja
-	[m1]/ˈrunkoojɑ/[/m]
-
-runko-osa
-	[m1]/ˈrunkoosɑ/[/m]
 
 runkopalkki
 	[m1]/ˈrunkoˌpɑlkki/[/m]
@@ -193016,14 +190283,8 @@ ruokailutottumus
 ruokailuväline
 	[m1]/ˈruokɑiˌluvæˌline/[/m]
 
--ruokainen
-	[m1]/ˈruokɑinen/[/m]
-
 ruokaisa
 	[m1]/ˈruokɑisɑ/[/m]
-
--ruokaisuus
-	[m1]/ˈruokɑisuus/[/m]
 
 ruokajono
 	[m1]/ˈruokɑˌjono/[/m]
@@ -193452,7 +190713,7 @@ ruotsi
 	[m1]/ˈ[i]~[/i]/[/m]
 
 ruotsin kieli
-	[m1]/ˈruotsin[/m]
+	[m1]/ˈruotsin ˈkieli/[/m]
 
 ruotsinkielinen
 	[m1]/ˈruotsinˌkielinen/[/m]
@@ -193622,11 +190883,11 @@ rusinapulla
 ruska
 	[m1]/ˈruskɑ/[/m]
 
-ruskaa
-	[m1]/ˈruskɑɑ/[/m]
-
 ruska-aika
 	[m1]/ˈruskɑɑˌikɑ/[/m]
+
+ruskaa
+	[m1]/ˈruskɑɑ/[/m]
 
 ruskea
 	[m1]/ˈruskeɑ/[/m]
@@ -193967,11 +191228,11 @@ ruuhka-aika
 ruuhka-alue
 	[m1]/ˈruuhkɑɑˌlue/[/m]
 
-ruuhkaantua
-	[m1]/ˈruuhkɑɑnˌtuɑ/[/m]
-
 ruuhka-apulainen
 	[m1]/ˈruuhkɑɑpuˌlɑinen/[/m]
+
+ruuhkaantua
+	[m1]/ˈruuhkɑɑnˌtuɑ/[/m]
 
 ruuhkabussi
 	[m1]/ˈruuhkɑˌbussi/[/m]
@@ -194071,9 +191332,6 @@ ruumiinavaus
 
 ruumiinavauspöytäkirja
 	[m1]/ˈruumiiˌnɑvɑusˌpøytæˌkirjɑ/[/m]
-
--ruumiinen
-	[m1]/ˈruumiinen/[/m]
 
 ruumiinhaju
 	[m1]/ˈruumiinˌhɑju/[/m]
@@ -194663,9 +191921,6 @@ ryhti
 ryhtiliike
 	[m1]/ˈryhtiˌliike/[/m]
 
--ryhtinen
-	[m1]/ˈryhtinen/[/m]
-
 ryhtivika
 	[m1]/ˈryhtiˌvikɑ/[/m]
 
@@ -194758,9 +192013,6 @@ rymähdys
 
 rymähtää
 	[m1]/ˈrymæhtææ/[/m]
-
-rynkky
-	[m1]/ˈ[i]~[/i]/[/m]
 
 rynkky
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -195407,6 +192659,9 @@ räikeys
 räikeä
 	[m1]/ˈræikeæ/[/m]
 
+räikeä-ääninen
+	[m1]/ˈræikeˌæææninen/[/m]
+
 räikeänvärinen
 	[m1]/ˈræikeˌænvæˌrinen/[/m]
 
@@ -195415,9 +192670,6 @@ räikeästi
 
 räikeävärinen
 	[m1]/ˈræikeˌævæˌrinen/[/m]
-
-räikeä-ääninen
-	[m1]/ˈræikeˌæææninen/[/m]
 
 räikinä
 	[m1]/ˈræikinæ/[/m]
@@ -195884,9 +193136,6 @@ räpättää
 räpätä
 	[m1]/ˈræpætæ/[/m]
 
-räpätä
-	[m1]/ˈræpætæ/[/m]
-
 räpätäti
 	[m1]/ˈræpæˌtæti/[/m]
 
@@ -196048,12 +193297,6 @@ räyskytys
 
 räyskä
 	[m1]/ˈræyskæ/[/m]
-
-räyskä
-	[m1]/ˈræyskæ/[/m]
-
--räystäinen
-	[m1]/ˈræysˌtæinen/[/m]
 
 räystäs
 	[m1]/ˈræystæs/[/m]
@@ -196256,11 +193499,11 @@ römeys
 römeä
 	[m1]/ˈrømeæ/[/m]
 
-römeästi
-	[m1]/ˈrømeˌæsti/[/m]
-
 römeä-ääninen
 	[m1]/ˈrømeˌæææninen/[/m]
+
+römeästi
+	[m1]/ˈrømeˌæsti/[/m]
 
 römäkkä
 	[m1]/ˈrømækkæ/[/m]
@@ -196596,7 +193839,7 @@ saamelaisnainen
 	[m1]/ˈsɑɑmeˌlɑisnɑinen/[/m]
 
 saamen kieli
-	[m1]/ˈsɑɑmen[/m]
+	[m1]/ˈsɑɑmen ˈkieli/[/m]
 
 saamenkielinen
 	[m1]/ˈsɑɑmenˌkielinen/[/m]
@@ -197068,12 +194311,6 @@ sabotööri
 
 sabra
 	[m1]/ˈsɑbrɑ/[/m]
-
-sacherkakku
-	[m1]/ˈsɑcherˌkɑkku/[/m]
-
-sacherleivos
-	[m1]/ˈsɑcherˌleivos/[/m]
 
 sadannes
 	[m1]/ˈsɑdɑnnes/[/m]
@@ -197894,11 +195131,11 @@ saksa
 saksalainen
 	[m1]/ˈsɑksɑˌlɑinen/[/m]
 
+saksan kieli
+	[m1]/ˈsɑksɑn ˈkieli/[/m]
+
 saksanhirvi
 	[m1]/ˈsɑksɑnˌhirvi/[/m]
-
-saksan kieli
-	[m1]/ˈsɑksɑn[/m]
 
 saksankielinen
 	[m1]/ˈsɑksɑnˌkielinen/[/m]
@@ -197972,9 +195209,6 @@ sala
 sala-
 	[m1]/ˈsɑlɑ/[/m]
 
-salaa
-	[m1]/ˈsɑlɑɑ/[/m]
-
 sala-ammattilainen
 	[m1]/ˈsɑlɑɑmˌmɑttiˌlɑinen/[/m]
 
@@ -197983,6 +195217,9 @@ sala-ammattilaisuus
 
 sala-ampuja
 	[m1]/ˈsɑlɑɑmˌpujɑ/[/m]
+
+salaa
+	[m1]/ˈsɑlɑɑ/[/m]
 
 salaan
 	[m1]/ˈsɑlɑɑn/[/m]
@@ -198320,11 +195557,11 @@ salassa
 salassapito
 	[m1]/ˈsɑlɑsˌsɑpito/[/m]
 
-salassapitoaika
-	[m1]/ˈsɑlɑsˌsɑpitoˌɑikɑ/[/m]
-
 salassapito-oikeus
 	[m1]/ˈsɑlɑsˌsɑpiˌtooiˌkeus/[/m]
+
+salassapitoaika
+	[m1]/ˈsɑlɑsˌsɑpitoˌɑikɑ/[/m]
 
 salassapitovelvollisuus
 	[m1]/ˈsɑlɑsˌsɑpitoˌvelvolˌlisuus/[/m]
@@ -198638,6 +195875,12 @@ samamerkityksinen
 samamunainen
 	[m1]/ˈsɑmɑmuˌnɑinen/[/m]
 
+saman tien
+	[m1]/ˈsɑmɑn ˈtien/[/m]
+
+saman verran
+	[m1]/ˈsɑmɑn ˈverrɑn/[/m]
+
 samanaikainen
 	[m1]/ˈsɑmɑˌnɑikɑinen/[/m]
 
@@ -198818,14 +196061,8 @@ samantasoinen
 samantekevä
 	[m1]/ˈsɑmɑnˌtekevæ/[/m]
 
-saman tien
-	[m1]/ˈsɑmɑn[/m]
-
 samanveroinen
 	[m1]/ˈsɑmɑnveˌroinen/[/m]
-
-saman verran
-	[m1]/ˈsɑmɑn[/m]
 
 samanvertainen
 	[m1]/ˈsɑmɑnverˌtɑinen/[/m]
@@ -199223,12 +196460,6 @@ sanailu
 sanainen
 	[m1]/ˈsɑnɑinen/[/m]
 
--sanaisesti
-	[m1]/ˈsɑnɑiˌsesti/[/m]
-
--sanaisuus
-	[m1]/ˈsɑnɑisuus/[/m]
-
 sanajärjestys
 	[m1]/ˈsɑnɑˌjærjestys/[/m]
 
@@ -199397,14 +196628,14 @@ sanastaa
 sanasto
 	[m1]/ˈsɑnɑsto/[/m]
 
+sanasto-oppi
+	[m1]/ˈsɑnɑsˌtooppi/[/m]
+
 sanastollinen
 	[m1]/ˈsɑnɑsˌtollinen/[/m]
 
 sanastontutkimus
 	[m1]/ˈsɑnɑsˌtontutˌkimus/[/m]
-
-sanasto-oppi
-	[m1]/ˈsɑnɑsˌtooppi/[/m]
 
 sanastus
 	[m1]/ˈsɑnɑstus/[/m]
@@ -199471,12 +196702,6 @@ sandaletti
 
 sandinisti
 	[m1]/ˈsɑndiˌnisti/[/m]
-
-sandwich
-	[m1]/ˈsɑndwich/[/m]
-
-sandwich-rakenne
-	[m1]/ˈsɑndwichrɑˌkenne/[/m]
 
 sane
 	[m1]/ˈsɑne/[/m]
@@ -199549,9 +196774,6 @@ saniteettitila
 
 sanka
 	[m1]/ˈsɑnkɑ/[/m]
-
--sankainen
-	[m1]/ˈsɑnkɑinen/[/m]
 
 sankalasit
 	[m1]/ˈsɑnkɑˌlɑsit/[/m]
@@ -199668,7 +196890,7 @@ sanoa
 	[m1]/ˈsɑnoɑ/[/m]
 
 sanoin kuvaamaton
-	[m1]/ˈsɑnoin[/m]
+	[m1]/ˈsɑnoin ˈkuvɑɑˌmɑton/[/m]
 
 sanoittaa
 	[m1]/ˈsɑnoittɑɑ/[/m]
@@ -199958,9 +197180,6 @@ sarjaelokuva
 sarjafilmi
 	[m1]/ˈsɑrjɑˌfilmi/[/m]
 
--sarjainen
-	[m1]/ˈsɑrjɑinen/[/m]
-
 sarjajako
 	[m1]/ˈsɑrjɑˌjɑko/[/m]
 
@@ -200017,9 +197236,6 @@ sarjakuvaus
 
 sarjakytkentä
 	[m1]/ˈsɑrjɑˌkytkentæ/[/m]
-
--sarjalainen
-	[m1]/ˈsɑrjɑˌlɑinen/[/m]
 
 sarjalippu
 	[m1]/ˈsɑrjɑˌlippu/[/m]
@@ -200117,17 +197333,11 @@ sarjoitus
 sarka
 	[m1]/ˈsɑrkɑ/[/m]
 
-sarka
-	[m1]/ˈsɑrkɑ/[/m]
-
 sarkahousut
 	[m1]/ˈsɑrkɑˌhousut/[/m]
 
 sarkain
 	[m1]/ˈsɑrkɑin/[/m]
-
-sarkainen
-	[m1]/ˈsɑrkɑinen/[/m]
 
 sarkainen
 	[m1]/ˈsɑrkɑinen/[/m]
@@ -200231,9 +197441,6 @@ sarvikuonokas
 sarvimiina
 	[m1]/ˈsɑrviˌmiinɑ/[/m]
 
--sarvinen
-	[m1]/ˈsɑrvinen/[/m]
-
 sarviniekka
 	[m1]/ˈsɑrviˌniekkɑ/[/m]
 
@@ -200270,17 +197477,14 @@ sassiin
 sata
 	[m1]/ˈsɑtɑ/[/m]
 
-sataa
-	[m1]/ˈsɑtɑɑ/[/m]
-
 sata-asteinen
 	[m1]/ˈsɑtɑɑsˌteinen/[/m]
 
+sataa
+	[m1]/ˈsɑtɑɑ/[/m]
+
 sataeuronen
 	[m1]/ˈsɑtɑˌeuronen/[/m]
-
--satainen
-	[m1]/ˈsɑtɑinen/[/m]
 
 satakerta
 	[m1]/ˈsɑtɑˌkertɑ/[/m]
@@ -201416,24 +198620,6 @@ savuvahinko
 savuverho
 	[m1]/ˈsɑvuˌverho/[/m]
 
-scherzo
-	[m1]/ˈ[i]~[/i]/[/m]
-
-schäfer
-	[m1]/ˈschæfer/[/m]
-
-science fiction
-	[m1]/ˈscience[/m]
-
-scifi
-	[m1]/ˈ[i]~[/i]/[/m]
-
-scifi-elokuva
-	[m1]/ˈscifieˌlokuvɑ/[/m]
-
-scifi-romaani
-	[m1]/ˈscifiroˌmɑɑni/[/m]
-
 se
 	[m1]/[i]~[/i]/[/m]
 
@@ -201670,9 +198856,6 @@ seinähylly
 
 seinäilmoitus
 	[m1]/ˈseinæilˌmoitus/[/m]
-
--seinäinen
-	[m1]/ˈseinæinen/[/m]
 
 seinäjuliste
 	[m1]/ˈseinæjuˌliste/[/m]
@@ -202202,6 +199385,9 @@ seivästää
 seka-
 	[m1]/ˈsekɑ/[/m]
 
+seka-avioliitto
+	[m1]/ˈsekɑɑˌvioˌliitto/[/m]
+
 sekaan
 	[m1]/ˈsekɑɑn/[/m]
 
@@ -202216,9 +199402,6 @@ sekaantua
 
 sekaantuma
 	[m1]/ˈsekɑɑnˌtumɑ/[/m]
-
-seka-avioliitto
-	[m1]/ˈsekɑɑˌvioˌliitto/[/m]
 
 sekahaku
 	[m1]/ˈsekɑˌhɑku/[/m]
@@ -202474,9 +199657,6 @@ sekoittaa
 
 sekoittaja
 	[m1]/ˈsekoitˌtɑjɑ/[/m]
-
--sekoitteinen
-	[m1]/ˈsekoitˌteinen/[/m]
 
 sekoittua
 	[m1]/ˈsekoitˌtuɑ/[/m]
@@ -202799,9 +199979,6 @@ sekuntikello
 sekuntimetri
 	[m1]/ˈsekuntiˌmetri/[/m]
 
--sekuntinen
-	[m1]/ˈsekunˌtinen/[/m]
-
 sekuntinopeus
 	[m1]/ˈsekunˌtinoˌpeus/[/m]
 
@@ -202862,11 +200039,11 @@ selektio
 selektiviteetti
 	[m1]/ˈselekˌtiviˌteetti/[/m]
 
+self-made man
+	[m1]/ˈselfmeid mɑn/[/m]
+
 šelfi
 	[m1]/ˈ[i]~[/i]/[/m]
-
-self-made man
-	[m1]/ˈselfmɑde[/m]
 
 selibaatti
 	[m1]/ˈseliˌbɑɑtti/[/m]
@@ -202888,9 +200065,6 @@ selitellä
 
 selitelmä
 	[m1]/ˈseliˌtelmæ/[/m]
-
--selitteinen
-	[m1]/ˈselitˌteinen/[/m]
 
 selittely
 	[m1]/ˈselitˌtely/[/m]
@@ -202997,9 +200171,6 @@ selkkaus
 selko
 	[m1]/ˈ[i]~[/i]/[/m]
 
--selkoinen
-	[m1]/ˈselkoinen/[/m]
-
 selkokieli
 	[m1]/ˈselkoˌkieli/[/m]
 
@@ -203047,15 +200218,6 @@ selkähäviö
 
 selkäin
 	[m1]/ˈselkæin/[/m]
-
--selkäinen
-	[m1]/ˈselkæinen/[/m]
-
--selkäisesti
-	[m1]/ˈselkæiˌsesti/[/m]
-
--selkäisyys
-	[m1]/ˈselkæisyys/[/m]
 
 selkäjänteinen
 	[m1]/ˈselkæjænˌteinen/[/m]
@@ -203369,9 +200531,6 @@ selus
 selusta
 	[m1]/ˈselustɑ/[/m]
 
--selustainen
-	[m1]/ˈselusˌtɑinen/[/m]
-
 selustatuki
 	[m1]/ˈselusˌtɑtuki/[/m]
 
@@ -203654,6 +200813,21 @@ semmoinen
 sen
 	[m1]/[i]~[/i]/[/m]
 
+sen sijaan
+	[m1]/sen ˈsijɑɑn/[/m]
+
+sen takia
+	[m1]/sen ˈtɑkiɑ/[/m]
+
+sen tähden
+	[m1]/sen ˈtæhden/[/m]
+
+sen verran
+	[m1]/sen ˈverrɑn/[/m]
+
+sen vuoksi
+	[m1]/sen ˈvuoksi/[/m]
+
 senaatti
 	[m1]/ˈsenɑɑtti/[/m]
 
@@ -203744,9 +200918,6 @@ sensaationnälkäinen
 sensaatiouutinen
 	[m1]/ˈsensɑɑˌtioˌuutinen/[/m]
 
-sen sijaan
-	[m1]/sen[/m]
-
 sensitiivinen
 	[m1]/ˈsensiˌtiivinen/[/m]
 
@@ -203794,9 +200965,6 @@ sensurointi
 
 sensuuri
 	[m1]/ˈ[i]~[/i]/[/m]
-
-sen takia
-	[m1]/sen[/m]
 
 sentapainen
 	[m1]/ˈsentɑˌpɑinen/[/m]
@@ -203858,29 +201026,17 @@ senttimetriaallot
 senttimetrimitoitus
 	[m1]/ˈsenttiˌmetrimiˌtoitus/[/m]
 
--senttinen
-	[m1]/ˈsenttinen/[/m]
-
 senturia
 	[m1]/ˈsentuˌriɑ/[/m]
 
 senturio
 	[m1]/ˈsentuˌrio/[/m]
 
-sen tähden
-	[m1]/sen[/m]
-
 sentään
 	[m1]/ˈsentææn/[/m]
 
-sen verran
-	[m1]/sen[/m]
-
 senvertainen
 	[m1]/ˈsenverˌtɑinen/[/m]
-
-sen vuoksi
-	[m1]/sen[/m]
 
 seos
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -203896,9 +201052,6 @@ seostaa
 
 seoste
 	[m1]/ˈ[i]~[/i]/[/m]
-
--seosteinen
-	[m1]/ˈseosˌteinen/[/m]
 
 seosteräs
 	[m1]/ˈseosˌteræs/[/m]
@@ -204096,7 +201249,7 @@ serbokroaatti
 	[m1]/ˈserbokroˌɑɑtti/[/m]
 
 serbokroatian kieli
-	[m1]/ˈserboˌkroɑˌtiɑn[/m]
+	[m1]/ˈserboˌkroɑˌtiɑn ˈkieli/[/m]
 
 seremonia
 	[m1]/ˈsereˌmoniɑ/[/m]
@@ -204753,7 +201906,13 @@ shortsit
 	[m1]/ˈ[i]~[/i]/[/m]
 
 show
-	[m1]/[i]~[/i]/[/m]
+	[m1]/sow/[/m]
+
+SI-järjestelmä
+	[m1]/ˈsijærˌjestelmæ/[/m]
+
+SI-yksikkö
+	[m1]/ˈsiykˌsikkø/[/m]
 
 sial
 	[m1]/ˈsiɑl/[/m]
@@ -204860,9 +202019,6 @@ sidetarvike
 sidoksiin
 	[m1]/ˈ[i]~[/i]/[/m]
 
--sidoksinen
-	[m1]/ˈsidokˌsinen/[/m]
-
 sidoksissa
 	[m1]/ˈsidokˌsissɑ/[/m]
 
@@ -204941,11 +202097,8 @@ sieltäpäin
 sielu
 	[m1]/ˈ[i]~[/i]/[/m]
 
--sieluinen
-	[m1]/ˈsieluinen/[/m]
-
--sieluisuus
-	[m1]/ˈsieluisuus/[/m]
+sielu-usko
+	[m1]/ˈsieluusko/[/m]
 
 sielukas
 	[m1]/ˈsielukɑs/[/m]
@@ -204959,11 +202112,11 @@ sielukkuus
 sielullinen
 	[m1]/ˈsielulˌlinen/[/m]
 
-sielullisesti
-	[m1]/ˈsielulliˌsesti/[/m]
-
 sielullis-ruumiillinen
 	[m1]/ˈsielullisˌruumiilˌlinen/[/m]
+
+sielullisesti
+	[m1]/ˈsielulliˌsesti/[/m]
 
 sielullistaa
 	[m1]/ˈsielulˌlistɑɑ/[/m]
@@ -205025,9 +202178,6 @@ sieluttaa
 sielutus
 	[m1]/ˈ[i]~[/i]/[/m]
 
-sielu-usko
-	[m1]/ˈsieluusko/[/m]
-
 siemaista
 	[m1]/ˈsiemɑistɑ/[/m]
 
@@ -205051,9 +202201,6 @@ siemenetön
 
 siemenheitto
 	[m1]/ˈsiemenˌheitto/[/m]
-
--siemeninen
-	[m1]/ˈsiemeˌninen/[/m]
 
 siemenistukas
 	[m1]/ˈsiemeˌnistukɑs/[/m]
@@ -205172,6 +202319,9 @@ sienettyä
 sieni
 	[m1]/ˈ[i]~[/i]/[/m]
 
+sieni-itiö
+	[m1]/ˈsieniiˌtiø/[/m]
+
 sieniaika
 	[m1]/ˈsieniˌɑikɑ/[/m]
 
@@ -205180,9 +202330,6 @@ sieniasema
 
 sienieläin
 	[m1]/ˈsienielæin/[/m]
-
-sieni-itiö
-	[m1]/ˈsieniiˌtiø/[/m]
 
 sienijuuri
 	[m1]/ˈsieniˌjuuri/[/m]
@@ -205271,9 +202418,6 @@ sieppo
 siera
 	[m1]/ˈsierɑ/[/m]
 
--sieraiminen
-	[m1]/ˈsierɑiˌminen/[/m]
-
 sierain
 	[m1]/ˈsierɑin/[/m]
 
@@ -205304,17 +202448,11 @@ sieto
 sietoalue
 	[m1]/ˈsietoˌɑlue/[/m]
 
--sietoinen
-	[m1]/ˈsietoinen/[/m]
-
 sietokyky
 	[m1]/ˈsietoˌkyky/[/m]
 
 sietoraja
 	[m1]/ˈsietoˌrɑjɑ/[/m]
-
-sietä
-	[m1]/ˈsietæ/[/m]
 
 sietä
 	[m1]/ˈsietæ/[/m]
@@ -205433,9 +202571,6 @@ sihauttaa
 sihdata
 	[m1]/ˈsihdɑtɑ/[/m]
 
-sihdata
-	[m1]/ˈsihdɑtɑ/[/m]
-
 sihinä
 	[m1]/ˈsihinæ/[/m]
 
@@ -205447,9 +202582,6 @@ sihtailla
 
 sihtailu
 	[m1]/ˈsihtɑilu/[/m]
-
-sihtaus
-	[m1]/ˈsihtɑus/[/m]
 
 sihtaus
 	[m1]/ˈsihtɑus/[/m]
@@ -205471,9 +202603,6 @@ sihteeristö
 
 sihteeriys
 	[m1]/ˈsihteeˌriys/[/m]
-
-sihti
-	[m1]/ˈ[i]~[/i]/[/m]
 
 sihti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -205507,9 +202636,6 @@ siilata
 
 siilautua
 	[m1]/ˈsiilɑuˌtuɑ/[/m]
-
-siili
-	[m1]/ˈ[i]~[/i]/[/m]
 
 siili
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -205601,9 +202727,6 @@ siipimies
 siipimutteri
 	[m1]/ˈsiipiˌmutteri/[/m]
 
--siipinen
-	[m1]/ˈsiipinen/[/m]
-
 siipiopastin
 	[m1]/ˈsiipioˌpɑstin/[/m]
 
@@ -205651,9 +202774,6 @@ siipiveikko
 
 siipiväli
 	[m1]/ˈsiipiˌvæli/[/m]
-
-siippa
-	[m1]/ˈsiippɑ/[/m]
 
 siippa
 	[m1]/ˈsiippɑ/[/m]
@@ -205726,9 +202846,6 @@ siirtoheitin
 
 siirtohäviö
 	[m1]/ˈsiirtoˌhæviø/[/m]
-
--siirtoinen
-	[m1]/ˈsiirtoinen/[/m]
 
 siirtoistutus
 	[m1]/ˈsiirtoisˌtutus/[/m]
@@ -205988,9 +203105,6 @@ siittiö
 siittiöpesäke
 	[m1]/ˈsiittiˌøpeˌsæke/[/m]
 
--siittoinen
-	[m1]/ˈsiittoinen/[/m]
-
 siittola
 	[m1]/ˈsiittolɑ/[/m]
 
@@ -205999,9 +203113,6 @@ siittäjä
 
 siittää
 	[m1]/ˈsiittææ/[/m]
-
-siitä
-	[m1]/ˈsiitæ/[/m]
 
 siitä
 	[m1]/ˈsiitæ/[/m]
@@ -206249,9 +203360,6 @@ sijoittamaton
 sijoittautua
 	[m1]/ˈsijoitˌtɑutuɑ/[/m]
 
--sijoitteinen
-	[m1]/ˈsijoitˌteinen/[/m]
-
 sijoittelu
 	[m1]/ˈsijoitˌtelu/[/m]
 
@@ -206291,14 +203399,14 @@ sijoitustoiminta
 sijoitusyhtiö
 	[m1]/ˈsijoituˌsyhtiø/[/m]
 
-SI-järjestelmä
-	[m1]/ˈsijærˌjestelmæ/[/m]
-
 sika
 	[m1]/ˈsikɑ/[/m]
 
 sika-
 	[m1]/ˈsikɑ/[/m]
+
+sika-nautajauheliha
+	[m1]/ˈsikɑˌnɑutɑˌjɑuheˌlihɑ/[/m]
 
 šikaani
 	[m1]/ˈšikɑɑni/[/m]
@@ -206344,9 +203452,6 @@ sikamokka
 
 sikanauta
 	[m1]/ˈsikɑˌnɑutɑ/[/m]
-
-sika-nautajauheliha
-	[m1]/ˈsikɑˌnɑutɑˌjɑuheˌlihɑ/[/m]
 
 sikapossu
 	[m1]/ˈsikɑˌpossu/[/m]
@@ -206403,7 +203508,7 @@ sikhiläisyys
 	[m1]/ˈsikhiˌlæisyys/[/m]
 
 sikin sokin
-	[m1]/ˈsikin[/m]
+	[m1]/ˈsikin ˈsokin/[/m]
 
 sikisi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -206605,9 +203710,6 @@ silaus
 
 silava
 	[m1]/ˈsilɑvɑ/[/m]
-
--silavainen
-	[m1]/ˈsilɑˌvɑinen/[/m]
 
 silavakerros
 	[m1]/ˈsilɑvɑˌkerros/[/m]
@@ -206910,16 +204012,16 @@ sillä
 	[m1]/ˈsillæ/[/m]
 
 sillä lailla
-	[m1]/ˈsillæ[/m]
+	[m1]/ˈsillæ ˈlɑillɑ/[/m]
 
 sillä tapaa
-	[m1]/ˈsillæ[/m]
+	[m1]/ˈsillæ ˈtɑpɑɑ/[/m]
 
 sillä tavoin
-	[m1]/ˈsillæ[/m]
+	[m1]/ˈsillæ ˈtɑvoin/[/m]
 
 sillä välin
-	[m1]/ˈsillæ[/m]
+	[m1]/ˈsillæ ˈvælin/[/m]
 
 sillään
 	[m1]/ˈsillææn/[/m]
@@ -206978,9 +204080,6 @@ silmu
 silmukka
 	[m1]/ˈsilmukkɑ/[/m]
 
--silmukkainen
-	[m1]/ˈsilmukˌkɑinen/[/m]
-
 silmukkalanka
 	[m1]/ˈsilmukkɑˌlɑnkɑ/[/m]
 
@@ -207023,20 +204122,11 @@ silmäillä
 silmäily
 	[m1]/ˈsilmæily/[/m]
 
--silmäinen
-	[m1]/ˈsilmæinen/[/m]
-
--silmäisesti
-	[m1]/ˈsilmæiˌsesti/[/m]
-
 silmäistä
 	[m1]/ˈsilmæistæ/[/m]
 
 silmäisy
 	[m1]/ˈsilmæisy/[/m]
-
--silmäisyys
-	[m1]/ˈsilmæisyys/[/m]
 
 silmäjumppa
 	[m1]/ˈsilmæˌjumppɑ/[/m]
@@ -207092,11 +204182,11 @@ silmälihas
 silmällinen
 	[m1]/ˈsilmælˌlinen/[/m]
 
+silmällä pitäen
+	[m1]/ˈsilmællæ ˈpitæen/[/m]
+
 silmälläpito
 	[m1]/ˈsilmælˌlæpito/[/m]
-
-silmällä pitäen
-	[m1]/ˈsilmællæ[/m]
 
 silmäluku
 	[m1]/ˈsilmæˌluku/[/m]
@@ -207622,9 +204712,6 @@ singulaari
 
 singulariteetti
 	[m1]/ˈsinguˌlɑriˌteetti/[/m]
-
-sini
-	[m1]/ˈ[i]~[/i]/[/m]
 
 sini
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -208163,9 +205250,6 @@ sirahtaa
 sireeni
 	[m1]/ˈ[i]~[/i]/[/m]
 
-sireeni
-	[m1]/ˈ[i]~[/i]/[/m]
-
 sirinä
 	[m1]/ˈsirinæ/[/m]
 
@@ -208201,15 +205285,6 @@ sirkeäsilmäinen
 
 sirkka
 	[m1]/ˈsirkkɑ/[/m]
-
-sirkka
-	[m1]/ˈsirkkɑ/[/m]
-
-sirkka
-	[m1]/ˈsirkkɑ/[/m]
-
--sirkkainen
-	[m1]/ˈsirkkɑinen/[/m]
 
 sirkkajuuri
 	[m1]/ˈsirkkɑˌjuuri/[/m]
@@ -208622,9 +205697,6 @@ sisterssiläissisar
 sisu
 	[m1]/ˈ[i]~[/i]/[/m]
 
--sisuinen
-	[m1]/ˈsisuinen/[/m]
-
 sisukas
 	[m1]/ˈsisukɑs/[/m]
 
@@ -208670,17 +205742,11 @@ sisusta
 sisustaa
 	[m1]/ˈsisustɑɑ/[/m]
 
--sisustainen
-	[m1]/ˈsisusˌtɑinen/[/m]
-
 sisustaja
 	[m1]/ˈsisusˌtɑjɑ/[/m]
 
 sisuste
 	[m1]/ˈ[i]~[/i]/[/m]
-
--sisusteinen
-	[m1]/ˈsisusˌteinen/[/m]
 
 sisustus
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -209315,17 +206381,11 @@ sitaisu
 sitar
 	[m1]/ˈsitɑr/[/m]
 
-sitcom
-	[m1]/ˈ[i]~[/i]/[/m]
-
 siteerata
 	[m1]/ˈsiteeˌrɑtɑ/[/m]
 
 siteeraus
 	[m1]/ˈsiteeˌrɑus/[/m]
-
--siteinen
-	[m1]/ˈsiteinen/[/m]
 
 siten
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -209597,9 +206657,6 @@ sivellintekniikka
 sivellä
 	[m1]/ˈsivellæ/[/m]
 
--sivelteinen
-	[m1]/ˈsivelˌteinen/[/m]
-
 siveltimenveto
 	[m1]/ˈsiveltiˌmenveto/[/m]
 
@@ -209645,6 +206702,9 @@ siviili
 siviili-
 	[m1]/ˈsiviili/[/m]
 
+siviili-ilmailu
+	[m1]/ˈsiviiˌliilmɑilu/[/m]
+
 siviiliammatti
 	[m1]/ˈsiviiliˌɑmmɑtti/[/m]
 
@@ -209665,9 +206725,6 @@ siviilihallitus
 
 siviilihenkilö
 	[m1]/ˈsiviiliˌhenkilø/[/m]
-
-siviili-ilmailu
-	[m1]/ˈsiviiˌliilmɑilu/[/m]
 
 siviilijuttu
 	[m1]/ˈsiviiliˌjuttu/[/m]
@@ -209810,6 +206867,12 @@ sivu
 sivu-
 	[m1]/ˈsivu/[/m]
 
+sivu-uoma
+	[m1]/ˈsivuuˌomɑ/[/m]
+
+sivu-urakoitsija
+	[m1]/ˈsivuurɑˌkoitsijɑ/[/m]
+
 sivuaallokko
 	[m1]/ˈsivuˌɑɑllokko/[/m]
 
@@ -209875,9 +206938,6 @@ sivuikkuna
 
 sivuilmiö
 	[m1]/ˈsivuilˌmiø/[/m]
-
--sivuinen
-	[m1]/ˈsivuinen/[/m]
 
 sivuitse
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -210098,9 +207158,6 @@ sivussa
 sivusta
 	[m1]/ˈsivustɑ/[/m]
 
-sivusta
-	[m1]/ˈsivustɑ/[/m]
-
 sivustahyökkäys
 	[m1]/ˈsivustɑˌhyøkkæys/[/m]
 
@@ -210182,12 +207239,6 @@ sivutyö
 sivuun
 	[m1]/ˈ[i]~[/i]/[/m]
 
-sivu-uoma
-	[m1]/ˈsivuuˌomɑ/[/m]
-
-sivu-urakoitsija
-	[m1]/ˈsivuurɑˌkoitsijɑ/[/m]
-
 sivuuttaa
 	[m1]/ˈsivuuttɑɑ/[/m]
 
@@ -210229,9 +207280,6 @@ sivuvivahde
 
 sivuääni
 	[m1]/ˈsivuˌææni/[/m]
-
-SI-yksikkö
-	[m1]/ˈsiykˌsikkø/[/m]
 
 skaala
 	[m1]/ˈskɑɑlɑ/[/m]
@@ -210521,15 +207569,6 @@ slammaus
 slangi
 	[m1]/ˈslɑngi/[/m]
 
-slapstick
-	[m1]/ˈslɑpstick/[/m]
-
-slapstickelokuva
-	[m1]/ˈslɑpsticˌkeloˌkuvɑ/[/m]
-
-slapstickkomedia
-	[m1]/ˈslɑpstickˌkomeˌdiɑ/[/m]
-
 slavisti
 	[m1]/ˈslɑvisti/[/m]
 
@@ -210561,7 +207600,7 @@ slovakialainen
 	[m1]/ˈslovɑˌkiɑˌlɑinen/[/m]
 
 slovakin kieli
-	[m1]/ˈslovɑkin[/m]
+	[m1]/ˈslovɑkin ˈkieli/[/m]
 
 slovakki
 	[m1]/ˈslovɑkki/[/m]
@@ -210570,7 +207609,7 @@ sloveeni
 	[m1]/ˈ[i]~[/i]/[/m]
 
 sloveenin kieli
-	[m1]/ˈsloveenin[/m]
+	[m1]/ˈsloveenin ˈkieli/[/m]
 
 slovenialainen
 	[m1]/ˈsloveˌniɑˌlɑinen/[/m]
@@ -210585,7 +207624,7 @@ slummiutua
 	[m1]/ˈslummiuˌtuɑ/[/m]
 
 small talk
-	[m1]/smɑll[/m]
+	[m1]/smol tok/[/m]
 
 smaragdi
 	[m1]/ˈsmɑrɑgdi/[/m]
@@ -210634,9 +207673,6 @@ smokkipaita
 
 smokkipukuinen
 	[m1]/ˈsmokkipuˌkuinen/[/m]
-
-snacks
-	[m1]/snɑcks/[/m]
 
 snadi
 	[m1]/ˈsnɑdi/[/m]
@@ -210736,9 +207772,6 @@ sofistinen
 
 softa
 	[m1]/ˈsoftɑ/[/m]
-
-soft ice
-	[m1]/soft[/m]
 
 software
 	[m1]/ˈsoftwɑre/[/m]
@@ -211070,6 +208103,12 @@ soittimisto
 soitto
 	[m1]/ˈ[i]~[/i]/[/m]
 
+soitto-opinnot
+	[m1]/ˈsoittooˌpinnot/[/m]
+
+soitto-oppilas
+	[m1]/ˈsoittoopˌpilɑs/[/m]
+
 soittoharrastus
 	[m1]/ˈsoittoˌhɑrrɑstus/[/m]
 
@@ -211096,12 +208135,6 @@ soittonappula
 
 soittoniekka
 	[m1]/ˈsoittoˌniekkɑ/[/m]
-
-soitto-opinnot
-	[m1]/ˈsoittooˌpinnot/[/m]
-
-soitto-oppilas
-	[m1]/ˈsoittoopˌpilɑs/[/m]
 
 soittopeli
 	[m1]/ˈsoittoˌpeli/[/m]
@@ -211532,9 +208565,6 @@ solki
 solkikenkä
 	[m1]/ˈsolkiˌkenkæ/[/m]
 
--solkinen
-	[m1]/ˈsolkinen/[/m]
-
 solkivyö
 	[m1]/ˈsolkivyø/[/m]
 
@@ -211624,9 +208654,6 @@ soluelin
 
 soluhengitys
 	[m1]/ˈsoluˌhengitys/[/m]
-
--soluinen
-	[m1]/ˈsoluinen/[/m]
 
 solukalvo
 	[m1]/ˈsoluˌkɑlvo/[/m]
@@ -211780,9 +208807,6 @@ somistautua
 
 somiste
 	[m1]/ˈ[i]~[/i]/[/m]
-
--somisteinen
-	[m1]/ˈsomisˌteinen/[/m]
 
 somistua
 	[m1]/ˈsomisˌtuɑ/[/m]
@@ -212213,9 +209237,6 @@ soppatykki
 soppi
 	[m1]/ˈ[i]~[/i]/[/m]
 
--soppinen
-	[m1]/ˈsoppinen/[/m]
-
 sopraano
 	[m1]/ˈsoprɑɑno/[/m]
 
@@ -212309,6 +209330,9 @@ sopuvaalit
 sora
 	[m1]/ˈsorɑ/[/m]
 
+sora-r
+	[m1]/ˈsorɑr/[/m]
+
 soraharju
 	[m1]/ˈsorɑˌhɑrju/[/m]
 
@@ -212360,9 +209384,6 @@ sorapäällyste
 sorapäällysteinen
 	[m1]/ˈsorɑˌpæællysˌteinen/[/m]
 
-sora-r
-	[m1]/ˈsorɑr/[/m]
-
 sorastaa
 	[m1]/ˈsorɑstɑɑ/[/m]
 
@@ -212377,9 +209398,6 @@ soratie
 
 soraus
 	[m1]/ˈsorɑus/[/m]
-
-sorauttaa
-	[m1]/ˈsorɑˌuttɑɑ/[/m]
 
 sorauttaa
 	[m1]/ˈsorɑˌuttɑɑ/[/m]
@@ -212533,9 +209551,6 @@ sormiluu
 
 sormimerkki
 	[m1]/ˈsormiˌmerkki/[/m]
-
--sorminen
-	[m1]/ˈsorminen/[/m]
 
 sorminivel
 	[m1]/ˈsormiˌnivel/[/m]
@@ -212987,14 +210002,14 @@ sota-aika
 sota-aikainen
 	[m1]/ˈsotɑɑiˌkɑinen/[/m]
 
-sotaakäyvä
-	[m1]/ˈsotɑɑˌkæyvæ/[/m]
-
 sota-alus
 	[m1]/ˈsotɑɑlus/[/m]
 
 sota-asiakirja
 	[m1]/ˈsotɑɑˌsiɑˌkirjɑ/[/m]
+
+sotaakäyvä
+	[m1]/ˈsotɑɑˌkæyvæ/[/m]
 
 sotaelokuva
 	[m1]/ˈsotɑˌeloˌkuvɑ/[/m]
@@ -213845,9 +210860,6 @@ soutelu
 soutu
 	[m1]/ˈ[i]~[/i]/[/m]
 
--soutuinen
-	[m1]/ˈsoutuinen/[/m]
-
 soutukilpailu
 	[m1]/ˈsoutukilˌpɑilu/[/m]
 
@@ -213983,6 +210995,9 @@ sovinnonteko
 sovinto
 	[m1]/ˈ[i]~[/i]/[/m]
 
+sovinto-oikeus
+	[m1]/ˈsovinˌtooiˌkeus/[/m]
+
 sovintoesitys
 	[m1]/ˈsovinˌtoeˌsitys/[/m]
 
@@ -213994,9 +211009,6 @@ sovintomenettely
 
 sovintoneuvottelu
 	[m1]/ˈsovintoˌneuvotˌtelu/[/m]
-
-sovinto-oikeus
-	[m1]/ˈsovinˌtooiˌkeus/[/m]
 
 sovintopolitiikka
 	[m1]/ˈsovinˌtopoliˌtiikkɑ/[/m]
@@ -214027,9 +211039,6 @@ sovittamaton
 
 sovittautua
 	[m1]/ˈsovitˌtɑutuɑ/[/m]
-
--sovitteinen
-	[m1]/ˈsovitˌteinen/[/m]
 
 sovitteleva
 	[m1]/ˈsovitˌtelevɑ/[/m]
@@ -214157,9 +211166,6 @@ speedway
 speksi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-speksi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 spektaakkeli
 	[m1]/ˈspektɑɑkˌkeli/[/m]
 
@@ -214246,9 +211252,6 @@ spesifioida
 
 spesifiointi
 	[m1]/ˈspesifiˌointi/[/m]
-
-spiccato
-	[m1]/ˈspiccɑto/[/m]
 
 spiikata
 	[m1]/ˈspiikɑtɑ/[/m]
@@ -214538,6 +211541,12 @@ stalinisti
 stalinistinen
 	[m1]/ˈstɑliˌnistinen/[/m]
 
+stand up -komedia
+	[m1]/stɑnd ɑp ˈkomeˌdiɑ/[/m]
+
+stand up -koomikko
+	[m1]/stɑnd ɑp ˈkoomikko/[/m]
+
 standaari
 	[m1]/ˈstɑndɑɑri/[/m]
 
@@ -214600,12 +211609,6 @@ standardoitua
 
 standartti
 	[m1]/ˈstɑndɑrtti/[/m]
-
-stand up -komedia
-	[m1]/stɑnd[/m]
-
-stand up -koomikko
-	[m1]/stɑnd[/m]
 
 stannioli
 	[m1]/ˈstɑnniˌoli/[/m]
@@ -214686,9 +211689,6 @@ steppaus
 	[m1]/ˈsteppɑus/[/m]
 
 stepperi
-	[m1]/ˈ[i]~[/i]/[/m]
-
-steppi
 	[m1]/ˈ[i]~[/i]/[/m]
 
 steppi
@@ -214842,7 +211842,7 @@ stilistinen
 	[m1]/ˈstilisˌtinen/[/m]
 
 still drink
-	[m1]/still[/m]
+	[m1]/stil driŋk/[/m]
 
 stilleben
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -214969,12 +211969,6 @@ stressitekijä
 
 stressitilanne
 	[m1]/ˈstressitiˌlɑnne/[/m]
-
-stretch-
-	[m1]/stretch/[/m]
-
-stretching
-	[m1]/ˈ[i]~[/i]/[/m]
 
 stripata
 	[m1]/ˈstripɑtɑ/[/m]
@@ -215261,20 +212255,17 @@ suhata
 suhaus
 	[m1]/ˈsuhɑus/[/m]
 
-suhaus
-	[m1]/ˈsuhɑus/[/m]
-
 suhauttaa
 	[m1]/ˈsuhɑˌuttɑɑ/[/m]
 
 suhdanne
 	[m1]/ˈsuhdɑnne/[/m]
 
-suhdannebarometri
-	[m1]/ˈsuhdɑnˌnebɑroˌmetri/[/m]
-
 suhdanne-ennuste
 	[m1]/ˈsuhdɑnˌneennuste/[/m]
+
+suhdannebarometri
+	[m1]/ˈsuhdɑnˌnebɑroˌmetri/[/m]
 
 suhdanneherkkyys
 	[m1]/ˈsuhdɑnneˌherkkyys/[/m]
@@ -215366,12 +212357,6 @@ suht
 suhta
 	[m1]/ˈsuhtɑ/[/m]
 
--suhtainen
-	[m1]/ˈsuhtɑinen/[/m]
-
--suhtaisuus
-	[m1]/ˈsuhtɑisuus/[/m]
-
 suhtauttaa
 	[m1]/ˈsuhtɑˌuttɑɑ/[/m]
 
@@ -215416,9 +212401,6 @@ suhteettomasti
 
 suhteettomuus
 	[m1]/ˈsuhteetˌtomuus/[/m]
-
--suhteinen
-	[m1]/ˈsuhteinen/[/m]
 
 suhteittaa
 	[m1]/ˈsuhteittɑɑ/[/m]
@@ -215597,17 +212579,14 @@ suikula
 suikulainen
 	[m1]/ˈsuikuˌlɑinen/[/m]
 
--suinen
-	[m1]/ˈsuinen/[/m]
+suin päin
+	[m1]/ˈsuin ˈpæin/[/m]
 
 suinkaan
 	[m1]/ˈsuinkɑɑn/[/m]
 
 suinkin
 	[m1]/ˈ[i]~[/i]/[/m]
-
-suin päin
-	[m1]/ˈsuin[/m]
 
 suipentaa
 	[m1]/ˈsuipentɑɑ/[/m]
@@ -215785,9 +212764,6 @@ sukaatti
 
 sukaattisitruuna
 	[m1]/ˈsukɑɑttiˌsitruunɑ/[/m]
-
--sukainen
-	[m1]/ˈsukɑinen/[/m]
 
 sukaista
 	[m1]/ˈsukɑistɑ/[/m]
@@ -216155,9 +213131,6 @@ sukuinen
 sukuisin
 	[m1]/ˈ[i]~[/i]/[/m]
 
--sukuisuus
-	[m1]/ˈsukuisuus/[/m]
-
 sukujuhla
 	[m1]/ˈsukuˌjuhlɑ/[/m]
 
@@ -216293,6 +213266,9 @@ sukupuoli
 sukupuoli-
 	[m1]/ˈsukuˌpuoli/[/m]
 
+sukupuoli-identiteetti
+	[m1]/ˈsukuˌpuoliiˌdentiˌteetti/[/m]
+
 sukupuoliakti
 	[m1]/ˈsukuˌpuoliˌɑkti/[/m]
 
@@ -216319,9 +213295,6 @@ sukupuolihurjastelija
 
 sukupuolihurjastelu
 	[m1]/ˈsukuˌpuoliˌhurjɑsˌtelu/[/m]
-
-sukupuoli-identiteetti
-	[m1]/ˈsukuˌpuoliiˌdentiˌteetti/[/m]
 
 sukupuolijakauma
 	[m1]/ˈsukuˌpuolijɑˌkɑumɑ/[/m]
@@ -216533,9 +213506,6 @@ sulattaa
 sulattamo
 	[m1]/ˈsulɑtˌtɑmo/[/m]
 
--sulatteinen
-	[m1]/ˈsulɑtˌteinen/[/m]
-
 sulattimo
 	[m1]/ˈsulɑtˌtimo/[/m]
 
@@ -216658,9 +213628,6 @@ suljin
 
 sulka
 	[m1]/ˈsulkɑ/[/m]
-
--sulkainen
-	[m1]/ˈsulkɑinen/[/m]
 
 sulkakynä
 	[m1]/ˈsulkɑˌkynæ/[/m]
@@ -216894,7 +213861,7 @@ sumerilainen
 	[m1]/ˈsumeriˌlɑinen/[/m]
 
 sumerin kieli
-	[m1]/ˈsumerin[/m]
+	[m1]/ˈsumerin ˈkieli/[/m]
 
 sumeta
 	[m1]/ˈsumetɑ/[/m]
@@ -216913,9 +213880,6 @@ summaarisesti
 
 summaarisuus
 	[m1]/ˈsummɑɑˌrisuus/[/m]
-
--summainen
-	[m1]/ˈsummɑinen/[/m]
 
 summamutikassa
 	[m1]/ˈsummɑˌmutiˌkɑssɑ/[/m]
@@ -217100,6 +214064,9 @@ sunnimuslimi
 sunnuntai
 	[m1]/ˈsunnuntɑi/[/m]
 
+sunnuntai-ilta
+	[m1]/ˈsunnuntɑˌiiltɑ/[/m]
+
 sunnuntaiaamu
 	[m1]/ˈsunnunˌtɑiɑɑmu/[/m]
 
@@ -217111,9 +214078,6 @@ sunnuntaiautoilija
 
 sunnuntaihiihtäjä
 	[m1]/ˈsunnunˌtɑihiihˌtæjæ/[/m]
-
-sunnuntai-ilta
-	[m1]/ˈsunnuntɑˌiiltɑ/[/m]
 
 sunnuntaikalastaja
 	[m1]/ˈsunnunˌtɑikɑˌlɑstɑjɑ/[/m]
@@ -217232,12 +214196,6 @@ suohaukka
 suoja
 	[m1]/ˈsuojɑ/[/m]
 
-suoja
-	[m1]/ˈsuojɑ/[/m]
-
-suoja
-	[m1]/ˈsuojɑ/[/m]
-
 suoja-aika
 	[m1]/ˈsuojɑɑˌikɑ/[/m]
 
@@ -217267,9 +214225,6 @@ suojailma
 
 suojain
 	[m1]/ˈsuojɑin/[/m]
-
-suojainen
-	[m1]/ˈsuojɑinen/[/m]
 
 suojainen
 	[m1]/ˈsuojɑinen/[/m]
@@ -217799,6 +214754,9 @@ suolöytö
 suomalainen
 	[m1]/ˈsuomɑˌlɑinen/[/m]
 
+suomalais-ugrilainen
+	[m1]/ˈsuomɑˌlɑisugriˌlɑinen/[/m]
+
 suomalaisasutus
 	[m1]/ˈsuomɑˌlɑisɑˌsutus/[/m]
 
@@ -217829,9 +214787,6 @@ suomalaistua
 suomalaistuttaa
 	[m1]/ˈsuomɑˌlɑistuttɑɑ/[/m]
 
-suomalais-ugrilainen
-	[m1]/ˈsuomɑˌlɑisugriˌlɑinen/[/m]
-
 suomalaisuus
 	[m1]/ˈsuomɑˌlɑisuus/[/m]
 
@@ -217850,6 +214805,9 @@ suomalaisväri
 suomalmi
 	[m1]/ˈsuomɑlmi/[/m]
 
+suomen kieli
+	[m1]/ˈsuomen ˈkieli/[/m]
+
 suomenajokoira
 	[m1]/ˈsuomeˌnɑjoˌkoirɑ/[/m]
 
@@ -217861,9 +214819,6 @@ suomenhevoslähtö
 
 suomenkarja
 	[m1]/ˈsuomenˌkɑrjɑ/[/m]
-
-suomen kieli
-	[m1]/ˈsuomen[/m]
 
 suomenkielinen
 	[m1]/ˈsuomenˌkielinen/[/m]
@@ -218090,11 +215045,11 @@ suora
 suora-ammunta
 	[m1]/ˈsuorɑɑmˌmuntɑ/[/m]
 
+suoraa päätä
+	[m1]/ˈsuorɑɑ ˈpæætæ/[/m]
+
 suoraan
 	[m1]/ˈsuorɑɑn/[/m]
-
-suoraa päätä
-	[m1]/ˈsuorɑɑ[/m]
 
 suorahampainen
 	[m1]/ˈsuorɑhɑmˌpɑinen/[/m]
@@ -218672,9 +215627,6 @@ suppilovahvero
 suppo
 	[m1]/ˈ[i]~[/i]/[/m]
 
-suppo
-	[m1]/ˈ[i]~[/i]/[/m]
-
 supportiivinen
 	[m1]/ˈsupporˌtiivinen/[/m]
 
@@ -218831,11 +215783,11 @@ surkuttelu
 surma
 	[m1]/ˈsurmɑ/[/m]
 
-surmaaja
-	[m1]/ˈsurmɑɑjɑ/[/m]
-
 surma-ase
 	[m1]/ˈsurmɑɑse/[/m]
+
+surmaaja
+	[m1]/ˈsurmɑɑjɑ/[/m]
 
 surmanajaja
 	[m1]/ˈsurmɑˌnɑjɑjɑ/[/m]
@@ -219636,7 +216588,7 @@ suurimuotoinen
 	[m1]/ˈsuuriˌmuotoinen/[/m]
 
 suurin piirtein
-	[m1]/ˈsuurin[/m]
+	[m1]/ˈsuurinˈpiirtein/[/m]
 
 suurinumeroinen
 	[m1]/ˈsuuriˌnumeˌroinen/[/m]
@@ -220169,12 +217121,6 @@ suvuttomasti
 suvuttomuus
 	[m1]/ˈsuvutˌtomuus/[/m]
 
-swahilin kieli
-	[m1]/ˈswɑhilin[/m]
-
-swap
-	[m1]/swɑp/[/m]
-
 sveitsiläinen
 	[m1]/ˈsveitsiˌlæinen/[/m]
 
@@ -220208,11 +217154,17 @@ svetisismi
 sviitti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-swing
-	[m1]/[i]~[/i]/[/m]
-
 svingi
 	[m1]/ˈ[i]~[/i]/[/m]
+
+swahilin kieli
+	[m1]/ˈswɑhilinˈkieli/[/m]
+
+swap
+	[m1]/swɑp/[/m]
+
+swing
+	[m1]/[i]~[/i]/[/m]
 
 syaani
 	[m1]/ˈsyɑɑni/[/m]
@@ -220301,14 +217253,8 @@ sydämettömästi
 sydämetön
 	[m1]/ˈsydæˌmetøn/[/m]
 
--sydäminen
-	[m1]/ˈsydæˌminen/[/m]
-
 sydämistyä
 	[m1]/ˈsydæˌmistyæ/[/m]
-
--sydämisyys
-	[m1]/ˈsydæˌmisyys/[/m]
 
 sydämys
 	[m1]/ˈsydæmys/[/m]
@@ -220318,6 +217264,9 @@ sydämystyä
 
 sydän
 	[m1]/ˈsydæn/[/m]
+
+sydän-keuhkokone
+	[m1]/ˈsydænkeˌuhkoˌkone/[/m]
 
 sydänala
 	[m1]/ˈsydæˌnɑlɑ/[/m]
@@ -220369,9 +217318,6 @@ sydänkammio
 
 sydänkesä
 	[m1]/ˈsydænˌkesæ/[/m]
-
-sydän-keuhkokone
-	[m1]/ˈsydænkeˌuhkoˌkone/[/m]
 
 sydänkipu
 	[m1]/ˈsydænˌkipu/[/m]
@@ -220565,12 +217511,6 @@ syketaajuus
 sykintä
 	[m1]/ˈsykintæ/[/m]
 
--sykkeinen
-	[m1]/ˈsykkeinen/[/m]
-
--sykkeisyys
-	[m1]/ˈsykkeisyys/[/m]
-
 sykkiä
 	[m1]/ˈsykkiæ/[/m]
 
@@ -220690,9 +217630,6 @@ sylimikro
 
 sylinteri
 	[m1]/ˈsylinˌteri/[/m]
-
--sylinterinen
-	[m1]/ˈsylinˌterinen/[/m]
 
 sylinterinkansi
 	[m1]/ˈsylinteˌrinkɑnsi/[/m]
@@ -221249,17 +218186,8 @@ syntyaika
 syntyhistoria
 	[m1]/ˈsyntyˌhistoˌriɑ/[/m]
 
--syntyinen
-	[m1]/ˈsyntyinen/[/m]
-
--syntyisesti
-	[m1]/ˈsyntyiˌsesti/[/m]
-
 syntyisin
 	[m1]/ˈ[i]~[/i]/[/m]
-
--syntyisyys
-	[m1]/ˈsyntyisyys/[/m]
 
 syntyjään
 	[m1]/ˈsyntyjææn/[/m]
@@ -221624,17 +218552,11 @@ sytyke
 sytytin
 	[m1]/ˈ[i]~[/i]/[/m]
 
--sytytteinen
-	[m1]/ˈsytytˌteinen/[/m]
-
 sytyttäjä
 	[m1]/ˈsytytˌtæjæ/[/m]
 
 sytyttää
 	[m1]/ˈsytyttææ/[/m]
-
--sytytyksinen
-	[m1]/ˈsytyˌtyksinen/[/m]
 
 sytytys
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -221894,8 +218816,8 @@ syvään
 syy
 	[m1]/ˈ[i]~[/i]/[/m]
 
-syy
-	[m1]/ˈ[i]~[/i]/[/m]
+syy-yhteys
+	[m1]/ˈsyyyhˌteys/[/m]
 
 syydvesti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -222176,9 +219098,6 @@ syytös
 syytöstulva
 	[m1]/ˈsyytøsˌtulvɑ/[/m]
 
-syy-yhteys
-	[m1]/ˈsyyyhˌteys/[/m]
-
 syödä
 	[m1]/ˈsyødæ/[/m]
 
@@ -222434,9 +219353,6 @@ syöttöbussi
 syöttöhanhi
 	[m1]/ˈsyøttøˌhɑnhi/[/m]
 
--syöttöinen
-	[m1]/ˈsyøttøinen/[/m]
-
 syöttöjohto
 	[m1]/ˈsyøttøˌjohto/[/m]
 
@@ -222530,14 +219446,14 @@ sä
 säde
 	[m1]/ˈsæde/[/m]
 
+säde-eläin
+	[m1]/ˈsædeelæin/[/m]
+
 sädeannos
 	[m1]/ˈsædeˌɑnnos/[/m]
 
 sädease
 	[m1]/ˈsædeˌɑse/[/m]
-
-säde-eläin
-	[m1]/ˈsædeelæin/[/m]
 
 sädehoito
 	[m1]/ˈsædeˌhoito/[/m]
@@ -222592,12 +219508,6 @@ säe
 
 säen
 	[m1]/ˈsæen/[/m]
-
--säesteinen
-	[m1]/ˈsæesˌteinen/[/m]
-
--säestyksinen
-	[m1]/ˈsæesˌtyksinen/[/m]
 
 säestys
 	[m1]/ˈsæestys/[/m]
@@ -223376,20 +220286,11 @@ säilöönotto
 säkeenylitys
 	[m1]/ˈsækeeˌnylitys/[/m]
 
--säkeinen
-	[m1]/ˈsækeinen/[/m]
-
 säkeistö
 	[m1]/ˈsækeistø/[/m]
 
--säkeistöinen
-	[m1]/ˈsækeisˌtøinen/[/m]
-
 säkeistöjako
 	[m1]/ˈsækeisˌtøjɑko/[/m]
-
-säkeittäin
-	[m1]/ˈsækeittæin/[/m]
 
 säkeittäin
 	[m1]/ˈsækeittæin/[/m]
@@ -223445,9 +220346,6 @@ säksätys
 säkä
 	[m1]/ˈsækæ/[/m]
 
-säkä
-	[m1]/ˈsækæ/[/m]
-
 säkäkorkeus
 	[m1]/ˈsækæˌkorkeus/[/m]
 
@@ -223471,9 +220369,6 @@ säleverho
 
 sälli
 	[m1]/ˈsælli/[/m]
-
--sälpä
-	[m1]/ˈsælpæ/[/m]
 
 säly
 	[m1]/ˈsæly/[/m]
@@ -223655,9 +220550,6 @@ särmiö
 särmä
 	[m1]/ˈsærmæ/[/m]
 
--särmäinen
-	[m1]/ˈsærmæinen/[/m]
-
 särmäkartio
 	[m1]/ˈsærmæˌkɑrtio/[/m]
 
@@ -223820,9 +220712,6 @@ säteilyvuoto
 säteilyvyöhyke
 	[m1]/ˈsæteilyˌvyøhyke/[/m]
 
--säteinen
-	[m1]/ˈsæteinen/[/m]
-
 säteittäin
 	[m1]/ˈsæteittæin/[/m]
 
@@ -223831,9 +220720,6 @@ säteittäinen
 
 säteittäisesti
 	[m1]/ˈsæteitˌtæisesti/[/m]
-
-säteri
-	[m1]/ˈsæteri/[/m]
 
 säteri
 	[m1]/ˈsæteri/[/m]
@@ -224018,9 +220904,6 @@ sävytepesu
 sävytesampoo
 	[m1]/ˈsævyteˌsɑmpoo/[/m]
 
--sävytteinen
-	[m1]/ˈsævytˌteinen/[/m]
-
 sävyttyä
 	[m1]/ˈsævytˌtyæ/[/m]
 
@@ -224105,9 +220988,6 @@ säädännäinen
 säädäntä
 	[m1]/ˈsæædæntæ/[/m]
 
--säädäntö
-	[m1]/ˈsæædæntø/[/m]
-
 säädättää
 	[m1]/ˈsæædættææ/[/m]
 
@@ -224170,9 +221050,6 @@ säälittää
 
 sääliväinen
 	[m1]/ˈsææliˌvæinen/[/m]
-
-sääliä
-	[m1]/ˈsææliæ/[/m]
 
 sääliä
 	[m1]/ˈsææliæ/[/m]
@@ -224327,9 +221204,6 @@ säärikarvat
 sääriluu
 	[m1]/ˈsææriluu/[/m]
 
--säärinen
-	[m1]/ˈsæærinen/[/m]
-
 säärintama
 	[m1]/ˈsæærinˌtɑmɑ/[/m]
 
@@ -224338,9 +221212,6 @@ sääripari
 
 säärisuojus
 	[m1]/ˈsææriˌsuojus/[/m]
-
--säärisyys
-	[m1]/ˈsæærisyys/[/m]
 
 säärys
 	[m1]/ˈsæærys/[/m]
@@ -224459,9 +221330,6 @@ säästötili
 säästövapaa
 	[m1]/ˈsææstøˌvɑpɑɑ/[/m]
 
--sääteinen
-	[m1]/ˈsææteinen/[/m]
-
 säätekijä
 	[m1]/ˈsææteˌkijæ/[/m]
 
@@ -224501,8 +221369,8 @@ säätutka
 sääty
 	[m1]/ˈsææty/[/m]
 
--säätyinen
-	[m1]/ˈsæætyinen/[/m]
+sääty-yhteiskunta
+	[m1]/ˈsæætyyhˌteiskuntɑ/[/m]
 
 säätyjako
 	[m1]/ˈsæætyˌjɑko/[/m]
@@ -224525,9 +221393,6 @@ säätyraja
 säätyvaltiopäivät
 	[m1]/ˈsæætyˌvɑltioˌpæivæt/[/m]
 
-sääty-yhteiskunta
-	[m1]/ˈsæætyyhˌteiskuntɑ/[/m]
-
 säätyä
 	[m1]/ˈsæætyæ/[/m]
 
@@ -224542,12 +221407,6 @@ säätää
 
 säätö
 	[m1]/ˈsæætø/[/m]
-
--säätöinen
-	[m1]/ˈsæætøinen/[/m]
-
--säätöisesti
-	[m1]/ˈsæætøiˌsesti/[/m]
 
 säätöjärjestelmä
 	[m1]/ˈsæætøˌjærjesˌtelmæ/[/m]
@@ -224641,6 +221500,18 @@ söötisti
 
 söötti
 	[m1]/ˈsøøtti/[/m]
+
+T-luupihvi
+	[m1]/ˈtluupihvi/[/m]
+
+T-paita
+	[m1]/ˈtpɑitɑ/[/m]
+
+T-palkki
+	[m1]/ˈtpɑlkki/[/m]
+
+T-risteys
+	[m1]/ˈtristeys/[/m]
 
 taa
 	[m1]/ˈtɑɑ/[/m]
@@ -224837,9 +221708,6 @@ taasen
 taata
 	[m1]/ˈtɑɑtɑ/[/m]
 
-taata
-	[m1]/ˈtɑɑtɑ/[/m]
-
 taateli
 	[m1]/ˈtɑɑteli/[/m]
 
@@ -224879,9 +221747,6 @@ tabloidikokoinen
 tabu
 	[m1]/ˈtɑbu/[/m]
 
-tabu
-	[m1]/ˈtɑbu/[/m]
-
 tabulaattori
 	[m1]/ˈtɑbuˌlɑɑttori/[/m]
 
@@ -224894,17 +221759,8 @@ tabulointi
 tabulointinäppäin
 	[m1]/ˈtɑbuˌlointiˌnæppæin/[/m]
 
-taco
-	[m1]/ˈtɑco/[/m]
-
-taconkuori
-	[m1]/ˈtɑconˌkuori/[/m]
-
 tadikko
 	[m1]/ˈtɑdikko/[/m]
-
-tae
-	[m1]/ˈtɑe/[/m]
 
 tae
 	[m1]/ˈtɑe/[/m]
@@ -225065,9 +221921,6 @@ tahikka
 tahko
 	[m1]/ˈtɑhko/[/m]
 
--tahkoinen
-	[m1]/ˈtɑhkoinen/[/m]
-
 tahkojuusto
 	[m1]/ˈtɑhkoˌjuusto/[/m]
 
@@ -225134,9 +221987,6 @@ tahna
 taho
 	[m1]/ˈtɑho/[/m]
 
--tahoinen
-	[m1]/ˈtɑhoinen/[/m]
-
 tahokas
 	[m1]/ˈtɑhokɑs/[/m]
 
@@ -225200,9 +222050,6 @@ tahtimarssi
 tahtimittari
 	[m1]/ˈtɑhtiˌmittɑri/[/m]
 
--tahtinen
-	[m1]/ˈtɑhtinen/[/m]
-
 tahtiosa
 	[m1]/ˈtɑhtiˌosɑ/[/m]
 
@@ -225224,15 +222071,6 @@ tahtoa
 tahtoihminen
 	[m1]/ˈtɑhtoihˌminen/[/m]
 
--tahtoinen
-	[m1]/ˈtɑhtoinen/[/m]
-
--tahtoisesti
-	[m1]/ˈtɑhtoiˌsesti/[/m]
-
--tahtoisuus
-	[m1]/ˈtɑhtoisuus/[/m]
-
 tahtomattaan
 	[m1]/ˈtɑhtoˌmɑttɑɑn/[/m]
 
@@ -225251,6 +222089,18 @@ taianomaisuus
 taide
 	[m1]/ˈtɑide/[/m]
 
+taide-elokuva
+	[m1]/ˈtɑideeˌlokuvɑ/[/m]
+
+taide-elämys
+	[m1]/ˈtɑideeˌlæmys/[/m]
+
+taide-elämä
+	[m1]/ˈtɑideeˌlæmæ/[/m]
+
+taide-esine
+	[m1]/ˈtɑideeˌsine/[/m]
+
 taideaarre
 	[m1]/ˈtɑideˌɑɑrre/[/m]
 
@@ -225268,18 +222118,6 @@ taidearvostelija
 
 taidearvostelu
 	[m1]/ˈtɑideˌɑrvosˌtelu/[/m]
-
-taide-elokuva
-	[m1]/ˈtɑideeˌlokuvɑ/[/m]
-
-taide-elämys
-	[m1]/ˈtɑideeˌlæmys/[/m]
-
-taide-elämä
-	[m1]/ˈtɑideeˌlæmæ/[/m]
-
-taide-esine
-	[m1]/ˈtɑideeˌsine/[/m]
 
 taidefilmi
 	[m1]/ˈtɑideˌfilmi/[/m]
@@ -225737,9 +222575,6 @@ taionta
 taipale
 	[m1]/ˈtɑipɑle/[/m]
 
--taipeinen
-	[m1]/ˈtɑipeinen/[/m]
-
 taipua
 	[m1]/ˈtɑipuɑ/[/m]
 
@@ -226163,12 +222998,6 @@ taitteisuus
 taitto
 	[m1]/ˈtɑitto/[/m]
 
--taittoinen
-	[m1]/ˈtɑittoinen/[/m]
-
--taittoisuus
-	[m1]/ˈtɑittoisuus/[/m]
-
 taittokone
 	[m1]/ˈtɑittoˌkone/[/m]
 
@@ -226430,6 +223259,18 @@ taka
 taka-
 	[m1]/ˈtɑkɑ/[/m]
 
+taka-ajatus
+	[m1]/ˈtɑkɑɑˌjɑtus/[/m]
+
+taka-akseli
+	[m1]/ˈtɑkɑɑkˌseli/[/m]
+
+taka-ala
+	[m1]/ˈtɑkɑɑlɑ/[/m]
+
+taka-askel
+	[m1]/ˈtɑkɑɑskel/[/m]
+
 takaa
 	[m1]/ˈtɑkɑɑ/[/m]
 
@@ -226451,23 +223292,11 @@ takaa-ajoleikki
 takaaja
 	[m1]/ˈtɑkɑɑjɑ/[/m]
 
-taka-ajatus
-	[m1]/ˈtɑkɑɑˌjɑtus/[/m]
-
-taka-akseli
-	[m1]/ˈtɑkɑɑkˌseli/[/m]
-
-taka-ala
-	[m1]/ˈtɑkɑɑlɑ/[/m]
-
 takaaladattava
 	[m1]/ˈtɑkɑɑlɑˌdɑttɑvɑ/[/m]
 
 takaapäin
 	[m1]/ˈtɑkɑɑpæin/[/m]
-
-taka-askel
-	[m1]/ˈtɑkɑɑskel/[/m]
 
 takahalkio
 	[m1]/ˈtɑkɑˌhɑlkio/[/m]
@@ -226946,9 +223775,6 @@ takintasku
 takka
 	[m1]/ˈtɑkkɑ/[/m]
 
-takka
-	[m1]/ˈtɑkkɑ/[/m]
-
 takkahuone
 	[m1]/ˈtɑkkɑˌhuone/[/m]
 
@@ -226978,9 +223804,6 @@ takki
 
 takkileninki
 	[m1]/ˈtɑkkileˌninki/[/m]
-
--takkinen
-	[m1]/ˈtɑkkinen/[/m]
 
 takkirauta
 	[m1]/ˈtɑkkiˌrɑutɑ/[/m]
@@ -227249,11 +224072,11 @@ talitintti
 talja
 	[m1]/ˈtɑljɑ/[/m]
 
-talja
-	[m1]/ˈtɑljɑ/[/m]
-
 taljajousi
 	[m1]/ˈtɑljɑˌjousi/[/m]
+
+talk show
+	[m1]/tɑlk sow/[/m]
 
 talkita
 	[m1]/ˈtɑlkitɑ/[/m]
@@ -227305,12 +224128,6 @@ talkoovoima
 
 talkooväki
 	[m1]/ˈtɑlkooˌvæki/[/m]
-
-talk show
-	[m1]/tɑlk[/m]
-
-talla
-	[m1]/ˈtɑllɑ/[/m]
 
 talla
 	[m1]/ˈtɑllɑ/[/m]
@@ -228014,6 +224831,9 @@ talveutua
 talvi
 	[m1]/ˈtɑlvi/[/m]
 
+talvi-ilta
+	[m1]/ˈtɑlviiltɑ/[/m]
+
 talviaika
 	[m1]/ˈtɑlviˌɑikɑ/[/m]
 
@@ -228031,9 +224851,6 @@ talvifarmarit
 
 talvihorros
 	[m1]/ˈtɑlviˌhorros/[/m]
-
-talvi-ilta
-	[m1]/ˈtɑlviiltɑ/[/m]
 
 talvikala
 	[m1]/ˈtɑlviˌkɑlɑ/[/m]
@@ -228251,12 +225068,6 @@ tammenterho
 tammi
 	[m1]/ˈtɑmmi/[/m]
 
-tammi
-	[m1]/ˈtɑmmi/[/m]
-
-tammi
-	[m1]/ˈtɑmmi/[/m]
-
 tammihiiri
 	[m1]/ˈtɑmmiˌhiiri/[/m]
 
@@ -228271,9 +225082,6 @@ tammikuinen
 
 tammikuu
 	[m1]/ˈtɑmmikuu/[/m]
-
-tammilauta
-	[m1]/ˈtɑmmiˌlɑutɑ/[/m]
 
 tammilauta
 	[m1]/ˈtɑmmiˌlɑutɑ/[/m]
@@ -228319,9 +225127,6 @@ tammivyöhyke
 
 tammukka
 	[m1]/ˈtɑmmukkɑ/[/m]
-
-tampata
-	[m1]/ˈtɑmpɑtɑ/[/m]
 
 tampata
 	[m1]/ˈtɑmpɑtɑ/[/m]
@@ -228431,17 +225236,11 @@ tanka
 tankata
 	[m1]/ˈtɑnkɑtɑ/[/m]
 
-tankata
-	[m1]/ˈtɑnkɑtɑ/[/m]
-
 tankea
 	[m1]/ˈtɑnkeɑ/[/m]
 
 tankkailla
 	[m1]/ˈtɑnkkɑillɑ/[/m]
-
-tankkaus
-	[m1]/ˈtɑnkkɑus/[/m]
 
 tankkaus
 	[m1]/ˈtɑnkkɑus/[/m]
@@ -228482,11 +225281,11 @@ tanska
 tanskalainen
 	[m1]/ˈtɑnskɑˌlɑinen/[/m]
 
+tanskan kieli
+	[m1]/ˈtɑnskɑn ˈkieli/[/m]
+
 tanskandoggi
 	[m1]/ˈtɑnskɑnˌdoggi/[/m]
-
-tanskan kieli
-	[m1]/ˈtɑnskɑn[/m]
 
 tanskankielinen
 	[m1]/ˈtɑnskɑnˌkielinen/[/m]
@@ -228692,9 +225491,6 @@ tapahtua
 tapahtuma
 	[m1]/ˈtɑpɑhˌtumɑ/[/m]
 
--tapahtumainen
-	[m1]/ˈtɑpɑhtuˌmɑinen/[/m]
-
 tapahtumakalenteri
 	[m1]/ˈtɑpɑhˌtumɑkɑˌlenteri/[/m]
 
@@ -228820,9 +225616,6 @@ tapauksekas
 
 tapaukseton
 	[m1]/ˈtɑpɑˌukseton/[/m]
-
--tapauksinen
-	[m1]/ˈtɑpɑˌuksinen/[/m]
 
 tapauksittain
 	[m1]/ˈtɑpɑˌuksittɑin/[/m]
@@ -229283,6 +226076,12 @@ tarkistuttaa
 tarkka
 	[m1]/ˈtɑrkkɑ/[/m]
 
+tarkka-ampuja
+	[m1]/ˈtɑrkkɑɑmˌpujɑ/[/m]
+
+tarkka-ampujapataljoona
+	[m1]/ˈtɑrkkɑɑmˌpujɑpɑˌtɑljoonɑ/[/m]
+
 tarkkaaja
 	[m1]/ˈtɑrkkɑɑjɑ/[/m]
 
@@ -229297,12 +226096,6 @@ tarkkaamattomuus
 
 tarkkaamo
 	[m1]/ˈtɑrkkɑɑmo/[/m]
-
-tarkka-ampuja
-	[m1]/ˈtɑrkkɑɑmˌpujɑ/[/m]
-
-tarkka-ampujapataljoona
-	[m1]/ˈtɑrkkɑɑmˌpujɑpɑˌtɑljoonɑ/[/m]
 
 tarkkaan
 	[m1]/ˈtɑrkkɑɑn/[/m]
@@ -229499,9 +226292,6 @@ tarkoitusperäisyys
 tarmo
 	[m1]/ˈtɑrmo/[/m]
 
--tarmoinen
-	[m1]/ˈtɑrmoinen/[/m]
-
 tarmokas
 	[m1]/ˈtɑrmokɑs/[/m]
 
@@ -229555,9 +226345,6 @@ tarpeettomasti
 
 tarpeettomuus
 	[m1]/ˈtɑrpeetˌtomuus/[/m]
-
--tarpeinen
-	[m1]/ˈtɑrpeinen/[/m]
 
 tarpeisto
 	[m1]/ˈtɑrpeisto/[/m]
@@ -229733,6 +226520,9 @@ tarusto
 tarve
 	[m1]/ˈtɑrve/[/m]
 
+tarve-esine
+	[m1]/ˈtɑrveeˌsine/[/m]
+
 tarveaine
 	[m1]/ˈtɑrveˌɑine/[/m]
 
@@ -229741,9 +226531,6 @@ tarveaines
 
 tarvearvio
 	[m1]/ˈtɑrveˌɑrvio/[/m]
-
-tarve-esine
-	[m1]/ˈtɑrveeˌsine/[/m]
 
 tarveharkinta
 	[m1]/ˈtɑrveˌhɑrkintɑ/[/m]
@@ -229781,18 +226568,6 @@ tarvitsija
 tasa-aineinen
 	[m1]/ˈtɑsɑɑiˌneinen/[/m]
 
-tasaaja
-	[m1]/ˈtɑsɑɑjɑ/[/m]
-
-tasaan
-	[m1]/ˈtɑsɑɑn/[/m]
-
-tasaannuttaa
-	[m1]/ˈtɑsɑɑnˌnuttɑɑ/[/m]
-
-tasaantua
-	[m1]/ˈtɑsɑɑnˌtuɑ/[/m]
-
 tasa-arvo
 	[m1]/ˈtɑsɑɑrvo/[/m]
 
@@ -229825,6 +226600,18 @@ tasa-astuja
 
 tasa-astunta
 	[m1]/ˈtɑsɑɑsˌtuntɑ/[/m]
+
+tasaaja
+	[m1]/ˈtɑsɑɑjɑ/[/m]
+
+tasaan
+	[m1]/ˈtɑsɑɑn/[/m]
+
+tasaannuttaa
+	[m1]/ˈtɑsɑɑnˌnuttɑɑ/[/m]
+
+tasaantua
+	[m1]/ˈtɑsɑɑnˌtuɑ/[/m]
 
 tasaerä
 	[m1]/ˈtɑsɑˌeræ/[/m]
@@ -229859,11 +226646,11 @@ tasajakoinen
 tasajakoisuus
 	[m1]/ˈtɑsɑjɑˌkoisuus/[/m]
 
-tasajalkaa
-	[m1]/ˈtɑsɑˌjɑlkɑɑ/[/m]
-
 tasajalka-alastulo
 	[m1]/ˈtɑsɑjɑlˌkɑɑlɑsˌtulo/[/m]
+
+tasajalkaa
+	[m1]/ˈtɑsɑˌjɑlkɑɑ/[/m]
 
 tasajalkahyppely
 	[m1]/ˈtɑsɑˌjɑlkɑˌhyppely/[/m]
@@ -230559,7 +227346,7 @@ tataarilainen
 	[m1]/ˈtɑtɑɑriˌlɑinen/[/m]
 
 tataarin kieli
-	[m1]/ˈtɑtɑɑrin[/m]
+	[m1]/ˈtɑtɑɑrin ˈkieli/[/m]
 
 tatami
 	[m1]/ˈtɑtɑmi/[/m]
@@ -230572,9 +227359,6 @@ tatarkasvi
 
 tatska
 	[m1]/ˈtɑtskɑ/[/m]
-
-tattari
-	[m1]/ˈtɑttɑri/[/m]
 
 tattari
 	[m1]/ˈtɑttɑri/[/m]
@@ -230735,11 +227519,11 @@ taus
 tausta
 	[m1]/ˈtɑustɑ/[/m]
 
-taustaa
-	[m1]/ˈtɑustɑɑ/[/m]
-
 tausta-aihe
 	[m1]/ˈtɑusˌtɑɑihe/[/m]
+
+taustaa
+	[m1]/ˈtɑustɑɑ/[/m]
 
 taustahahmo
 	[m1]/ˈtɑustɑˌhɑhmo/[/m]
@@ -230873,6 +227657,9 @@ tavallisesti
 tavallisuus
 	[m1]/ˈtɑvɑlˌlisuus/[/m]
 
+tavan takaa
+	[m1]/ˈtɑvɑn ˈtɑkɑɑ/[/m]
+
 tavanmukainen
 	[m1]/ˈtɑvɑnmuˌkɑinen/[/m]
 
@@ -230890,9 +227677,6 @@ tavanomaisesti
 
 tavanomaisuus
 	[m1]/ˈtɑvɑnoˌmɑisuus/[/m]
-
-tavan takaa
-	[m1]/ˈtɑvɑn[/m]
 
 tavantakainen
 	[m1]/ˈtɑvɑntɑˌkɑinen/[/m]
@@ -230996,12 +227780,6 @@ tavaravekseli
 tavata
 	[m1]/ˈtɑvɑtɑ/[/m]
 
-tavata
-	[m1]/ˈtɑvɑtɑ/[/m]
-
-tavata
-	[m1]/ˈtɑvɑtɑ/[/m]
-
 tavaton
 	[m1]/ˈtɑvɑton/[/m]
 
@@ -231094,9 +227872,6 @@ tavoitus
 
 tavu
 	[m1]/ˈtɑvu/[/m]
-
--tavuinen
-	[m1]/ˈtɑvuinen/[/m]
 
 tavujako
 	[m1]/ˈtɑvuˌjɑko/[/m]
@@ -231259,9 +228034,6 @@ teatteriväki
 
 teatteriyleisö
 	[m1]/ˈteɑtteˌriyleisø/[/m]
-
-teddy
-	[m1]/ˈ[i]~[/i]/[/m]
 
 teddy
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -231575,6 +228347,12 @@ tehdä
 teho
 	[m1]/ˈ[i]~[/i]/[/m]
 
+teho-opetus
+	[m1]/ˈtehooˌpetus/[/m]
+
+teho-osasto
+	[m1]/ˈtehooˌsɑsto/[/m]
+
 tehoaika
 	[m1]/ˈtehoˌɑikɑ/[/m]
 
@@ -231592,9 +228370,6 @@ tehoinen
 
 tehoisa
 	[m1]/ˈtehoisɑ/[/m]
-
--tehoisesti
-	[m1]/ˈtehoiˌsesti/[/m]
 
 tehoisku
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -231637,12 +228412,6 @@ tehometsätalous
 
 tehomyynti
 	[m1]/ˈtehoˌmyynti/[/m]
-
-teho-opetus
-	[m1]/ˈtehooˌpetus/[/m]
-
-teho-osasto
-	[m1]/ˈtehooˌsɑsto/[/m]
 
 tehopainosuhde
 	[m1]/ˈtehoˌpɑinoˌsuhde/[/m]
@@ -231782,9 +228551,6 @@ teili
 teilipuu
 	[m1]/ˈ[i]~[/i]/[/m]
 
--teinen
-	[m1]/ˈteinen/[/m]
-
 teini
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -231822,9 +228588,6 @@ teippi
 	[m1]/ˈ[i]~[/i]/[/m]
 
 teismi
-	[m1]/ˈ[i]~[/i]/[/m]
-
-teisti
 	[m1]/ˈ[i]~[/i]/[/m]
 
 teisti
@@ -231872,9 +228635,6 @@ tekeytyä
 tekijä
 	[m1]/ˈtekijæ/[/m]
 
--tekijäinen
-	[m1]/ˈtekiˌjæinen/[/m]
-
 tekijämies
 	[m1]/ˈtekiˌjæmies/[/m]
 
@@ -231886,9 +228646,6 @@ tekijänoikeus
 
 tekijänpalkkio
 	[m1]/ˈtekiˌjænpɑlkˌkio/[/m]
-
--tekiäiset
-	[m1]/ˈtekiˌæiset/[/m]
 
 teknetium
 	[m1]/ˈtekneˌtium/[/m]
@@ -231968,6 +228725,9 @@ teko
 teko-
 	[m1]/ˈteko/[/m]
 
+teko-ohje
+	[m1]/ˈtekoohje/[/m]
+
 tekoaine
 	[m1]/ˈtekoˌɑine/[/m]
 
@@ -232003,15 +228763,6 @@ tekohurskas
 
 tekohurskaus
 	[m1]/ˈtekoˌhurskɑus/[/m]
-
--tekoinen
-	[m1]/ˈtekoinen/[/m]
-
--tekoisesti
-	[m1]/ˈtekoiˌsesti/[/m]
-
--tekoisuus
-	[m1]/ˈtekoisuus/[/m]
 
 tekoitku
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -232087,9 +228838,6 @@ tekonen
 
 tekonenä
 	[m1]/ˈtekoˌnenæ/[/m]
-
-teko-ohje
-	[m1]/ˈtekoohje/[/m]
 
 tekopaikka
 	[m1]/ˈtekoˌpɑikkɑ/[/m]
@@ -232184,17 +228932,20 @@ tekstauskirjain
 teksti
 	[m1]/ˈ[i]~[/i]/[/m]
 
+teksti-ilmoitus
+	[m1]/ˈtekstiilˌmoitus/[/m]
+
 tekstiasu
 	[m1]/ˈtekstiˌɑsu/[/m]
 
 tekstiili
 	[m1]/ˈ[i]~[/i]/[/m]
 
-tekstiiliala
-	[m1]/ˈtekstiiˌliɑlɑ/[/m]
-
 tekstiili-insinööri
 	[m1]/ˈtekstiiˌliinsiˌnøøri/[/m]
+
+tekstiiliala
+	[m1]/ˈtekstiiˌliɑlɑ/[/m]
 
 tekstiilikeraaminen
 	[m1]/ˈtekstiiˌlikeˌrɑɑminen/[/m]
@@ -232256,9 +229007,6 @@ tekstiiliurheilija
 tekstiiliväri
 	[m1]/ˈtekstiiˌliværi/[/m]
 
-teksti-ilmoitus
-	[m1]/ˈtekstiilˌmoitus/[/m]
-
 tekstijulkaisu
 	[m1]/ˈtekstijulˌkɑisu/[/m]
 
@@ -232276,9 +229024,6 @@ tekstilingvistiikka
 
 tekstimainonta
 	[m1]/ˈtekstiˌmɑinontɑ/[/m]
-
--tekstinen
-	[m1]/ˈtekstinen/[/m]
 
 tekstinkatkelma
 	[m1]/ˈtekstinˌkɑtkelmɑ/[/m]
@@ -232547,6 +229292,15 @@ televiestintä
 televisio
 	[m1]/ˈteleˌvisio/[/m]
 
+televisio-ohjaaja
+	[m1]/ˈteleˌvisiˌoohjɑɑjɑ/[/m]
+
+televisio-ohjelma
+	[m1]/ˈteleˌvisiˌoohjelmɑ/[/m]
+
+televisio-ottelu
+	[m1]/ˈteleˌvisiˌoottelu/[/m]
+
 televisioantenni
 	[m1]/ˈteleˌvisioˌɑntenni/[/m]
 
@@ -232609,15 +229363,6 @@ televisionäytelmä
 
 televisionäyttelijä
 	[m1]/ˈteleˌvisiˌonæˌytteˌlijæ/[/m]
-
-televisio-ohjaaja
-	[m1]/ˈteleˌvisiˌoohjɑɑjɑ/[/m]
-
-televisio-ohjelma
-	[m1]/ˈteleˌvisiˌoohjelmɑ/[/m]
-
-televisio-ottelu
-	[m1]/ˈteleˌvisiˌoottelu/[/m]
 
 televisioruutu
 	[m1]/ˈteleˌvisioˌruutu/[/m]
@@ -232897,9 +229642,6 @@ tempoilla
 
 tempoilu
 	[m1]/ˈ[i]~[/i]/[/m]
-
--tempoinen
-	[m1]/ˈtempoinen/[/m]
 
 tempomerkintä
 	[m1]/ˈtempoˌmerkintæ/[/m]
@@ -233420,9 +230162,6 @@ teritys
 teriö
 	[m1]/ˈteriø/[/m]
 
--teriöinen
-	[m1]/ˈteriˌøinen/[/m]
-
 teriömuoto
 	[m1]/ˈteriøˌmuoto/[/m]
 
@@ -233452,9 +230191,6 @@ termiinimarkkinat
 
 termiinisopimus
 	[m1]/ˈtermiiˌnisoˌpimus/[/m]
-
-termiitti
-	[m1]/ˈ[i]~[/i]/[/m]
 
 termiitti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -233981,9 +230717,6 @@ terä
 teräase
 	[m1]/ˈteræˌɑse/[/m]
 
--teräinen
-	[m1]/ˈteræinen/[/m]
-
 teräketju
 	[m1]/ˈteræˌketju/[/m]
 
@@ -234167,6 +230900,12 @@ terävyysalue
 terävä
 	[m1]/ˈterævæ/[/m]
 
+terävä-älyinen
+	[m1]/ˈteræˌvæælyinen/[/m]
+
+terävä-ääninen
+	[m1]/ˈteræˌvæææˌninen/[/m]
+
 terävähampainen
 	[m1]/ˈterævæˌhɑmpɑinen/[/m]
 
@@ -234266,17 +231005,14 @@ terävästi
 teräväsärmäinen
 	[m1]/ˈterævæˌsærmæinen/[/m]
 
-terävä-älyinen
-	[m1]/ˈteræˌvæælyinen/[/m]
-
-terävä-ääninen
-	[m1]/ˈteræˌvæææˌninen/[/m]
-
 terävöittää
 	[m1]/ˈteræˌvøittææ/[/m]
 
 terävöityä
 	[m1]/ˈteræˌvøityæ/[/m]
+
+TES-neuvottelu
+	[m1]/ˈtesneuˌvottelu/[/m]
 
 tesaurus
 	[m1]/ˈtesɑurus/[/m]
@@ -234289,9 +231025,6 @@ tesma
 
 tesmayrtti
 	[m1]/ˈtesmɑˌyrtti/[/m]
-
-TES-neuvottelu
-	[m1]/ˈtesneuˌvottelu/[/m]
 
 tessalonikalaiskirje
 	[m1]/ˈtessɑˌlonikɑˌlɑiskirje/[/m]
@@ -234492,7 +231225,7 @@ thaimaalainen
 	[m1]/ˈthɑimɑɑˌlɑinen/[/m]
 
 thain kieli
-	[m1]/ˈthɑin[/m]
+	[m1]/ˈthɑin ˈkieli/[/m]
 
 thaisilkki
 	[m1]/ˈthɑisilkki/[/m]
@@ -234508,12 +231241,6 @@ tiaara
 
 tiainen
 	[m1]/ˈtiɑinen/[/m]
-
-tic
-	[m1]/[i]~[/i]/[/m]
-
-tic-oire
-	[m1]/ˈticoire/[/m]
 
 tie
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -234704,6 +231431,9 @@ tiedustella
 tiedustelu
 	[m1]/ˈtiedusˌtelu/[/m]
 
+tiedustelu-upseeri
+	[m1]/ˈtiedusteˌluupseeri/[/m]
+
 tiedustelualus
 	[m1]/ˈtiedusˌteluˌɑlus/[/m]
 
@@ -234730,9 +231460,6 @@ tiedustelusatelliitti
 
 tiedustelutoiminta
 	[m1]/ˈtiedusˌteluˌtoimintɑ/[/m]
-
-tiedustelu-upseeri
-	[m1]/ˈtiedusteˌluupseeri/[/m]
 
 tiedusteluverkko
 	[m1]/ˈtiedusˌteluˌverkko/[/m]
@@ -234968,11 +231695,11 @@ tiesääpalvelu
 tieteellinen
 	[m1]/ˈtieteelˌlinen/[/m]
 
-tieteellisesti
-	[m1]/ˈtieteelliˌsesti/[/m]
-
 tieteellis-tekninen
 	[m1]/ˈtieteelˌlistekˌninen/[/m]
+
+tieteellisesti
+	[m1]/ˈtieteelliˌsesti/[/m]
 
 tieteellistyä
 	[m1]/ˈtieteelˌlistyæ/[/m]
@@ -235019,9 +231746,6 @@ tieteillä
 tieteily
 	[m1]/ˈ[i]~[/i]/[/m]
 
--tieteinen
-	[m1]/ˈtieteinen/[/m]
-
 tieteiselokuva
 	[m1]/ˈtieteiˌseloˌkuvɑ/[/m]
 
@@ -235051,6 +231775,9 @@ tietenkään
 
 tieto
 	[m1]/ˈ[i]~[/i]/[/m]
+
+tieto-oppi
+	[m1]/ˈtietooppi/[/m]
 
 tietoaine
 	[m1]/ˈtietoˌɑine/[/m]
@@ -235118,6 +231845,9 @@ tietokirjoittaja
 tietokone
 	[m1]/ˈtietoˌkone/[/m]
 
+tietokone-ennuste
+	[m1]/ˈtietokoˌneennuste/[/m]
+
 tietokoneajo
 	[m1]/ˈtietoˌkoneˌɑjo/[/m]
 
@@ -235129,9 +231859,6 @@ tietokoneavusteinen
 
 tietokoneavusteisesti
 	[m1]/ˈtietoˌkoneɑˌvusteiˌsesti/[/m]
-
-tietokone-ennuste
-	[m1]/ˈtietokoˌneennuste/[/m]
 
 tietokonegrafiikka
 	[m1]/ˈtietoˌkonegrɑˌfiikkɑ/[/m]
@@ -235228,9 +231955,6 @@ tietomurto
 
 tietomäärä
 	[m1]/ˈtietoˌmææræ/[/m]
-
-tieto-oppi
-	[m1]/ˈtietooppi/[/m]
 
 tietopaketti
 	[m1]/ˈtietopɑˌketti/[/m]
@@ -235542,7 +232266,7 @@ tiibetiläinen
 	[m1]/ˈtiibetiˌlæinen/[/m]
 
 tiibetin kieli
-	[m1]/ˈtiibetin[/m]
+	[m1]/ˈtiibetin ˈkieli/[/m]
 
 tiibetinspanieli
 	[m1]/ˈtiibeˌtinspɑˌnieli/[/m]
@@ -235757,9 +232481,6 @@ tiivisrakenteinen
 tiiviste
 	[m1]/ˈ[i]~[/i]/[/m]
 
--tiivisteinen
-	[m1]/ˈtiivisˌteinen/[/m]
-
 tiivistekumi
 	[m1]/ˈtiivisˌtekumi/[/m]
 
@@ -235883,6 +232604,9 @@ tikkivuori
 tikku
 	[m1]/ˈ[i]~[/i]/[/m]
 
+tikku-ukko
+	[m1]/ˈtikkuukko/[/m]
+
 tikkuinen
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -235904,14 +232628,8 @@ tikkurasia
 tikkuri
 	[m1]/ˈ[i]~[/i]/[/m]
 
-tikkuri
-	[m1]/ˈ[i]~[/i]/[/m]
-
 tikkusuora
 	[m1]/ˈtikkuˌsuorɑ/[/m]
-
-tikku-ukko
-	[m1]/ˈtikkuukko/[/m]
 
 tikkuviina
 	[m1]/ˈtikkuˌviinɑ/[/m]
@@ -235922,6 +232640,9 @@ tikli
 tila
 	[m1]/ˈtilɑ/[/m]
 
+tila-auto
+	[m1]/ˈtilɑɑˌuto/[/m]
+
 tilaaja
 	[m1]/ˈtilɑɑjɑ/[/m]
 
@@ -235930,9 +232651,6 @@ tilaajakunta
 
 tilaajamäärä
 	[m1]/ˈtilɑɑjɑˌmææræ/[/m]
-
-tila-auto
-	[m1]/ˈtilɑɑˌuto/[/m]
 
 tilaelementti
 	[m1]/ˈtilɑˌeleˌmentti/[/m]
@@ -237092,9 +233810,6 @@ tivata
 tivoli
 	[m1]/ˈ[i]~[/i]/[/m]
 
-T-luupihvi
-	[m1]/ˈtluupihvi/[/m]
-
 toaletti
 	[m1]/ˈtoɑˌletti/[/m]
 
@@ -237103,9 +233818,6 @@ toalettilaukku
 
 toalettipaperi
 	[m1]/ˈtoɑˌlettiˌpɑperi/[/m]
-
-toccata
-	[m1]/ˈtoccɑtɑ/[/m]
 
 todella
 	[m1]/ˈtodellɑ/[/m]
@@ -237530,9 +234242,6 @@ toimikunta
 toimilupa
 	[m1]/ˈtoimiˌlupɑ/[/m]
 
--toiminen
-	[m1]/ˈtoiminen/[/m]
-
 toiminimi
 	[m1]/ˈtoimiˌnimi/[/m]
 
@@ -237568,9 +234277,6 @@ toimintaelokuva
 
 toimintahäiriö
 	[m1]/ˈtoimintɑˌhæiriø/[/m]
-
--toimintainen
-	[m1]/ˈtoiminˌtɑinen/[/m]
 
 toimintakausi
 	[m1]/ˈtoimintɑˌkɑusi/[/m]
@@ -238007,9 +234713,6 @@ toistatuhatta
 toiste
 	[m1]/ˈ[i]~[/i]/[/m]
 
-toiste
-	[m1]/ˈ[i]~[/i]/[/m]
-
 toistella
 	[m1]/ˈtoistellɑ/[/m]
 
@@ -238169,9 +234872,6 @@ toki
 tokka
 	[m1]/ˈtokkɑ/[/m]
 
-tokka
-	[m1]/ˈtokkɑ/[/m]
-
 tokko
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -238259,9 +234959,6 @@ toljotus
 tolkku
 	[m1]/ˈ[i]~[/i]/[/m]
 
--tolkulla
-	[m1]/ˈtolkullɑ/[/m]
-
 tolkuton
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -238307,6 +235004,9 @@ tolvana
 tomaatti
 	[m1]/ˈtomɑɑtti/[/m]
 
+tomaatti-sipulisalaatti
+	[m1]/ˈtomɑɑtˌtisiˌpulisɑˌlɑɑtti/[/m]
+
 tomaattikastike
 	[m1]/ˈtomɑɑttiˌkɑstike/[/m]
 
@@ -238330,9 +235030,6 @@ tomaattisalaatti
 
 tomaattisilakat
 	[m1]/ˈtomɑɑtˌtisiˌlɑkɑt/[/m]
-
-tomaatti-sipulisalaatti
-	[m1]/ˈtomɑɑtˌtisiˌpulisɑˌlɑɑtti/[/m]
 
 tomaattisose
 	[m1]/ˈtomɑɑtˌtisose/[/m]
@@ -238421,9 +235118,6 @@ tonaliteetti
 tongit
 	[m1]/ˈ[i]~[/i]/[/m]
 
-tonic water
-	[m1]/ˈtonic[/m]
-
 tonikki
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -238493,6 +235187,9 @@ tonttipolitiikka
 tonttu
 	[m1]/ˈ[i]~[/i]/[/m]
 
+tonttu-ukko
+	[m1]/ˈtonttuukko/[/m]
+
 tonttuilla
 	[m1]/ˈtonttuillɑ/[/m]
 
@@ -238513,9 +235210,6 @@ tonttupuku
 
 tonttutyttö
 	[m1]/ˈtonttuˌtyttø/[/m]
-
-tonttu-ukko
-	[m1]/ˈtonttuukko/[/m]
 
 tonus
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -238549,9 +235243,6 @@ topakka
 
 topakkuus
 	[m1]/ˈtopɑkkuus/[/m]
-
-topata
-	[m1]/ˈtopɑtɑ/[/m]
 
 topata
 	[m1]/ˈtopɑtɑ/[/m]
@@ -238615,9 +235306,6 @@ toppatäkki
 
 toppaus
 	[m1]/ˈtoppɑus/[/m]
-
-toppi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 toppi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -238778,9 +235466,6 @@ torni
 tornikello
 	[m1]/ˈtorniˌkello/[/m]
 
--torninen
-	[m1]/ˈtorninen/[/m]
-
 torninosturi
 	[m1]/ˈtorniˌnosturi/[/m]
 
@@ -238909,12 +235594,6 @@ torvisoitto
 
 torvisoittokunta
 	[m1]/ˈtorviˌsoittoˌkuntɑ/[/m]
-
-toscakakku
-	[m1]/ˈtoscɑˌkɑkku/[/m]
-
-toscaleivos
-	[m1]/ˈtoscɑˌleivos/[/m]
 
 tosi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -239351,12 +236030,6 @@ toveruussuhde
 tovi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-T-paita
-	[m1]/ˈtpɑitɑ/[/m]
-
-T-palkki
-	[m1]/ˈtpɑlkki/[/m]
-
 traagikko
 	[m1]/ˈtrɑɑgikko/[/m]
 
@@ -239446,9 +236119,6 @@ trampata
 
 trampoliini
 	[m1]/ˈtrɑmpoˌliini/[/m]
-
-trance
-	[m1]/ˈtrɑnce/[/m]
 
 transeerata
 	[m1]/ˈtrɑnseeˌrɑtɑ/[/m]
@@ -239654,9 +236324,6 @@ treffit
 tremolo
 	[m1]/ˈ[i]~[/i]/[/m]
 
-trenchcoat
-	[m1]/ˈtrenchcoɑt/[/m]
-
 trendi
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -239779,9 +236446,6 @@ trippimittari
 
 triptyykki
 	[m1]/ˈ[i]~[/i]/[/m]
-
-T-risteys
-	[m1]/ˈtristeys/[/m]
 
 triumfi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -239967,7 +236631,7 @@ tsekata
 	[m1]/ˈtsekɑtɑ/[/m]
 
 tšekin kieli
-	[m1]/ˈtšekin[/m]
+	[m1]/ˈtšekin ˈkieli/[/m]
 
 tšekinmaalainen
 	[m1]/ˈtšekinˌmɑɑlɑinen/[/m]
@@ -239997,7 +236661,7 @@ tšetšeeni
 	[m1]/ˈ[i]~[/i]/[/m]
 
 tšetšeenin kieli
-	[m1]/ˈtšetšeenin[/m]
+	[m1]/ˈtšetšeenin ˈkieli/[/m]
 
 tsetsekärpänen
 	[m1]/ˈtsetseˌkærpænen/[/m]
@@ -240794,9 +237458,6 @@ tukivarsi
 tukka
 	[m1]/ˈtukkɑ/[/m]
 
--tukkainen
-	[m1]/ˈtukkɑinen/[/m]
-
 tukkakoskelo
 	[m1]/ˈtukkɑˌkoskelo/[/m]
 
@@ -240916,9 +237577,6 @@ tukkisuma
 
 tukkityö
 	[m1]/ˈtukkityø/[/m]
-
-tukko
-	[m1]/ˈ[i]~[/i]/[/m]
 
 tukko
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -241085,6 +237743,9 @@ tulevaisuus
 tuli
 	[m1]/ˈ[i]~[/i]/[/m]
 
+tuli-isku
+	[m1]/ˈtuliisku/[/m]
+
 tuliainen
 	[m1]/ˈtuliˌɑinen/[/m]
 
@@ -241099,9 +237760,6 @@ tuliase
 
 tuliasema
 	[m1]/ˈtuliˌɑsemɑ/[/m]
-
-tuli-isku
-	[m1]/ˈtuliisku/[/m]
 
 tulija
 	[m1]/ˈtulijɑ/[/m]
@@ -241319,12 +237977,6 @@ tulkinta
 tulkintaerimielisyys
 	[m1]/ˈtulkinˌtɑeriˌmielisyys/[/m]
 
--tulkintainen
-	[m1]/ˈtulkinˌtɑinen/[/m]
-
--tulkintaisuus
-	[m1]/ˈtulkinˌtɑisuus/[/m]
-
 tulkintakysymys
 	[m1]/ˈtulkinˌtɑkyˌsymys/[/m]
 
@@ -241345,9 +237997,6 @@ tulkka
 
 tulkkaus
 	[m1]/ˈtulkkɑus/[/m]
-
-tulkki
-	[m1]/ˈ[i]~[/i]/[/m]
 
 tulkki
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -241508,9 +238157,6 @@ tuloerä
 tuloilma
 	[m1]/ˈtuloilmɑ/[/m]
 
--tuloinen
-	[m1]/ˈtuloinen/[/m]
-
 tulokas
 	[m1]/ˈtulokɑs/[/m]
 
@@ -241540,9 +238186,6 @@ tuloksellisuus
 
 tulokseton
 	[m1]/ˈtulokˌseton/[/m]
-
--tuloksinen
-	[m1]/ˈtulokˌsinen/[/m]
 
 tuloloukku
 	[m1]/ˈtuloloˌukku/[/m]
@@ -241760,9 +238403,6 @@ tulvia
 tuma
 	[m1]/ˈtumɑ/[/m]
 
--tumainen
-	[m1]/ˈtumɑinen/[/m]
-
 tumake
 	[m1]/ˈtumɑke/[/m]
 
@@ -241973,14 +238613,14 @@ tunnari
 tunne
 	[m1]/ˈ[i]~[/i]/[/m]
 
+tunne-elämä
+	[m1]/ˈtunneeˌlæmæ/[/m]
+
 tunnearvo
 	[m1]/ˈtunneˌɑrvo/[/m]
 
 tunneasia
 	[m1]/ˈtunneˌɑsiɑ/[/m]
-
-tunne-elämä
-	[m1]/ˈtunneeˌlæmæ/[/m]
 
 tunneherkkyys
 	[m1]/ˈtunneˌherkkyys/[/m]
@@ -242035,9 +238675,6 @@ tunnelivarjo
 
 tunnelma
 	[m1]/ˈtunnelmɑ/[/m]
-
--tunnelmainen
-	[m1]/ˈtunnelˌmɑinen/[/m]
 
 tunnelmakuva
 	[m1]/ˈtunnelˌmɑkuvɑ/[/m]
@@ -242363,15 +239000,6 @@ tunteilla
 tunteilu
 	[m1]/ˈ[i]~[/i]/[/m]
 
--tunteinen
-	[m1]/ˈtunteinen/[/m]
-
--tunteisesti
-	[m1]/ˈtunteiˌsesti/[/m]
-
--tunteisuus
-	[m1]/ˈtunteisuus/[/m]
-
 tuntematon
 	[m1]/ˈtunteˌmɑton/[/m]
 
@@ -242410,9 +239038,6 @@ tuntimaksu
 
 tuntimäärä
 	[m1]/ˈtuntiˌmææræ/[/m]
-
--tuntinen
-	[m1]/ˈtuntinen/[/m]
 
 tuntinopeus
 	[m1]/ˈtuntiˌnopeus/[/m]
@@ -242455,15 +239080,6 @@ tuntoelin
 
 tuntohermo
 	[m1]/ˈtuntoˌhermo/[/m]
-
--tuntoinen
-	[m1]/ˈtuntoinen/[/m]
-
--tuntoisesti
-	[m1]/ˈtuntoiˌsesti/[/m]
-
--tuntoisuus
-	[m1]/ˈtuntoisuus/[/m]
 
 tuntokasvi
 	[m1]/ˈtuntoˌkɑsvi/[/m]
@@ -243170,6 +239786,9 @@ tuotannontekijä
 tuotanto
 	[m1]/ˈtuotɑnto/[/m]
 
+tuotanto-osuuskunta
+	[m1]/ˈtuotɑnˌtoosuusˌkuntɑ/[/m]
+
 tuotantoala
 	[m1]/ˈtuotɑnˌtoɑlɑ/[/m]
 
@@ -243184,9 +239803,6 @@ tuotantohuippu
 
 tuotantohyödyke
 	[m1]/ˈtuotɑntoˌhyødyke/[/m]
-
--tuotantoinen
-	[m1]/ˈtuotɑnˌtoinen/[/m]
 
 tuotantojalostus
 	[m1]/ˈtuotɑnˌtojɑˌlostus/[/m]
@@ -243226,9 +239842,6 @@ tuotantolaitos
 
 tuotantolinja
 	[m1]/ˈtuotɑntoˌlinjɑ/[/m]
-
-tuotanto-osuuskunta
-	[m1]/ˈtuotɑnˌtoosuusˌkuntɑ/[/m]
 
 tuotantopalkkio
 	[m1]/ˈtuotɑntoˌpɑlkkio/[/m]
@@ -243391,9 +240004,6 @@ tuotto
 
 tuottoarvo
 	[m1]/ˈtuottoˌɑrvo/[/m]
-
--tuottoinen
-	[m1]/ˈtuottoinen/[/m]
 
 tuottoisa
 	[m1]/ˈtuottoisɑ/[/m]
@@ -243716,9 +240326,6 @@ tupsupää
 tupsuttaa
 	[m1]/ˈtupsuttɑɑ/[/m]
 
-tupsuttaa
-	[m1]/ˈtupsuttɑɑ/[/m]
-
 tupsutus
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -243851,17 +240458,17 @@ turistaa
 turisti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-turistibussi
-	[m1]/ˈturistiˌbussi/[/m]
-
-turistihotelli
-	[m1]/ˈturisˌtihoˌtelli/[/m]
-
 turisti-informaatio
 	[m1]/ˈturisˌtiinforˌmɑɑtio/[/m]
 
 turisti-informaatiotaulu
 	[m1]/ˈturisˌtiinforˌmɑɑtioˌtɑulu/[/m]
+
+turistibussi
+	[m1]/ˈturistiˌbussi/[/m]
+
+turistihotelli
+	[m1]/ˈturisˌtihoˌtelli/[/m]
 
 turistikausi
 	[m1]/ˈturistiˌkɑusi/[/m]
@@ -243918,7 +240525,7 @@ turkasesti
 	[m1]/ˈturkɑˌsesti/[/m]
 
 turkin kieli
-	[m1]/ˈturkin[/m]
+	[m1]/ˈturkin ˈkieli/[/m]
 
 turkinkielinen
 	[m1]/ˈturkinˌkielinen/[/m]
@@ -243995,12 +240602,6 @@ turkistuottaja
 turkki
 	[m1]/ˈ[i]~[/i]/[/m]
 
-turkki
-	[m1]/ˈ[i]~[/i]/[/m]
-
-turkki
-	[m1]/ˈ[i]~[/i]/[/m]
-
 turkkilainen
 	[m1]/ˈturkkiˌlɑinen/[/m]
 
@@ -244009,9 +240610,6 @@ turkkiliivi
 
 turkkilo
 	[m1]/ˈ[i]~[/i]/[/m]
-
--turkkinen
-	[m1]/ˈturkkinen/[/m]
 
 turkkuri
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -244115,14 +240713,8 @@ turo
 turpa
 	[m1]/ˈturpɑ/[/m]
 
-turpa
-	[m1]/ˈturpɑ/[/m]
-
 turpahöylä
 	[m1]/ˈturpɑˌhøylæ/[/m]
-
--turpainen
-	[m1]/ˈturpɑinen/[/m]
 
 turpajouhi
 	[m1]/ˈturpɑˌjouhi/[/m]
@@ -244937,9 +241529,6 @@ tuttavuussuhde
 tutti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-tutti
-	[m1]/ˈ[i]~[/i]/[/m]
-
 tuttipullo
 	[m1]/ˈtuttiˌpullo/[/m]
 
@@ -245357,9 +241946,6 @@ tuultua
 tuuma
 	[m1]/ˈtuumɑ/[/m]
 
-tuuma
-	[m1]/ˈtuumɑ/[/m]
-
 tuumailla
 	[m1]/ˈtuumɑillɑ/[/m]
 
@@ -245367,9 +241953,6 @@ tuumailu
 	[m1]/ˈtuumɑilu/[/m]
 
 tuumainen
-	[m1]/ˈtuumɑinen/[/m]
-
--tuumainen
 	[m1]/ˈtuumɑinen/[/m]
 
 tuumakoko
@@ -245429,9 +242012,6 @@ tuuraaja
 tuurata
 	[m1]/ˈtuurɑtɑ/[/m]
 
-tuurata
-	[m1]/ˈtuurɑtɑ/[/m]
-
 tuuri
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -245477,6 +242057,9 @@ tuututtaa
 tv
 	[m1]/[i]~[/i]/[/m]
 
+tvilli
+	[m1]/ˈ[i]~[/i]/[/m]
+
 tweed
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -245491,9 +242074,6 @@ tweedkankainen
 
 tweedtakki
 	[m1]/ˈtweedtɑkki/[/m]
-
-tvilli
-	[m1]/ˈ[i]~[/i]/[/m]
 
 twist
 	[m1]/[i]~[/i]/[/m]
@@ -245738,9 +242318,6 @@ tykitys
 tykki
 	[m1]/ˈ[i]~[/i]/[/m]
 
-tykki
-	[m1]/ˈ[i]~[/i]/[/m]
-
 tykkilumi
 	[m1]/ˈtykkiˌlumi/[/m]
 
@@ -245806,9 +242383,6 @@ tyköä
 
 tyllerö
 	[m1]/ˈtyllerø/[/m]
-
-tylli
-	[m1]/ˈ[i]~[/i]/[/m]
 
 tylli
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -246455,17 +243029,11 @@ tyventyä
 tyvetä
 	[m1]/ˈtyvetæ/[/m]
 
-tyvetä
-	[m1]/ˈtyvetæ/[/m]
-
 tyveys
 	[m1]/ˈ[i]~[/i]/[/m]
 
 tyvi
 	[m1]/ˈ[i]~[/i]/[/m]
-
--tyvinen
-	[m1]/ˈtyvinen/[/m]
 
 tyvipuoli
 	[m1]/ˈtyviˌpuoli/[/m]
@@ -248267,9 +244835,6 @@ täikärpänen
 täkki
 	[m1]/ˈtækki/[/m]
 
-täkki
-	[m1]/ˈtækki/[/m]
-
 täky
 	[m1]/ˈtæky/[/m]
 
@@ -248804,6 +245369,12 @@ täysautomaattinen
 täysi
 	[m1]/ˈtæysi/[/m]
 
+täysi-ikäinen
+	[m1]/ˈtæysiiˌkæinen/[/m]
+
+täysi-ikäisyys
+	[m1]/ˈtæysiiˌkæisyys/[/m]
+
 täysiaikainen
 	[m1]/ˈtæysiˌɑikɑinen/[/m]
 
@@ -248818,12 +245389,6 @@ täysihoitola
 
 täysihoitolainen
 	[m1]/ˈtæysiˌhoitoˌlɑinen/[/m]
-
-täysi-ikäinen
-	[m1]/ˈtæysiiˌkæinen/[/m]
-
-täysi-ikäisyys
-	[m1]/ˈtæysiiˌkæisyys/[/m]
 
 täysijärkinen
 	[m1]/ˈtæysiˌjærkinen/[/m]
@@ -249281,9 +245846,6 @@ töhräytyä
 töhrääntyä
 	[m1]/ˈtøhræænˌtyæ/[/m]
 
--töinen
-	[m1]/ˈtøinen/[/m]
-
 tökerö
 	[m1]/ˈtøkerø/[/m]
 
@@ -249734,6 +246296,15 @@ töötätä
 töötöttää
 	[m1]/ˈtøøtøttææ/[/m]
 
+U-käännös
+	[m1]/ˈukæænnøs/[/m]
+
+U-laakso
+	[m1]/ˈulɑɑkso/[/m]
+
+U-palkki
+	[m1]/ˈupɑlkki/[/m]
+
 ubikinoni
 	[m1]/ˈubiˌkinoni/[/m]
 
@@ -249744,7 +246315,7 @@ udella
 	[m1]/ˈudellɑ/[/m]
 
 udmurtin kieli
-	[m1]/ˈudmurtin[/m]
+	[m1]/ˈudmurtin ˈkieli/[/m]
 
 udmurtti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -250452,7 +247023,7 @@ ukrainalainen
 	[m1]/ˈukrɑinɑˌlɑinen/[/m]
 
 ukrainan kieli
-	[m1]/ˈukrɑinɑn[/m]
+	[m1]/ˈukrɑinɑn ˈkieli/[/m]
 
 uksi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -250463,17 +247034,11 @@ ukulele
 ukuli
 	[m1]/ˈ[i]~[/i]/[/m]
 
-U-käännös
-	[m1]/ˈukæænnøs/[/m]
-
 ula
 	[m1]/ˈulɑ/[/m]
 
 ula-aallot
 	[m1]/ˈulɑɑˌɑllot/[/m]
-
-U-laakso
-	[m1]/ˈulɑɑkso/[/m]
 
 ula-alue
 	[m1]/ˈulɑɑˌlue/[/m]
@@ -250522,6 +247087,12 @@ uljuus
 
 ulko-
 	[m1]/ˈulko/[/m]
+
+ulko-osa
+	[m1]/ˈulkoosɑ/[/m]
+
+ulko-ovi
+	[m1]/ˈulkoovi/[/m]
 
 ulkoa
 	[m1]/ˈulkoɑ/[/m]
@@ -250949,12 +247520,6 @@ ulkonurkka
 ulkonäkö
 	[m1]/ˈulkoˌnækø/[/m]
 
-ulko-osa
-	[m1]/ˈulkoosɑ/[/m]
-
-ulko-ovi
-	[m1]/ˈulkoovi/[/m]
-
 ulkopaikallissija
 	[m1]/ˈulkoˌpɑikɑlˌlissijɑ/[/m]
 
@@ -251281,9 +247846,6 @@ ulottautua
 
 ulotteikas
 	[m1]/ˈulotˌteikɑs/[/m]
-
--ulotteinen
-	[m1]/ˈulotˌteinen/[/m]
 
 ulotteisuus
 	[m1]/ˈulotˌteisuus/[/m]
@@ -251714,6 +248276,9 @@ unhottua
 uni
 	[m1]/ˈ[i]~[/i]/[/m]
 
+uni-valverytmi
+	[m1]/ˈuniˌvɑlveˌrytmi/[/m]
+
 uniaattikirkko
 	[m1]/ˈuniˌɑɑttiˌkirkko/[/m]
 
@@ -251816,9 +248381,6 @@ unitila
 unitutkimus
 	[m1]/ˈuniˌtutkimus/[/m]
 
-uni-valverytmi
-	[m1]/ˈuniˌvɑlveˌrytmi/[/m]
-
 univelka
 	[m1]/ˈuniˌvelkɑ/[/m]
 
@@ -251853,7 +248415,7 @@ unkarilainen
 	[m1]/ˈunkɑriˌlɑinen/[/m]
 
 unkarin kieli
-	[m1]/ˈunkɑrin[/m]
+	[m1]/ˈunkɑrin ˈkieli/[/m]
 
 unkarinkielinen
 	[m1]/ˈunkɑrinˌkielinen/[/m]
@@ -251948,9 +248510,6 @@ untuvikko
 uoma
 	[m1]/ˈuomɑ/[/m]
 
-U-palkki
-	[m1]/ˈupɑlkki/[/m]
-
 upea
 	[m1]/ˈupeɑ/[/m]
 
@@ -252032,6 +248591,9 @@ uppiniskaisuus
 uppista
 	[m1]/ˈuppistɑ/[/m]
 
+uppo-outo
+	[m1]/ˈuppooˌuto/[/m]
+
 uppoama
 	[m1]/ˈuppoˌɑmɑ/[/m]
 
@@ -252055,9 +248617,6 @@ uppolukko
 
 uppomuna
 	[m1]/ˈuppoˌmunɑ/[/m]
-
-uppo-outo
-	[m1]/ˈuppooˌuto/[/m]
 
 uppopaistaa
 	[m1]/ˈuppoˌpɑistɑɑ/[/m]
@@ -252281,6 +248840,9 @@ urheilla
 urheilu
 	[m1]/ˈ[i]~[/i]/[/m]
 
+urheilu-uutinen
+	[m1]/ˈurheiˌluuuˌtinen/[/m]
+
 urheiluammunta
 	[m1]/ˈurheiluˌɑmmuntɑ/[/m]
 
@@ -252457,9 +249019,6 @@ urheilutoimittaja
 
 urheilutoimitus
 	[m1]/ˈurheiluˌtoimitus/[/m]
-
-urheilu-uutinen
-	[m1]/ˈurheiˌluuuˌtinen/[/m]
 
 urheiluvalmennus
 	[m1]/ˈurheiluˌvɑlmennus/[/m]
@@ -252664,15 +249223,6 @@ usko
 
 uskoa
 	[m1]/ˈuskoɑ/[/m]
-
--uskoinen
-	[m1]/ˈuskoinen/[/m]
-
--uskoisesti
-	[m1]/ˈuskoiˌsesti/[/m]
-
--uskoisuus
-	[m1]/ˈuskoisuus/[/m]
 
 uskollinen
 	[m1]/ˈuskolˌlinen/[/m]
@@ -253631,6 +250181,18 @@ uuvutustaktiikka
 uveavanto
 	[m1]/ˈuveɑˌvɑnto/[/m]
 
+V-aukko
+	[m1]/ˈvɑukko/[/m]
+
+V-moottori
+	[m1]/ˈvmoottori/[/m]
+
+V-pääntie
+	[m1]/ˈvpææntie/[/m]
+
+V-tyyli
+	[m1]/ˈvtyyli/[/m]
+
 vaa'ankieli
 	[m1]/ˈvɑɑɑnˌkieli/[/m]
 
@@ -254084,12 +250646,6 @@ vaaputus
 vaara
 	[m1]/ˈvɑɑrɑ/[/m]
 
-vaara
-	[m1]/ˈvɑɑrɑ/[/m]
-
-vaara-alue
-	[m1]/ˈvɑɑrɑɑˌlue/[/m]
-
 vaara-alue
 	[m1]/ˈvɑɑrɑɑˌlue/[/m]
 
@@ -254146,9 +250702,6 @@ vaarattomuus
 
 vaaravyöhyke
 	[m1]/ˈvɑɑrɑˌvyøhyke/[/m]
-
-vaari
-	[m1]/ˈvɑɑri/[/m]
 
 vaari
 	[m1]/ˈvɑɑri/[/m]
@@ -254356,9 +250909,6 @@ vaativasti
 
 vaativuus
 	[m1]/ˈvɑɑtivuus/[/m]
-
--vaatteinen
-	[m1]/ˈvɑɑtteinen/[/m]
 
 vaatturi
 	[m1]/ˈvɑɑtturi/[/m]
@@ -254654,9 +251204,6 @@ vahvike
 vahvikerauta
 	[m1]/ˈvɑhvikeˌrɑutɑ/[/m]
 
--vahvikkeinen
-	[m1]/ˈvɑhvikˌkeinen/[/m]
-
 vahvistaa
 	[m1]/ˈvɑhvistɑɑ/[/m]
 
@@ -254668,9 +251215,6 @@ vahvistamaton
 
 vahviste
 	[m1]/ˈvɑhviste/[/m]
-
--vahvisteinen
-	[m1]/ˈvɑhvisˌteinen/[/m]
 
 vahvistin
 	[m1]/ˈvɑhvistin/[/m]
@@ -254771,9 +251315,6 @@ vaiheikas
 vaiheikkuus
 	[m1]/ˈvɑiheikkuus/[/m]
 
--vaiheinen
-	[m1]/ˈvɑiheinen/[/m]
-
 vaiheistaa
 	[m1]/ˈvɑiheistɑɑ/[/m]
 
@@ -254813,9 +251354,6 @@ vaihtaa
 vaihtaja
 	[m1]/ˈvɑihtɑjɑ/[/m]
 
--vaihteinen
-	[m1]/ˈvɑihteinen/[/m]
-
 vaihteisto
 	[m1]/ˈvɑihteisto/[/m]
 
@@ -254842,6 +251380,15 @@ vaihteluväli
 
 vaihto
 	[m1]/ˈvɑihto/[/m]
+
+vaihto-oikeus
+	[m1]/ˈvɑihtooˌikeus/[/m]
+
+vaihto-omaisuus
+	[m1]/ˈvɑihtooˌmɑisuus/[/m]
+
+vaihto-oppilas
+	[m1]/ˈvɑihtoopˌpilɑs/[/m]
 
 vaihtoaitio
 	[m1]/ˈvɑihtoˌɑitio/[/m]
@@ -254905,15 +251452,6 @@ vaihtolämpöinen
 
 vaihtomies
 	[m1]/ˈvɑihtomies/[/m]
-
-vaihto-oikeus
-	[m1]/ˈvɑihtooˌikeus/[/m]
-
-vaihto-omaisuus
-	[m1]/ˈvɑihtooˌmɑisuus/[/m]
-
-vaihto-oppilas
-	[m1]/ˈvɑihtoopˌpilɑs/[/m]
 
 vaihtopelaaja
 	[m1]/ˈvɑihtopeˌlɑɑjɑ/[/m]
@@ -255110,20 +251648,8 @@ vaikuttavasti
 vaikuttavuus
 	[m1]/ˈvɑikutˌtɑvuus/[/m]
 
--vaikutteinen
-	[m1]/ˈvɑikutˌteinen/[/m]
-
--vaikutteisesti
-	[m1]/ˈvɑikutˌteisesti/[/m]
-
--vaikutteisuus
-	[m1]/ˈvɑikutˌteisuus/[/m]
-
 vaikuttua
 	[m1]/ˈvɑikutˌtuɑ/[/m]
-
--vaikutuksinen
-	[m1]/ˈvɑikuˌtuksinen/[/m]
 
 vaikutus
 	[m1]/ˈvɑikutus/[/m]
@@ -255269,9 +251795,6 @@ vainovalkea
 vainu
 	[m1]/ˈvɑinu/[/m]
 
--vainuinen
-	[m1]/ˈvɑinuinen/[/m]
-
 vainukoira
 	[m1]/ˈvɑinuˌkoirɑ/[/m]
 
@@ -255293,9 +251816,6 @@ vaippaihottuma
 vaippaikäinen
 	[m1]/ˈvɑippɑiˌkæinen/[/m]
 
--vaippainen
-	[m1]/ˈvɑippɑinen/[/m]
-
 vaippaluoti
 	[m1]/ˈvɑippɑˌluoti/[/m]
 
@@ -255310,15 +251830,6 @@ vaisto
 
 vaistoammunta
 	[m1]/ˈvɑistoˌɑmmuntɑ/[/m]
-
--vaistoinen
-	[m1]/ˈvɑistoinen/[/m]
-
--vaistoisesti
-	[m1]/ˈvɑistoiˌsesti/[/m]
-
--vaistoisuus
-	[m1]/ˈvɑistoisuus/[/m]
 
 vaistomainen
 	[m1]/ˈvɑistoˌmɑinen/[/m]
@@ -255368,11 +251879,11 @@ vaiti
 vaitiolo
 	[m1]/ˈvɑitiˌolo/[/m]
 
-vaitiololupaus
-	[m1]/ˈvɑitiˌoloˌlupɑus/[/m]
-
 vaitiolo-oikeus
 	[m1]/ˈvɑitioˌlooiˌkeus/[/m]
+
+vaitiololupaus
+	[m1]/ˈvɑitiˌoloˌlupɑus/[/m]
 
 vaitiolovelvollinen
 	[m1]/ˈvɑitiˌoloˌvelvolˌlinen/[/m]
@@ -255692,14 +252203,8 @@ vakaumussyy
 vakaus
 	[m1]/ˈvɑkɑus/[/m]
 
-vakaus
-	[m1]/ˈvɑkɑus/[/m]
-
 vakausleima
 	[m1]/ˈvɑkɑusˌleimɑ/[/m]
-
-vakauttaa
-	[m1]/ˈvɑkɑˌuttɑɑ/[/m]
 
 vakauttaa
 	[m1]/ˈvɑkɑˌuttɑɑ/[/m]
@@ -256274,9 +252779,6 @@ valas
 valaskala
 	[m1]/ˈvɑlɑsˌkɑlɑ/[/m]
 
-waldorfinsalaatti
-	[m1]/ˈwɑldorˌfinsɑˌlɑɑtti/[/m]
-
 vale
 	[m1]/ˈvɑle/[/m]
 
@@ -256435,9 +252937,6 @@ valinnanvarainen
 
 valinta
 	[m1]/ˈvɑlintɑ/[/m]
-
--valintainen
-	[m1]/ˈvɑlinˌtɑinen/[/m]
 
 valintakoe
 	[m1]/ˈvɑlinˌtɑkoe/[/m]
@@ -256685,6 +253184,9 @@ valkkaus
 valkki
 	[m1]/ˈvɑlkki/[/m]
 
+valko-sinihomejuusto
+	[m1]/ˈvɑlkoˌsiniˌhomeˌjuusto/[/m]
+
 valkoapila
 	[m1]/ˈvɑlkoˌɑpilɑ/[/m]
 
@@ -256796,9 +253298,6 @@ valkopälvisyys
 valkoselkätikka
 	[m1]/ˈvɑlkoˌselkæˌtikkɑ/[/m]
 
-valko-sinihomejuusto
-	[m1]/ˈvɑlkoˌsiniˌhomeˌjuusto/[/m]
-
 valkosipuli
 	[m1]/ˈvɑlkoˌsipuli/[/m]
 
@@ -256845,7 +253344,7 @@ valkovenäjä
 	[m1]/ˈvɑlkoˌvenæjæ/[/m]
 
 valkovenäjän kieli
-	[m1]/ˈvɑlkoˌvenæjæn[/m]
+	[m1]/ˈvɑlkoˌvenæjæn ˈkieli/[/m]
 
 valkovenäläinen
 	[m1]/ˈvɑlkoˌvenæˌlæinen/[/m]
@@ -256876,9 +253375,6 @@ valkuaisainepitoinen
 
 valkuaisainepitoisuus
 	[m1]/ˈvɑlkuˌɑisɑiˌnepiˌtoisuus/[/m]
-
--valkuaisinen
-	[m1]/ˈvɑlkuˌɑisinen/[/m]
 
 valkuaisköyhä
 	[m1]/ˈvɑlkuˌɑiskøyhæ/[/m]
@@ -257165,9 +253661,6 @@ valmisteilla
 valmisteille
 	[m1]/ˈvɑlmisˌteille/[/m]
 
--valmisteinen
-	[m1]/ˈvɑlmisˌteinen/[/m]
-
 valmistelija
 	[m1]/ˈvɑlmisˌtelijɑ/[/m]
 
@@ -257288,6 +253781,24 @@ valmuska
 valo
 	[m1]/ˈvɑlo/[/m]
 
+valo-ohjattu
+	[m1]/ˈvɑloohˌjɑttu/[/m]
+
+valo-ohjauksinen
+	[m1]/ˈvɑloohjɑˌuksinen/[/m]
+
+valo-ohjaus
+	[m1]/ˈvɑloohˌjɑus/[/m]
+
+valo-opaste
+	[m1]/ˈvɑlooˌpɑste/[/m]
+
+valo-opastin
+	[m1]/ˈvɑlooˌpɑstin/[/m]
+
+valo-oppi
+	[m1]/ˈvɑlooppi/[/m]
+
 valoaallot
 	[m1]/ˈvɑloˌɑɑllot/[/m]
 
@@ -257399,11 +253910,11 @@ valokuitukaapeli
 valokuva
 	[m1]/ˈvɑloˌkuvɑ/[/m]
 
-valokuvaaja
-	[m1]/ˈvɑlokuˌvɑɑjɑ/[/m]
-
 valokuva-albumi
 	[m1]/ˈvɑlokuˌvɑɑlbumi/[/m]
+
+valokuvaaja
+	[m1]/ˈvɑlokuˌvɑɑjɑ/[/m]
 
 valokuvaamo
 	[m1]/ˈvɑlokuˌvɑɑmo/[/m]
@@ -257579,24 +254090,6 @@ valonsäteily
 valonvälähdys
 	[m1]/ˈvɑlonvæˌlæhdys/[/m]
 
-valo-ohjattu
-	[m1]/ˈvɑloohˌjɑttu/[/m]
-
-valo-ohjauksinen
-	[m1]/ˈvɑloohjɑˌuksinen/[/m]
-
-valo-ohjaus
-	[m1]/ˈvɑloohˌjɑus/[/m]
-
-valo-opaste
-	[m1]/ˈvɑlooˌpɑste/[/m]
-
-valo-opastin
-	[m1]/ˈvɑlooˌpɑstin/[/m]
-
-valo-oppi
-	[m1]/ˈvɑlooppi/[/m]
-
 valopakoinen
 	[m1]/ˈvɑlopɑˌkoinen/[/m]
 
@@ -257732,12 +254225,6 @@ valssain
 valssata
 	[m1]/ˈvɑlssɑtɑ/[/m]
 
-valssata
-	[m1]/ˈvɑlssɑtɑ/[/m]
-
-valssaus
-	[m1]/ˈvɑlssɑus/[/m]
-
 valssaus
 	[m1]/ˈvɑlssɑus/[/m]
 
@@ -257746,9 +254233,6 @@ valssauskone
 
 valssauslaitos
 	[m1]/ˈvɑlssɑusˌlɑitos/[/m]
-
-valssi
-	[m1]/ˈvɑlssi/[/m]
 
 valssi
 	[m1]/ˈvɑlssi/[/m]
@@ -257764,6 +254248,9 @@ valta
 
 valta-
 	[m1]/ˈvɑltɑ/[/m]
+
+valta-asema
+	[m1]/ˈvɑltɑɑˌsemɑ/[/m]
 
 valtaaja
 	[m1]/ˈvɑltɑɑjɑ/[/m]
@@ -257783,16 +254270,10 @@ valtaantulo
 valtaapitävä
 	[m1]/ˈvɑltɑɑˌpitævæ/[/m]
 
-valta-asema
-	[m1]/ˈvɑltɑɑˌsemɑ/[/m]
-
 valtaenemmistö
 	[m1]/ˈvɑltɑeˌnemmistø/[/m]
 
 valtainen
-	[m1]/ˈvɑltɑinen/[/m]
-
--valtainen
 	[m1]/ˈvɑltɑinen/[/m]
 
 valtaisa
@@ -257800,9 +254281,6 @@ valtaisa
 
 valtaisasti
 	[m1]/ˈvɑltɑiˌsɑsti/[/m]
-
--valtaisesti
-	[m1]/ˈvɑltɑiˌsesti/[/m]
 
 valtaistuin
 	[m1]/ˈvɑltɑistuin/[/m]
@@ -257993,6 +254471,12 @@ valtimoveri
 valtio
 	[m1]/ˈvɑltio/[/m]
 
+valtio-oikeus
+	[m1]/ˈvɑltiˌooikeus/[/m]
+
+valtio-oppi
+	[m1]/ˈvɑltiˌooppi/[/m]
+
 valtioelin
 	[m1]/ˈvɑltiˌoelin/[/m]
 
@@ -258124,12 +254608,6 @@ valtionverotus
 
 valtionyhtiö
 	[m1]/ˈvɑltioˌnyhtiø/[/m]
-
-valtio-oikeus
-	[m1]/ˈvɑltiˌooikeus/[/m]
-
-valtio-oppi
-	[m1]/ˈvɑltiˌooppi/[/m]
 
 valtiopetos
 	[m1]/ˈvɑltiˌopetos/[/m]
@@ -258794,9 +255272,6 @@ Vankeinhoitolaitos
 vankeinhoitoviranomainen
 	[m1]/ˈvɑnkeinˌhoitoˌvirɑnoˌmɑinen/[/m]
 
-wankelmoottori
-	[m1]/ˈwɑnkelˌmoottori/[/m]
-
 vankennus
 	[m1]/ˈvɑnkennus/[/m]
 
@@ -259367,11 +255842,14 @@ vara
 vara-
 	[m1]/ˈvɑrɑ/[/m]
 
-varaaja
-	[m1]/ˈvɑrɑɑjɑ/[/m]
-
 vara-amiraali
 	[m1]/ˈvɑrɑɑmiˌrɑɑli/[/m]
+
+vara-avain
+	[m1]/ˈvɑrɑɑvɑin/[/m]
+
+varaaja
+	[m1]/ˈvɑrɑɑjɑ/[/m]
 
 varaamo
 	[m1]/ˈvɑrɑɑmo/[/m]
@@ -259381,9 +255859,6 @@ varaan
 
 varaani
 	[m1]/ˈvɑrɑɑni/[/m]
-
-vara-avain
-	[m1]/ˈvɑrɑɑvɑin/[/m]
 
 varahenkilö
 	[m1]/ˈvɑrɑˌhenkilø/[/m]
@@ -259402,12 +255877,6 @@ varainhoitokausi
 
 varainhoitovuosi
 	[m1]/ˈvɑrɑinˌhoitoˌvuosi/[/m]
-
--varaisesti
-	[m1]/ˈvɑrɑiˌsesti/[/m]
-
--varaisuus
-	[m1]/ˈvɑrɑisuus/[/m]
 
 varajohtaja
 	[m1]/ˈvɑrɑˌjohtɑjɑ/[/m]
@@ -259843,9 +256312,6 @@ varho
 
 varhohöylä
 	[m1]/ˈvɑrhoˌhøylæ/[/m]
-
-vari
-	[m1]/ˈvɑri/[/m]
 
 vari
 	[m1]/ˈvɑri/[/m]
@@ -260297,9 +256763,6 @@ varpailleen
 varpaillenousu
 	[m1]/ˈvɑrpɑilleˌnousu/[/m]
 
--varpainen
-	[m1]/ˈvɑrpɑinen/[/m]
-
 varpaiset
 	[m1]/ˈvɑrpɑiset/[/m]
 
@@ -260426,9 +256889,6 @@ varsinaisesti
 varsinaissuomalainen
 	[m1]/ˈvɑrsiˌnɑissuomɑˌlɑinen/[/m]
 
--varsinen
-	[m1]/ˈvɑrsinen/[/m]
-
 varsinkaan
 	[m1]/ˈvɑrsinkɑɑn/[/m]
 
@@ -260459,11 +256919,11 @@ varsotus
 varsta
 	[m1]/ˈvɑrstɑ/[/m]
 
+varta vasten
+	[m1]/ˈvɑrtɑ ˈvɑsten/[/m]
+
 vartalo
 	[m1]/ˈvɑrtɑlo/[/m]
-
--vartaloinen
-	[m1]/ˈvɑrtɑˌloinen/[/m]
 
 vartalonmukainen
 	[m1]/ˈvɑrtɑˌlonmuˌkɑinen/[/m]
@@ -260476,9 +256936,6 @@ vartalotyyppi
 
 vartalovoide
 	[m1]/ˈvɑrtɑloˌvoide/[/m]
-
-varta vasten
-	[m1]/ˈvɑrtɑ[/m]
 
 vartavastinen
 	[m1]/ˈvɑrtɑˌvɑstinen/[/m]
@@ -260506,9 +256963,6 @@ vartevuus
 
 vartija
 	[m1]/ˈvɑrtijɑ/[/m]
-
--vartinen
-	[m1]/ˈvɑrtinen/[/m]
 
 vartio
 	[m1]/ˈvɑrtio/[/m]
@@ -260749,9 +257203,6 @@ varvusto
 
 varvuttua
 	[m1]/ˈvɑrvutˌtuɑ/[/m]
-
-vasa
-	[m1]/ˈvɑsɑ/[/m]
 
 vasa
 	[m1]/ˈvɑsɑ/[/m]
@@ -261002,9 +257453,6 @@ vasonta
 vasta
 	[m1]/ˈvɑstɑ/[/m]
 
-vasta
-	[m1]/ˈvɑstɑ/[/m]
-
 vasta-
 	[m1]/ˈvɑstɑ/[/m]
 
@@ -261020,14 +257468,17 @@ vasta-aiheinen
 vasta-aine
 	[m1]/ˈvɑstɑɑˌine/[/m]
 
+vasta-alkaja
+	[m1]/ˈvɑstɑɑlˌkɑjɑ/[/m]
+
+vasta-aurinko
+	[m1]/ˈvɑstɑɑuˌrinko/[/m]
+
 vastaaja
 	[m1]/ˈvɑstɑɑjɑ/[/m]
 
 vastaajapuoli
 	[m1]/ˈvɑstɑɑjɑˌpuoli/[/m]
-
-vasta-alkaja
-	[m1]/ˈvɑstɑɑlˌkɑjɑ/[/m]
 
 vastaamaton
 	[m1]/ˈvɑstɑɑˌmɑton/[/m]
@@ -261071,6 +257522,9 @@ vastaanottavuus
 vastaanotto
 	[m1]/ˈvɑstɑɑˌnotto/[/m]
 
+vastaanotto-osasto
+	[m1]/ˈvɑstɑɑnotˌtoosɑsto/[/m]
+
 vastaanottoapulainen
 	[m1]/ˈvɑstɑɑˌnottoˌɑpuˌlɑinen/[/m]
 
@@ -261091,9 +257545,6 @@ vastaanottokyky
 
 vastaanottokykyinen
 	[m1]/ˈvɑstɑɑˌnottokyˌkyinen/[/m]
-
-vastaanotto-osasto
-	[m1]/ˈvɑstɑɑnotˌtoosɑsto/[/m]
 
 vastaanottoseremonia
 	[m1]/ˈvɑstɑɑˌnottoˌsereˌmoniɑ/[/m]
@@ -261124,9 +257575,6 @@ vastaantulo
 
 vastaantulolaina
 	[m1]/ˈvɑstɑɑnˌtuloˌlɑinɑ/[/m]
-
-vasta-aurinko
-	[m1]/ˈvɑstɑɑuˌrinko/[/m]
 
 vastaava
 	[m1]/ˈvɑstɑɑvɑ/[/m]
@@ -261650,12 +258098,6 @@ vastoin
 vastoinkäyminen
 	[m1]/ˈvɑstoinˌkæyminen/[/m]
 
--vastuinen
-	[m1]/ˈvɑstuinen/[/m]
-
--vastuisesti
-	[m1]/ˈvɑstuiˌsesti/[/m]
-
 vastuksellinen
 	[m1]/ˈvɑstukˌsellinen/[/m]
 
@@ -261667,9 +258109,6 @@ vastuksellisuus
 
 vastukseton
 	[m1]/ˈvɑstukˌseton/[/m]
-
--vastuksinen
-	[m1]/ˈvɑstukˌsinen/[/m]
 
 vastus
 	[m1]/ˈvɑstus/[/m]
@@ -261816,7 +258255,7 @@ vatjalainen
 	[m1]/ˈvɑtjɑˌlɑinen/[/m]
 
 vatjan kieli
-	[m1]/ˈvɑtjɑn[/m]
+	[m1]/ˈvɑtjɑn ˈkieli/[/m]
 
 vatkaantua
 	[m1]/ˈvɑtkɑɑnˌtuɑ/[/m]
@@ -261859,9 +258298,6 @@ vatsahaava
 
 vatsahappo
 	[m1]/ˈvɑtsɑˌhɑppo/[/m]
-
--vatsainen
-	[m1]/ˈvɑtsɑinen/[/m]
 
 vatsakalvo
 	[m1]/ˈvɑtsɑˌkɑlvo/[/m]
@@ -261955,9 +258391,6 @@ vatsavaivainen
 
 vatti
 	[m1]/ˈvɑtti/[/m]
-
-watti
-	[m1]/ˈwɑtti/[/m]
 
 vattu
 	[m1]/ˈvɑttu/[/m]
@@ -262070,9 +258503,6 @@ vauhtikävely
 vauhtimäki
 	[m1]/ˈvɑuhˌtimæki/[/m]
 
--vauhtinen
-	[m1]/ˈvɑuhˌtinen/[/m]
-
 vauhtipyörä
 	[m1]/ˈvɑuhtiˌpyøræ/[/m]
 
@@ -262087,9 +258517,6 @@ vauhtisokea
 
 vauhtisokeus
 	[m1]/ˈvɑuhˌtisoˌkeus/[/m]
-
-V-aukko
-	[m1]/ˈvɑukko/[/m]
 
 vaunu
 	[m1]/ˈvɑunu/[/m]
@@ -262204,21 +258631,6 @@ vavistus
 
 vavisuttaa
 	[m1]/ˈvɑviˌsuttɑɑ/[/m]
-
-WC
-	[m1]/wc/[/m]
-
-WC-allas
-	[m1]/ˈwcɑllɑs/[/m]
-
-WC-istuin
-	[m1]/ˈwcistuin/[/m]
-
-WC-paperi
-	[m1]/ˈwcpɑperi/[/m]
-
-weber
-	[m1]/ˈ[i]~[/i]/[/m]
 
 vedekkyys
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -262586,9 +258998,6 @@ veikistely
 veikka
 	[m1]/ˈveikkɑ/[/m]
 
-veikka
-	[m1]/ˈveikkɑ/[/m]
-
 veikkaaja
 	[m1]/ˈveikkɑɑjɑ/[/m]
 
@@ -262747,9 +259156,6 @@ vekata
 
 veke
 	[m1]/ˈ[i]~[/i]/[/m]
-
-vekkari
-	[m1]/ˈvekkɑri/[/m]
 
 vekkari
 	[m1]/ˈvekkɑri/[/m]
@@ -263023,9 +259429,6 @@ velkomiskirje
 
 velkomus
 	[m1]/ˈ[i]~[/i]/[/m]
-
-wellerismi
-	[m1]/ˈwelleˌrismi/[/m]
 
 velli
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -263409,7 +259812,7 @@ venäjä
 	[m1]/ˈvenæjæ/[/m]
 
 venäjän kieli
-	[m1]/ˈvenæjæn[/m]
+	[m1]/ˈvenæjæn ˈkieli/[/m]
 
 venäjänkielinen
 	[m1]/ˈvenæjænˌkielinen/[/m]
@@ -263454,7 +259857,7 @@ vepsäläinen
 	[m1]/ˈvepsæˌlæinen/[/m]
 
 vepsän kieli
-	[m1]/ˈvepsæn[/m]
+	[m1]/ˈvepsæn ˈkieli/[/m]
 
 veranta
 	[m1]/ˈverɑntɑ/[/m]
@@ -263972,9 +260375,6 @@ verkkoallaskasvatus
 verkkohäkki
 	[m1]/ˈverkkoˌhækki/[/m]
 
--verkkoinen
-	[m1]/ˈverkkoinen/[/m]
-
 verkkojata
 	[m1]/ˈverkkoˌjɑtɑ/[/m]
 
@@ -264110,6 +260510,9 @@ vernissaus
 vero
 	[m1]/ˈ[i]~[/i]/[/m]
 
+vero-oikeus
+	[m1]/ˈverooˌikeus/[/m]
+
 veroaste
 	[m1]/ˈveroˌɑste/[/m]
 
@@ -264200,9 +260603,6 @@ veromuistutus
 veronalainen
 	[m1]/ˈveronɑˌlɑinen/[/m]
 
-veronalainen
-	[m1]/ˈveronɑˌlɑinen/[/m]
-
 veronalennus
 	[m1]/ˈveronɑˌlennus/[/m]
 
@@ -264265,9 +260665,6 @@ verontasausrahasto
 
 veronäyttely
 	[m1]/ˈveronæˌyttely/[/m]
-
-vero-oikeus
-	[m1]/ˈverooˌikeus/[/m]
 
 veropakolainen
 	[m1]/ˈveroˌpɑkoˌlɑinen/[/m]
@@ -265061,6 +261458,9 @@ vesioikeus
 vesipallo
 	[m1]/ˈvesiˌpɑllo/[/m]
 
+vesipallo-ottelu
+	[m1]/ˈvesipɑlˌloottelu/[/m]
+
 vesipalloilija
 	[m1]/ˈvesipɑlˌloilijɑ/[/m]
 
@@ -265069,9 +261469,6 @@ vesipalloilu
 
 vesipallojoukkue
 	[m1]/ˈvesiˌpɑllojoˌukkue/[/m]
-
-vesipallo-ottelu
-	[m1]/ˈvesipɑlˌloottelu/[/m]
 
 vesipata
 	[m1]/ˈvesiˌpɑtɑ/[/m]
@@ -265484,12 +261881,6 @@ vessapaperi
 vesseli
 	[m1]/ˈ[i]~[/i]/[/m]
 
-wessi
-	[m1]/ˈ[i]~[/i]/[/m]
-
-western
-	[m1]/ˈ[i]~[/i]/[/m]
-
 vesuri
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -265553,11 +261944,8 @@ vetkutella
 veto
 	[m1]/ˈ[i]~[/i]/[/m]
 
-veto
-	[m1]/ˈ[i]~[/i]/[/m]
-
-veto
-	[m1]/ˈ[i]~[/i]/[/m]
+veto-oikeus
+	[m1]/ˈvetooˌikeus/[/m]
 
 vetoaisa
 	[m1]/ˈvetoˌɑisɑ/[/m]
@@ -265649,9 +262037,6 @@ vetonumero
 vetonuppi
 	[m1]/ˈvetoˌnuppi/[/m]
 
-veto-oikeus
-	[m1]/ˈvetooˌikeus/[/m]
-
 vetooja
 	[m1]/ˈvetoojɑ/[/m]
 
@@ -265721,11 +262106,11 @@ vetskari
 vettyä
 	[m1]/ˈvettyæ/[/m]
 
+vettä läpäisemätön
+	[m1]/ˈvettæ ˈlæpæiˌsemætøn/[/m]
+
 vettähylkivä
 	[m1]/ˈvettæˌhylkivæ/[/m]
-
-vettä läpäisemätön
-	[m1]/ˈvettæ[/m]
 
 vettäläpäisevä
 	[m1]/ˈvettælæˌpæisevæ/[/m]
@@ -265754,6 +262139,9 @@ veturitalli
 vety
 	[m1]/ˈ[i]~[/i]/[/m]
 
+vety-yhdiste
+	[m1]/ˈvetyyhˌdiste/[/m]
+
 vetykaasu
 	[m1]/ˈvetyˌkɑɑsu/[/m]
 
@@ -265771,9 +262159,6 @@ vetysidos
 
 vetysuperoksidi
 	[m1]/ˈvetyˌsupeˌroksidi/[/m]
-
-vety-yhdiste
-	[m1]/ˈvetyyhˌdiste/[/m]
 
 vetäistä
 	[m1]/ˈvetæistæ/[/m]
@@ -265814,12 +262199,6 @@ vetääntyä
 veuhtoa
 	[m1]/ˈveuhˌtoɑ/[/m]
 
-whippet
-	[m1]/ˈ[i]~[/i]/[/m]
-
-whisky
-	[m1]/ˈ[i]~[/i]/[/m]
-
 via
 	[m1]/ˈviɑ/[/m]
 
@@ -265853,17 +262232,14 @@ vibrafonisti
 vibrato
 	[m1]/ˈvibrɑto/[/m]
 
-vichy
-	[m1]/ˈ[i]~[/i]/[/m]
-
-vichyvesi
-	[m1]/ˈvichyˌvesi/[/m]
-
 video
 	[m1]/ˈ[i]~[/i]/[/m]
 
 video-
 	[m1]/ˈvideo/[/m]
+
+video-ohjelma
+	[m1]/ˈvideˌoohjelmɑ/[/m]
 
 videoelokuva
 	[m1]/ˈvideˌoeˌlokuvɑ/[/m]
@@ -265912,9 +262288,6 @@ videonauhuri
 
 videoneuvottelu
 	[m1]/ˈvideoˌneuvotˌtelu/[/m]
-
-video-ohjelma
-	[m1]/ˈvideˌoohjelmɑ/[/m]
 
 videopaja
 	[m1]/ˈvideˌopɑjɑ/[/m]
@@ -266083,21 +262456,6 @@ viemäröinti
 
 vienankarjalainen
 	[m1]/ˈvienɑnˌkɑrjɑˌlɑinen/[/m]
-
-wienerleipä
-	[m1]/ˈwienerˌleipæ/[/m]
-
-wienervalssi
-	[m1]/ˈwienerˌvɑlssi/[/m]
-
-wieniläistuoli
-	[m1]/ˈwieniˌlæistuoli/[/m]
-
-wieniläisvalssi
-	[m1]/ˈwieniˌlæisvɑlssi/[/m]
-
-wieninleike
-	[m1]/ˈwieninˌleike/[/m]
 
 vieno
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -266732,14 +263090,14 @@ vietävästi
 vigilia
 	[m1]/ˈvigiˌliɑ/[/m]
 
-wigwam
-	[m1]/ˈwigwɑm/[/m]
-
 vigvami
 	[m1]/ˈvigvɑmi/[/m]
 
 viha
 	[m1]/ˈvihɑ/[/m]
+
+viha-rakkaussuhde
+	[m1]/ˈvihɑˌrɑkkɑˌussuhde/[/m]
 
 vihaaja
 	[m1]/ˈvihɑɑjɑ/[/m]
@@ -266848,9 +263206,6 @@ vihapäissä
 
 vihapäissään
 	[m1]/ˈvihɑˌpæissææn/[/m]
-
-viha-rakkaussuhde
-	[m1]/ˈvihɑˌrɑkkɑˌussuhde/[/m]
 
 vihastua
 	[m1]/ˈvihɑsˌtuɑ/[/m]
@@ -267160,9 +263515,6 @@ vihlaisu
 
 vihloa
 	[m1]/ˈvihloɑ/[/m]
-
-vihma
-	[m1]/ˈvihmɑ/[/m]
 
 vihma
 	[m1]/ˈvihmɑ/[/m]
@@ -267542,9 +263894,6 @@ viikkoansio
 viikkohoroskooppi
 	[m1]/ˈviikkohoˌroskooppi/[/m]
 
--viikkoinen
-	[m1]/ˈviikkoinen/[/m]
-
 viikkojulkaisu
 	[m1]/ˈviikkojulˌkɑisu/[/m]
 
@@ -267626,9 +263975,6 @@ viiksikarva
 viiksikäs
 	[m1]/ˈviiksikæs/[/m]
 
--viiksinen
-	[m1]/ˈviiksinen/[/m]
-
 viiksiniekka
 	[m1]/ˈviiksiˌniekkɑ/[/m]
 
@@ -267661,9 +264007,6 @@ viilanpuru
 
 viilapenkki
 	[m1]/ˈviilɑˌpenkki/[/m]
-
-viilari
-	[m1]/ˈviilɑri/[/m]
 
 viilari
 	[m1]/ˈviilɑri/[/m]
@@ -267840,7 +264183,7 @@ viimeksi
 	[m1]/ˈ[i]~[/i]/[/m]
 
 viimeksi mainittu
-	[m1]/ˈviimeksi[/m]
+	[m1]/ˈviimeksi ˈmɑinittu/[/m]
 
 viimekuinen
 	[m1]/ˈviimeˌkuinen/[/m]
@@ -267939,9 +264282,6 @@ viinatrokari
 	[m1]/ˈviinɑtˌrokɑri/[/m]
 
 viineri
-	[m1]/ˈ[i]~[/i]/[/m]
-
-viini
 	[m1]/ˈ[i]~[/i]/[/m]
 
 viini
@@ -268214,9 +264554,6 @@ viisaus
 viisi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-viisi
-	[m1]/ˈ[i]~[/i]/[/m]
-
 viisihenkinen
 	[m1]/ˈviisiˌhenkinen/[/m]
 
@@ -268454,9 +264791,6 @@ viitsiä
 viitta
 	[m1]/ˈviittɑ/[/m]
 
-viitta
-	[m1]/ˈviittɑ/[/m]
-
 viittailla
 	[m1]/ˈviittɑillɑ/[/m]
 
@@ -268508,17 +264842,11 @@ viittomakielinen
 viiva
 	[m1]/ˈviivɑ/[/m]
 
+viiva-numerokoodi
+	[m1]/ˈviivɑˌnumeroˌkoodi/[/m]
+
 viivain
 	[m1]/ˈviivɑin/[/m]
-
--viivainen
-	[m1]/ˈviivɑinen/[/m]
-
--viivaisesti
-	[m1]/ˈviivɑiˌsesti/[/m]
-
--viivaisuus
-	[m1]/ˈviivɑisuus/[/m]
 
 viivakoodaus
 	[m1]/ˈviivɑˌkoodɑus/[/m]
@@ -268528,9 +264856,6 @@ viivakoodi
 
 viivallinen
 	[m1]/ˈviivɑlˌlinen/[/m]
-
-viiva-numerokoodi
-	[m1]/ˈviivɑˌnumeroˌkoodi/[/m]
 
 viivaperspektiivi
 	[m1]/ˈviivɑˌperspekˌtiivi/[/m]
@@ -268622,9 +264947,6 @@ viivästää
 vika
 	[m1]/ˈvikɑ/[/m]
 
-vika
-	[m1]/ˈvikɑ/[/m]
-
 vika-
 	[m1]/ˈvikɑ/[/m]
 
@@ -268633,12 +264955,6 @@ vikaantua
 
 vikailmoitus
 	[m1]/ˈvikɑilˌmoitus/[/m]
-
--vikainen
-	[m1]/ˈvikɑinen/[/m]
-
--vikaisuus
-	[m1]/ˈvikɑisuus/[/m]
 
 vikapaikka
 	[m1]/ˈvikɑˌpɑikkɑ/[/m]
@@ -269066,9 +265382,6 @@ vilkutus
 villa
 	[m1]/ˈvillɑ/[/m]
 
-villa
-	[m1]/ˈvillɑ/[/m]
-
 villa-
 	[m1]/ˈvillɑ/[/m]
 
@@ -269189,6 +265502,9 @@ villeys
 villi
 	[m1]/ˈ[i]~[/i]/[/m]
 
+villi-ihminen
+	[m1]/ˈvilliihˌminen/[/m]
+
 villieläin
 	[m1]/ˈvillielæin/[/m]
 
@@ -269197,9 +265513,6 @@ villihanhi
 
 villihevonen
 	[m1]/ˈvilliˌhevonen/[/m]
-
-villi-ihminen
-	[m1]/ˈvilliihˌminen/[/m]
 
 villiinnyttää
 	[m1]/ˈvilliinˌnyttææ/[/m]
@@ -269489,9 +265802,6 @@ vinjetti
 vinka
 	[m1]/ˈvinkɑ/[/m]
 
-vinka
-	[m1]/ˈvinkɑ/[/m]
-
 vinkaista
 	[m1]/ˈvinkɑistɑ/[/m]
 
@@ -269529,7 +265839,7 @@ vinksahtaa
 	[m1]/ˈvinksɑhtɑɑ/[/m]
 
 vinksin vonksin
-	[m1]/ˈvinksin[/m]
+	[m1]/ˈvinksin ˈvonksin/[/m]
 
 vinku
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -269669,9 +265979,6 @@ vintiö
 vintti
 	[m1]/ˈ[i]~[/i]/[/m]
 
-vintti
-	[m1]/ˈ[i]~[/i]/[/m]
-
 vinttikaivo
 	[m1]/ˈvinttiˌkɑivo/[/m]
 
@@ -269729,14 +266036,14 @@ violisti
 VIP
 	[m1]/vip/[/m]
 
+VIP-henkilö
+	[m1]/ˈviphenˌkilø/[/m]
+
+VIP-huone
+	[m1]/ˈviphuone/[/m]
+
 vipajaa
 	[m1]/ˈvipɑjɑɑ/[/m]
-
-vipata
-	[m1]/ˈvipɑtɑ/[/m]
-
-vipata
-	[m1]/ˈvipɑtɑ/[/m]
 
 vipata
 	[m1]/ˈvipɑtɑ/[/m]
@@ -269752,12 +266059,6 @@ vipellys
 
 vipeltää
 	[m1]/ˈvipeltææ/[/m]
-
-VIP-henkilö
-	[m1]/ˈviphenˌkilø/[/m]
-
-VIP-huone
-	[m1]/ˈviphuone/[/m]
 
 vipinä
 	[m1]/ˈvipinæ/[/m]
@@ -269776,12 +266077,6 @@ vippaskonsti
 
 vippaus
 	[m1]/ˈvippɑus/[/m]
-
-vippi
-	[m1]/ˈ[i]~[/i]/[/m]
-
-vippi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 vippi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -269894,12 +266189,6 @@ vireillepano
 vireillä
 	[m1]/ˈvireillæ/[/m]
 
--vireinen
-	[m1]/ˈvireinen/[/m]
-
--vireisyys
-	[m1]/ˈvireisyys/[/m]
-
 vireys
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -269953,9 +266242,6 @@ virheetön
 
 virheilmoitus
 	[m1]/ˈvirheilˌmoitus/[/m]
-
--virheinen
-	[m1]/ˈvirheinen/[/m]
 
 virheinvestointi
 	[m1]/ˈvirheinvesˌtointi/[/m]
@@ -270071,9 +266357,6 @@ viritin
 viritin-vahvistin
 	[m1]/ˈviriˌtinvɑhˌvistin/[/m]
 
--viritteinen
-	[m1]/ˈviritˌteinen/[/m]
-
 virittyä
 	[m1]/ˈviritˌtyæ/[/m]
 
@@ -270122,18 +266405,6 @@ virka
 virka-aika
 	[m1]/ˈvirkɑɑˌikɑ/[/m]
 
-virkaanasettajaiset
-	[m1]/ˈvirkɑɑnɑˌsettɑˌjɑiset/[/m]
-
-virkaanastujaisesitelmä
-	[m1]/ˈvirkɑɑˌnɑstuˌjɑisesiˌtelmæ/[/m]
-
-virkaanastujaiset
-	[m1]/ˈvirkɑɑˌnɑstuˌjɑiset/[/m]
-
-virkaanastujaispuhe
-	[m1]/ˈvirkɑɑˌnɑstuˌjɑispuhe/[/m]
-
 virka-apu
 	[m1]/ˈvirkɑɑpu/[/m]
 
@@ -270153,7 +266424,19 @@ virka-asunto
 	[m1]/ˈvirkɑɑˌsunto/[/m]
 
 virkaa toimittava
-	[m1]/ˈvirkɑɑ[/m]
+	[m1]/ˈvirkɑɑ ˈtoimitˌtɑvɑ/[/m]
+
+virkaanasettajaiset
+	[m1]/ˈvirkɑɑnɑˌsettɑˌjɑiset/[/m]
+
+virkaanastujaisesitelmä
+	[m1]/ˈvirkɑɑˌnɑstuˌjɑisesiˌtelmæ/[/m]
+
+virkaanastujaiset
+	[m1]/ˈvirkɑɑˌnɑstuˌjɑiset/[/m]
+
+virkaanastujaispuhe
+	[m1]/ˈvirkɑɑˌnɑstuˌjɑispuhe/[/m]
 
 virkaehto
 	[m1]/ˈvirkɑˌehto/[/m]
@@ -270471,7 +266754,7 @@ virologinen
 	[m1]/ˈviroˌloginen/[/m]
 
 viron kieli
-	[m1]/ˈviron[/m]
+	[m1]/ˈviron ˈkieli/[/m]
 
 vironkielinen
 	[m1]/ˈvironˌkielinen/[/m]
@@ -270584,11 +266867,11 @@ virsu
 virta
 	[m1]/ˈvirtɑ/[/m]
 
-virtaama
-	[m1]/ˈvirtɑɑmɑ/[/m]
-
 virta-avain
 	[m1]/ˈvirtɑɑvɑin/[/m]
+
+virtaama
+	[m1]/ˈvirtɑɑmɑ/[/m]
 
 virtahepo
 	[m1]/ˈvirtɑˌhepo/[/m]
@@ -270779,17 +267062,11 @@ virvatuli
 virveli
 	[m1]/ˈ[i]~[/i]/[/m]
 
-virveli
-	[m1]/ˈ[i]~[/i]/[/m]
-
 virvelöidä
 	[m1]/ˈvirveˌløidæ/[/m]
 
 virvelöinti
 	[m1]/ˈvirveˌløinti/[/m]
-
--virvilä
-	[m1]/ˈvirvilæ/[/m]
 
 virvoitella
 	[m1]/ˈvirvoiˌtellɑ/[/m]
@@ -270862,9 +267139,6 @@ visertäjä
 
 visertää
 	[m1]/ˈvisertææ/[/m]
-
-visiiri
-	[m1]/ˈ[i]~[/i]/[/m]
 
 visiiri
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -271081,9 +267355,6 @@ vitamiiniköyhä
 
 vitamiinilähde
 	[m1]/ˈvitɑˌmiiniˌlæhde/[/m]
-
--vitamiininen
-	[m1]/ˈvitɑˌmiininen/[/m]
 
 vitamiininpuute
 	[m1]/ˈvitɑˌmiininˌpuute/[/m]
@@ -271382,9 +267653,6 @@ viuluteos
 viulutunti
 	[m1]/ˈviuluˌtunti/[/m]
 
-vivace
-	[m1]/ˈvivɑce/[/m]
-
 vivahde
 	[m1]/ˈvivɑhde/[/m]
 
@@ -271436,9 +267704,6 @@ vivisektio
 vivuta
 	[m1]/ˈvivutɑ/[/m]
 
-V-moottori
-	[m1]/ˈvmoottori/[/m]
-
 voda
 	[m1]/ˈvodɑ/[/m]
 
@@ -271472,8 +267737,8 @@ vohvelirauta
 voi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-voi
-	[m1]/ˈ[i]~[/i]/[/m]
+voi-kasviöljyseos
+	[m1]/ˈvoikɑsviˌøljyˌseos/[/m]
 
 voida
 	[m1]/ˈvoidɑ/[/m]
@@ -271519,9 +267784,6 @@ voihkina
 
 voikastike
 	[m1]/ˈvoikɑsˌtike/[/m]
-
-voi-kasviöljyseos
-	[m1]/ˈvoikɑsviˌøljyˌseos/[/m]
 
 voikka
 	[m1]/ˈvoikkɑ/[/m]
@@ -271577,9 +267839,6 @@ voimailu
 voimailulaji
 	[m1]/ˈvoimɑiˌlulɑji/[/m]
 
--voimainen
-	[m1]/ˈvoimɑinen/[/m]
-
 voimainkoetus
 	[m1]/ˈvoimɑinˌkoetus/[/m]
 
@@ -271588,12 +267847,6 @@ voimainmittely
 
 voimainponnistus
 	[m1]/ˈvoimɑinˌponnistus/[/m]
-
--voimaisesti
-	[m1]/ˈvoimɑiˌsesti/[/m]
-
--voimaisuus
-	[m1]/ˈvoimɑisuus/[/m]
 
 voimajohto
 	[m1]/ˈvoimɑˌjohto/[/m]
@@ -271874,15 +268127,6 @@ voinokare
 vointi
 	[m1]/ˈ[i]~[/i]/[/m]
 
--vointinen
-	[m1]/ˈvointinen/[/m]
-
--vointisuus
-	[m1]/ˈvointisuus/[/m]
-
--voipa
-	[m1]/ˈvoipɑ/[/m]
-
 voipaketti
 	[m1]/ˈvoipɑˌketti/[/m]
 
@@ -272051,6 +268295,9 @@ voittamattomuus
 voitto
 	[m1]/ˈ[i]~[/i]/[/m]
 
+voitto-osuus
+	[m1]/ˈvoittoosuus/[/m]
+
 voittoaika
 	[m1]/ˈvoittoˌɑikɑ/[/m]
 
@@ -272063,17 +268310,11 @@ voittoheitto
 voittohyppy
 	[m1]/ˈvoittoˌhyppy/[/m]
 
--voittoinen
-	[m1]/ˈvoittoinen/[/m]
-
 voittoisa
 	[m1]/ˈvoittoisɑ/[/m]
 
 voittoisasti
 	[m1]/ˈvoittoiˌsɑsti/[/m]
-
--voittoisesti
-	[m1]/ˈvoittoiˌsesti/[/m]
 
 voittoisuus
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -272095,9 +268336,6 @@ voittomarginaali
 
 voittonumero
 	[m1]/ˈvoittoˌnumero/[/m]
-
-voitto-osuus
-	[m1]/ˈvoittoosuus/[/m]
 
 voittopeli
 	[m1]/ˈvoittoˌpeli/[/m]
@@ -272159,9 +268397,6 @@ voivuttaa
 voivutus
 	[m1]/ˈ[i]~[/i]/[/m]
 
-wok
-	[m1]/[i]~[/i]/[/m]
-
 vokaali
 	[m1]/ˈvokɑɑli/[/m]
 
@@ -272195,14 +268430,11 @@ vokottaa
 vokottelu
 	[m1]/ˈvokotˌtelu/[/m]
 
-wokpannu
-	[m1]/ˈwokpɑnnu/[/m]
+vol-au-vent
+	[m1]/ˈvolɑuvent/[/m]
 
 volatiliteetti
 	[m1]/ˈvolɑˌtiliˌteetti/[/m]
-
-vol-au-vent
-	[m1]/ˈvolɑuvent/[/m]
 
 volframi
 	[m1]/ˈvolfrɑmi/[/m]
@@ -272221,9 +268453,6 @@ vollotus
 
 voltata
 	[m1]/ˈvoltɑtɑ/[/m]
-
-voltti
-	[m1]/ˈ[i]~[/i]/[/m]
 
 voltti
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -272261,20 +268490,11 @@ voodoo
 vooninki
 	[m1]/ˈ[i]~[/i]/[/m]
 
--vooninkinen
-	[m1]/ˈvooninˌkinen/[/m]
-
-workshop
-	[m1]/ˈ[i]~[/i]/[/m]
-
 vormu
 	[m1]/ˈ[i]~[/i]/[/m]
 
 voro
 	[m1]/ˈ[i]~[/i]/[/m]
-
-vorschmack
-	[m1]/ˈvorschmɑck/[/m]
 
 vosikka
 	[m1]/ˈvosikkɑ/[/m]
@@ -272300,9 +268520,6 @@ votka
 votkaturisti
 	[m1]/ˈvotkɑtuˌristi/[/m]
 
-voucher
-	[m1]/ˈ[i]~[/i]/[/m]
-
 vouhake
 	[m1]/ˈvouhɑke/[/m]
 
@@ -272326,12 +268543,6 @@ voyeurismi
 
 voyeuristi
 	[m1]/ˈvoyˌeuristi/[/m]
-
-V-pääntie
-	[m1]/ˈvpææntie/[/m]
-
-V-tyyli
-	[m1]/ˈvtyyli/[/m]
 
 vulgaari
 	[m1]/ˈvulgɑɑri/[/m]
@@ -272513,23 +268724,23 @@ vuokra
 vuokra-aika
 	[m1]/ˈvuokrɑɑˌikɑ/[/m]
 
-vuokraaja
-	[m1]/ˈvuokrɑɑjɑ/[/m]
-
 vuokra-ajuri
 	[m1]/ˈvuokrɑɑˌjuri/[/m]
 
 vuokra-alue
 	[m1]/ˈvuokrɑɑˌlue/[/m]
 
-vuokraamo
-	[m1]/ˈvuokrɑɑmo/[/m]
-
 vuokra-asunto
 	[m1]/ˈvuokrɑɑˌsunto/[/m]
 
 vuokra-auto
 	[m1]/ˈvuokrɑɑˌuto/[/m]
+
+vuokraaja
+	[m1]/ˈvuokrɑɑjɑ/[/m]
+
+vuokraamo
+	[m1]/ˈvuokrɑɑmo/[/m]
 
 vuokraehto
 	[m1]/ˈvuokrɑˌehto/[/m]
@@ -272545,9 +268756,6 @@ vuokrahuone
 
 vuokrahuoneisto
 	[m1]/ˈvuokrɑˌhuoneisto/[/m]
-
--vuokrainen
-	[m1]/ˈvuokrɑinen/[/m]
 
 vuokraisäntä
 	[m1]/ˈvuokrɑiˌsæntæ/[/m]
@@ -272644,9 +268852,6 @@ vuokraviljelmä
 
 vuokrayksiö
 	[m1]/ˈvuokrɑˌyksiø/[/m]
-
-vuoksi
-	[m1]/ˈ[i]~[/i]/[/m]
 
 vuoksi
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -272762,9 +268967,6 @@ vuorenvarmasti
 vuori
 	[m1]/ˈ[i]~[/i]/[/m]
 
-vuori
-	[m1]/ˈ[i]~[/i]/[/m]
-
 vuori-ilmasto
 	[m1]/ˈvuoriilˌmɑsto/[/m]
 
@@ -272806,9 +269008,6 @@ vuorimänty
 
 vuorinen
 	[m1]/ˈ[i]~[/i]/[/m]
-
--vuorinen
-	[m1]/ˈvuorinen/[/m]
 
 vuorineuvos
 	[m1]/ˈvuoriˌneuvos/[/m]
@@ -272921,8 +269120,8 @@ vuorivilla
 vuoro
 	[m1]/ˈ[i]~[/i]/[/m]
 
--vuoroinen
-	[m1]/ˈvuoroinen/[/m]
+vuoro-ote
+	[m1]/ˈvuoroote/[/m]
 
 vuoroittain
 	[m1]/ˈvuoroittɑin/[/m]
@@ -272966,9 +269165,6 @@ vuorokeskustelu
 vuorokone
 	[m1]/ˈvuoroˌkone/[/m]
 
--vuorolainen
-	[m1]/ˈvuoroˌlɑinen/[/m]
-
 vuorolaulu
 	[m1]/ˈvuoroˌlɑulu/[/m]
 
@@ -272976,13 +269172,10 @@ vuoroluku
 	[m1]/ˈvuoroˌluku/[/m]
 
 vuoron perään
-	[m1]/ˈvuoron[/m]
+	[m1]/ˈvuoron ˈperææn/[/m]
 
 vuoronvaihto
 	[m1]/ˈvuoronˌvɑihto/[/m]
-
-vuoro-ote
-	[m1]/ˈvuoroote/[/m]
 
 vuoropaikoitus
 	[m1]/ˈvuoroˌpɑikoitus/[/m]
@@ -273296,12 +269489,6 @@ vuoteenkastelu
 vuoteenoma
 	[m1]/ˈvuoteeˌnomɑ/[/m]
 
--vuotias
-	[m1]/ˈvuotiɑs/[/m]
-
--vuotinen
-	[m1]/ˈvuotinen/[/m]
-
 vuoto
 	[m1]/ˈ[i]~[/i]/[/m]
 
@@ -273316,12 +269503,6 @@ vuotuisavustus
 
 vuotuismaksu
 	[m1]/ˈvuotuisˌmɑksu/[/m]
-
-WWW
-	[m1]/www/[/m]
-
-WWW-vastaava
-	[m1]/ˈwwwvɑstɑɑvɑ/[/m]
 
 vyyhdetä
 	[m1]/ˈvyyhdetæ/[/m]
@@ -273425,9 +269606,6 @@ vyötäröesiliina
 vyötäröhame
 	[m1]/ˈvyøtæˌrøhɑme/[/m]
 
--vyötäröinen
-	[m1]/ˈvyøtæˌrøinen/[/m]
-
 vyötärökaitale
 	[m1]/ˈvyøtærøˌkɑitɑle/[/m]
 
@@ -273463,9 +269641,6 @@ väestö
 
 väestöennuste
 	[m1]/ˈvæestøˌennuste/[/m]
-
--väestöinen
-	[m1]/ˈvæesˌtøinen/[/m]
 
 väestökato
 	[m1]/ˈvæesˌtøkɑto/[/m]
@@ -273749,6 +269924,12 @@ vähyys
 vähä
 	[m1]/ˈvæhæ/[/m]
 
+vähä-älyinen
+	[m1]/ˈvæhææˌlyinen/[/m]
+
+vähä-älyisyys
+	[m1]/ˈvæhææˌlyisyys/[/m]
+
 vähäaasialainen
 	[m1]/ˈvæhæˌɑɑsiɑˌlɑinen/[/m]
 
@@ -273836,11 +270017,11 @@ vähämielisyys
 vähän
 	[m1]/ˈvæhæn/[/m]
 
+vähän väliä
+	[m1]/ˈvæhæn ˈvæliæ/[/m]
+
 vähänläntä
 	[m1]/ˈvæhænˌlæntæ/[/m]
-
-vähän väliä
-	[m1]/ˈvæhæn[/m]
 
 vähäosainen
 	[m1]/ˈvæhæoˌsɑinen/[/m]
@@ -273907,12 +270088,6 @@ vähäväkinen
 
 vähääkään
 	[m1]/ˈvæhæækææn/[/m]
-
-vähä-älyinen
-	[m1]/ˈvæhææˌlyinen/[/m]
-
-vähä-älyisyys
-	[m1]/ˈvæhææˌlyisyys/[/m]
 
 väijyksiin
 	[m1]/ˈvæijyksiin/[/m]
@@ -274088,9 +270263,6 @@ väkilannoite
 väkiluku
 	[m1]/ˈvækiˌluku/[/m]
 
--väkinen
-	[m1]/ˈvækinen/[/m]
-
 väkinäinen
 	[m1]/ˈvækiˌnæinen/[/m]
 
@@ -274217,6 +270389,12 @@ väkäsellinen
 väli
 	[m1]/ˈvæli/[/m]
 
+väli-ilmansuunta
+	[m1]/ˈvæliilmɑnˌsuuntɑ/[/m]
+
+väli-isäntä
+	[m1]/ˈvæliiˌsæntæ/[/m]
+
 väliaika
 	[m1]/ˈvæliˌɑikɑ/[/m]
 
@@ -274286,9 +270464,6 @@ välihuuto
 välihyökkääjä
 	[m1]/ˈvæliˌhyøkkææjæ/[/m]
 
-väli-ilmansuunta
-	[m1]/ˈvæliilmɑnˌsuuntɑ/[/m]
-
 väliin
 	[m1]/ˈvæliin/[/m]
 
@@ -274297,9 +270472,6 @@ väliinputoaja
 
 väliintulo
 	[m1]/ˈvæliinˌtulo/[/m]
-
-väli-isäntä
-	[m1]/ˈvæliiˌsæntæ/[/m]
 
 välijohto
 	[m1]/ˈvæliˌjohto/[/m]
@@ -274472,9 +270644,6 @@ välinelaji
 välinen
 	[m1]/ˈvælinen/[/m]
 
--välinen
-	[m1]/ˈvælinen/[/m]
-
 välineurheilija
 	[m1]/ˈvælineˌurheiˌlijɑ/[/m]
 
@@ -274559,9 +270728,6 @@ välitila
 välitse
 	[m1]/ˈvælitse/[/m]
 
--välitteinen
-	[m1]/ˈvælitˌteinen/[/m]
-
 välittyä
 	[m1]/ˈvælitˌtyæ/[/m]
 
@@ -274585,9 +270751,6 @@ välituote
 
 välitutkinto
 	[m1]/ˈvæliˌtutkinto/[/m]
-
--välityksinen
-	[m1]/ˈvæliˌtyksinen/[/m]
 
 välitys
 	[m1]/ˈvælitys/[/m]
@@ -274690,9 +270853,6 @@ välke
 
 välkehtiä
 	[m1]/ˈvælkehˌtiæ/[/m]
-
--välkkeinen
-	[m1]/ˈvælkkeinen/[/m]
 
 välkky
 	[m1]/ˈvælkky/[/m]
@@ -275105,9 +271265,6 @@ väritelevisio
 väriteollisuus
 	[m1]/ˈværiteˌollisuus/[/m]
 
--väritteinen
-	[m1]/ˈværitˌteinen/[/m]
-
 värittyä
 	[m1]/ˈværitˌtyæ/[/m]
 
@@ -275119,9 +271276,6 @@ värittömyys
 
 värittömästi
 	[m1]/ˈværittøˌmæsti/[/m]
-
--värityksinen
-	[m1]/ˈværiˌtyksinen/[/m]
 
 väritys
 	[m1]/ˈværitys/[/m]
@@ -275486,6 +271640,9 @@ väärentää
 väärin
 	[m1]/ˈvæærin/[/m]
 
+väärin päin
+	[m1]/ˈvæærin ˈpæin/[/m]
+
 väärinkäsitys
 	[m1]/ˈvæærinˌkæsitys/[/m]
 
@@ -275500,9 +271657,6 @@ väärinkäyttö
 
 väärinkäytös
 	[m1]/ˈvæærinˌkæytøs/[/m]
-
-väärin päin
-	[m1]/ˈvæærin[/m]
 
 väärintekijä
 	[m1]/ˈvæærinˌtekijæ/[/m]
@@ -275582,17 +271736,83 @@ väärävärikuva
 väärävärikuvaus
 	[m1]/ˈvææræˌværiˌkuvɑus/[/m]
 
+waldorfinsalaatti
+	[m1]/ˈwɑldorˌfinsɑˌlɑɑtti/[/m]
+
+wankelmoottori
+	[m1]/ˈwɑnkelˌmoottori/[/m]
+
+watti
+	[m1]/ˈwɑtti/[/m]
+
+weber
+	[m1]/ˈ[i]~[/i]/[/m]
+
+wellerismi
+	[m1]/ˈwelleˌrismi/[/m]
+
+wessi
+	[m1]/ˈ[i]~[/i]/[/m]
+
+western
+	[m1]/ˈ[i]~[/i]/[/m]
+
+whippet
+	[m1]/ˈ[i]~[/i]/[/m]
+
+whisky
+	[m1]/ˈ[i]~[/i]/[/m]
+
+wienerleipä
+	[m1]/ˈwienerˌleipæ/[/m]
+
+wienervalssi
+	[m1]/ˈwienerˌvɑlssi/[/m]
+
+wieniläistuoli
+	[m1]/ˈwieniˌlæistuoli/[/m]
+
+wieniläisvalssi
+	[m1]/ˈwieniˌlæisvɑlssi/[/m]
+
+wieninleike
+	[m1]/ˈwieninˌleike/[/m]
+
+wigwam
+	[m1]/ˈwigwɑm/[/m]
+
+wok
+	[m1]/[i]~[/i]/[/m]
+
+wokpannu
+	[m1]/ˈwokpɑnnu/[/m]
+
+workshop
+	[m1]/ˈ[i]~[/i]/[/m]
+
+WWW
+	[m1]/www/[/m]
+
+WWW-vastaava
+	[m1]/ˈwwwvɑstɑɑvɑ/[/m]
+
 x-akseli
 	[m1]/ˈxɑkseli/[/m]
-
-xerokopio
-	[m1]/ˈxeroˌkopio/[/m]
 
 X-kromosomi
 	[m1]/ˈxkromoˌsomi/[/m]
 
+xerokopio
+	[m1]/ˈxeroˌkopio/[/m]
+
 y-akseli
 	[m1]/ˈyɑkˌseli/[/m]
+
+Y-kromosomi
+	[m1]/ˈykroˌmosomi/[/m]
+
+Y-liittymä
+	[m1]/ˈyliitˌtymæ/[/m]
 
 ydin
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -276672,7 +272892,22 @@ yhtä
 	[m1]/ˈyhtæ/[/m]
 
 yhtä aikaa
-	[m1]/ˈyhtæ[/m]
+	[m1]/ˈyhtæ ˈɑikɑɑ/[/m]
+
+yhtä kaikki
+	[m1]/ˈyhtæ ˈkɑikki/[/m]
+
+yhtä kuin
+	[m1]/ˈyhtæ ˈkuin/[/m]
+
+yhtä lailla
+	[m1]/ˈyhtæ ˈlɑillɑ/[/m]
+
+yhtä mittaa
+	[m1]/ˈyhtæ ˈmittɑɑ/[/m]
+
+yhtä päätä
+	[m1]/ˈyhtæ ˈpæætæ/[/m]
 
 yhtäaikainen
 	[m1]/ˈyhtæˌɑikɑinen/[/m]
@@ -276692,9 +272927,6 @@ yhtäjaksoisesti
 yhtäjaksoisuus
 	[m1]/ˈyhtæjɑkˌsoisuus/[/m]
 
-yhtä kaikki
-	[m1]/ˈyhtæ[/m]
-
 yhtäkkinen
 	[m1]/ˈyhtækˌkinen/[/m]
 
@@ -276706,12 +272938,6 @@ yhtäkkisyys
 
 yhtäkkiä
 	[m1]/ˈyhtækˌkiæ/[/m]
-
-yhtä kuin
-	[m1]/ˈyhtæ[/m]
-
-yhtä lailla
-	[m1]/ˈyhtæ[/m]
 
 yhtäläinen
 	[m1]/ˈyhtæˌlæinen/[/m]
@@ -276737,9 +272963,6 @@ yhtälö
 yhtälöryhmä
 	[m1]/ˈyhtæløˌryhmæ/[/m]
 
-yhtä mittaa
-	[m1]/ˈyhtæ[/m]
-
 yhtämittainen
 	[m1]/ˈyhtæmitˌtɑinen/[/m]
 
@@ -276757,9 +272980,6 @@ yhtäpitävä
 
 yhtäpitävästi
 	[m1]/ˈyhtæˌpitæˌvæsti/[/m]
-
-yhtä päätä
-	[m1]/ˈyhtæ[/m]
 
 yhtäsuuruus
 	[m1]/ˈyhtæˌsuuruus/[/m]
@@ -276830,9 +273050,6 @@ ykkösvaihde
 ykkösverkko
 	[m1]/ˈykkøsˌverkko/[/m]
 
-Y-kromosomi
-	[m1]/ˈykroˌmosomi/[/m]
-
 yks
 	[m1]/[i]~[/i]/[/m]
 
@@ -276842,6 +273059,9 @@ ykseys
 yksi
 	[m1]/ˈ[i]~[/i]/[/m]
 
+yksi-ilmeinen
+	[m1]/ˈyksiilˌmeinen/[/m]
+
 yksiavioinen
 	[m1]/ˈyksiˌɑviˌoinen/[/m]
 
@@ -276850,9 +273070,6 @@ yksiavioisuus
 
 yksihenkinen
 	[m1]/ˈyksiˌhenkinen/[/m]
-
-yksi-ilmeinen
-	[m1]/ˈyksiilˌmeinen/[/m]
 
 yksiin
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -276886,9 +273103,6 @@ yksikkö
 
 yksikköhinta
 	[m1]/ˈyksikkøˌhintɑ/[/m]
-
--yksikköinen
-	[m1]/ˈyksikˌkøinen/[/m]
 
 yksikköluku
 	[m1]/ˈyksikˌkøluku/[/m]
@@ -276934,9 +273148,6 @@ yksilappeinen
 
 yksilapsinen
 	[m1]/ˈyksiˌlɑpsinen/[/m]
-
-yksilevyinen
-	[m1]/ˈyksileˌvyinen/[/m]
 
 yksilevyinen
 	[m1]/ˈyksileˌvyinen/[/m]
@@ -277040,6 +273251,9 @@ yksimoottorinen
 yksin
 	[m1]/ˈ[i]~[/i]/[/m]
 
+yksin tein
+	[m1]/ˈyksin ˈtein/[/m]
+
 yksinedustaja
 	[m1]/ˈyksineˌdustɑjɑ/[/m]
 
@@ -277135,9 +273349,6 @@ yksinpurjehtija
 
 yksintanssi
 	[m1]/ˈyksinˌtɑnssi/[/m]
-
-yksin tein
-	[m1]/ˈyksin[/m]
 
 yksinvalta
 	[m1]/ˈyksinˌvɑltɑ/[/m]
@@ -278042,6 +274253,9 @@ ylempää
 ylen
 	[m1]/ˈ[i]~[/i]/[/m]
 
+ylen määrin
+	[m1]/ˈylen ˈmæærin/[/m]
+
 ylenannattaa
 	[m1]/ˈyleˌnɑnnɑttɑɑ/[/m]
 
@@ -278062,9 +274276,6 @@ ylenkatseellisuus
 
 ylenkatsoa
 	[m1]/ˈylenˌkɑtsoɑ/[/m]
-
-ylen määrin
-	[m1]/ˈylen[/m]
 
 ylenmääräinen
 	[m1]/ˈylenˌmææræinen/[/m]
@@ -278180,6 +274391,33 @@ yli
 yli-
 	[m1]/ˈyli/[/m]
 
+yli-ihminen
+	[m1]/ˈyliihˌminen/[/m]
+
+yli-ihmisoppi
+	[m1]/ˈyliihmiˌsoppi/[/m]
+
+yli-ikäinen
+	[m1]/ˈyliiˌkæinen/[/m]
+
+yli-ikäistyä
+	[m1]/ˈyliiˌkæistyæ/[/m]
+
+yli-ikäisyys
+	[m1]/ˈyliiˌkæisyys/[/m]
+
+yli-inhimillinen
+	[m1]/ˈyliinhiˌmillinen/[/m]
+
+yli-inhimillisesti
+	[m1]/ˈyliinhiˌmilliˌsesti/[/m]
+
+yli-inhimillisyys
+	[m1]/ˈyliinhiˌmillisyys/[/m]
+
+yli-insinööri
+	[m1]/ˈyliinsiˌnøøri/[/m]
+
 yliaika
 	[m1]/ˈyliˌɑikɑ/[/m]
 
@@ -278269,36 +274507,6 @@ ylihuomenna
 
 ylihuominen
 	[m1]/ˈyliˌhuominen/[/m]
-
-yli-ihminen
-	[m1]/ˈyliihˌminen/[/m]
-
-yli-ihmisoppi
-	[m1]/ˈyliihmiˌsoppi/[/m]
-
-yli-ikäinen
-	[m1]/ˈyliiˌkæinen/[/m]
-
-yli-ikäistyä
-	[m1]/ˈyliiˌkæistyæ/[/m]
-
-yli-ikäisyys
-	[m1]/ˈyliiˌkæisyys/[/m]
-
-yli-inhimillinen
-	[m1]/ˈyliinhiˌmillinen/[/m]
-
-yli-inhimillisesti
-	[m1]/ˈyliinhiˌmilliˌsesti/[/m]
-
-yli-inhimillisyys
-	[m1]/ˈyliinhiˌmillisyys/[/m]
-
-yli-insinööri
-	[m1]/ˈyliinsiˌnøøri/[/m]
-
-Y-liittymä
-	[m1]/ˈyliitˌtymæ/[/m]
 
 ylijohtaja
 	[m1]/ˈyliˌjohtɑjɑ/[/m]
@@ -278600,6 +274808,15 @@ yliolkaisuus
 yliopisto
 	[m1]/ˈylioˌpisto/[/m]
 
+yliopisto-opetus
+	[m1]/ˈylioˌpistooˌpetus/[/m]
+
+yliopisto-opinnot
+	[m1]/ˈylioˌpistooˌpinnot/[/m]
+
+yliopisto-opiskelu
+	[m1]/ˈylioˌpistooˌpiskelu/[/m]
+
 yliopistokaupunki
 	[m1]/ˈylioˌpistoˌkɑupunki/[/m]
 
@@ -278611,15 +274828,6 @@ yliopistonlehtori
 
 yliopistonopettaja
 	[m1]/ˈylioˌpistonoˌpettɑjɑ/[/m]
-
-yliopisto-opetus
-	[m1]/ˈylioˌpistooˌpetus/[/m]
-
-yliopisto-opinnot
-	[m1]/ˈylioˌpistooˌpinnot/[/m]
-
-yliopisto-opiskelu
-	[m1]/ˈylioˌpistooˌpiskelu/[/m]
 
 yliopistorakennus
 	[m1]/ˈylioˌpistorɑˌkennus/[/m]
@@ -278982,7 +275190,7 @@ ylle
 	[m1]/ˈ[i]~[/i]/[/m]
 
 yllin kyllin
-	[m1]/ˈyllin[/m]
+	[m1]/ˈyllin ˈkyllin/[/m]
 
 yllyke
 	[m1]/ˈ[i]~[/i]/[/m]
@@ -279146,6 +275354,9 @@ yltyä
 yltä
 	[m1]/ˈyltæ/[/m]
 
+yltä päältä
+	[m1]/ˈyltæ ˈpææltæ/[/m]
+
 yltäkyllin
 	[m1]/ˈyltæˌkyllin/[/m]
 
@@ -279157,9 +275368,6 @@ yltäkylläisesti
 
 yltäkylläisyys
 	[m1]/ˈyltækylˌlæisyys/[/m]
-
-yltä päältä
-	[m1]/ˈyltæ[/m]
 
 yltää
 	[m1]/ˈyltææ/[/m]
@@ -279187,6 +275395,9 @@ ylväästi
 
 ylä-
 	[m1]/ˈylæ/[/m]
+
+ylä-ääni
+	[m1]/ˈylææˌæni/[/m]
 
 yläarvoinen
 	[m1]/ˈylæɑrˌvoinen/[/m]
@@ -279389,9 +275600,6 @@ ylävirta
 ylävä
 	[m1]/ˈylævæ/[/m]
 
-ylä-ääni
-	[m1]/ˈylææˌæni/[/m]
-
 ylös
 	[m1]/ˈyløs/[/m]
 
@@ -279457,12 +275665,6 @@ ymmärryksellinen
 
 ymmärrys
 	[m1]/ˈymmærrys/[/m]
-
--ymmärteinen
-	[m1]/ˈymmærˌteinen/[/m]
-
--ymmärteisyys
-	[m1]/ˈymmærˌteisyys/[/m]
 
 ymmärtämys
 	[m1]/ˈymmærˌtæmys/[/m]
@@ -280412,6 +276614,9 @@ zoologia
 zoologinen
 	[m1]/ˈzooloˌginen/[/m]
 
+zoom-objektiivi
+	[m1]/ˈzoomobjekˌtiivi/[/m]
+
 zoomata
 	[m1]/ˈzoomɑtɑ/[/m]
 
@@ -280421,13 +276626,7 @@ zoomaus
 zoomi
 	[m1]/ˈ[i]~[/i]/[/m]
 
-zoom-objektiivi
-	[m1]/ˈzoomobjekˌtiivi/[/m]
-
 zoonoosi
-	[m1]/ˈ[i]~[/i]/[/m]
-
-zucchini
 	[m1]/ˈ[i]~[/i]/[/m]
 
 zulu
@@ -280561,9 +276760,6 @@ zulu
 
 äimistyä
 	[m1]/ˈæimisˌtyæ/[/m]
-
-äimä
-	[m1]/ˈæimæ/[/m]
 
 äimä
 	[m1]/ˈæimæ/[/m]
@@ -280946,12 +277142,6 @@ zulu
 äly
 	[m1]/ˈæly/[/m]
 
--älyinen
-	[m1]/ˈælyinen/[/m]
-
--älyisyys
-	[m1]/ˈælyisyys/[/m]
-
 älykkyys
 	[m1]/ˈælykkyys/[/m]
 
@@ -281248,9 +277438,6 @@ zulu
 
 äskettäinen
 	[m1]/ˈæsketˌtæinen/[/m]
-
-ässä
-	[m1]/ˈæssæ/[/m]
 
 ässä
 	[m1]/ˈæssæ/[/m]
@@ -281645,9 +277832,6 @@ zulu
 äänirauta
 	[m1]/ˈææniˌrɑutɑ/[/m]
 
--äänisesti
-	[m1]/ˈææniˌsesti/[/m]
-
 äänisignaali
 	[m1]/ˈæænisigˌnɑɑli/[/m]
 
@@ -281810,9 +277994,6 @@ zulu
 ääntöelin
 	[m1]/ˈææntøˌelin/[/m]
 
--ääntöinen
-	[m1]/ˈææntøinen/[/m]
-
 ääreen
 	[m1]/ˈææreen/[/m]
 
@@ -281858,6 +278039,9 @@ zulu
 ääri-
 	[m1]/ˈææri/[/m]
 
+ääri-ilmiö
+	[m1]/ˈææriilˌmiø/[/m]
+
 ääriaines
 	[m1]/ˈææriˌɑines/[/m]
 
@@ -281875,9 +278059,6 @@ zulu
 
 ääriesimerkki
 	[m1]/ˈææriesiˌmerkki/[/m]
-
-ääri-ilmiö
-	[m1]/ˈææriilˌmiø/[/m]
 
 äärilaita
 	[m1]/ˈææriˌlɑitɑ/[/m]
@@ -281966,6 +278147,9 @@ zulu
 ääriväli
 	[m1]/ˈææriˌvæli/[/m]
 
+Ö-mappi
+	[m1]/ˈømɑppi/[/m]
+
 ödeema
 	[m1]/ˈødeemɑ/[/m]
 
@@ -281989,6 +278173,9 @@ zulu
 
 öljy
 	[m1]/ˈøljy/[/m]
+
+öljy-yhtiö
+	[m1]/ˈøljyyhˌtiø/[/m]
 
 öljyalue
 	[m1]/ˈøljyˌɑlue/[/m]
@@ -282287,14 +278474,8 @@ zulu
 öljyvärimaalaus
 	[m1]/ˈøljyˌværiˌmɑɑlɑus/[/m]
 
-öljy-yhtiö
-	[m1]/ˈøljyyhˌtiø/[/m]
-
 öljyyntyä
 	[m1]/ˈøljyynˌtyæ/[/m]
-
-Ö-mappi
-	[m1]/ˈømɑppi/[/m]
 
 örinä
 	[m1]/ˈørinæ/[/m]
@@ -282331,3 +278512,4 @@ zulu
 
 öylätti
 	[m1]/ˈøylætti/[/m]
+
